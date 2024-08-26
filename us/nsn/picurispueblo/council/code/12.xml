@@ -1,0 +1,1826 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
+  <prefix>TITLE</prefix>
+  <num>12</num>
+  <heading>MEDICAL CANNABIS CODE</heading>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>1</num>
+    <heading>– GENERAL PROVISIONS</heading>
+    <section>
+      <num>12-1-1</num>
+      <heading>Short Title.</heading>
+      <text><cite path="12">This Title</cite> may be cited as the Medical Cannabis Code.</text>
+    </section>
+    <section>
+      <num>12-1-2</num>
+      <heading>Findings and Purpose.</heading>
+      <text>The Pueblo of Picuris finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris is a federally recognized Indian tribe and has sovereign powers of self- government to make and enforce their own laws, rules and regulations for medical cannabis activities within tribal lands.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo of Picuris has sovereign immunity from suit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo of Picuris Tribal Council has decided to open specific tribal lands within its jurisdiction on to the cultivation, processing, use, possession, distribution and research of medical cannabis by enacting <cite path="12">this Title</cite> to the Pueblo of Picuris Law and Order Code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The purpose of this Medical Cannabis Code is to civilly regulate those persons, licensed businesses, and lands within the exterior boundaries of the Pueblo of Picuris with respect to medical cannabis.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Medical Cannabis Code allows for the beneficial use of medical cannabis, upon written recommendation of a medical provider, in a civilly regulated system for the purpose of alleviating symptoms caused by debilitating medical conditions.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>In 1997, New Mexico passed the Lynn and Erin Compassionate Use Act to enable persons residing in New Mexico to obtain and use medical cannabis legally under limited, specified circumstances. The Pueblo of Picuris will cooperate with the State of New Mexico on matters of mutual concern, including law enforcement and public safety.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>This Medical Cannabis Code regulates the lawful cultivation, processing, use, possession, distribution and research of medical cannabis in a manner consistent with federal law enforcement guidelines and priorities, and is not preempted by, nor does it violate any federal law.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>On October 28, 2014, the U.S. Department of Justice issued it Policy Statement on Cannabis Issues in Indian Country (Wilkinson Memo) which recognized the trend of states toward legalization of medical cannabis, and acknowledged that in exercising its national sovereignty Indian tribes may enact similar laws, consistent with the policy priorities therein. <cite path="12">This Title</cite> is in compliance with the Wilkinson Memo.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The recorded use of cannabis goes back five thousand years. Modern medical research has confirmed the therapeutic value of cannabis in treating a wide array of debilitating medical conditions. Cannabis has many accepted medical uses in the United States, and around the world, having been recognized by public health organizations, including the Epilepsy Foundation, the American College of Physicians, the American Nurses Association, the National Institute of Health, and the National Institute of Drug Abuse.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Pueblo of Picuris joins the tribes, states and other jurisdictions in the passage of medical cannabis laws to improve and support health and wellness, ensure a lawful and well-regulated medical cannabis program, and to provide fiscal benefits to the Pueblo of Picuris and its tribal members.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-3</num>
+      <heading>Authority to Establish Medical Cannabis Program.</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="12">This Title</cite> hereby authorizes the Pueblo of Picuris to establish a Medical Cannabis Program to meet the medical needs of tribal members and qualified patients, and to ensure an adequate supply of medical cannabis for the number of patients in the registry, and to provide the right to use and possess cannabis for medical purposes when recommended by a medical provider who has determined that the person's health would benefit from the use of cannabis in the treatment of a debilitating medical condition.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In order to further the goals and to provide an additional source of governmental revenue, the Tribe has adopted <cite path="12">this Title</cite>, which shall be liberally construed to fulfill the purposes for which it has been adopted.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Medical Cannabis Program shall have an Executive Committee for administrative decision-making as specified herein, and to promulgate Program Rules as necessary, for adoption by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Medical Cannabis Program shall hire a Program Manager to fulfill the administrative purposes and achieve program implementation who shall report to the Executive Committee for supervision.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Nothing in <cite path="12">this Title</cite> shall be deemed to be in conflict with the Controlled Substances Act,  21 U.S.C. section 801 et seq. or to otherwise permit any activity that is lawfully prohibited under that Act.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Nothing in <cite path="12">this Title</cite> shall be deemed to create a right for individuals to grow and distribute cannabis.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Nothing in <cite path="12">this Title</cite> shall be construed to (1) allow persons to engage in conduct that endangers others or causes a public nuisance; (2) allow the diversion of medical cannabis to anyone other than the registered cardholder; (3) allow any activity relating to the cultivation, distribution, or consumption of cannabis that is otherwise illegal.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Medical Cannabis Program shall operate to (1) prevent the distribution of cannabis to persons under 21 years of age; (2) prevent the revenue from the sale of cannabis from going where it is legal to other states; (4) prevent cannabis activity that is legal under <cite path="12">this title</cite> from being used as a cover or pretext for the trafficking of illegal drugs or other illegal activity; (5) prevent violence and the use of firearms in the cultivation and distribution of cannabis; (6) prevent drugged driving and the exacerabation of other adverse public health consequences associated with the use of cannabis; (7) prevent the growing of cannabis on public lands and the attendant public safety and environmental dangers posed by cannabis production on public lands; and (8) prevent the possession and use of cannabis on federal property.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-4</num>
+      <heading>Sovereign Immunity.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris hereby declares that it is immune from suit under the doctrine of sovereign immunity. All tribal officials and employees, including members of the Tribal Council, and officers and directors of all federal and tribal corporations, acting within their scope of authority and within their scope of duty, are immune from suit for any acts of omissions, pursuant to <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in <cite path="12">this Title</cite> shall be construed to limit or waive the sovereign immunity of the Tribe, Tribal Council, or the Board of Directors of the Three Eagles, Inc. for any purpose, expressly or impliedly.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tribal Corporations that are federally chartered, or chartered under tribal law, may negotiate limited waivers of sovereign immunity for purposes of doing business on tribal lands, pursuant to <cite path="12">this Title</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-5</num>
+      <heading>Jurisdiction.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris Tribal Court retains general jurisdiction over all matters arising from this Medical Cannabis Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>People who enter the tribal lands, or property, of the Pueblo of Picuris, shall be deemed to have consented to the civil jurisdiction of the Tribe. In additions, any person who utilizes this Medical Cannabis Code, in any manner, shall have consented to the civil jurisdiction of the Pueblo of Picuris Tribal Court for any cause of action arising under <cite path="12">this Title</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-6</num>
+      <heading>Taxation of Medical Cannabis.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris may impose a sales tax comparable to the State and local sales taxes on the sale of medical cannabis.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The tribe may allow an exemption from tax for sales to the tribe, tribal enterprises, tribal-owned businesses, tribally chartered corporations, or tribal members, on medical cannabis cultivated within the exterior boundaries of the Pueblo of Picuris original land grant.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Medical cannabis used in the course of medical treatments by a clinic, hospital, or similarly situated facility owned and operated by a federally recognized Indian tribe within its exterior boundaries may be exempted from taxation under the terms of <cite path="12">this Title</cite> and federal Indian law.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-7</num>
+      <heading>Full Faith &amp; Credit; Comity.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Full Faith and Credit Clause of the United States Title (See 28 U.S.C. 1738) and the New Mexico Foreign Judgments Act (See NMSA 39-4A-3 1978) required the recognition and enforcement of Tribal Court Orders and Administrative Orders when doing so does not offend the public policy of the enforcing State.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo of Picuris Medical Cannabis Registry Identification Cards are consistent with the laws and public policy of the State of New Mexico, who's Department of Health administers the New Mexico Medical Cannabis Program pursuant to the Lynn and Erin Compassionate Use Act.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Comity provides for a mechanism to be able to move formal orders across boundaries for uniformity and symmetry of policy between foreign nations and recognizes the rights of citizens and other persons under the laws of neighboring jurisdictions.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo of Picuris Medical Cannabis Program shall coexist with the neighboring State of New Mexico in a stable regulatory framework of policies, guidelines, procedural protections and public health reforms.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Tribes have the right to govern themselves. The Pueblo of Picuris Medical Cannabis Registry Identification Cards shall be recognized under principles of Full Faith &amp; Credit and comity throughout the State of New Mexico.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-1-8</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Administrative Order" means a formal decision of an administrative program of the Pueblo of Picuris, including the issuance of a medical cannabis registry identification card.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Adult Applicant" means a patient twenty0one years of age or older.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Allowable Supply of Medical Cannabis" means the amount of cannabis that a qualifying patient may presumptively purchase and possess for the qualifying patient's personal medical use, but at no time shall it be greater than six (6) ounces.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Cannabis" refers to the plant Cannabis, including constituents of the plant and the preparation of the plant.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Cannabis Business" means a licensed cultivation facility, processing facility, distribution facility, delivery companies, laboratories or any combination thereof.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Cannabis Concentrate" means specific subset of cannabis that was produced by extracting cannabinoids from cannabis. Types of cannabis concentrates include water-based cannabis concentrates, solvent-based cannabis concentrates, fat-based cannabis concentrates, and critical fluid cannabis concentrates.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Cannabis Product" means a product that contains cannabis or an extract thereof and is intended for use or consumption other than by inhalation, including but not limited to foodstuffs, extracts, oils tinctures and other similar products.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Cannabis Testing" means analyzing the safety and potency of cannabis.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Cardholder" means a qualifying patient, or nonresident cardholder, who has been issued and possesses a valid Pueblo of Picuris Medical Cannabis Patient Registry Identification Card pursuant to <cite path="12">this title</cite>.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Critical fluid extraction cannabis concentrate" means a cannabis concentrate that was produced by extracting cannabinoids from cannabis the cannabis plant through the use of a solvent.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Cultivation" means the preparing and growing of the plant Cannabis.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Cultivation facility" means an entity licensed pursuant to <cite path="12">this Title</cite> that acquires, possesses, cultivates, delivers, transfers, transports, supplies, or sells cannabis and related supplies to qualifying cardholders.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Debilitating Medical Condition" means any condition for which treatment with medical cannabis would be beneficial, as determined by a patient's medical provider, or any other debilitating medical condition, or its symptoms, provided in <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Delivery Company" means a licensed cannabis business whose purpose is to deliver medical cannabis to qualified validated cardholders.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Distribution Facility" means any entity license pursuant to <cite path="12">this Title</cite> that acquires, possesses, delivers, transfers, transports, supplies, sells or dispenses cannabis or related supplies and education materials to qualifying cardholders.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Edible Cannabis Products" means products that contain or are infused with cannabis or an extract thereof; are intended for consumption by oral ingestion; and are presented in the form of foodstuffs, beverages, extracts, oils, tinctures, and other similar products.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Executive Committee" means the duly appointed Executive Committee of the Medical Cannabis Program, which is to be comprised of no less than three (3) persons who have knowledge of the regulation, cultivation and distribution of medical cannabis, and of tribal law and tribal economic development, to be chosen by the Three Eagles Board of Directors, to serve the best interest of the tribe and its members.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Fat-based cannabis concentrate" means a cannabis concentrate that was produced by extracting cannabinoids from cannabis through the use of butter, olive oil or other typical cooking fats as a solvent.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Foreign cultivation facility" means a licensed cultivation or licensed producer facility that is not under the jurisdiction of the Tribe.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Inventory control" means a process that may be used to monitor the chain of custody of cannabis from the point of cultivation to the consumer.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Management employees" means those employees who serve in a supervisor role of some nature.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Medical Advisory Board" means the board of advisors to the Medical Cannabis Program and to the Executive Committee comprised of three (3) medical providers.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Medical Cannabis" means useable cannabis, cannabis concentrates, and cannabis infused products used for a qualifying conditions pursuant to <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Medical Provider" means a person licensed in New Mexico to provide a patient with medical or health services, including professional medical providers such as nurses, nurse practitioners, doctors, psychologists, psychiatrists, and other licensed mental health medical providers, substance abuse counselors, licensed naturopaths, chiropractors, doctors of oriental medicine, and other medical providers approved by the Executive Committee, after consultation with the Medical Advisory Board. In order to recommend medical cannabis to a patient, the medical provider shall evaluate and conduct an assessment of the patient's medical history and medical records, if any and current medical condition, including an appropriate examination; in-person or via tele-medicine, and that the medical provider has consulted with the patient with respect to the patient's debilitating medical condition and the possible risks and benefits associated with medical cannabis.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Minor Applicant" means a patient less than twenty-one years of age.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Nonresident Medical Cannabis Card" means a currently valid Medical Cannabis Card, or its equivalent, issued by another tribe, state, district, territory, jurisdiction, or country that allows the person to use cannabis for medical purposes in the jurisdiction of issuance.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Patient Registry" means the administrative database for valid medical cannabis patients established by the Pueblo of Picuris Medical Cannabis Program.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Processing" means the harvesting of the plant Cannabis or the use of any process or equipment, including but not limited to dehydrators or humidifiers that may be necessary to convert raw cannabis plants or plant parts into a consumable product.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>"Processing facility" means any entity licensed pursuant to <cite path="12">this Title</cite> at which cannabis is processed for distribution.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"Program Manager" means the person hired by the Executive Committee to manage and direct the Medical Cannabis Patient Registry and tribal administrative program.</text>
+      </para>
+      <para>
+        <num>(ee)</num>
+        <text>"Pueblo of Picuris" means all lands within the exterior boundaries of the Pueblo's original  land grant; lands held by the United States of America in trust for the Pueblo of Picuris; and any lands which may in the future come within the jurisdiction of the Tribe by any lawful means.</text>
+      </para>
+      <para>
+        <num>(ff)</num>
+        <text>"Qualifying Patient" means a person who has been diagnosed by a medical provider as having a debilitating medical condition pursuant to <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(gg)</num>
+        <text>"Registry Identification Card" means a document issued by the Pueblo of Picuris that identifies a person as a registered qualifying medical cannabis cardholder. Cardholders and Nonresident Medical Cannabis cardholders may purchase and consume medical cannabis on certain designated premises and places on tribal land.</text>
+      </para>
+      <para>
+        <num>(hh)</num>
+        <text>"Solvent-based cannabis concentrate" means a Cannabis Concentrate that was produced by extracting cannabinoids from cannabis through the use of glycerin, isopropyl alcohol, ethanol, or propylene glycol as a solvent.</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>"State" means the State of New Mexico.</text>
+      </para>
+      <para>
+        <num>(jj)</num>
+        <text>"Tribe" means , and "Tribal" refers to the Pueblo of Picuris, a federally recognized Indian tribe.</text>
+      </para>
+      <para>
+        <num>(kk)</num>
+        <text>"Tribal Court" means the Pueblo of Picuris Tribal Courts as established pursuant to the Tribe's Law and Order Title.</text>
+      </para>
+      <para>
+        <num>(ll)</num>
+        <text>"Water-based cannabis concentrate" means a Cannabis Concentrate that was produced by extracting cannabinoids from cannabis through the use of only water or ice.</text>
+      </para>
+      <para>
+        <num>(mm)</num>
+        <text>"Written certification" means a document dated and signed by a Medical provider, stating that in the medical provider's professional opinion the patient is likely to receive therapeutic or palliative benefit from the medical use of cannabis to treat or alleviate the patient's debilitating medical conditions associated therewith.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>2</num>
+    <heading>– PATIENT REGISTRY</heading>
+    <section>
+      <num>12-2-1</num>
+      <heading>Establishment of a Confidential Patient Registry.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Medical Cannabis Program shall create and maintain a confidential patient registry of patients who have applied for and are entitled to receive a registry identification card.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All personal medical records and personal identifying information held by the patient registry shall be confidential information.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No person shall be permitted to gain access to any information about patients in this registry, except for authorized employees of the Medical Cannabis Program, or employees of licensed cannabis businesses, in the course of their official duties.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Authorized employees of local law enforcement agencies may be granted access to the information contained within the patient registry only for the purpose of verifying that an individual who has presented a registry identification card is lawfully in possession of such card.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-2</num>
+      <heading>Qualifying Debilitating Medical Conditions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Qualifying debilitating medical conditions are any medical conditions for which a licensed medical provider certifies in writing that medical cannabis can benefit the patient's health, including, but not limited to the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Alzheimer's</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Anorexia/Cachexia</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Arthritis</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Autism</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Cancer</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Chronic Pain</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Cirrhosis</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Crohn's Disease</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Depression</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Diabetes</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Epilepsy/Seizure Disorder</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Fibromyalgia</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Gastroesophageal Reflux</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Glaucoma</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Hepatitis C</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>HIV/AIDS</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>Hospice Patients</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>Huntington's</text>
+        </para>
+        <para>
+          <num>(20)</num>
+          <text>Inflammatory autoimmune medicated arthritis</text>
+        </para>
+        <para>
+          <num>(21)</num>
+          <text>Insomnia</text>
+        </para>
+        <para>
+          <num>(22)</num>
+          <text>Intractable Nausea/Vomiting</text>
+        </para>
+        <para>
+          <num>(23)</num>
+          <text>Lupus</text>
+        </para>
+        <para>
+          <num>(24)</num>
+          <text>Migraines</text>
+        </para>
+        <para>
+          <num>(25)</num>
+          <text>Multiple Sclerosis (MS)</text>
+        </para>
+        <para>
+          <num>(26)</num>
+          <text>Painful Peripheral Neuropathy</text>
+        </para>
+        <para>
+          <num>(27)</num>
+          <text>Parkinson's</text>
+        </para>
+        <para>
+          <num>(28)</num>
+          <text>Post-Traumatic Stress Disorder</text>
+        </para>
+        <para>
+          <num>(29)</num>
+          <text>Spasmodic Torticollis (Cervical Dystonia)</text>
+        </para>
+        <para>
+          <num>(30)</num>
+          <text>Spinal cord damage</text>
+        </para>
+        <para>
+          <num>(31)</num>
+          <text>Substance Abuse/Alcoholism</text>
+        </para>
+        <para>
+          <num>(32)</num>
+          <text>Ulcerative Colitis</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Executive Committee may add, remove or modify a qualifying condition, after review by the Medical Advisory Board of the proposed addition, removal or modification to <cite path="12">this Title</cite> Section.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-3</num>
+      <heading>Application Requirements for a Registry Identification Card.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris Medical Cannabis Program Manager may issue Registry Identification Cards to qualifying patients who submit the following documents in accordance with <cite path="12">this Title</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>A written certification issued by a medical provider within 90 days immediately preceding the date of an application including:</text>
+          <para>
+            <num>(a)</num>
+            <text>The diagnosis of a qualifying debilitating medical conditions;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A certification that medical cannabis provides adequate relief for the qualifying condition;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The potential risks and benefits of the use of medical cannabis for the qualifying condition have been discussed with the patient;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The name, address and telephone number of the medical provider;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The medical provider's clinical licensure;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The patient's applicant's name, address and date of birth;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The applicant's qualifying debilitating medical condition;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Clinical notes of the medical provider of the debilitating medical condition, which shall include, but not be limited to, a statement that in the medical provider's professional opinion the patient can benefit from the use of medical cannabis;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>An attestation that the medical provider's primary place of practice is located within the Pueblo of Picuris or the State of New Mexico;</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>The medical provider's signature and date;</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>A copy of the applicant's driver's license, passport, or valid identification issued by a tribal or state government;</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>A copy of the applicant's nonresident medical cannabis patient card, if applicable;</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>A release of information and HIPPA forms;</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>The applicant's social security number, date of birth, signature and date;</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>The Twenty-Five Dollar ($25.00) application fee; and</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>Other documentation as the Pueblo of Picuris deems necessary.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A medical provider may be prohibited from certifying patient application under <cite path="12">this Title</cite> for failure to comply with any provision of <cite path="12">this Title</cite>; falsification of any material or information submitted; and determination by the medical provider's licensing body that medical provider has engaged in unprofessional or dishonorable conduct.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Program Manager, or a designee, shall approve or deny an application within twenty (20) calendar days of receipt of the completed application. A request for additional information shall stop the time period until such requested information is received.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-4</num>
+      <heading>Minors with Debilitating Medical Conditions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Minors who have a valid medical provider's written certification for a qualifying condition may consume medical cannabis under the supervision of their parent or guardian. The Medical Cannabis Program Manager may issue a registry identification care to a minor if:</text>
+        <para>
+          <num>(1)</num>
+          <text>All application material are submitted and the minor's custodial parent or legal guardian provides proof of legal guardianship; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The custodial parent or legal guardian signs and submits a written statement that the minor's medical provider has explained to the minor, and to the minor's custodial parent or legal guardian, the potential risks and benefits of the use of medical cannabis; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The minor's custodial parent or legal guardian consents to the use of medical cannabis by the minor; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The custodial parent or legal guardian agrees to control the dosage and frequency of the use of medical cannabis by the minor; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The custodial parent or legal guardian agrees not to divert any medical cannabis in their possession pursuant to <cite path="12">this Title</cite>.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-2-5</num>
+      <heading>Registry Identification Card Issuance; Administrative Order.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris shall establish and maintain a Medical Cannabis Program for the issuance of Registry Identification Cards to qualified persons who meet the requirements.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Program Manager, or a designee, shall issue a Registry Identification Card to a person who is a resident of the Pueblo of Picuris, a resident of any Pueblo or Tribe in New Mexico, or a resident of the State of New Mexico, or a person with a verified Nonresident Medical Cannabis Card who submits an application on a form prescribed by the Program Manager accompanied by all documents required by <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Registry Identification Card is an Administrative Order of the Medical Cannabis Program and shall be upheld by the Tribal Court and acknowledged and enforced as such.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon receipt of the Application for a Medical Cannabis Registry Identification Card, the Program Manager shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Record on the Application the date it is received;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Retain the original Application and make two copies for the file;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Review the contents of the Application and verify information accordingly;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identify any incomplete or missing items in the Application and notify the applicant of said review and decision;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Recommend the approval or denial of the Application; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Issue or deny the Registry Identification Card, with written notice provided.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-2-6</num>
+      <heading>Three-Year Term; Renewal of Registry Identification Card.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A Registry Identification Card is valid for a period of three (3) years and may be renewed by submitting a Renewal Application, a fee of Twenty-Five Dollars ($25.00) and all of the required documents.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-7</num>
+      <heading>Revocation of Registry Identification Card.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If at any time, the Program Manager, or a designee, determines that a person provided false information on his or her Application, or Renewal Application, or is violating the rules of the Medical Cannabis Program, the registry identification card issued to that person shall immediately be revoked, and written notice provided in accordance with <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person whose registry identification card has been revoked pursuant to <cite path="12">this Title</cite> may not reapply for a registry identification card for at least twelve (12) months after the date of revocation.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-8</num>
+      <heading>Denial of Registry Identification Card.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Program Manager shall give written notice to the applicant of the reason for denying a Registry Identification Card. Denial of an application or renewal is considered a final decision. The application or renewal may be denied if the applicant;</text>
+        <para>
+          <num>(1)</num>
+          <text>Does not provide the required information, fee, or required materials after three (3) written requests;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Previously had a registry identification card revoked; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provided false information.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-2-9</num>
+      <heading>Contents of Registry Identification Card.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Medical Cannabis Registry Identification Cards must contain all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name and photograph of the cardholder;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date of issuance and expiration date of the registry identification card and;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A random 10-digit alphanumeric identification number, containing at least four numbers and at least four letters, that is unique to the cardholder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The expiration date shall be (3) three years after the date of issuance. If the medical provider certifies that the qualifying patient would benefit from medical cannabis until an earlier specified date, then the registry identification card shall expire on that date.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-10</num>
+      <heading>Cardholder Required Notifications.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A registered cardholder shall notify the Program Manager of any change in his or her name or address within thirty (3) days of the change.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A registered cardholder shall notify the Program Manager if they lose their registry identification card within thirty (30) days of becoming aware the card has been lost.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>There is a Twenty-Five Dollar ($25.00) replacement fee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>After receiving the replacement fee, if the cardholder remains eligible under <cite path="12">this Title</cite>, the Program Manager shall issue the cardholder a new medical cannabis registry identification card with a new random 10-digit alphanumeric identification number within ten (10) business days of receiving the notification.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If a medical provider notifies the Program Manager in writing that either the registered cardholder has ceased to suffer from a debilitating medical condition, or that the medical provider no longer believes the cardholder would receive therapeutic or palliative benefit from the medical use of cannabis, the card shall become null and void.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-11</num>
+      <heading>Protection for the Use of Medical Cannabis.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A medical cannabis cardholder who possesses a valid Pueblo of Picuris medical cannabis registry identification card is not subject to arrest, prosecution, or penalty in any manner, or denial of any right or privilege, including any civil penalty or disciplinary action by a court, or occupational or professional licensing board or bureau for the medical use of medical cannabis pursuant to his Title, provided the cardholder does not possess more than the allowable amount of medical cannabis, and that any medical cannabis being carried shall be enclosed in a sealed container, if it is being possessed or transported for personal medical use.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There is a presumption that a qualifying cardholder is engaged in the medical use of cannabis pursuant to <cite path="12">this Title</cite> if the cardholder is in possession of a Pueblo of Picuris registry identification card and an amount of cannabis that does not exceed the allowable amount of cannabis.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A medical provider shall not be subject to arrest, prosecution, or penalty in any manner, or denied any right or privilege, including, but limited to, civil penalty or disciplinary action by any other occupational or professional licensing board or bureau, solely for providing written certifications or for otherwise stating that,    in the medical provider's professional opinion, a person is likely to receive therapeutic or palliative benefit from the medical use of cannabis to treat or alleviate the patient's debilitating medical condition, or symptoms associated with the debilitating medical condition, or symptoms associated with the debilitating medical condition.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For the purposes of the laws of the Pueblo of Picuris, activities related to medical cannabis shall be considered lawful as long as they are in compliance with <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No law enforcement officer employed by an agency which receives state, local, or federal government funds shall expend any resources, including the officer's time, to effect any arrest or seizure of medical cannabis, or conduct any investigations, on the sole basis of activity the officer believes to constitute a violation of the federal law if the officer has reason to believe that such activity is in compliance with this civil law Title.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>It is the public policy of the Pueblo of Picuris that lawful activities related to medical cannabis that are entered into by cardholders, medical cannabis businesses or licensed facilities, or medical cannabis business or licensed facility agents, are exempt from criminal penalties by <cite path="12">this Title</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-12</num>
+      <heading>Limitation on the Use of Medical Cannabis.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The use and possession of medical cannabis is limited by operation of law and certain conduct is prohibited.  <cite path="12">This Title</cite> prohibits:</text>
+        <para>
+          <num>(1)</num>
+          <text>Operating, navigating or being in actual physical control of a motor vehicle or ATV while impaired by the influence of medical cannabis; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Undertaking any task under the influence of medical cannabis, when doing so would constitute negligence or pose a reasonably foreseeable harm to oneself or others.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-2-13</num>
+      <heading>Lawful Possession and Use of Medical Cannabis.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A medical cannabis patient shall ensure that all cannabis, cannabis-derived products, and paraphernalia are kept secure and out of the reach of children under the age of 21.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All medical cannabis shall remain in a sealed package or container when not in use.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Patients are strictly prohibited from using medical cannabis in any undesignated public place and on federal property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Special events for medical cannabis patients 21 and over are permitted under <cite path="12">this Title</cite> in designated areas at limited times and places only for the purposes permitted and approved by the Executive Committee.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-14</num>
+      <heading>Medical Cannabis Cardholder Discrimination Prohibited.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No school or landlord may refuse to enroll, lease to, or otherwise penalize a person solely for the person's status as a medical cannabis cardholder.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person shall not be denied custody, visitation rights, or parenting time with a minor child solely for the person's status as a cardholder, and there shall be no presumption of neglect or child endangerment for conduct allowed under <cite path="12">this Title</cite>, unless the person's behavior is such that it creates an unreasonable danger to the safety of the minor as established by clear and convincing evidence.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A cardholder who uses medical cannabis shall be afforded all the same rights and responsibilities as the individual would be afforded if he or she were solely prescribed pharmaceutical medications, as it pertains to any interaction with a person's employer.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo of Picuris and all cannabis businesses and licensed facilities shall remain a Drug Free Workplace.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-15</num>
+      <heading>Indemnification.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe, including its officers, employees, agents, representatives, successors, and assigns, shall not be held responsible for any injurious outcomes form the use of medical cannabis by any person.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-2-16</num>
+      <heading>Medical Advisory Board.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Executive Committee shall appoint a Medical Advisory Board comprised of no less than three (3) medical providers with experience in medical cannabis research and treatment modalities; individuals with experience in policy development or implementation in the field of medical cannabis; and medical support staff.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Medical Advisory Board shall meet at least twice per year for the purpose of evaluating and making recommendations to the Executive Committee regarding;</text>
+        <para>
+          <num>(1)</num>
+          <text>The ability of qualifying cardholders to obtain timely access to high-quality medical cannabis;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The effectiveness of the cultivation facilities in serving the needs of qualifying cardholders, including the provision of educational and support services, the reasonableness of their prices, whether they are generating any complaints or security problems, and the sufficiency of the number operating to produce adequate supply for registered qualifying cardholders;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The effectiveness of the medical cannabis testing facilities and services;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The sufficiency of the regulatory and security safeguards contained in <cite path="12">this Title</cite> to ensure that access to and use of medical cannabis cultivated is provided only to cardholders;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any recommended additions or revisions to the Medical Cannabis Program or list of qualifying conditions, and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any research studies regarding health effects of medical cannabis.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-2-17</num>
+      <heading>Recognition of Nonresident Medical Cannabis Cards.</heading>
+      <para>
+        <num>(a)</num>
+        <text>As used in <cite path="12|2|12-2-17">this section</cite>, "nonresident card" means a medical cannabis card issued by a State, Tribe, or jurisdiction other than Pueblo of Picuris; and is the functional equivalent of a registry identification card, as determined by the Program Manager, or a designee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo of Picuris Medical Cannabis Program may verify and recognize a nonresident card under the following circumstances;</text>
+        <para>
+          <num>(1)</num>
+          <text>The nonresident card has an expiration date and has not yet expired; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The cardholder of the nonresident card agrees to abide by, and shall abide by, the legal limitations on the possession and use of medical cannabis in <cite path="12">this Title</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Program Manager may assess a Twenty-Five Dollar ($25.00) administrative fee for nonresident cardholder to receive a Pueblo of Picuris Registry Identification Card.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>3</num>
+    <heading>– LICENSING</heading>
+    <section>
+      <num>12-3-1</num>
+      <heading>Cannabis Businesses; Licensure.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Executive Committee shall determine the appropriate number of licensed cannabis businesses, including cultivation facilities, processing facilities, distribution facilities, deliver companies, testing laboratories, or any combination thereof, based on the number of medical cannabis patients in the Medical Cannabis Program registry, and other relevant business considerations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each licensed cannabis business under the jurisdiction of the Tribe shall be required to meet all licensing requirements under <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Executive Committee may assess a licensing fee per annum to each licensed cannabis business.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All medical cannabis businesses must be licensed by the Executive Committee to lawfully operate within the exterior boundaries of the Pueblo of Picuris.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>All cultivation, processing, packaging and storing of cannabis must take place in a secure facility that may only be accessed by licensed persons and authorized visitors.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>All licensed facilities shall be constructed, maintained, and operated in a manner that adequately protects the environment and the health and safety of the public.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Executive Committee may limit the size, location, capacity, and hours of operation of all licensed facilities.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>No licensed facility may be located within 300 feet of a school, church, or daycare center.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>All licensed facilities shall adopt security and safety procedures and protocols, including lighting, signage, video surveillance, alarms, employee badges/wands, panic buttons, emergency response policies and operational policies that ensure the security of the crop and prevents diversion for non-medical purposes.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Firearms are prohibited at all times at a licensed facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-3-2</num>
+      <heading>Employee Requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every employee of a cannabis business shall be required to obtain from the Program Manager, or its designee, a Cannabis Business Employee License as a prerequisite to such employment on tribal lands.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The application for a Cannabis Employee License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, email address, social security number and date of birth of the applicant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof that the applicant is at least twenty one (21) years of age;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A current photograph of the applicant;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Nationwide criminal background search results for the past five (5) years to establish that the applicant has not been convicted of any felony offense involving a crime of violence, fraud, theft, or involvement with organized crime, within the past five (5) years. For each conviction, the name and address of the court involved and the date and disposition. A conviction within the meaning of <cite path="12|3|12-3-2|(b)|(4)">this subsection</cite> means a plea or verdict of guilty or a conviction following a plea of nolo contendere;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Currently and for the previous five (5) years; business and employment positions held, ownership interests in those businesses, business and residence addresses, and driver's license numbers;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The names, telephone numbers, email address and current physical address of at least two (2) references, including at least one (1) professional reference;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Written permission of the applicant authorizing the Program Manager or its designee to seek verification of the information contained within the application;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A statement in writing that the applicant pledges to not dispense or otherwise divert cannabis to any person or entity that is not allowed to lawfully possess cannabis.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>A statement in writing that the applicant certifies under penalty of perjury that all the information contained in the application is true and correct; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any other information the Program Manager deems relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless otherwise suspended or revoked, a Cannabis Employee License shall expire three (3) years following its issuance. A person may re-apply for a Cannabis Employee License for subsequent periods of three (3) years.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-3-3</num>
+      <heading>Eligibility Determination.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Program Manager or its designee shall review an applicant's prior activities, criminal record, and reputation, to make a finding concerning the eligibility for employment in a cultivation facility, distribution facility or processing facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-3-4</num>
+      <heading>Grounds for Denial of Cannabis Employee License.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The grounds for denial of a Cannabis Employee License may be one or more of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant has violated <cite path="12">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The applicant has knowingly made a false statement of material fact or has knowingly omitted to state a material fact in the application for a Cannabis Employee License;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The applicant has been convicted of a felony offense involving a crime of violence, fraud, theft, or involvement with organized crime, within the past five (5) years. A conviction within the meaning of <cite path="12|3|12-3-4|(a)|(3)">this subsection</cite> means a plea or verdict of guilty or a conviction following a plea of nolo contendere;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A determination by the Program Manager or the Executive Committee that employment of the applicant poses a threat to the public interest or to the effective regulation of cannabis; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The applicant is under twenty one (21) years of age.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-3-5</num>
+      <heading>Reconsideration of Denial.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person aggrieved by the decision of the Program Manager or its designee to deny a Cannabis Employee License may seek reconsideration of such decision to the Executive Committee by filing a written petition for reconsideration with the Tribal Court within thirty (30) calendar days of service of the written notice of decision. If a petition for reconsideration is not filed within such time, the decision shall be final.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Following review of the petition for reconsideration, the Program Manager may issue the Cannabis Employee License subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Pueblo of Picuris and its tribal members or it may deny the issuance of the Cannabis Employee License for any of the grounds specified in <cite path="12">this Title</cite>. The decision of the Executive Committee shall be final and not subject to judicial review by tribal, federal or state court.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>4</num>
+    <heading>– CULTIVATING CANNABIS</heading>
+    <section>
+      <num>12-4-1</num>
+      <heading>Cultivation Facility; Licensure.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Prior to licensure, each cultivation facility shall establish written operating procedures for the cultivation of medical cannabis. The operating procedures must include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>An acknowledgement that no pesticides and other agricultural chemicals are to be applied during its cultivation process;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The equipment and methods employed in the cultivation of the cannabis;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>How the cultivated cannabis will be transported to a processing facility or distribution facility;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The measures taken to minimize or offset energy use from the cultivation of cannabis;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The manner in which waste will be stored at the premises;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The production plan;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The sales and distribution plan;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The manufacturing plan for cannabis derived products;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The quality assurance plan;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>The security plan;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Testing and Labeling Requirements;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Employee Training Plan; and</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Any other information required by the Executive Committee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A copy of all operating procedures must be maintained at every cultivation facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-4-2</num>
+      <heading>On-site Consumption Prohibited.</heading>
+      <text>The use of consumption of cannabis shall be prohibited at each cultivation facility, except in a designated area for employees who are valid Registry Identification Cardholders.</text>
+    </section>
+    <section>
+      <num>12-4-3</num>
+      <heading>Quality Assurance; Testing Requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All dried usable cannabis and all concentrated cannabis derived products produced, sold, or distributed by a licensed producer shall be sampled for testing purposes prior to its distribution to patients. Each batch of dried usable cannabis or cannabis concentrate shall be sampled and tested for;</text>
+        <para>
+          <num>(1)</num>
+          <text>Microbiological contaminants;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mycotoxin;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Solvent residue;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Heavy metals; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Potency.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following testing procedures shall be followed;</text>
+        <para>
+          <num>(1)</num>
+          <text>Sampling and segregation of no less than three grams from every batch of harvested dried, useable cannabis, and no less than one gram from every batch of concentrated cannabis- derived product;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Documentation of the sampling and testing of all dried cannabis and cannabis-derived product; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Remediation, if appropriate, and retesting in accordance with <cite path="12|4|12-4-3">this Section</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All medical cannabis cultivated must be tested for patient safety and quality assurance. A cultivation facility may not treat or otherwise adulterate cannabis with any chemical or other compound whatsoever to alter its color, appearance, weight, or smell.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-4-4</num>
+      <heading>Research and Development.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Research, testing, or other similar facilities located within the exterior boundaries of the Pueblo of Picuris that cultivate cannabis for research, testing or distribution to patients shall be considered a cultivation facility and shall be subject to all applicable regulations and limitations for a cultivation facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-4-5</num>
+      <heading>Precautions and Specific Requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every cultivation facility shall take all reasonable measures and precautions to ensure that the following requirements are met;</text>
+        <para>
+          <num>(1)</num>
+          <text>All cultivation of cannabis that a cultivation facility carries out must take place in a secured area remote from public access and restricted from public view;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All persons working in direct contact with cannabis shall conform to hygienic practices while on duty, including sufficient personal cleanliness and health.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Litter and waste shall be properly removed and the operating systems for waste disposal shall be maintained in an adequate manner so that they do not constitute a source of contamination in areas where cannabis is exposed;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All floors, walls, and ceilings shall be constructed in such a manner that they may be adequately cleaned and kept clean and kept in good repair;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Adequate lighting shall be required in all areas where cannabis is stored;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adequate screening or other protection against the entry of pests shall be made;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All buildings, fixtures, and other facilities shall be maintained in a sanitary condition; and that</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging and storing of cannabis or cannabis product shall be conducted in accordance with adequate sanitation principles.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-4-6</num>
+      <heading>Traceability.</heading>
+      <para>
+        <num>(a)</num>
+        <text>To prevent diversion and to promote public safety, licensed cultivation facilities must track medical cannabis from seed to sale. Medical cannabis seedlings, clones, plants, lots of usable cannabis or trim, leaves, and other plant matter, batches of extracts, cannabis-infused products, samples, and cannabis waste must be traceable from production through processing, and finally into the retail environment including being able to identify which lot was used as base material to create each batch of extracts of infused products. The following information is required and must be kept completely up-to-date in a system:</text>
+        <para>
+          <num>(1)</num>
+          <text>Key notification of "events" such as when a plant enters the system (moved from the seedling or clone area to the vegetation production area);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When plants are to be partially or fully harvested or destroyed;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When a lot or batch of cannabis, cannabis extract, cannabis concentrates, cannabis-infused product, or cannabis waste is to be destroyed;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>When usable cannabis, cannabis concentrates, or cannabis-infused products are transported.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any theft of usable cannabis, cannabis seedlings, clones, plants, trim or other plant material, extract, infused product, see, plant tissue or other item containing cannabis;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Prior to reaching eight inches in height or width, each cannabis plant must be tagged and tracked individually, which typically should happened when a plant is moved from the seed germination or clone area to the vegetation productions area;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A complete inventory of all cannabis seeds, plant tissue, seedlings, clones, all plants, lots of usable cannabis or trim, leaves, and other plant matter, batches of extract, cannabis concentrates, cannabis-infused products, and cannabis waste;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All point of sale records;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Cannabis excise tax records;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>All samples sent to an independent testing lab, any sample of unused portion of a sample returned to a licensee, and the quality assurance test results; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Other information specified by the Executive Committee.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>5</num>
+    <heading>– PROCESSING MEDICAL CANNABIS</heading>
+    <section>
+      <num>12-5-1</num>
+      <heading>Processing Facility; Licensure.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Prior to licensure, each processing facility shall establish written operating procedures for the processing and extraction of cannabis. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>How the cannabis will be transported between cannabis businesses;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the facilities used in the extraction and manufacturing of cannabis derived products;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Standards for the manufacturing of cannabis derived products into food and other edibles;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Standards for the packaging and labeling of edibles and other similar products. Such packaging shall be nondescript and shall not mimic, resemble or be representational of candy, cookies or other food products that might attract or entice children.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-5-2</num>
+      <heading>Cannabis Extraction and Concentrates.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Processors are limited to certain methods, equipment, solvents, gases and mediums when creating cannabis extracts.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Processors may use the hydrocarbons N-butane, isobutene, propane, or heptane or other solvents or gases exhibiting low to minimal potential human health-related toxicity approved by the Executive Committee. These solvents must be of at least ninety-nine percent purity and a processor must use them in a professional grade closed loop extraction system designed to recover the solvents, work in an environment with proper ventilation, controlling all sources of ignition where a flammable atmosphere is or may be present.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Processors may use a professional grade closed loop CO2 gas extraction system where every vessel is rated to a minimum of six hundred pounds per square inch. The CO2 must be of at least ninety-nine percent purity.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Processors closed loop systems, other equipment used, the extraction operation, and facilities must be approved for their use by the local fire code official and meet any required fire, safety, and building code requirements specified in the Pueblo of Picuris Tribal Law and Order Code.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Other applicable standards including following all applicable fire, safety, and building codes in processing and the handling and storage of the solvent or gas.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Processors may use heat, screens, presses, steam distillation, ice water, and other methods without employing solvents or gases to create kief, hashish, bubble hash, or infused dairy butter, or oils or fats derived from natural sources, and other extracts.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Processors may use food grade glycerin, ethanol, and propylene glycol solvents to create extracts. All ethanol must be removed from the extract in a manner to recapture the solvent and ensure that it is not vented into the atmosphere.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Processors creating cannabis extracts must develop standard operating procedures, good manufacturing practices, and a training plan prior to producing extracts for the marketplace. Any person using solvents or gases in a closed looped system to create cannabis extracts must be fully trained on how to use the system, have direct access to applicable material safety data sheets and handle and store the solvents and gases safely.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>A processing facility that engages in the production of cannabis concentrates, regardless of the method of extraction or type of concentrate being produced, must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Ensure that the space in which any Cannabis Concentrate is to be produced is a fully enclosed room and clearly designated;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Establish a standard operating procedure for each method used to produce a cannabis concentrate;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Establish written quality control procedures designed to minimize any potential risks to employees or contamination of cannabis products;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Ensure that all equipment, counters, and surfaces used in the production of cannabis concentrate is thoroughly cleaned after the completion of each production of a cannabis concentrate;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Provide adequate training prior to individual engaging the production of a cannabis concentrate;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Maintain clear and comprehensive records that document every phase of each step in the production of the cannabis concentrate, which must include the name and license number of every employee that worked on the production of that cannabis concentrate; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Ensure that the room in which cannabis concentrate shall be produced contains an emergency eye-washing station.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-5-3</num>
+      <heading>Food Safety Course.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who processes cannabis into food and other edibles shall be required to   provide evidence of completion of a food safety course that includes basic food handling training and is comparable to or is a course given by a state or county public health agency.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any course taken pursuant to this rule must last at least two hours and cover the following subjects:</text>
+        <para>
+          <num>(1)</num>
+          <text>Causes of foodborne illness, highly susceptible populations and worker illness;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personal hygiene and food handling practices;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Approved sources of food;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Potentially hazardous foods and food temperatures;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Sanitization and chemical use; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Emergency procedures (fire, flood, sewer backup).</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-5-4</num>
+      <heading>Quality Assurance Standards for Edibles and Infused Products.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All medical cannabis processed, and each cannabis derived products, must be tested for patient safety and quality assurance, including but limited to, potency, residual solvents, microbiological testing, and heavy metal testing.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>6</num>
+    <heading>– DISTRIBUTING CANNABIS</heading>
+    <section>
+      <num>12-6-1</num>
+      <heading>Distribution Facility; Licensure.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Prior to licensure, each distribution facility shall establish written operating procedures for the distribution of cannabis. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A description of the cardholder registration and validation process;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A software system to maintain records of registered patients;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The process for tracking cannabis quantities and inventory controls;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The procedure for labeling the patient dosage including testing results for the major active agents in the cannabis (e.g., cannabinoids Tetrahydrocannabinol (THC), Cannabidiol (CBD) and Cannabinol (CBN); and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A transportation plan to deliver medical cannabis to cardholders.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-6-2</num>
+      <heading>Access.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only distribution facility employees, cardholders and persons with bona fide purposes for visiting the premises shall be permitted access into a distribution facility.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All other visitors shall remain in a designated waiting area in the distribution facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-6-3</num>
+      <heading>Duties of Distribution Facility.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each distribution facility shall ensure all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The weight, concentration, and content of THC in all cannabis, edible cannabis products that the distribution facility sell is clearly and accurately stated on the produce sold;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the distribution facility does not sell to a person an amount of cannabis that exceeds 6 (six) ounces of usable cannabis;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That, posted clearly and conspicuously within the distribution facility, are the limits on the possession of cannabis, as set forth in <cite path="12">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Each distribution facility shall be staffed with at least one person during hours of operation who shall not be responsible for dispensing cannabis; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The distribution facility shall have a responsible person on the premises to act as manager at all times during which the distribution facility is open to the public or any portion thereof.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-6-4</num>
+      <heading>Storefront Operations.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Storefront operations must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintain Americans with Disabilities Act (ADA) compliance; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Establish a policy regarding on-site consumption of cannabis or cannabis-derived product in designated areas to address the type or types of consumption allowed (e.g., eating; smoking; vaporizing; or topical application:; hours of operation and limitations for on-site consumption; a ventilation plan, if needed; a protocol to prevent and to address a compliant individual who is or becomes over-medicated and additional issues as necessary.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-6-5</num>
+      <heading>Precautions and Specific Requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The distribution facility shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>The distribution facility shall only distribute cannabis or cannabis products to valid cardholders for personal medical use;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The distribution facility shall display rules and regulations in a conspicuous place that is readily seen by all person entering the distribution facility;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There shall be no on-site use or consumption of cannabis, except in designated areas. Each building entrance to the distribution facility shall be clearly and legibly posted with a notice indicating that smoking, ingesting or consuming cannabis on the premises is prohibited, except in a designated are; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The distribution facility shall only distribute cannabis or cannabis products during normal business hours.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-6-6</num>
+      <heading>Labeling and Packaging.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every package of usable cannabis product shall be labeled with the following;</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the product;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An identification, batch number, or tracking number for the specific package or unit of cannabis, or cannabis product;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The species or stain of cannabis;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of the strength and dosage of the cannabis; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A statement that the cannabis or cannabis product has been tested for safety and quality assurance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following specific requirements for edible cannabis products:</text>
+        <para>
+          <num>(1)</num>
+          <text>List of all ingredients used to manufacture the edible cannabis product; which may include a list of any potential allergens contained within, or used in the manufacture of, the product;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A statement that the cannabis product, if perishable, must be refrigerated; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A product expiration date, for perishable cannabis products, upon which the product will no longer be fit for consumption, or a use-by-date, upon which the product will no longer be optimally fresh. Once a label with a use-by or expiration date has been affixed to a container of a cannabis product, it may not be altered in any way or have a new label affixed with a later use-by or expiration date.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-6-7</num>
+      <heading>Electronic Inventory Control System.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every cannabis business shall maintain an inventory control system with sales records.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The inventory control system must be able to monitor and report information, including without limitation:</text>
+        <para>
+          <num>(1)</num>
+          <text>Insofar as is practicable, the chain of custody and current whereabouts, in real time, of cannabis from the point that it is harvested at a cultivation facility until it is sold at a distribution facility and, if applicable, if it is processed at a facility for the production of cannabis products;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A real time accounting of the total amount of product sold;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The number of the Registry Identification Card;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date on which the Registry Identification Card was issued;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The date on which the Registry Identification Card will expire;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Verification of the identity of a person to whom cannabis or cannabis products are sold or otherwise distributed; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Such other information as the Executive Committee may require.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in <cite path="12|6|12-6-7">this section</cite> products more than one licensed cannabis business or distribution facility from co-owning an electronic inventory control system in cooperation with another licensed cannabis business or distribution facility, or sharing the information obtained therefrom.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A distribution facility must exercise reasonable care to ensure that the personal confidential health and identifying information of medical cannabis cardholders which is contained I an electronic inventory control system is encrypted, protected and not divulged for any purpose not specifically authorized by law.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-6-8</num>
+      <heading>Delivery; Distribution and Licensure.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All licensed medical cannabis delivery companies are approved for the purpose of transporting usable cannabis to registered cardholders statewide, and to deliver medical cannabis between licensed medical cannabis businesses.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A delivery shall provide the Medical Cannabis Programs Manager with:</text>
+        <para>
+          <num>(1)</num>
+          <text>A delivery plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A security plan;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A description of, and proof of insurance for, all vehicles used or intended to be used for the cannabis delivery business;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A complete list of employees including current photographs of each employee;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Protocols for contacting and communicating with cardholders regarding deliveries;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>An attestation that the delivery will not delivery medical cannabis within 300 feet of any school, church, or daycare center; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>An attestation that no firearms will be permitted in any vehicle used by a delivery when transporting or delivering medical cannabis.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>7</num>
+    <heading>– SECURITY AND SITE MANAGEMENT</heading>
+    <section>
+      <num>12-7-1</num>
+      <heading>Security and Site Management.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every licensed cannabis business shall provide adequate security for all cannabis businesses, licensed facilities and laboratories, which shall include at a minimum the following;</text>
+        <para>
+          <num>(1)</num>
+          <text>A fully operational security alarm system;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Secure facility grounds;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Requirement that licensed employees wear and display a current identification vbadge and/or security wand at all times;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Security surveillance cameras shall be installed and maintained in good working condition to monitor the main entrance and exterior of all facilities and laboratories to discourage loitering, crime, illegal or nuisance activities. Security video shall be maintained for a minimum of seventy-two (72) hours;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Professionally monitored robbery alarm and burglary alarm systems shall be installed and maintained in good working condition; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Professionally monitored fire alarm and fire suppression systems shall be installed and maintained in good working condition;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All points of ingress and egress shall have commercial-grade, nonresidential door locks.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>12-7-2</num>
+      <heading>Disturbances of the Peace.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every cannabis business shall take all reasonable steps to prohibit, discourage and correct disturbances of peace, excessive pedestrian or vehicular traffic, illegal drug activity, weapon of any kind, littering, illegal parking, excessive loud noises, especially late at night or early in the morning hours, and lewd, violent, or harassing conduct.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-7-3</num>
+      <heading>Audits.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each cannabis business shall cause to be prepared and annual financial statement of every cultivation facility, processing facility and distribution facility using generally accepted accounting principles that are audited by an independent certified public accountant in conformity with generally accepted auditing standards.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every cannabis business may be subject to a health and sanitary audit of any facility by an independent consultant.  The scope of the audit may include, but not limited to, whether, each facility and laboratory is in compliance with the requirements set forth in <cite path="12">this Title</cite> and other applicable tribal laws, rules and regulations. Failure to perform to the independent audit may result in suspension of operations until the completion of the independent audit and the implementation of any required measures is made.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>8</num>
+    <heading>– COMPLIANCE AND TRAINING</heading>
+    <section>
+      <num>12-8-1</num>
+      <heading>Regulatory Compliance.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Medical Cannabis Program may contract an independent medical cannabis regulatory compliance company to perform on-site assessments or licensed cannabis businesses to determine compliance with <cite path="12">this Title</cite>, or with rules developed and adopted into law, pursuant to <cite path="12">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The compliance company may enforce <cite path="12">this Title</cite> and may review any and all records of a cannabis business for the purpose of determining compliance and in the best interest of the health and welfare of the registered cardholders and the community.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Failure to comply may result in disciplinary action, corrective action, or the revocation of a cannabis business license, at the discretion of the Executive committee.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-8-2</num>
+      <heading>Training.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All licensed cannabis business employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding cannabis in compliance with <cite path="12">this Title</cite>, including but not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Distribution Criteria for cardholders;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Employee policies and procedures;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Professional conduct, ethics, and patient confidentiality;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Security protocols and crime prevention techniques;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Informational developments in the field of medical cannabis;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Patient education information;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Personal safety;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Right to Refuse Service;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Alcohol and Drug Free Workplace procedures;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Tribal, State and Federal Medical Cannabis laws and regulations; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Other policies and procedures that the Executive Committee may require.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>9</num>
+    <heading>– MISCELLANEOUS PROVISIONS</heading>
+    <section>
+      <num>12-9-1</num>
+      <heading>Interpretation and Applicability.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No part of <cite path="12">this Title</cite> shall be deemed to be in positive conflict with federal law as contained in the Controlled Substances Act, 21 U.S.C. section 800 et seq., nor to otherwise permit any activity that is prohibited under that Act or any other tribal, or federal law, statute, rule or regulation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in <cite path="12">this Title</cite> is intended, nor shall it be construed, to burden any defense to criminal prosecution otherwise afforded by tribal law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in <cite path="12">this Title</cite> is intended, nor shall it be construed, to make legal any cultivation, transportation, sale, or other use of cannabis that is otherwise prohibited under tribal law.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-9-2</num>
+      <heading>Adverse Event Hotline.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Medical Cannabis Program shall create and maintain an adverse event hotline to receive reports of any alleged violation of <cite path="12">this Title</cite> and may (1) investigate reports of suspected abuse of the provisions of this part; or (2) refer reports of suspected abuse to the law enforcement agency having jurisdiction in the area where the suspected abuse is occurring.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-9-3</num>
+      <heading>Renumbering and Re-designation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council has the authority to renumber or re-designate the sections and provisions of <cite path="12">this Title</cite> as necessary for modification, uniformity, and accessibility.</text>
+      </para>
+    </section>
+    <section>
+      <num>12-9-4</num>
+      <heading>Effective Date.</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="12">This Title</cite> shall be in full force and effect according to its terms upon adoption by the Tribal Council by Tribal Resolution.</text>
+      </para>
+    </section>
+  </container>
+</container>

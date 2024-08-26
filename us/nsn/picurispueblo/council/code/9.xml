@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
+  <prefix>TITLE</prefix>
+  <num>9</num>
+  <heading>PUEBLO OF PICURIS GAME AND FISH CODE</heading>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <num>9-1-1</num>
+      <heading>Statement of Policy.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Council of the Pueblo of Picuris asserts its civil and political authority as a tribal government to control the resources and property within the exterior boundaries of the Pueblo of Picuris and hereby enacts this Code regulating the fishing, hunting and trapping within the Pueblo of Picuris. The Council further asserts that the power to regulate the harvesting of its natural resources within the boundaries of the Pueblo has never been extinguished by agreements with the United States Government or any other government, and that, as a result, in addition to the aboriginal right to govern itself through its own traditional methods and customs, the Pueblo of Picuris possesses the power to regulate the taking of fish and game animals from within the boundaries of the Pueblo. It is the intent and purpose of this Game and Fish Code to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Provide an orderly system for the control and regulation of hunting and fishing on the Pueblo of Picuris Indian Lands;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide a means to promote the conservation and management of wildlife resources on the Pueblo of Picuris Indian Lands;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide a means to control and regulate outdoor recreational activities on the Pueblo of Picuris Indian Lands.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All matters relating to the conservation, regulation, control and management of the wildlife resources of the Pueblo of Picuris are subject to the jurisdiction of the Pueblo of Picuris.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It is recognized that members of the Pueblo of Picuris have a preferred right, interest in and to the wildlife resources of the Pueblo and that the Pueblo has a legitimate right to establish differing rules and standards to govern the actions of members and non-members of the Pueblo on the subject of wildlife regulation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribal Council shall have the authority to adopt annual proclamations or other regulations for the implementation of the policies of this Game and Fish Code and to alter or amend such proclamations and regulations as conditions indicate.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>All wildlife now or hereafter found within the Pueblo of Picuris Indian Lands, not held by private ownership lawfully acquired, are hereby declared to be the property of the Pueblo of Picuris, and no right, title, interest or property therein can be acquired or transferred or possession thereof had or maintained except as expressly provided herein.</text>
+      </para>
+    </section>
+    <section>
+      <num>9-1-2</num>
+      <heading>Definitions.</heading>
+      <text><strong>"All terrain vehicles"</strong> means any motorized vehicle designed for, or capable of travel over unimproved terrain;</text>
+      <text><strong>"Aquatic wildlife"</strong> means any species of fish, crustaceans, aquatic insects, or amphibians;</text>
+      <text><strong>"Bag limit"</strong> means the maximum number of game animals which may be lawfully taken by an individual in a given period;</text>
+      <text><strong>"Big game animals"</strong> means all species of deer, elk, bighorn sheep, American pronghorn, bear, and mountain lion;</text>
+      <text><strong>"Carcass"</strong> means the body of, or parts of a dead animal;</text>
+      <text><strong>"Certificate of registration"</strong> means a document granting authority to engage in activities not covered by a license, permit or tag issued under this Code or by proclamation of the Tribal Council;</text>
+      <text><strong>"Chumming"</strong> means the introduction of bait usually consisting of parts of fish into the water to attract fish;</text>
+      <text><strong>"Closed season"</strong> means that period of time during which the taking of wildlife is prohibited; "Code" means the Pueblo of Picuris Game and Fish Code;</text>
+      <text><strong>"Department"</strong> means the Pueblo of Picuris Parks and Wildlife Department;</text>
+      <text><strong>"Director"</strong> means the Director of the Pueblo of Picuris Parks and Wildlife Department;</text>
+      <text><strong>"Firearm"</strong> means pistols, revolvers, rifles, shotguns and any other device from which a projectile is expelled with the use of gunpowder;</text>
+      <text><strong>"Fishing"</strong> means any method of taking fish from the waters. The Pueblo of Picuris may determine the proper method or methods for taking of fish from the waters of the Pueblo, and may regulate the taking of fish from waters within its boundaries no matter what type of method is used;</text>
+      <text><strong>"Game fish"</strong> means all species of trout, perch and pike; "Hunting" means the activity or sport of pursuing game;</text>
+      <text><strong>"License"</strong> means the primary document granting authority to engage in activities covered by this Code;</text>
+      <text><strong>"Non-Tribal member"</strong> means all persons who are not enrolled members of the Pueblo of Picuris;</text>
+      <text><strong>"Officer"</strong> means an officer of the Pueblo of Picuris Parks and Wildlife Department or BIA law enforcement;</text>
+      <text><strong>"Open season"</strong> means that period of time during which the taking of wildlife by legal means is permitted;</text>
+      <text><strong>"Permit"</strong> means a secondary document, requiring a license as a prerequisite to its issuance, which grants authority to engage in certain specified activities under this Code or by proclamation of the Tribal Council;</text>
+      <text><strong>"Pueblo of Picuris Indian Lands"</strong> means any land within the exterior boundaries of the Pueblo of Picuris and any waters within the boundaries shall be considered "Indian Land". The term "Indian Land" includes the Pueblo of Picuris and the exterior boundaries as well as any land purchased by, leased by, or otherwise subject to the control of the Pueblo of Picuris;</text>
+      <text><strong>"Possession limit"</strong> means the maximum number of fish or wildlife which may be possessed by an individual at any one time;</text>
+      <text><strong>"Proclamation"</strong> includes the rules and regulations of the Tribal Council adopted and published under the provisions of this Code;</text>
+      <text><strong>"Protected species"</strong> shall include such species as the Pueblo of Picuris Parks and Wildlife Department shall declare and designate, unless altered by regulation or proclamation;</text>
+      <text><strong>"Pueblo"</strong> means the Pueblo of Picuris;</text>
+      <text><strong>"Ranger"</strong> shall mean an officer of the Pueblo of Picuris Parks and Wildlife Department;</text>
+      <text><strong>"Recreational Vehicle"</strong> means a motor vehicle or trailer equipped with living space and amenities found in a home;</text>
+      <text><strong>"Sell"</strong> means offer or possess for sale, barter, exchange or trade, or the act of selling, bartering, exchanging or trading;</text>
+      <text><strong>"Small game animals"</strong> means all species of rabbits, squirrels, bobcats, coyotes, and foxes;</text>
+      <text><strong>"Tag"</strong> means a card, label or other identification device issued for attachment to the carcass of any wildlife prior to transport;</text>
+      <text><strong>"Take"</strong> means to fish, angle, hunt, pursue, catch, capture, trap, kill or possess any wildlife or fish or any attempt to commit any of these acts;</text>
+      <text><strong>"Tribal member" or "member of the Tribe"</strong> means any enrolled member of the Pueblo of Picuris;</text>
+      <text><strong>"Tribe"</strong> means the Pueblo of Picuris;</text>
+      <text><strong>"Wildlife"</strong> means any form of animal life generally living wild in a state of nature, including all wild mammals, birds, fish, reptiles, and amphibians and their nests, eggs and spawn.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>2</num>
+    <heading>THE PUEBLO OF PICURIS PARKS AND WILDLIFE DEPARTMENT.</heading>
+    <section>
+      <num>9-2-1</num>
+      <heading>Pueblo of Picuris Parks and Wildlife Department.</heading>
+      <para>
+        <num>A.</num>
+        <text>The primary responsibility for enforcing the provisions of this Game and Fish Code shall be on the Pueblo of Picuris Parks and Wildlife Department.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The administrative organization of the Pueblo of Picuris Parks and Wildlife Department shall be established and approved by the Tribal Council, and the Director of the Department shall report to and be accountable to the Governor and Tribal Council.</text>
+      </para>
+    </section>
+    <section>
+      <num>9-2-2</num>
+      <heading>Rangers of the Pueblo of Picuris Parks and Wildlife Department.</heading>
+      <para>
+        <num>A.</num>
+        <text>Rangers of the Department shall meet such requirements as to physical characteristics and training as shall be established by the Tribal Council or the Director.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Director may appoint temporary rangers to aid the Department in times of unusual need.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Rangers of the Department shall have the power to issue citations for violations of this Code and to otherwise enforce the provisions of this Code and any proclamations or regulations issued hereunder.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Rangers of the Department shall have the authority to confiscate any fishing equipment, rifles, guns or other fishing or hunting equipment or paraphernalia as reasonably appears to have been involved in the commission of the violation for which the citation was made and shall give the person from whom such items are taken an itemized receipt for all such confiscated items.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Tribal Court, when hearing the case concerning the alleged violation, may in addition to any other penalty imposed upon a finding of guilty, order the forfeiture to the Department of all or part of the confiscated items.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>3</num>
+    <heading>PROCLAMATIONS AND REGULATIONS</heading>
+    <section>
+      <num>9-3-1</num>
+      <heading>Proclamations.</heading>
+      <para>
+        <num>A.</num>
+        <text>Annually or at such other specified periods as the Tribal Council shall direct, the Tribal Council shall adopt a Game and Fish Proclamation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Director of the Pueblo of Picuris Parks and Wildlife Department shall purpose a proclamation to the Tribal Council which, when adopted by the Tribal Council, either with or without amendments, shall have the force of law on the Pueblo of Picuris Indian Lands.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Proclamation shall include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Fix seasons, shorten, extend or closed seasons on any species of wildlife in any specific locality or localities, or within the boundaries of the Pueblo of Picuris. When it shall find, after investigation, that such action is necessary either to assure maintenance of an adequate supply thereof, to regulate taking, or to effectuate proper wildlife management and control;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Close or open ponds, rivers, streams, refuges, specified localities or parts thereof, to angling, trapping or hunting and to regulate and prescribe the means by which wildlife may be taken as in its judgment may be best to perpetuate, restore, increase or control any species of wildlife and assure an adequate supply thereof, to regulate the transportation and storage of all wildlife or parts thereof within the boundaries of the Pueblo of Picuris and the shipment or transportation off the Pueblo of Picuris Indian Lands;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Establish or change bag limits and possession limits;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Establish and change territorial limits for the taking of all species of wildlife;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Prescribe the manner and the means of taking or transporting of any species of wildlife to include, but not limited to, the prescribing of type or kinds of bait, lures, tackle, equipment, traps, firearms and weapons, tagging of game or fish or parts thereof, or any other means or device for taking such wildlife;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Designate areas for hunting with bow and arrow or other specified weapons and the season therefore;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Establish refuges or sanctuaries for game, game birds, fish or fur-bearing animals. When private property is to be included within a refuge, written consent of the owner must first be obtained. All boundary lines shall be posted at the usual place of ingress with signs bearing the title of the Department;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Establish methods for checking hunters, fishermen or trappers into and out of designated areas. Prescribe safety and fire control measures and other regulations as may be deemed necessary in the interest of range, game, fish or fur-bearing animal management, and the safety and welfare of hunters, trappers, fishermen, land-owners and the Pueblo of Picuris;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Establish fees for licenses, permits, tags and special hunting seasons;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Establish rules and regulations governing the operation of all-terrain and recreational vehicles within the Pueblo of Picuris.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>9-3-2</num>
+      <heading>Publication of Proclamation.</heading>
+      <text>The Proclamation adopted by the Tribal Council shall, before its effective date, be published at least once in a newspaper of general circulation on the Pueblo of Picuris and shall be posted in at least three (3) public places within the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>9-3-3</num>
+      <heading>Additional Regulation.</heading>
+      <text>The Tribal Council may adopt additional regulations of either temporary or permanent application governing the dates, places, means, or manners of taking wildlife or any limitations thereon and such regulations shall, when published in the manner provided for proclamations, have the force of law within the Pueblo of Picuris and its boundaries.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>4</num>
+    <heading>FISHING</heading>
+    <section>
+      <num>9-4-1</num>
+      <heading>Jurisdiction.</heading>
+      <text>All persons, including members of the Pueblo of Picuris, are required to have in their possession a valid Pueblo of Picuris tribal permit or fishing license while fishing the waters of the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>9-4-2</num>
+      <heading>Manner of Taking Fish.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person having a license or permit to take fish from the Pueblo of Picuris shall use only one rod or line per license or permit. Any licensee or permittee may have more than one line or rod in possession, but is restricted to the use of two (2) or more hooks or two (2) or more sets of hooks, lures or bait per line or rod.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person fishing on the Pueblo of Picuris may use any type or species of live fish to take fish, or any electric or shocking device to stun or kill fish nor any explosive device or poison in the waters on the Pueblo of Picuris.</text>
+      </para>
+    </section>
+    <section>
+      <num>9-4-3</num>
+      <heading>Areas Open to Fishing.</heading>
+      <para>
+        <num>A.</num>
+        <text>Persons having a license or permit to fish on the Pueblo of Picuris are permitted to fish at the pond created and maintained for the purpose of fishing. The Pueblo of Picuris also permits fishing, for tribal members only, along designated portions of streams within the boundaries of the Pueblo of Picuris.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Pueblo of Picuris, at any time, may restrict fishing within the Pueblo of Picuris by giving notice of the closing of certain waters.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All other lands of the Pueblo of Picuris not designated as open to reasonable travel, whether posted or not, are not available for general use by persons holding licenses or permits.</text>
+      </para>
+    </section>
+    <section>
+      <num>9-4-4</num>
+      <heading>Limits.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person having a license or permit shall be permitted to take no more than eight (8) fish per day. No fish may be returned to the water after being brought to land, and all fish brought to land shall be considered as part of the limit.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person possessing one-day licenses for successive days or a season license may not have more than the daily limit in possession.</text>
+      </para>
+    </section>
+    <section>
+      <num>9-4-5</num>
+      <heading>Chumming.</heading>
+      <text>No chumming may be allowed in the waters on the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>9-4-6</num>
+      <heading>Fishing Hours.</heading>
+      <text>Persons holding Pueblo of Picuris licenses or permits may take fish on designated waters by any permissible means from sun-up to sun-down or as posted by the Department.</text>
+    </section>
+    <section>
+      <num>9-4-7</num>
+      <heading>Access to Fishing Areas.</heading>
+      <text>Persons holding Pueblo of Picuris licenses or permits to take fish must park only in designated areas and no driving off designated roads will be allowed.</text>
+    </section>
+    <section>
+      <num>9-4-8</num>
+      <heading>Littering.</heading>
+      <text>In order to maintain a pleasant environment in which to fish and to keep foreign substances from polluting the fishing areas, persons holding Pueblo of Picuris licenses or permits, and any persons accompanying or in in the company of a licensee or permittee shall not litter on the Pueblo of Picuris. All material brought on Pueblo of Picuris land must be removed, consumed, or placed in appropriately marked containers.</text>
+    </section>
+    <section>
+      <num>9-4-9</num>
+      <heading>License Fees.</heading>
+      <text>All persons not specifically exempted from the requirement of holding a Pueblo license or permit shall have in possession a valid license issued by the Pueblo in order to take fish on Indian Land. Schedule of license or permit fees shall be set by the Department and may be subject to change without notice.</text>
+    </section>
+    <section>
+      <num>9-4-10</num>
+      <heading>Civil Damage.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person violating the provision of this Code shall be liable for damges in the Tribal Court of the Pueblo of Picuris.</text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <u>No License.</u>
+          </text>
+          <text>A person found fishing or taking fish without valid Pueblo of Picuris license in possession shall be determined to have committed trespass against the Pueblo.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <u>Closed Waters.</u>
+          </text>
+          <text>Any person required to have a valid Pueblo license in possession while fishing shall be determined to have committed trespass against the Pueblo if found fishing in closed waters.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <u>Exceeding the Limit.</u>
+          </text>
+          <text>Any person found with more fish in possession than this ordinance permits shall be deemed to have destroyed the private property of the Pueblo and shall be liable to the Pueblo in damages at the rate of ten dollars ($10.00) per fish or as set by the Department.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>
+            <u>Littering.</u>
+          </text>
+          <text>Any person found littering shall be deemed to have destroyed the private property of the Pueblo and shall be liable to the Pueblo in damages.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>
+            <u>Cleaning Fish and Waste.</u>
+          </text>
+          <para>
+            <num>A.</num>
+            <text>Any person cleaning fish in or within thirty (30) feet of any pond or stream, and not within a fish cleaning area, shall be deemed to have destroyed the private property of the Pueblo or alternatively to have cause a nuisance and shall be liable to the Pueblo in damages.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>No fish may be wasted, discarded, or thrown away.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Bait and Rod Line Limitations.</text>
+          <text>Any person who shall use bait or hooks which are not allowed by this Code, or who shall use more than one rod or line contrary to the provisions of this ordinance shall be deemed to have destroyed the private property of the Pueblo and shall be liable for damages.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>5</num>
+    <heading>HUNTING AND TRAPPING</heading>
+    <section>
+      <num>9-5-1</num>
+      <heading>Enrolled Members.</heading>
+      <text>Enrolled members of the Pueblo of Picuris may hunt within the boundaries of the Pueblo of Picuris provided they are in possession of a valid hunting license issued by the Tribe. Enrolled members of the Pueblo of Picuris may operate trap lines within the boundaries of the Pueblo, provided they are in possession of a valid trapping license issued by the Tribe.</text>
+    </section>
+    <section>
+      <num>9-5-2</num>
+      <heading>Non-Members of the Pueblo of Picuris.</heading>
+      <text>Non-members of the Pueblo of Picuris may not hunt nor possess firearms within the jurisdiction of the Pueblo of Picuris unless licensed to do so by the Governor. Non-members of the Pueblo of Picuris may not operate trap lines on the Pueblo, except by special permission of the Governor.</text>
+    </section>
+    <section>
+      <num>9-5-3</num>
+      <heading>Seasons, Bag Limits, Etc.</heading>
+      <text>The Governor and Tribal Council shall, from time to time, determine fishing, hunting and trapping seasons, as well as bag limits, areas and species of hunts and any other conditions relating thereto.</text>
+    </section>
+    <section>
+      <num>9-5-4</num>
+      <heading>Sale of Wild Game Prohibited.</heading>
+      <text>Wild game is not a commercial commodity and the sale of game meat is prohibited. Game meat should not be left to spoil but should be shared with other members of the Pueblo of Picuris by notifying them of the place of its availability.</text>
+    </section>
+    <section>
+      <num>9-5-5</num>
+      <heading>Trap Lines.</heading>
+      <text>Trap lines must be run or inspected regularly to insure there is no spoilage of game and/or pelts.</text>
+    </section>
+    <section>
+      <num>9-5-6</num>
+      <heading>Tagged Birds or Animals.</heading>
+      <text>Each hunter shall report all tagged birds and animals to the Pueblo of Picuris Parks and Wildlife Department, which will transmit the information to the proper agencies.</text>
+    </section>
+    <section>
+      <num>9-5-7</num>
+      <heading>Reporting of Birds and Animals Taken.</heading>
+      <text>All wild game birds or animals killed or trapped must be reported to the Pueblo of Picuris Parks and Wildlife Department for informational purposes for the protection and conservation of game on the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>9-5-8</num>
+      <heading>Manner of Hunting Prohibited.</heading>
+      <text>No person shall shoot at, kill or pursue any game animal from an automobile or other self- propelled vehicle, or shoot at, or kill any game animals with the aid of any light or lights attached to such vehicle or by means of any other artificial light.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>6</num>
+    <heading>CAMPING, HIKING AND PICNICKING</heading>
+    <section>
+      <num>9-6-1</num>
+      <heading>Privileges Available Only to Tribal Members.</heading>
+      <text>Camping, hiking, and picnicking privileges are for Pueblo of Picuris tribal members only and only on sites as designated by the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>9-6-2</num>
+      <heading>Disposition of Litter.</heading>
+      <text>No person while camping, hiking or picnicking within the boundaries of the Pueblo of Picuris shall dump trash or leave litter except in proper receptacles.</text>
+    </section>
+    <section>
+      <num>9-6-3</num>
+      <heading>Control of Fires.</heading>
+      <text>Any person while camping, hiking or picnicking within the boundaries of the Pueblo of Picuris, must ensure that any campfires set are not left unattended and are completely out prior to departure. Fires shall only be set in areas designated by the Pueblo of Picuris.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>7</num>
+    <heading>NOTICE TO PUBLIC</heading>
+    <section>
+      <num>9-7-1</num>
+      <heading>Notice of this Code and Rules and Regulations of the Pueblo of Picuris Parks and Wildlife Department.</heading>
+      <text>Every person engaged in hunting, fishing or trapping, or any other activity covered by this Code, shall be deemed to have knowledge of this Code and any implementing rules and regulations adopted by the Pueblo of Picuris Parks and Wildlife Department. All rules and regulations adopted by the department shall be printed and posted within the Pueblo of Picuris and copies delivered to State and local officials, local newspapers and to persons who are required to apply for permits from the Pueblo of Picuris Parks and Wildlife Department to engage in such pursuits on the Pueblo of Picuris.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>8</num>
+    <heading>VIOLATIONS OF THIS CODE</heading>
+    <section>
+      <num>9-8-1</num>
+      <heading>Violations of this Code or any Rules and Regulations Promulgated by the Pueblo of Picuris Parks and Wildlife Department.</heading>
+      <text>The procedures for violations of this Code or any approved Rules and Regulations promulgated by the Pueblo of Picuris Parks and Wildlife Department are set forth in this Code shall be pursued through an administrative hearing. Unless otherwise provided in this Code, violators of the provisions hereof, upon preponderance of evidence, may be subject to a penalty assessment by the Court not to exceed five ($500.00) hundred dollars, and/or forfeiture of fishing, hunting or trapping equipment or such other orders of the Court, with costs, and may be subject to the exclusion and/or removal provisions of the Pueblo of Picuris Tribal Code.</text>
+    </section>
+  </container>
+</container>

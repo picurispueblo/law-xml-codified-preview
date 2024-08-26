@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
+  <prefix>TITLE</prefix>
+  <num>8</num>
+  <heading>EXCLUSION AND REMOVAL CODE</heading>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <num>8-1-1</num>
+      <heading>Statement of Intent and Purpose.</heading>
+      <text>The Pueblo of Picuris, by its Tribal Council, hereby finds and determines that pursuant to the power vested in the Pueblo of Picuris as a sovereign Indian Tribe, the authority of the Pueblo of Picuris under the laws of the United States of America and applicable treaties, it is necessary to provide a means whereby the Pueblo can protect itself, its members, and other persons living on the lands of the Pueblo of Picuris, from people whose presence on the Pueblo lands is harmful to, or threatens harm to, the peace, health, safety, morals and general welfare of the Pueblo and its members. Such action is deemed necessary as a result of the Pueblo's interest in maintaining the aforementioned free from harm, to protect the cultural identity of the Pueblo, and to protect those residents of the Pueblo of Picuris and its exterior boundaries who may be imposed upon, harmed or otherwise disadvantaged. The procedures outlined herein are intended to provide procedural fairness to persons affected by these provisions while at the same time recognizing the need, in appropriate situations, to act immediately to remedy actual or threatened harms.</text>
+    </section>
+    <section>
+      <num>8-1-2</num>
+      <heading>Persons Subject to Exclusion and Removal.</heading>
+      <text>All persons whether or not members of the Pueblo of Picuris or who are not authorized by federal law to be present on the Pueblo of Picuris, to include the exterior boundaries, may be excluded or removed from all or any portion of the Pueblo of Picuris. These lands include those presently or which may hereafter be added thereto within the exterior boundaries of the Pueblo of Picuris, and all lands owned by the Pueblo subject to federal law restrictions on alienation or held, in trust, by the United States for the use and benefit of the Pueblo.</text>
+    </section>
+    <section>
+      <num>8-1-3</num>
+      <heading>Grounds for Exclusion and Removal.</heading>
+      <text>A person is subject to exclusion and removal as provided herein, may be excluded and/or removed from the boundaries of the jurisdiction of the Pueblo of Picuris as defined in this Tribal Code, upon any one or more of the following grounds:</text>
+      <para>
+        <num>A.</num>
+        <text>Hunting, fishing or trapping on the Pueblo of Picuris, to include the exterior boundaries, without authority from the Pueblo or contrary to the rules and regulations of the Tribe governing such activities;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Trading or conducting business within the boundaries of the Pueblo of Picuris in violation of Tribal regulations;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Prospecting within the boundaries of the Pueblo of Picuris without authority of the Pueblo;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Mining, cutting timber, grazing or other use, abuse or damage to Tribal property without authority from the Pueblo;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Exploring for, or excavating items, sites, or locations of historic, religious or scientific significance without authority from the Pueblo, or in violation of federal laws or regulations;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Being in or traveling upon the Pueblo of Picuris while afflicted with a communicable or contagious disease;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Committing frauds, confidence games, or usury against Indian people residing within the boundaries of the Pueblo of Picuris, or inducing them to enter into grossly unfavorable contracts of any kind;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Repeated commission of criminal offenses;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Interfering with or photographing Pueblo of Picuris ceremonies or religious shrines without permission from the persons involved or the Pueblo;</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Repeated invasion of the privacy of the residents within the jurisdiction of the Pueblo of Picuris;</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Interfering with the official, political, governmental business or religious affairs of the Pueblo;</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Doing, or threatening to do, any act upon the Pueblo of Picuris which seriously threatens the peace, health, safety, morals and general welfare of the Pueblo, its members or other persons living within the boundaries of the Pueblo of Picuris;</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Any other objectionable behavior or condition found by the Tribal Court to be sufficient cause of exclusion; provided, that the person has been first advised of the objection and nevertheless continues the misconduct or condition.</text>
+      </para>
+    </section>
+    <section>
+      <num>8-1-4</num>
+      <heading>Proceedings for Exclusion and Removal.</heading>
+      <text>Upon complaint of any member of the Pueblo, the Tribal Court may determine whether a person has committed any of the aforementioned acts constituting grounds for exclusion and removal and whether or not the removal and/or exclusion of such person is to be ordered. Such proceedings shall be conducted as provided herein below. An Order of Exclusion and/or Removal may be entered by the Tribal Court.</text>
+    </section>
+    <section>
+      <num>8-1-5</num>
+      <heading>Emergency Exclusion and Removal Without Prior Hearing.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whenever the Tribal Court finds that there is an immediate need to order the exclusion and/or removal of a person from the Pueblo of Picuris, and its boundaries, and that the granting of notice and opportunity to be heard to such persons prior to making such order would cause a delay seriously detrimental to the interests of the Pueblo or its members, the Tribal Court shall immediately order such exclusion and/or removal and provide the notice and opportunity for review of such decision as outlined below.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whenever the exclusion and/or removal is ordered without a prior hearing as provided herein, the person shall be served with a notice of such action. Such notice shall state the nature and extent of the exclusion and/or removal so ordered, shall state the reasons why no prior hearing was held, shall inform the person that once he/she has complied with the order, he/she may immediately petition the Tribal Court for a hearing to reconsider the order, that he/she may be represented by counsel at such hearing and present evidence in his/her own defense, and shall inform him/her that his/her compliance with such order may be enforced by BIA law enforcement officers. A copy of the order shall be served with the notice and such service may be accomplished by personal service or, if personal service is not reasonably possible, by mailing to the person by United States registered mail, return receipt requested, at his/her last known address.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon receipt of a petition for a hearing as provided above, the Tribal Court shall schedule a hearing to allow the person to present evidence. Such hearing shall be held within two (2) weeks of the receipt of the petition, provided however, that the Order of Exclusion and/or Removal shall remain in force pending the hearing and a decision thereon, except for the purposes of attending a hearing.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribal Court shall, as a result of such hearing, either affirm, modify or rescind its previous order. If a decision is not made during the hearing the Court shall give the person notice of such decision in the same manner as provided for service of the notice above.</text>
+      </para>
+    </section>
+    <section>
+      <num>8-1-6</num>
+      <heading>Hearing on Exclusion and/or Removal in Non-Emergency Situations.</heading>
+      <para>
+        <num>A.</num>
+        <text>In all other cases of exclusion and/or removal, the Court Clerk shall cause to be served a copy of the petition and a Notice of Hearing upon the person involved either by personal service, or if such service is not reasonably possible, by mailing to the person by United States registered mail, return receipt requested to the last known address of such person. Such notice shall contain the date and time of the hearing, which shall not be less than three (3) days from the date of service, and shall further inform him/her that he/she may appear, with counsel if he/she desires, and present evidence in his/her own defense.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The hearing on a proposed exclusion and/or removal may be held at a regular session of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Tribal Court shall hear the evidence presented and shall, if appropriate, order the exclusion and/or removal of the person. If the person is not present at such hearing, or if a decision thereon is not rendered until after the hearing, appropriate notice shall be served on the person in the manner provided in <cite path="8|1|8-1-6|A">Section 8-1-6A</cite>, informing him/her of the action of the Tribal Court and such notice shall include a copy of any Order of Exclusion and/or Removal, which affects such person.</text>
+      </para>
+    </section>
+    <section>
+      <num>8-1-7</num>
+      <heading>Review of Orders of Exclusion and/or Removal.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Southwest Intertribal Court of Appeals (SWITCA) shall have exclusive authority to hear appeals from Orders of Exclusion and/or Removal after a hearing has been held thereon before the Tribal Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>SWITCA shall have authority to stay an Order of Exclusion and/or Removal upon such conditions of security as it deems just only if all prior hearing remedies have been exhausted and only if no substantial interest of the Pueblo, its members, or other residents of the Pueblo of Picuris will be harmed thereby.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All Orders of Exclusion and/or Removal shall remain in full force and effect during periods of hearing(s) or review unless stayed as provided herein.</text>
+      </para>
+    </section>
+    <section>
+      <num>8-1-8</num>
+      <heading>Enforcement of Orders of Exclusion and/or Removal.</heading>
+      <text>All law enforcement officers of the Bureau of Indian Affairs are hereby empowered to carry into effect any exclusion and/or removal order of the Pueblo of Picuris Tribal Court according to the terms of such order.</text>
+    </section>
+  </container>
+</container>

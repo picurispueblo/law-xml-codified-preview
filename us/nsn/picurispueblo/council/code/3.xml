@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
+  <prefix>TITLE</prefix>
+  <num>3</num>
+  <heading>RULES OF CRIMINAL PROCEDURES</heading>
+  <container>
+    <prefix>RULE</prefix>
+    <num>1</num>
+    <heading>SCOPE, PURPOSE AND CONSTRUCTION</heading>
+    <para>
+      <num>A.</num>
+      <text>These rules govern the procedure in all criminal proceedings in the Pueblo of Picuris Tribal Court and all preliminary or supplementary procedures as specified herein.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Every proceeding in which a person is charged with an offense of any degree is a criminal proceeding.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>These rules are intended to provide for the just determination of every criminal proceeding. They shall be construed to secure simplicity, fairness in administration and the elimination of unjustifiable expense and delay.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>2</num>
+    <heading>PROSECUTION OF OFFENSES</heading>
+    <para>
+      <num>A.</num>
+      <text>No person shall be punished for an offense except upon a legal conviction, including a plea or admission of guilt in open court, by a court of competent jurisdiction, provided, however, that no incarceration or other disposition of one accused of an offense prior to trial in accordance with these rules shall be deemed a punishment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All criminal proceedings shall be prosecuted in the name of the Pueblo of Picuris, Plaintiff, against the person charged with an offense, referred to as the defendant.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>3</num>
+    <heading>RIGHTS OF DEFENDANT</heading>
+    <text>In all criminal proceedings, the defendant shall have the following rights:</text>
+    <para>
+      <num>A.</num>
+      <text>To appear and defend in person or by counsel, except:</text>
+      <para>
+        <num>(1)</num>
+        <text>The defendant may represent him/herself or be represented by an adult enrolled Tribal member, or by any attorney admitted to practice before the Tribal Court, but no defendant shall have the right to have appointed professional counsel provided at the Tribe's expense.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To be informed of the nature of the charges against him/her and to have a copy thereof;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To testify on his/her own behalf, or to refuse to testify regarding the charge against him/her, provided, however, that once a defendant takes the stand to testify on any matter relevant to the immediate proceeding against him/her, he/she shall be deemed to have waived all right to refuse to testify in that criminal proceeding;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>To confront and cross-examine all witnesses against him/her, subject to the Rules of Evidence;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>To compel by subpoenas the attendance of witnesses for his/her defense;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To have a speedy public trial by an impartial Judge or as provided in these rules;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>To appeal in all cases;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>To prevent his/her present spouse from testifying against him/her, except:</text>
+      <para>
+        <num>(1)</num>
+        <text>In any case in which the offense charged is alleged to have been committed against the spouse, or the children of either spouse or the defendant, or against the marital relationship;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any testimony by the spouse on the defendant's behalf will be deemed a waiver of this privilege.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Not to be put twice in jeopardy by the Pueblo of Picuris Tribal Court for the same offense.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>4</num>
+    <heading>LIMITATIONS</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as provided in number (2) below, a complaint shall be filed following the commission of an offense within the period specified:</text>
+      <para>
+        <num>(1)</num>
+        <text>Class A offense – 3 months;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Class B offense – 1 month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Class C offense – 1 week.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The period of limitations shall commence upon the commission of the offense and shall not run during any period during which the defendant is not physically located on the Pueblo of Picuris or its exterior boundaries.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>5</num>
+    <heading>THE COMPLAINT</heading>
+    <para>
+      <num>A.</num>
+      <text>The complaint is a written statement of the essential facts constituting the offense charged.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All complaints, other than traffic and fish and game citations, shall be made upon oath before a Judge or Court Clerk of the Pueblo of Picuris Tribal Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The complaint must state:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the person accused, if known, or some other name if not known, plus whatever description of the person is accused is known;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The general location where the offense(s) was committed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The general name and code designation of the offense(s);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A short, concise statement of the specific acts or omissions to act complained of;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The person against whom or against whose property the offense(s) was committed, if known, otherwise no statement need be made;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The date and approximate time of commission of the offense(s), if known:</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The name of the person filling the complaint.</text>
+        <text>No minor omission from or error in the form of the complaint shall be grounds for dismissal of the case unless some significant prejudice against the defendant can be shown to result therefrom.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>It shall not be necessary to charge a specific Class (Class A, B, or C) of an offense which depends on the degree of punishment upon some factual finding (e.g., the value of the property taken in a theft offense). If a factual allegation is made which will supply the information needed to determine the degree of the offense, such allegation shall be considered as true for all preliminary matters (e.g., setting bail). If no such factual allegation is made, the offense shall be considered, for all preliminary matters, to be of the least degree possible under the facts alleged.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Judge issuing the complaint shall examine such complainant under oath to ascertain his/her knowledge as to the facts alleged in the complaint and determine if probable cause exists to issue such complaint.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If it appears from the complaint and the examination of the complainant that probable cause exists to believe that an offense has been committed, the Chief Judge shall issue the complaint by affixing his/her signature thereto.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Traffic offense citations, in a form approved by the Chief Judge of the Pueblo of Picuris Tribal Court, may be issued and take the place of the complaint in traffic offense cases.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>6</num>
+    <heading>ARREST WARRANT OR SUMMONS</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon the issuance of the complaint, a warrant for arrest or a summons shall be issued to bring the defendant named in the complaint before a Judge of the Tribal Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Whenever it is provided that a warrant may be issued for the arrest of a person charged with a commission of an offense, the Judge shall issue, or cause to be issued, a summons instead of a warrant, unless he/she has reasonable ground to believe that the person will not appear upon a summons, in which case a warrant for arrest shall be issued.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The warrant for arrest shall be signed by the Judge issuing such and shall contain the name of the defendant, social security number, date of birth and all known aliases. It shall describe the offense charged and it shall command that the defendant be arrested and brought before the Judge to enter a plea.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>When a summons shall be issued, it shall name the defendant, the offense charged, and order the defendant to appear before the Chief Judge on a specific date, time and place. If a defendant fails to appear in response to the summons, a warrant for arrest shall be issued.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Summonses shall be served by a BIA Law Enforcement officer or any other adult person designated to perform such function by the Chief Judge of the Tribal Court or the Chief of Police.</text>
+      <para>
+        <num>(1)</num>
+        <text>Such service may be accomplished any place within the exterior boundaries of the Pueblo of Picuris as defined in <cite path="1|2|1-2-2">Section 1-2-2</cite> in the Tribal Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date, time, and place of service or arrest shall be endorsed on the warrant's or summons's return of service, along with the name of the person serving such, which shall be returned to the Court, and a copy of which, so endorsed, shall be left with the person served.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An officer need not have the warrant in his/her possession at the time of arrest; but if he/she does not, he/she shall inform the defendant that a warrant has been issued, the nature of the charge, and shall provide the defendant with a copy of the arrest warrant and complaint no later than at the time of arraignment.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If reasonably possible, a properly endorsed copy of the summons or warrant, plus a copy of the complaint shall be given to the defendant at the time of service or arrest.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Should a defendant refuse service of a summons or should a defendant's whereabouts be unknown after a reasonable search, an arrest warrant shall be issued.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>7</num>
+    <heading>ARRAIGNMENT</heading>
+    <para>
+      <num>A.</num>
+      <text>As soon as reasonably possible after arrest, but not more than seventy-two (72) hours thereafter, or within the period designated on the summons, the defendant shall appear or be brought before the Chief Judge and the defendant shall be informed of his/her right to counsel. If the defendant desires but does not presently have counsel, he/she will be given a reasonable time to secure such before entering a plea.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At such time, the complaint will be read to the defendant, and the defendant will be asked to enter a plea.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The defendant will enter his/her plea or the Court will enter one for him/her, and he/she will then be advised regarding sentencing or bail as is appropriate.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The defendant shall be provided with a copy of the complaint and his/her rights if he/she has not yet received one.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>8</num>
+    <heading>COMMITMENTS</heading>
+    <para>
+      <num>A.</num>
+      <text>No person shall be detained or jailed under the Tribal Code for a period longer than seventy- two (72) hours unless a commitment order has been issued, bearing the signature of the Chief Judge of the Tribal Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Pending investigation of charges or pending trial, a temporary commitment shall be issued.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A final commitment order shall be issued for persons jailed as a result of a sentence of the Tribal Court.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>9</num>
+    <heading>JOINDER OF OFFENSES AND OF DEFENDANTS</heading>
+    <para>
+      <num>A.</num>
+      <text>Two or more offenses may be charged in the same complaint in a separate count for each offense if such offenses are of the same character or are based on the same act or transaction or constitute parts of a common scheme or plan.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Two or more defendants may be charged in the same complaint if they are alleged to have participated in the same act or transaction constituting an offense or offenses. Such defendants may be charged in one or more counts together or separately and all of such defendants need not be charged on each count.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>10</num>
+    <heading>PLEAS</heading>
+    <para>
+      <num>A.</num>
+      <text>A defendant may plead guilty, not guilty or no contest. The Court shall not accept a plea of guilty without first addressing the defendant and determining that the plea is made voluntarily with understanding of the nature of the charge and the consequences of the plea. If the defendant refuses to plead or if the Court refuses to accept a plea of guilty, the court shall enter a plea of not guilty. The Court shall not enter a judgment upon a plea of guilty unless it is satisfied that there is factual basis for the plea.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The defendant, with the consent of the Court and of the prosecuting authority, may plead guilty to a lesser offense than that charged, which is an included offense in the offenses charged in the complaint, or to any lesser degree of the offense charged.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>11</num>
+    <heading>PLEADINGS AND MOTIONS BEFORE TRIAL:  DEFENSES AND OBJECTIONS</heading>
+    <para>
+      <num>A.</num>
+      <text>Pleadings in criminal proceedings shall consist of the complaint and the plea of either guilty, not guilty or no contest. All other pleas and motions shall be made in accordance with these Rules.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Motions raising defenses and objections may be made as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any defenses or objections, which are capable of determination other than at trial, may be raised before trial by motion.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Defenses and objections based on defects in the institution of the prosecution of the complaint other than it fails to show jurisdiction in the Court or fails to charge an offense may be raised on motion only before trial or such shall be deemed waived, unless the Court for good cause shown grants relief from such waiver. Lack of jurisdiction or failure to charge an offense may be raised as defenses or noticed by the Court on its own motion at any stage of the proceeding.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Such motions shall be made in writing and filed with the Court at least five (5) business days before the day set for trial. Such motions will be argued before trial on the date of trial unless the Court directs otherwise. Decision on such motions shall be made by the Judge and not by the jury.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a motion is decided against a defendant, the trial shall proceed as if no motion were made. If a motion is decided in favor of a defendant, the Judge shall alter the proceedings or enter judgment as is appropriate in light of the decision.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>12</num>
+    <heading>TRIAL TOGETHER OF CHARGES</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court may order two or more defendants tried together if they could have been joined in a single complaint or may order a single defendant tried on more than one complaint at a single trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If it appears that a defendant or the Pueblo of Picuris is prejudiced by a joinder of offenses or other defendants for trial together, the Court may order separate complaints and may order separate trials or proved such other relief as justice requires. In ruling on a motion for severance, the Court may order the Pueblo of Picuris to deliver to the Court for inspection in chambers, any statement made by a defendant who the Pueblo of Picuris intends to introduce in evidence at the trial.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>13</num>
+    <heading>DISCOVERY AND INSPECTION; ALIBI DEFENSE</heading>
+    <para>
+      <num>A.</num>
+      <text>The police, or prosecutor, shall, upon request, permit the defendant or his/her attorney to inspect and copy any statements or confessions, or copies thereof, made by the defendant if such are within the possession or control or are reasonably obtainable by the police or prosecution. The police and prosecution shall make similarly available copies of reports of physical, mental or scientific test or examinations relating to or done on the defendant.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The defendant or his/her attorney shall reveal by written notice to the Court at least five (5) working days before trial the names of any witnesses upon whom the defense intends to rely on to provide an alibi defense for the defendant. Failure to provide such notice will prevent the use of such witnesses by the defense unless it can be shown by the defense that prior notice was impossible or that no prejudice to the prosecution has resulted, in which case the Judge may order the trial delayed or make such other orders as tend to assure a just determination of the case.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>14</num>
+    <heading>SUBPOENA</heading>
+    <para>
+      <num>A.</num>
+      <text>A subpoena is an Order of the Court issued by the Chief Judge or Court Clerk. It shall contain the name of the Court, the title of the case, and shall command each person to whom it is directed, to attend and give testimony.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A subpoena may be served by a BIA Law Enforcement officer or other individual over the age of 18 designated by the Chief Judge or Chief of Police. Service shall be accomplished by handing a copy of the subpoena to the person named therein. No fees or mileage allowance need be tendered with service.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A subpoena may be served any place within the territorial jurisdiction of the Tribal Court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Failure, without adequate excuse, to obey a properly served subpoena may be deemed a contempt of court and prosecution thereof may proceed upon the Order of the Court. No contempt shall be prosecuted unless a return of service of the subpoena has been made on which is endorsed the date, time and place of service and the person performing such service.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>15</num>
+    <heading>TRIAL BY JURY OR BY THE COURT</heading>
+    <para>
+      <num>A.</num>
+      <text>All trials of offense shall be by the Court, without a jury, unless the defendant requests for a jury trial at the time of arraignment. Failure to request a jury trial during the arraignment proceeding shall be deemed a waiver of this right.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Juries shall be composed of six (6) members with one (1) alternate, if such is deemed advisable by the Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In a case tried without a jury, the Judge shall make a general finding of guilt or innocence and shall make specific findings, which shall be embodied in a written decision.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>16</num>
+    <heading>TRIAL JURORS</heading>
+    <para>
+      <num>A.</num>
+      <text>Jurors shall be drawn from the list of eligible jurors, prepared as provided in the Tribal Code, by the Court Clerk in advance of trial. Jurors to sit at trial shall be drawn by lot from the group of potential jurors by the Judge or Court Clerk at trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Court shall permit the defendant or his/her counsel and the prosecutor to examine the jurors and the Court itself may make such an examination.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Challenges regarding jury members may be taken as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Each side shall be entitled to three (3) peremptory challenges;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Either side may challenge any juror for cause;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An alternate juror shall be treated as a regular juror for purposes of challenges.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The alternate juror shall be dismissed prior to the jury's retiring to deliberate if he/she has not first been called to replace an original juror who has become, for any reason, unable or disqualified to serve.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>17</num>
+    <heading>JUDGE DISABILITY</heading>
+    <para>
+      <num>A.</num>
+      <text>If by reason of death, sickness or other disability, the Judge before whom a jury trial has commenced is unable to proceed with the trial, any other Tribal Court Judge may, upon certifying that he/she has been familiarized with the record of the trial, proceed with the trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If by reason of death, sickness or other disability, the Judge before whom the defendant has been tried is unable to perform the required duties of a Judge after the verdict or finding of guilt, any other Tribal Court Judge may perform those duties unless such Judge feels he/she cannot fairly perform those duties, in which case a new trial may be granted. A new trial shall not be granted if all that remains to be done is the sentencing of a defendant.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>18</num>
+    <heading>EVIDENCE</heading>
+    <text>The admissibility of evidence and the competence and privileges of witnesses shall be governed by the Federal Rules of Evidence, except as herein otherwise provided.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>19</num>
+    <heading>EXPERT WITNESSES AND INTERPRETERS</heading>
+    <para>
+      <num>A.</num>
+      <text>Either party may call expert witnesses of their own selection and each bear the cost of each.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Court may appoint an interpreter of its own selection and each party may provide their own interpreters. An interpreter through whom testimony is received from a defendant or witness or communicated to a defendant or other witness shall be put under oath to faithfully and accurately translate and communicate as required by the Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Trial Judge or Court Clerk may act as interpreter with the consent of all parties.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>20</num>
+    <heading>MOTION FOR JUDGMENT OF ACQUITTAL</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court on motion from defendant or on its own motion shall order the entry of judgment of acquittal of one or more offenses charged in the complaint after the evidence of either side is closed if the evidence is insufficient as a matter of law to sustain a conviction of such offenses. A motion for acquittal by the defendant does not affect his/her right to present evidence.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a motion for judgment of acquittal is made at the close of all evidence, the Court may reserve decision on the motion, submit the case to the jury and decide the motion any time either before or after the jury returns its verdict or is discharged.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>21</num>
+    <heading>INSTRUCTIONS</heading>
+    <text>At the close of the evidence or at any time during the trial as the Court directs, any party may file proposed written jury instructions. The Court shall inform counsel of its decision upon the proposed instructions prior to their arguments to the jury, but the Court shall instruct the jury after arguments are completed. No party may assign as error the giving or the failure to give an instruction, unless objection is made before the jury retires to consider its verdict, stating distinctly the instruction objected to or improperly omitted and the grounds of his/her objection.    Opportunity shall be given to make the objection out of the hearing of the jury.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>22</num>
+    <heading>VERDICT</heading>
+    <para>
+      <num>A.</num>
+      <text>The verdict of the jury shall be unanimous. It shall be returned by the jury to the Judge in open Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If there are two or more defendants, the jury may at any time during its deliberations return a verdict or verdicts with respect to a defendant or defendants as to whom it has agreed; if the jury cannot agree as to all, the defendant or defendants as to whom it does not agree may be tried again.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The defendant may be found guilty of an offense necessarily included in the offense charged or of an attempt to commit either the offense charged or an offense necessarily included therein if such an attempt is an offense, without the necessity of the defendant having been formally charged with such lesser offenses or with attempt.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>When a verdict is returned and before it is recorded, the jury shall be polled at the request of any party or upon the Court's own motion. If upon the poll there is not unanimous concurrence, the jury may be directed to retire for further deliberations or may be discharged.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>23</num>
+    <heading>SENTENCE AND JUDGMENT</heading>
+    <para>
+      <num>A.</num>
+      <text>A judgment of conviction shall set forth the plea, the verdict or findings, and the adjudication and sentence when imposed. If the defendant is found guilty or for any other reason is entitled to be discharged, judgment shall be entered accordingly. The judgment shall be signed by the Judge and filed by the Court Clerk.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The sentence shall be set forth as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Sentence shall be imposed without unreasonable delay as provided in this Code. Pending sentence, the Court may commit the defendant to jail or continue or alter the bail. Before imposing sentence, the Court shall afford counsel an opportunity to speak on behalf of the defendant and shall address the defendant personally and ask him/her if he/she wishes to make a statement on their own behalf and to present any information in mitigation of punishment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After imposing sentence in a case, which has gone to trial on a plea of not guilty, the Court shall advise the defendant of his/her right to appeal.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The determination and imposition of sentence shall be in accordance with the provision on sentencing set forth in the Pueblo of Picuris Law and Order Code.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A motion to withdraw a plea of guilty may be made only before sentence is imposed or imposition of sentence is suspended; but to correct manifest injustice the Court after sentence may set aside the judgment of conviction and permit the defendant to withdraw his/her plea.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>24</num>
+    <heading>NEW TRIAL</heading>
+    <text>The Court, on motion of a defendant, may grant a new trial to him/her if required in the interest of justice. If trial was by the Court without a jury, the Court, on motion of a defendant for a new trial, may vacate the judgment, if entered, take additional testimony, and direct the entry of a new judgment. A motion for a new trial based on the ground of newly discovered evidence may be made only within one (1) month after final judgment, but if an appeal is pending, the Court may grant the motion only on remand of the case. A motion for a new trial based on any other grounds shall be made within seven (7) days after verdict of findings of guilty or within such further time as the Court may fix during the seven (7) day period.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>25</num>
+    <heading>ARREST OF JUDGMENT</heading>
+    <text>The Court, on motion of a defendant, shall dismiss the action if the complaint does not charge an offense or if the Court was without jurisdiction of the offense charged. The motion in arrest of judgment shall be made within seven (7) days after verdict or finding of guilty or plea of guilty, or within such further time as the Court may fix during the seven (7) day period.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>26</num>
+    <heading>CORRECTION OR REDUCTION OF SENTENCE</heading>
+    <text>The Court may correct an illegal sentence at any time and may correct a sentence imposed in an illegal manner within thirty days after the sentence is imposed, or within thirty days after receipt by the Court of a mandate issued upon an affirmed judgment or dismissal of the appeal. The Court may also reduce a sentence upon revocation of probation as provided in this Code.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>27</num>
+    <heading>CLERICAL MISTAKES</heading>
+    <text>Clerical mistakes in judgments, orders, or other parts of the record and errors in the record arising from oversight or omission may be corrected by the Court at any time and after such notice, if any, as the Court orders.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>28</num>
+    <heading>RIGHT OF APPEAL: HOW TAKEN</heading>
+    <para>
+      <num>A.</num>
+      <text>The defendant has the right to appeal from the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A final judgment of conviction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>From an order made, after judgment, affecting his/her substantial rights.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Pueblo of Picuris has the right to appeal from the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A judgment of dismissal in favor of the defendant upon a motion to dismiss based on any procedural irregularity occurring before trial;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An order arresting judgment or acquitting the defendant contrary to the verdict of the jury or before such verdict can be rendered;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An order of the Court directing the jury to find for the defendant;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An order made after judgment affecting the substantial rights of the Pueblo of Picuris.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A notice of appeal must be filed within ten (10) days of the entry of the final judgment or other appealable order and such must be served on all parties except the party filing the appeal.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Except as otherwise provided herein, the appeal shall be handled as under the Pueblo of Picuris Rules of Criminal Procedures.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>29</num>
+    <heading>STAY OF JUDGMENT AND RELIEF PENDING REVIEW</heading>
+    <para>
+      <num>A.</num>
+      <text>A sentence of imprisonment may be stayed if an appeal is taken and the defendant may be given an opportunity to make bail. Any defendant not making bail or otherwise obtaining release pending appeal shall have all time spent in incarceration counted towards his/her sentence in the matter under appeal.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A sentence to pay a fine or a fine and cost, may be stayed pending appeal upon motion of the defendant but the Court may require the defendant to pay such money subject to return if the appeal should favor the defendant and negate the requirement for paying such.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An order placing the defendant on probation may be stayed on motion of the defendant if an appeal is taken.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>30</num>
+    <heading>APPELATE COURT REVIEW OF APPEAL</heading>
+    <para>
+      <num>A.</num>
+      <text>If the appeal is irregular in any substantial particular, SWITCA may order, upon motion of the respondent, either the correction of the defects or the dismissal of the appeal.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>SWITCA may decide the appeal on the basis of the briefs submitted without oral argument unless oral argument is requested by any party to the appeal or by the Court on its own motion.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>SWITCA will issue a written opinion or such separate opinions as required to fully explain the Court's disposition of the case. No order or disposition of an appeal shall be effective unless concurred by at least two (2) panel members, through their reasoning for such disposition need not concur.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>SWITCA shall make one of the following determinations of the appeal:</text>
+      <para>
+        <num>(1)</num>
+        <text>May dismiss the appeal;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Affirm or modify the decision being reviewed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reverse the decision in whole or in part;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Order a new trial; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Take any other action as the merits of the case and the interest of justice may require.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>31</num>
+    <heading>SEARCH AND SEIZURE</heading>
+    <para>
+      <num>A.</num>
+      <text>A search warrant authorized under this Rule may be issued by the Chief Judge on request of a Bureau of Indian Affairs Law Enforcement Officer or agent, or any officer of the federal government.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A warrant may be issued under this rule to search for and seize any:</text>
+      <para>
+        <num>(1)</num>
+        <text>Property that constitutes evidence of the commission of a crime; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contraband, the fruits of a crime, or things otherwise criminally possessed; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Property designed or intended for use or which is or has been used as the means of committing a criminal offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A warrant shall issue only on an affidavit(s) sworn to before the Chief Judge and establishing grounds for issuing the warrant. If the Chief Judge is satisfied that grounds for the application exist or that there is probable cause to believe that they exist, he/she shall issue a warrant identifying the property and naming or describing the person or place to be searched. The finding of probable cause may be based on hearsay evidence either in whole or in part. Before ruling on a request for a warrant, the Chief Judge may require the affiant to appear personally and be examined under oath. The warrant shall be directed to any law enforcement officer, agent or official and shall command such person(s) to search, within a specified period of time not to exceed ten (10) days, the person or place named for the property specified. The warrant shall be served in the daytime unless the issuing Judge otherwise authorizes on the warrant. The warrant shall be returned to the Court after service or at the end of the ten (10) day period.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The officer taking property under a warrant shall give the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return to the issuing Judge shall be made promptly and shall be accompanied by an inventory of the property taken.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A person aggrieved by an unlawful search and seizure may move the Pueblo of Picuris Tribal Court for the return of the property on the grounds that he/she is entitled to lawful possession of the property illegally seized. The Chief Judge may receive evidence on any issue of fact necessary to the decision of the motion. If the motion is granted, the property shall be returned and shall not be admissible at any hearing or trial.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>No law enforcement officer shall search or seize any premises, property or person without a search warrant unless he/she knows or has reasonable cause to believe that the person in possession of such property is engaged in the commission of an offense or such is done incident to a lawful arrest or under such other circumstances in which it would not be reasonable to require the obtaining of a warrant prior to the search.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A law enforcement officer may stop any person in a public place whom he/she has probable cause to believe is in the act of committing an offense, or has committed an offense, or is attempting to commit an offense and demand of him/her their name, address, an explanation of their actions, and may, if he/she has reasonable grounds to believe his/her own safety or the safety of others nearby is endangered, conduct a frisk type search for weapons of such person.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The term "property" is used in this Rule to include documents, books, papers, and any other tangible object. The term "daytime" as used in this Rule shall mean the hours of 6:00 a.m. to 10 p.m. according to local time.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>32</num>
+    <heading>ARREST</heading>
+    <para>
+      <num>A.</num>
+      <text>An arrest is the taking of a person into custody in the manner authorized by law. An arrest may be made by either a police or law enforcement officer or by a private person.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A police or law enforcement officer may make an arrest in obedience to an arrest warrant, or, without a warrant, arrest a person:</text>
+      <para>
+        <num>(1)</num>
+        <text>For an offense committed in his/her presence;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When he/she has reasonable cause for believing the person to have committed an offense, although not in his/her presence, and there is reasonable cause for believing that such person, before a warrant can be obtained, may:</text>
+        <text>a)	Flee the jurisdiction or conceal him/herself to avoid arrest; or</text>
+        <text>b)	Destroy or conceal evidence of the commission an offense; or</text>
+        <text>c)	Injure or annoy another person or damage property belonging to another person.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon the verbal complaint of another that an offense has been committed and that the person arrested has committed it;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>At night, when there is reasonable cause to believe that he/she has committed an offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The arrest pursuant to a warrant cannot be made at night unless such is specifically authorized by the Chief Judge.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Law enforcement officers making the arrest:</text>
+      <para>
+        <num>(1)</num>
+        <text>Must inform the person to be arrested of his/her intention to arrest him/her, of the cause or reason for the arrest and their authority to make it, except when the person to be arrested is actually engaged in the commission of, or an attempt to commit an offense, or is pursued immediately after its commission or an escape or if such is not reasonably possible under the circumstances;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Must show a warrant of arrest, if such exists, and is demanded as soon as is practicable;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May use reasonable force and use all necessary means to effect the arrest if the person to be arrested either flees or forcibly resists after receiving information of the officer's intent to arrest;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>May break open a door or window of a building in which the person to be arrested is, or is reasonably believed to be, after demanding admittance and explaining the purpose for which admittance is desired;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>May search the person arrested and take him/her and put into evidence all weapons he/she may have about their person;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Shall, as soon as is reasonably possible, deliver the person arrested to a detention facility.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>33</num>
+    <heading>EXTRADITION</heading>
+    <para>
+      <num>A.</num>
+      <text>If a BIA law enforcement officer arrests an individual based on a warrant issued by the State of New Mexico, the Pueblo of Picuris may hold such individual for up to forty-eight (48) hours, after any Pueblo of Picuris Tribal Court sentence has been served, for transport by State officials. If State officials do not retrieve the defendant within that time, he/she shall be released. The defendant shall be entitled to bail in the amount set in the State warrant.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a BIA law enforcement officer arrests an individual based on a warrant from a jurisdiction other than the State of New Mexico, he/she shall be entitled to a hearing before the Tribal Court on the following issues:</text>
+      <para>
+        <num>1.</num>
+        <text>Whether such warrant exists;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Whether the individual arrested is the person named in the warrant;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Whether the Court issuing the warrant had jurisdiction to issue the warrant;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Whether the arrest by BIA law enforcement was lawful.</text>
+        <text>After being fully informed of his/her rights, the defendant may, in writing, waive the right to a hearing. If not waived, the hearing shall be held within two (2) days of the arrest, and the defendant shall have the right to representation of his/her choosing and at his/her own expense. Prior to the hearing the defendant shall be entitled to bail at the sum set in the warrant.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If at the hearing the Court does not find these factors to be established by the prosecutor or other authorized person by clear and convincing proof, it shall order the defendant to be immediately released. If at the hearing the Court finds these factors to be established by the prosecutor or other authorized person by clear and convincing proof, it shall order the defendant held for a reasonable time not to exceed ten (10) days, after any Tribal Court sentence has been served, for the other jurisdiction to retrieve the defendant. After the hearing the defendant may be admitted to bail in an amount set by the Tribal Court, on the condition that he/she surrender at a specified time, and on such additional restrictions as the Court deems appropriate. If such other jurisdiction does not retrieve the defendant within that time, the defendant shall be released.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>34</num>
+    <heading>BAIL: RELEASE FROM CUSTODY</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as herein provided, all persons arrested for offenses under this Tribal Code and incarcerated shall be given the opportunity to make bail and be released pending their trial or appeal.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A bail schedule for offenses shall be adopted by rule by the Tribal Court and a defendant may obtain release from jail at any time prior to arraignment by posting the amount(s) of bail specified in the bail schedule for the offense(s) charged; provided, however, that if the arresting officer shall certify to the jailer, or if the jailer shall certify on their own observation, that the defendant is at the time he/she is brought to the jail unconscious or in an intoxicated or apparently intoxicated condition, or for any reason does not appear to be in a conscious and sober condition, such defendant shall not be allowed to post bail according to the bail schedule for eight (8) hours. The defendant shall be informed by the jailer of their right to make bail at the appropriate time that such is available.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At the arraignment or other appropriate time, the Judge shall set bail at an amount, not to exceed twice the maximum fine payable for the offense charged, which will tend to assure the appearance of the defendant at trial or at such time as their appearance is necessary. A defendant may, at arraignment, request that any bail posted under the bail schedule be reduced or that he/she be released on their own recognizance pursuant to the provisions of Paragraph (D) below.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Judge in his/her discretion release the defendant on their own recognizance, if it appears substantially certain, considering all relevant factors that the defendant will appear at the appointed time.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The required bail shall be tendered in the form of a money order or certified check payable to: Pueblo of Picuris Tribal Court, P.O. Box 127, Peñasco, NM 87553, or bail bond executed by two (2) or more reliable persons as sureties subject to the jurisdiction of the Court in the form which the Court, by rule, shall direct.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>In the event the defendant fails to appear as required, the Court will forfeit any bond posted by the defendant or order the sureties of the bail bond to pay the designated amount to the Court. The liability of the sureties may be enforced by order of the Court without the necessity of an independent action or judgment.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Court may order the forfeiture of bail for non-appearance set aside if it appears that justice does not require the enforcement of the forfeiture.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The Court may deny release on bail pending trial or appeal when it appears reasonably certain that the defendant will pose a serious threat to the Pueblo of Picuris and its residents, or will fail to appear if released.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The right to be released on bail as provided herein shall not accrue until charges under this Tribal Code have been filed. Persons incarcerated in a detention center for violation of federal or state laws shall be subject to be released on bail by the jurisdiction under whose authority the arrest was made. A person arrested for violation of federal law shall not be entitled to be released on bail until the prosecution of such charges has been declined by the U.S. Attorney, plus a reasonable time thereafter, not to exceed thirty-six (36) hours after receipt of notification of such declination, in which charges for violation of this Tribal Code, if any, may be filed.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>35</num>
+    <heading>TIME COMPUTATIONS</heading>
+    <text>In computing any period of time in these Rules, the day of the act or event from which the designated period begins to run shall not be included, and the last day of the period will be included unless it is a Saturday, a Sunday or legal holiday. If a time period prescribed is less than seven (7) days, intermediate Saturdays, Sundays and legal holidays shall be excluded in the computation.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>36</num>
+    <heading>MOTIONS</heading>
+    <text>An application to the Court for an order shall be by motion. A motion other than one made at trial or hearing shall be in writing unless the Court permits it to be made orally. It shall state the grounds upon which it is made and shall set forth the relief or order sought. It may be supported by an affidavit and/or a memorandum or points and authorities.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>37</num>
+    <heading>DISMISSAL</heading>
+    <para>
+      <num>A.</num>
+      <text>The prosecution or representative of the Pueblo of Picuris, may move that a complaint be dismissed and upon the Court's granting of such motion the prosecution of that complaint shall cease. The defendant shall be released and any bail or bail bond shall be released. Such a dismissal shall not be made during trial without the consent of the defendant.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If there is an unreasonable and unnecessary delay in bringing a defendant to trial, the Court may, on motion by the defendant or on its own motion, dismiss the complaint.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>38</num>
+    <heading>SERVICE AND FILING OF PAPERS</heading>
+    <para>
+      <num>A.</num>
+      <text>Written motions, notices of hearings and other matters heard ex parte shall be served in the manner provided for in civil actions.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All papers required to be served shall also be filed with the Court.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>39</num>
+    <heading>CALENDARS</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribal Court shall provide for the placing of criminal proceedings on the Court calendar with as little delay as is reasonably possible.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Court shall schedule criminal trials no less frequently than one (1) day per month.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Court may, for good cause shown by either party, direct that trial be postponed to the next or some succeeding trial date. However, if the prosecution, for good cause shown, requests and is granted a delay, and if the defendant is incarcerated not having made bail, shall be released on their own recognizance pending the rescheduled trial.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>40</num>
+    <heading>EXCEPTIONS UNNECESSARY</heading>
+    <text>Exceptions to rulings or orders of the Court are unnecessary, and it is sufficient that a party at the time a ruling or order is sought, makes known to the Court his/her objection or what action they wish the Court to take and the grounds thereof; but if a party has no opportunity to object to a ruling or order, the absence of an objection does not thereafter prejudice him/her.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>41</num>
+    <heading>HARMLESS ERROR AND PLAIN ERROR</heading>
+    <para>
+      <num>A.</num>
+      <text>Any error, defect, irregularity or variance, which does not affect substantial rights shall be disregarded.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Errors or defects affecting substantial rights may be recognized and acted upon by the Court even though they were not brought to the attention of the Court by counsel.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>42</num>
+    <heading>REGULATION OF CONDUCT IN THE COURTROOM</heading>
+    <text>The Chief Judge may regulate the conduct of persons in the courtroom and may forbid the taking of photographs or other visual or audio recording of proceedings occurring therein.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>43</num>
+    <heading>RECORDS</heading>
+    <text>The Court Clerk shall keep such records of criminal proceedings as shall be required by the Chief Judge. Among the records required to be kept by the Court Clerk shall be a book known as the "Criminal Docket" in which, among other things, shall be entered each order or judgment of the Court and the date thereof.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>44</num>
+    <heading>RULES OF COURT</heading>
+    <para>
+      <num>A.</num>
+      <text>The Chief Judge may, with the approval of the Tribal Council, promulgate rules governing criminal procedure not inconsistent with these rules and in supplement thereto, and copies of such rules shall be made available for public inspection.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If no procedure is specifically prescribed by rule, the Court may proceed in any lawful manner not inconsistent with these rules or the principles of justice and fairness underlying these rules.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>45</num>
+    <heading>FORMS</heading>
+    <text>Any forms adopted for use in the Courts are illustrative and not mandatory.</text>
+  </container>
+  <container>
+    <prefix>RULE</prefix>
+    <num>46</num>
+    <heading>CITATION</heading>
+    <text>These rules may be known and cited as the "Picuris Rules of Criminal Procedure," or "P.R.Cr.P."</text>
+  </container>
+</container>

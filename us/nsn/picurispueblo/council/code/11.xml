@@ -1,0 +1,1076 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
+  <prefix>TITLE</prefix>
+  <num>11</num>
+  <heading>PUEBLO OF PICURIS INTEGRATED SOLID WASTE MANAGEMENT CODE</heading>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>1</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <num>11-1-1</num>
+      <heading>Title</heading>
+      <text>This Code is known as the Pueblo of Picuris Integrated Solid Waste Management Code.</text>
+    </section>
+    <section>
+      <num>11-1-2</num>
+      <heading>Purpose Construction and Severability.</heading>
+      <para>
+        <num>A.</num>
+        <text>Findings:  The Pueblo of Picuris Tribal Council hereby finds as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The increasing volume and variety of solid waste and hazardous waste being generated on the Pueblo of Picuris and the often-inadequate existing methods of managing solid waste and hazardous waste are creating conditions that threaten the public health, safety and welfare of tribal members and residents of the Pueblo of Picuris by contributing to land, air and water pollution, to the production of flies, rodents and litter, to the waste of dwindling natural resources, and to the general deterioration of the Pueblo of Picuris environment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The people of the Pueblo of Picuris have a primary interest in the protection and control of the land and other natural resources affected by the improper disposal of solid waste within the Pueblo of Picuris, and the quality of such land and other natural resources must be protected to insure the health, economic, aesthetic and cultural well-being of the Pueblo of Picuris People.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Open dumping is particularly harmful to public health, contaminates surface and underground water resources, including drinking water from underground and surface supplies and pollutes the land, air and water of the Pueblo of Picuris.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Inadequate and environmentally unsound practices for the disposal or use of solid waste and hazardous waste have created greater amounts of soil, air and water pollution and other problems for public health and the environment on the Pueblo of Picuris. The traditional methods of solid waste and hazardous waste management may not meet future requirements for eliminating environmental pollution and conserving natural resources.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Pursuant to federal law as determined by the United States Supreme Court in such cases as Montana v. United States, 450 U.S. 544 (1981) and reaffirmed in the Strate v. A-1 Contractors    117 S. Ct. 1404 (1997), the Pueblo of Picuris possesses the inherent sovereign authority to regulate within its exterior boundaries solid waste disposal that affects fundamental tribal interests and public health and safety, including when such activities conducted by non-members of the Tribe on privately owned land within the exterior boundaries of Pueblo of Picuris.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Under the Solid Waste Disposal Act, 42 U.S.C. §6903(13) (as part of the Resource Conservation and Recovery Act), "Indian Tribe" is included within the definition of "municipality" for purposes of the Act.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Methods of solid waste management emphasizing source reduction, recovery and recycling of all solid waste are essential to the long-range preservation of the health, safety and welfare of the public, to the economic productivity of the Pueblo of Picuris, to the environmental quality of the Pueblo of Picuris and to the conservation of natural resources.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Disposal of solid waste and hazardous waste in or on the land without careful planning and management will present a danger to the public health and environment.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Methods are available to separate recoverable materials from solid waste. The recovery and conservation of such material can produce numerous benefits to the Pueblo of Picuris, including economic benefits in the way of savings realized by conserving material in order to reduce the value or quantity of materials that ultimately become solid waste.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>It is in the best interests of the Pueblo of Picuris and the residents of the Pueblo of Picuris to establish and maintain a comprehensive integrated tribal solid waste management plan, the objectives which will be to manage and control solid waste and to prohibit the introduction of hazardous waste into the Pueblo of Picuris in order to protect the health, safety and welfare of tribal members; to preserve the environment; and to provide for the maximum reuse of the resources contained in solid waste.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Such protection of the Pueblo of Picuris resources is not adequately provided for under existing legislation, and such protection will be furthered by the passage of, adoption and implementation of this Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Purpose:    The general purposes of this Code are to:</text>
+        <text>1)	finance, implement, regulate, and enforce environmental standards and criteria, orders, and permit conditions, and exercise comprehensive Tribal regulatory authority over all solid waste and hazardous waste disposal matters within the exterior boundaries of the Pueblo of Picuris;</text>
+        <text>2)	protect fundamental Tribal cultural, ceremonial, religious, fishery, and economic stability of residential, agricultural, commercial, industrial, forest, wetlands, riparian and environmentally sensitive lands within the exterior boundaries of the Pueblo of Picuris;</text>
+        <text>3)	prevent the deterioration of the environment and increase the standard of living, quality of life, health, safety and welfare of all persons within the exterior boundaries of the Pueblo of Picuris;</text>
+        <text>4)	provide and promote Tribal environmental protection and services within the Pueblo of Picuris and to regulate environmental activities under principles of Tribal sovereignty; and</text>
+        <text>5)	prevent air, water and land from solid and hazardous waste pollution, including contamination of the Tribe's aquifers, ground waters, surface waters, drinking water supplies and other natural resources.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority and Scope:</text>
+        <text>Authority: This Pueblo of Picuris Solid Waste Code is hereby adopted by The Pueblo of Picuris Tribal Council pursuant to Section 11 of the Pueblo of Picuris Law and Order Code and authorizing the Pueblo of Picuris Tribal Council to undertake such actions.</text>
+        <text>Scope: The provisions of this Code shall apply to all existing and proposed solid waste disposal activities which have the potential to affect cultural, ceremonial, religious, fishery, seasonal residential, public health, safety, welfare, land, air or water quality and other fundamental interests of the Tribe, including such activities conducted by non-members of the Tribe or on privately owned lands.  Activities to be regulated include but are not limited to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Landfills and open dumps;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Storage of animal waste;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Automobile graveyards and junkyards;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Landfilling of sludge or septic system waste;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Individual, residential, industrial, commercial or agricultural sewage treatment facilities; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>All other activities that involve the storage, collection, transportation or disposal of solid and/or hazardous waste within the exterior boundaries of the Pueblo of Picuris;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Any and all types of industrial or investigative derived wastes including soils, sediments, aqueous liquids, decontaminated fluids, construction and demolition wastes.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Applicability: Because any violation of this Code or any regulation adopted thereunder will demonstrably and seriously impact the environment, including land, water and air, natural resources, public health, safety, welfare, political integrity and economic security of the Pueblo of Picuris, this Code, and any regulations adopted thereunder shall apply to: (1) all persons within the exterior boundaries of the Pueblo of Picuris, without exception, including but not limited to, all Tribal members, and all other persons on the Pueblo of Picuris, including any Indians who are member of other Indian tribes, all non-Indians, and any other person as defined under this Code; and (2) all places and lands located anywhere within the exterior boundaries of the Pueblo of Picuris including all trust and non-trust lands, and notwithstanding the issuance of any patent, fee, allotment, right-of-way, lease, or any real property interest of any kind, held by any person as defined in this Code.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Consensual Relations Among Non-Members, The Tribe and Tribal Members: Any person who is not a member of the Tribe who uses land anywhere within the exterior boundaries of the Pueblo of Picuris, whether trust or non-trust land, enters into consensual relationships with the Tribe or its members, through commercial dealings, contracts, leases or other arrangements. Such person's use of land involving storage, collection, transportation and disposal of solid or hazardous waste on the Pueblo of Picuris will have a demonstrably serious impact upon the environment, natural resources, public health, safety, welfare, political integrity and economic security of the Tribe and its members, unless such use is in compliance with the provisions of this Code, and any regulations promulgated hereunder.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-3</num>
+      <heading>Definitions</heading>
+      <text>For the purpose of this Code, the following words and phrases shall have the following meanings:</text>
+      <text>"Applicant" means any person who has filed an application with the Pueblo of Picuris for approval to store, collect, transport, dispose of solid waste on the Pueblo of Picuris.</text>
+      <text>"Aquifer" means any geologic formation capable of yielding a significant amount of potentially recoverable water.</text>
+      <text>"Beneficial uses" means all lawful uses of waters identified in the Pueblo of Picuris Water Quality Code. Uses may include but are not limited to domestic, commercial, industrial, agricultural, traditional, cultural and recreational, and uses by fish and wildlife for habitat propagation.</text>
+      <text>"Closure" means the termination of the receiving, handling, recycling, treatment, composting or disposal of solid waste at a solid waste facility, and includes all operation necessary to prepare the facility for post-closure maintenance.</text>
+      <text>"Collection" means the act of collecting solid waste or hazardous waste at the place of generation by an approved collection agent and does not mean removal.</text>
+      <text>"Composting" means the controlled microbial degradation of organic solid waste yielding   a safe and nuisance-free product.</text>
+      <text>"Construction" means the erection or building of new structures or the acquisition, replacement, expansion, remodeling, alteration, modernization or extension of existing structures.</text>
+      <text>"Council or Tribal Council" means the Pueblo of Picuris Tribal Council.</text>
+      <text>"Designated use" means a use that is specified in water quality standards as a goal for a water body segment, whether or not it is currently being attained.</text>
+      <text>"Disposal" means the discharge, abandonment, deposit, injection, dumping, spilling,  leaking or placing of any solid waste or hazardous waste into or on any soil, air or water.</text>
+      <text>"Disposal facility" means a facility permitted to receive and dispose of solid waste and includes all contiguous land and structures, other appurtenances and improvements on the land. It does not include a facility, the principal function of which is handling, treatment or composting of manure or other solid waste not intended for disposal.</text>
+      <text>"Energy recovery" means the production of energy or energy resources from the handling or disposal of solid waste.</text>
+      <text>"Enforcement program" means the rules, regulations and procedures adopted by the Pueblo of Picuris to enforce this Code.</text>
+      <text>"Handling" means collection, transportation, storage, transfer or processing of solid waste or hazardous waste.</text>
+      <text>"Hazardous materials" means: 1) any substance that poses a threat to human health or the environment. Typical hazardous substances are toxic, corrosive, ignitable, explosive, or chemically reactive. 2) Any  substance  that  is  hazardous,  toxic,  ignitable,  reactive, or corrosive and that is defined and regulated as such by the Pueblo of Picuris Environment Department, the State of New Mexico or the United State of America; or 3) any substance that is defined to be hazardous or toxic by the Comprehensive Environmental Response, Compensation and Liability Act of 1980 or the Resource Conservation  Act  of 1976,  as either act may be amended from time to time, and by any regulations promulgated  thereunder, including but not limited to any substance, material smoke,  gas,  particulate matter or combination thereof containing asbestos,  petroleum, or its byproducts or polychlorobiphenyls ("PCBS").</text>
+      <text>"Hazardous waste" is waste that is dangerous or potentially harmful to our health or the environment. Hazardous wastes can be liquids, solids, gases, or sludges. They can be discarded commercial products, like cleaning fluids or pesticides, or the by-products of manufacturing processes.</text>
+      <text>"Historical uses" means all uses that have historical significance for the Pueblo of Picuris.</text>
+      <text>"Impervious barrier" means any material or structure on, above or below the ground that does not allow precipitation or surface water to penetrate directly into the underlying surface.</text>
+      <text>"Implementation schedule" means a schedule that indicates approximate dates for  orderly, timely implementation of Solid Waste Management Plan policies and programs and includes approximate dates for the establishment, expansion  and  closure  of  any  solid  waste facility identified in the Plan.</text>
+      <text>"Mitigation" means a measure taken to reduce adverse impacts on the environment.</text>
+      <text>"Municipal Solid Waste Landfill Unit" or "MSWLF" shall mean a discrete area of land   or an excavation that receives household waste and that is not a  land  application  unit, surface  impoundment,  injection  well  or  waste  pile,  as  defined  under  40 CFR 257.	An MSWLF unit also may receive as authorized under the Solid Waste Disposal Act, other  types of Resource Conservation and Recovery Act, Subtitle D, wastes such as commercial solid  waste,  nonhazardous  sludge  and   industrial    solid  waste.	An   MSWLF  may  be publicly  or privately owned.	An MSWLF unit  may  be  a  new  unit,  an existing  unit or a lateral  expansion.  A lateral expansion is the horizontal expansion of the waste boundary of an existing unit.  An MSWLF must comply with all of the criteria of this Code.</text>
+      <text>"Open burning" means the combustion of solid  waste without  (1) control of combustion  air to maintain adequate temperature for efficient combustion; (2) containment of the combustion reaction in an enclosed device to provide sufficient residence time and mixing  for complete combustion; and (3) control of the emission of the combustion products.</text>
+      <text>"Open dump" means any facility or site at which solid waste or hazardous waste  is  disposed of in a manner that does not protect the environment, is susceptible  to  open burning or is exposed to the elements, vectors and scavengers, and includes any facility that fails to satisfy standards  found  in  this  Code,  Tribal  regulations  and/or  40  CFR  Part  258.</text>
+      <text>"Operator" means the person to whom the approval to construct and/or operate a solid  waste facility or collection system is granted and any person who has filed an application with the Pueblo of Picuris Environment Department for such approval.</text>
+      <text>"Permit" means any authorization, license or equivalent control document issued by the Pueblo of Picuris Environment Department under the authority of Pueblo of Picuris regulating the siting, design, construction, operation, monitoring,  corrective  actions,  closure, post-  closuremaintenance and financial assurance of solid waste facilities.</text>
+      <text>"Permittee" means a person, including but not limited to an operator, authorized and permitted to construct and/or operate a solid waste facility under this Code.</text>
+      <text>"Person" means any individual, corporation  partnership,  association,  agency,  municipality, commission or department, including the Pueblo of Picuris or other federally recognized Tribal government.</text>
+      <text>"Plan" means the Tribe's Integrated Solid Waste Management Plan.</text>
+      <text>"Pollutant" means any substance that will alter the quality of the water  of the  Picuris Pueblo.</text>
+      <text>"Pollution" means the condition caused by the presence in or on soil, air or water of any solid  waste,  hazardous  waste  or  substance  derived  therefrom  in  such  quantity,  of  such nature and duration or under such condition that the quality, appearance or usefulness of the soil, air or water is significantly degraded or adversely altered.</text>
+      <text>"Post-closure maintenance" means all activities undertaken at a  closed  solid  waste  facility to maintain the integrity of containment features and to monitor compliance with applicable performance standards.</text>
+      <text>"Potential uses" means all uses attainable in the water body, whether or not they are explicitly stated as designated uses in the water quality standards  or  presently potential  uses.</text>
+      <text>"Processing" means the reduction, separation, recovery, treatment or recycling  of solid waste or hazardous waste.</text>
+      <text>"Quality of the water or waters" means any chemical, physical,  biological,  bacteriological, radiological and other properties and characteristics of water  which affect  its use.</text>
+      <text>"RCRA" is the Resource Conservation and Recovery Act, which was enacted by Congress in 1976.</text>
+      <text>"Recoverable" means the capability and likelihood of waste or byproduct being recovered from solid waste for a commercial or industrial use.</text>
+      <text>"Recovered material" means material and byproducts that have  been  recovered  or  diverted from solid waste, but such term does not include those material and byproducts generated from and commonly reused within an original process.</text>
+      <text>"Recycling" means the process of sorting, cleansing, treating  and  reconstituting  solid  waste or other discarded materials in order to prepare the altered form for re-use.</text>
+      <text>"Removal" means the act of taking solid waste or hazardous waste from the place of generation.</text>
+      <text>"Reservation" means all land, air, and water located within the exterior boundaries of the Pueblo of Picuris.</text>
+      <text>"Resource recovery system" means a solid waste management system that provides for collection, separation, recycling and recovery of solid waste, including disposal of non- recoverable waste residue.</text>
+      <text>"Riparian" refers to land on the banks of a body of water, such as a lake, river or stream.</text>
+      <text>"Sanitary" means the maintenance of a location or parcel of Pueblo of Picuris land  in  which the following circumstances are avoided, including but not limited to: 1) failure to contain solid waste resulting  in  windswept  garbage; 2) overbearing odors which represent a general public nuisance; 3) on-site materials which present a fire hazard to the community; and 4) on-site materials or a collection of solid or hazardous waste which presents a human health hazard.</text>
+      <text>"Sanitary landfill" means a disposal facility employing a method of disposing of solid waste on land, without creating nuisances or hazards to public health or safety, by using methods to confine the solid waste to the smallest practical area, to reduce it to the smallest practical volume and to cover it with a layer of suitable cover material at specific designated intervals.</text>
+      <text>"Segregated from other waste material" means any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The placement of recyclable materials in separate containers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The binding of recyclable material separately from the other solid waste; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The physical separation of recyclable material from other solid waste.</text>
+      </para>
+      <text>"Solid waste" means all putrescible and non-putrescible solid, semisolid and liquid waste, including but not limited to garbage, trash, refuse, paper, rubbish, ashes, industrial waste, construction and demolition waste, abandoned vehicles and parts thereof, discarded home and industrial appliances, manure, vegetable or animal solid and semisolid waste, other discarded solid, liquid and semisolid waste from a wastewater treatment plant, water supply treatment plant or air pollution control facility or other discarded containerized gaseous material resulting from industrial, commercial, mining or agricultural operations, or community activities; but not including hazardous waste; solid or dissolved material in domestic sewage; solid or dissolved material in irrigation return flows; industrial discharges that are point sources subject to permits under 33 U.S.C.A.§ 1342; or source, special nuclear or byproduct material as defined by the Atomic Energy Act of 1954, as amended, 42, U.S.C.A. §§2011, et. seq.</text>
+      <text>"Solid waste facility" means a disposal facility; a transfer/processing station; a recycling facility; a composting facility; any resource recovery system or component thereof; any system, program or facility for resource conservation; and any facility used for the handling, treatment, composting or disposal of solid waste; whether such facility is associated with facilities generating such solid waste or otherwise; and includes all contiguous land and structures, other appurtenances and improvements on land.</text>
+      <text>"Solid waste management" means a planned program for effectively controlling the generation, handling, treatment, composting and disposal of solid waste in a safe, sanitary, aesthetically acceptable and environmentally sound manner.</text>
+      <text>"Solid Waste Management Plan" means the formation of the Tribal policies for all solid waste collection, handling, transportation, disposal, treatment, storage, recycling and resource conservation on or off the Pueblo of Picuris.</text>
+      <text>"Solid Waste Management Committee" means three board members, all of whom shall be members of the Pueblo of Picuris. Board members shall be appointed by the Governor of the Pueblo of Picuris with the advice and consent of the Pueblo of Picuris Tribal Council</text>
+      <text>"Solid Waste Disposal Act" means the federal Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act of 1976 ("RCRA") and the 1984 Hazardous and Solid Waste Amendments ("HSWA") to RCRA, and more particularly subchapter IV-State or Regional Solid Waste Plans, SWDA, §§ 4001-4010, 42 U.S.C.A. §§ 6941-6949(a), which requires that the EPA promulgate criteria for Municipal Solid Waste Landfill Units ("MSWLF's") and which prohibits disposal of solid waste at landfills which do not satisfy such criteria. The 40 CFR Part 258 regulations contains the criteria for the MSWLF's, which became generally effective on October 9, 1993, although there are other effective dates under the 40 CFRE part 258.</text>
+      <text>"Toxic Materials" means any chemical or mixture that presents an unreasonable risk or injury to human health or the environment.</text>
+      <text>"Transfer/processing station" means a facility used to receive, temporarily store, process or transfer solid waste directly from smaller to larger vehicles for transport. "Transfer/processing station" does not include:</text>
+      <para>
+        <num>(1)</num>
+        <text>a facility the principal function of which is to receive, handle, process, treat or compost manure in accordance with Tribal minimum standards;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>a facility the principal function of which is to receive or handle solid waste that has already been separated for reuse and is not intended for disposal; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the operations premises of a duly license solid waste collection operator who handles solid waste as an activity incidental to the conduct of a refuse collection and disposal business.</text>
+      </para>
+      <text>"Treatment" means any method, technique or process designed or intended to change the physical, chemical or biological characteristics of solid waste or hazardous waste to render it less harmful to the quality of the soil, air and water; safer to handle; or easier to contain, manage or use as fuel, nutrient, soil amendment or other additive.</text>
+      <text>"Tribal Court" means the Pueblo of Picuris Tribal Court.</text>
+      <text>"Tribe's Solid Waste Disposal Program" means all the authorities, activities and procedures under this Ordinance, the Tribe's Waste Management Plan and any other Tribal laws or regulations that comprise the Tribe's system of permits and prior approval and conditions for regulating the collection, handling, transportation and disposal, treatment and storage of solid waste, including all of the location, operation, design, groundwater, monitoring, corrective action, closure, post-closure, and financial assurance requirements under Part 258 Criteria for the MSWLF's.</text>
+      <text>"Variance" means an authorized written permission for a delay or exception in the application of a given law, ordinance, or regulation.</text>
+      <text>"Vector" means any insect, arthropod, rodent or other animal capable of transmitting a pathogen from one organism to another or of disrupting the normal enjoyment of life by adversely affecting the public health and well-being.</text>
+      <text>"Waste" includes waste water and any and all other substances, liquid, solid, gaseous, radioactive, heat laden, associated with human habitation, or of human or animal origin, or from any of man's activities including producing, manufacturing or processing operation of whatever nature, including such waste placed within containers of whatever nature prior to, and for purposes of, disposal.</text>
+      <text>"Waters of the Pueblo of Picuris" means any water, surface or underground, contained within, flowing through or bordering upon the Pueblo of Picuris or any portion thereof.</text>
+      <text>"Water quality control plan" is a document designating or establishing for the waters within a specified area: 1) beneficial uses to be protected; 2) water quality objectives; and 3) a program of implementation needed for achieving and maintaining water quality objectives.</text>
+      <text>"Water quality criteria" means specific levels of water quality which, if reached, are expected to render a body of water suitable for its beneficial use.</text>
+    </section>
+    <section>
+      <num>11-1-4</num>
+      <heading>Tribal Environmental Protection Agency Designation as Lead Tribal Agency</heading>
+      <text>The Pueblo of Picuris Environment Department shall be the lead agency for implementing this Integrated Tribal Solid Waste Disposal Ordinance and for all purposes under 40 CFR Part 258.</text>
+      <text>The Pueblo of Picuris Environment Department shall communicate with the EPA regarding the Tribe's solid waste program; prepare the application for EPA approval of the Tribe's solid waste program under the Part 258 Criteria; and make reports to the EPA in a manner and containing such information as the Committee approves, excluding any confidential or privileged information.</text>
+    </section>
+    <section>
+      <num>11-1-5</num>
+      <heading>Creation of Position of Solid Waste Program Manager</heading>
+      <text>There is hereby created the position of Tribal Solid Waste Program Manager. The Tribal Solid Waste Program Manager shall serve under the direction of the Pueblo of Picuris Environment Department. The Tribal Solid Waste Manager will be screened by the Pueblo of Picuris Human Resources Department. The person ultimately selected for this position shall be confirmed by the Pueblo of Picuris Tribal Council. The Integrated Tribal Solid Waste Program Manager shall cooperate with the Solid Waste Review Committee, the U.S. EPA and other federal agencies or the State of New Mexico, as necessary to carry out the intent of this Ordinance and implement the Tribal Solid Waste Management Plan.</text>
+    </section>
+    <section>
+      <num>11-1-6</num>
+      <heading>Establishment of Solid Waste Management Committee</heading>
+      <text>There is hereby established a Solid Waste Review Committee, which shall be comprised of three Board Members, all of whom shall be members of the Tribe. The Board Members shall be appointed by the Governor of the Tribe with the advice and consent of the Pueblo of Picuris Tribal Council.</text>
+    </section>
+    <section>
+      <num>11-1-7</num>
+      <heading>Powers and Duties of Solid Waste Management Committee</heading>
+      <text>The Solid Waste Management Committee shall implement, administer and enforce this Ordinance and the Tribe's solid waste program, pursuant to all of the powers and duties delegated to it herein. The Committee is not authorized to consent to jurisdiction, liability or waiver of sovereign immunity.  The Committee shall also have the following powers and duties:</text>
+      <para>
+        <num>(A)</num>
+        <text>Develop Tribe's Solid Waste Management Plan: The Committee, with the assistance of the Program Manager, shall develop the Tribe's Integrated Solid Waste Management Plan ("Plan"), which shall include the identification of, and a plan for closing all "open dumps" within the Pueblo of Picuris, in accordance with the Solid Waste Disposal Act and Part 258 Criteria.</text>
+        <text>The Plan shall also include the formation of Tribal policies for all solid waste collection, transportation, handling, treatment and disposal on or off the Pueblo of Picuris. If feasible, the Plan shall include a resource recovery program for the recycling of solid wastes and a program for the disposal of household hazardous wastes other than in the MSWLF on the Pueblo of Picuris.</text>
+        <text>The Plan shall also include a description of an MSWLFs on the Pueblo of Picuris that are in compliance with the Part 258 Criteria, which will continue to receive solid waste. Such Plan shall contain a descriptive narration of the location, design and operation of such MSWLFs and how such MSWLFs will satisfy the Part 258 Criteria.</text>
+        <text>The Plan shall also include:</text>
+        <para>
+          <num>(1)</num>
+          <text>An estimation of the volume and composition of all solid waste which is generated on the Pueblo of Picuris, and an estimation of the volume and composition of solid waste from sources from outside of the Pueblo of Picuris that may be disposed of in any MSWLF on the Pueblo of Picuris pursuant to any intergovernmental agreement that the Pueblo of Picuris Tribal Council may authorize;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An identification of the responsibilities of other Tribal agencies and entities involved in the implementation of the Tribe's solid waste disposal program and the distribution of federal and state funds to the Tribal authorities responsible for development and implementation of the Tribe's solid waste disposal program;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A review of Tribal regulatory systems which are necessary to implement the Tribe's solid waste disposal program and enforce the Ordinance and rules or regulations promulgated hereunder;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A review of any contracts for the closing of all "open dumps" on the Pueblo of Picuris, or the removal of solid waste disposed of at "open dumps" on the Pueblo of Picuris to duly authorized facilities off the Pueblo of Picuris and an assessment of such costs;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A review of the 40 CFR Part 257 Criteria and the authorization of the disposal of any solid waste on the Pueblo of Picuris under the Part 257 Criteria under the rules and regulations adopted by the Committee;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The identification of preferred locations on the Pueblo of Picuris for the establishment of the new MSWLFs and review of whether groundwater monitoring could be suspended at such location under 40 CFR §258.50(b); and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A study of how solid waste will be disposed of on or off the Pueblo of Picuris, in compliance with the Part 258 Criteria, including an assessment of costs for constructing and operating MSWLFs, or transfer stations on the Pueblo of Picuris and an assessment of costs for the collection and transportation of solid waste on or off the Pueblo of Picuris.</text>
+          <text>The Plan may also include any other matters which are relevant for the Tribe's solid waste disposal program.</text>
+          <text>The Committee shall submit the Plan to the Pueblo of Picuris Tribal Council, in writing, for its review, modification and approval.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Identify and Close All Dumps on the Pueblo of Picuris: In compliance with the Solid Waste Disposal Act, the Committee shall identify and shall prohibit the disposal of any solid waste at all "open dumps" on the Pueblo of Picuris. The Committee shall also take whatever action is necessary to close in a timely manner all "open dumps" on the Pueblo of Picuris as required by Part 258 Criteria. An "open dump" is a landfill that does not satisfy the 40 CFR Part 258 Criteria.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Issue Solid Waste Disposal Permits: The Committee shall have the authority and responsibility to issue permits for the location, design, construction, operation, closure, post-closure and financial assurance requirements for an MSWLF on Pueblo of Picuris. The Committee shall also have the authority and responsibility to issue permits for the collection and transportation of solid waste on the Pueblo of Picuris. This authority shall not be delegated to the Director of the Solid Waste Agency.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Conduct Hearings: In additions to the other powers conferred upon it herein, the Committee shall have the power to hold all public or administrative hearings specifically provided under this Ordinance.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Take Remedial Action, Assess Civil Penalties and Revoke, Suspend or Modify Permits: The power of the Committee to enforce compliance with the Tribe's solid waste disposal program includes the power to take remedial action, assess civil penalties and revoke, suspend or modify permits.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Promulgate Rules and Regulations and to Issue Solid Waste Guidance Documents: The Committee shall promulgate rules and regulations from time to time, as required by the Ordinance, or to implement or enforce any provisions or requirements of the Ordinance, including a system of civil fines, sanctions and penalties, for violations of this Ordinance or any rules and regulations promulgated under this Ordinance. All rules and regulations promulgated by the Committee within the scope of its authority and responsibility shall be submitted to the Pueblo of Picuris Tribal Council for its approval and adoption, before they are enforceable as Tribal law on the Pueblo of Picuris. The Committee shall adopt rules and regulations for landfills on the Pueblo of Picuris under the 40 CFR Part 257 Criteria; for the collection and transportation of solid waste; and other rules and regulations as required herein.</text>
+        <text>The Committee, with the assistance of the Director of the Tribe's Solid Waste Agency, may also approve and issue "Guidance Documents" as part of the Tribe's solid waste program, which shall contain specific technical or scientific criteria for implementing the location, construction, design, operation, closure, or post-closure for MSWLFs. Guidance documents may supplement Part 258 Criteria, but any criteria set forth in any guidance document shall not be in conflict with any Part 258 Criteria or contain any criteria which are less stringent than the Part 258 Criteria. Guidance documents shall be enforceable if they are specifically referenced or attached, as part of, or as a condition of, any permit issued under the Ordinance.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Apply for and Obtain Federal or State Financial and Technical Assistance to Implement the Tribe's Solid Waste Program: The Committee is authorized to apply, as soon as practicable, for federal or state financial aid, training and technical assistance, for development of the Tribe's Solid Waste Management Plan and to implement the Tribe's solid waste program. This shall include grants available from EPA's Regional Office as may be authorized under the Solid Waste Disposal Act; and includes any other federal grants, funds or assistance which may be available from the EPA; the U.S. Department of the Interior, Bureau of Indian Affairs; the U.S. Department of Housing and Urban Development; the Administration for Native Americans; and any other federal, state or other governmental agencies or sources, including any federal appropriations under the Indian Environmental General Assistance Program Act of 1992, P.L. 102-497.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Hire a Qualified Director for the Tribe's Solid Waste Agency: The Committee shall hire, subject to the approval of the Pueblo of Picuris Tribal Council, a qualified person with professional experience and certifications relating to the management and disposal of solid waste, to be the Director of the Tribe's Solid Waste Agency. The Director shall be an employee of the Tribe and shall be paid a salary established by the Pueblo of Picuris Tribal Council. The Director shall manage the Solid Waste Agency on a day-to-day basis acting within the scope of his or her duties and powers as set forth herein.</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Prepare and File an Annual Report with the Pueblo of Picuris Tribal Council: The Committee shall prepare and file an annual report with the Pueblo of Picuris Tribal Council no later than July 1 of each year, which shall review the progress achieved under the Tribe's solid waste program, and shall include any reports requested by the Pueblo of Picuris Tribal Council. The Committee shall recommend what specific actions should be taken by the Pueblo of Picuris Tribal Council regarding the Tribe's solid waste program.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-8</num>
+      <heading>Powers and Duties of Tribal Solid Waste Program Manager</heading>
+      <text>The specific duties of the Tribal Solid Waste Program Manager shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Assisting the Committee in developing the Tribe's Solid Waste Management Plan pursuant to the requirements of the Ordinance; the Solid Waste Disposal Act; 40 CFR Parts 257 and 258; and 40 CFR Part 239. The goal of this plan shall be the proper collection and disposal of all solid waste on 40 CFR Parts 257 and 158 and this Ordinance.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The development of rules and regulations and guidance documents which supplement the technical standards and criteria for the location, construction, design, operation, closure and post-closure requirements for MSWLFs and which also provide the technical standards and criteria for the collection and transportation of solid wastes.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The preparation of an inventory and location of all sites on the Pueblo of Picuris where solid waste has been disposed and a plan to close all sites as required under 40 CFR Part 258.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The location of appropriate sites on the Pueblo of Picuris where MSWLFs might be located in compliance with this Ordinance and 40 CFR Part 258.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The preparation of technical reports for the Committee or Pueblo of Picuris Tribal Council, as may be requested from time to time, including environmental assessments as may be necessary.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The preparation of the application to EPA for approval of the Tribe's solid waste program under 40 CFRE Part 239 and Part 258.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The administration, supervision, monitoring, investigation and enforcement of solid waste collection, transportation and disposal on the Pueblo of Picuris in compliance with this Ordinance and all laws, rules and regulations and guidance documents promulgated thereunder.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>The investigation and preparation of applications for federal or state grants, funding and financial and technical assistance to implement the Tribe's solid waste program.</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>The providing of any assistance to the Pueblo of Picuris Environment Department as requested from time to time, in matters involving the Ordinance and the Tribe's solid waste program; assisting in public education as to matters involving solid waste collection and disposal on the Pueblo of Picuris; and assisting in any public, judicial or administrative hearings, as provided under this Ordinance.</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>The supervision of the daily management of the Pueblo of Picuris Environment Department, and the supervision, hiring and management of any employees of the Pueblo of Picuris Environment Department who are hired by the Tribe.</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>The issuance of compliance, cease and desist and remedial action orders to any permittee under this Ordinance as provided herein; and the application for injunctive relief to abate pollution and other unlawful activities under this Ordinance herein.</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Upon complaint by any person which establishes reasonable grounds, or upon its own motion, the Pueblo of Picuris Environment Department shall investigate the activities of any permittee under this Ordinance. In conducting an investigation, the Pueblo of Picuris Environment Department shall have the authority, without reasonable notice, if necessary, to enter into the permittee's place of business, operation or facility, to inspect any books or records of the permittee, to inspect any of the permittee's property or sites of possible pollution and to take samples. In addition, the Pueblo of Picuris Environment Department may require, or monitor such tests as it deems necessary, to ensure that the provisions of this Ordinance or any permit conditions are being complied with by any owner/operator of an MSWLF, or transporter of solid waste. Such authority may be exercised by the Pueblo of Picuris Environment Department, including any authorized employee, agents of the U.S. Environmental Protection Agency who are specifically authorized by the Pueblo of Picuris Environment Department. The Pueblo of Picuris Environment Department shall, in addition, have those powers and duties set forth herein regarding compliance monitoring of permittees.</text>
+        <text>The Pueblo of Picuris Environment Department or its agents, are authorized to investigate the activities of any person who is suspected of violating or being in violation of any provisions of this Ordinance, any rules or regulations promulgated hereunder or any permit conditions.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-9</num>
+      <heading>Solid Waste Management Plan and Considerations Approval of Plan</heading>
+      <text>Within 180 days of the passage of this Ordinance, the Pueblo of Picuris Environment Department shall present to the Pueblo of Picuris Tribal Council for its approval a Solid Waste Management Plan (Plan). Within 30 days of its presentation by the Pueblo of Picuris Environment Department to the Pueblo of Picuris Tribal Council, the Pueblo of Picuris Environment Department shall publicize the existence of the Plan and make it widely available to all interested persons. Within 60 days of its presentation, the Pueblo of Picuris Environment Department shall hold public hearings at locations of its choice to permit interested parties to comment on the proposed Plan. The Plan, as proposed by the Pueblo of Picuris Environment Department, shall go into effect, and the Pueblo of Picuris Environment Department shall commence its implementation, upon approval by the Pueblo of Picuris Tribal Council.</text>
+      <text>
+        <strong>Contents of Plan</strong>
+      </text>
+      <text>The Plan shall include, at a minimum, those items listed under § <cite path="11|1|11-1-7">11-1-7</cite> Powers and Duties of Solid Waste Management Committee (A) of this Ordinance.</text>
+      <text>
+        <strong>Prohibitions of Hazardous Waste</strong>
+      </text>
+      <text>In order to protect the limited land, air and water resources of the Pueblo of Picuris from irremediable hazardous pollution and to protect the health, safety and welfare of all residents of the Pueblo of Picuris and surrounding communities, receiving, accepting, handling, transporting, treating, storing, composting, processing and disposing of hazardous waste is expressly prohibited within the exterior boundaries of the Pueblo of Picuris, except that the Pueblo of Picuris Environment Department may permit the establishment of a program for collection, storage, transfer, transportation and disposal off the Pueblo of Picuris of hazardous waste generated or found on the Pueblo of Picuris, subject to such conditions as the Pueblo of Picuris Environment Department may impose.</text>
+    </section>
+    <section>
+      <num>11-1-10</num>
+      <heading>Alternative Language</heading>
+      <text>Household Hazardous Waste</text>
+      <text>The Pueblo of Picuris Environment Department shall include a study regarding the disposal of household hazardous waste on the Pueblo of Picuris, as part of the Tribe's Solid Waste Management Plan. Such Study shall include an analysis of the economic feasibility of the separate collection of household hazardous waste, and disposal of household hazardous wastes at duly authorized facilities other than at an MSWLF on the Pueblo of Picuris. If economically feasible, the Pueblo of Picuris Environment Department may issue rules and regulations for the collection and lawful disposal of household hazardous wastes generated on the Pueblo of Picuris other than at an MSWLF on the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>11-1-11</num>
+      <heading>Prohibited Materials</heading>
+      <text>The following solid waste material shall not be accepted at any MSWLF on the Pueblo of Picuris under any conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Radioactive wastes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All regulated hazardous waste as defined herein.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Unregulated small quantity generator hazardous wastes.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Infectious biomedical wastes which includes human tissue or human anatomical remains.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Animals or bedding exposed to infective agents.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Sharps, needles and lancets which have not been contained for disposal in leak-proof, rigid, puncture-resistant containers such as cartons or metal cans which are taped closed or tightly lidded to preclude loss of contents under severe compact conditions.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Bulk quantities of infectious-type wastes including blood, blood products and body fluids.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Any materials containing friable asbestos waste from building demolition or cleaning, and any friable asbestos materials.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Sewage or sewage sludge wastes.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Bulk liquids of any kind.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Polychlorinated biphenyls (PCBs).</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Car batteries.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Used oil.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>55 gallon drums.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Explosives.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Tires.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Oil or gas exploration wastes.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Any derived wastes from any sub-surfaces of disturbances including all types of investigable ground borings and other forms of soil, water disturbances that create waste.</text>
+        <text>The Pueblo of Picuris Environment Department may prohibit the disposal of other solid wastes at MSWLFs on the Pueblo of Picuris as it deems necessary in its discretion, under rules and regulations adopted by the Pueblo of Picuris Environment Department. The Pueblo of Picuris Environment Department shall issue rules and regulations governing the disposal or prohibition of disposal of other solid wastes not listed herein, including, but not limited to, ashes and powders, and mineral wastes and soils. The Pueblo of Picuris Environment Department shall develop rules and regulations for special wastes, which required special handling and disposal.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-12</num>
+      <heading>Prohibitions on Disposal in Open Dumps</heading>
+      <text>In order to protect the limited land, air and water resources of the Pueblo of Picuris from irremediable hazardous pollution and to protect the health, safety and welfare of all residents of   the Pueblo of Picuris and surrounding communities, disposal of solid waste in any open dump is expressly prohibited within the exterior boundaries of the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>11-1-13</num>
+      <heading>Solid Waste Facility Sites</heading>
+      <para>
+        <num>(A)</num>
+        <text>Site Considerations.</text>
+        <text>1)	Floodplains. If a solid waste disposal site or landfill is located within a 100 year floodplain, the owner or operator must demonstrate that the MSWLF will not restrict the flow of a 100 year flood, reduce temporary storage capacity of the floodplain or result in any washout of solid waste which would pose a hazard to human health or the environment.</text>
+        <text>2)	Wetlands. "Wetlands" means those areas which are defined in 40 C.F.R. §232.2(r) and include, but are not limited to, swamps, marshes, bogs, and similar areas, and are defined as those areas that are inundated or saturated by surface or groundwater at a frequency ad duration sufficient to support, and that under normal conditions do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. No MSWLF shall be located in wetlands, unless the owner/operator can make the demonstrations as required under the Federal criteria set forth in 40 C.F.R. §258.12. The Pueblo of Picuris Environment Department may, in its discretion, however, refuse to permit an MSWLF in any areas which are wetlands as defined herein.</text>
+        <text>3)	Fault Areas. No solid waste disposal facility or landfill shall be located within 200 feet (60 meters) of a fault that has had displacement in Holocene time. For purposes of <cite path="11|1|11-1-13">this section</cite>:</text>
+        <text>a)	"Fault" means any fracture or a zone of fractures in any material along which strata on one side have been displaced with respect to that on the other side.</text>
+        <text>b)	"Displacement" means the relative movement of two sides of a fault measured in any direction.</text>
+        <text>c)	"Holocene" means the most recent epoch of the Quaternary period extending from the end of the Pleistocene Epoch to the present.</text>
+        <text>4)	Seismic Impact Zone. No solid waste disposal facility or landfill shall be located in a seismic impact zone unless the owner/operator demonstrates to the satisfaction of the Pueblo of Picuris Environment Department, and the Pueblo of Picuris Environment Department finds, that all containment structures including liners, leachate collection systems and surface water control systems, are designed to resist the maximum peak ground acceleration associated with the maximum credible earthquake. For purposes of <cite path="11|1|11-1-13">this Section</cite>, "seismic impact zones" are defined as areas having a 10 percent or greater probability that the maximum expected horizontal acceleration in lithifield earth material, expressed as a percentage of the earth's gravitational pull (g), will exceed 0.10 g in 250 years.</text>
+        <text>5)	Unstable Areas. No solid waste disposal facility or landfill shall be located in an unstable area. "Unstable area" means a location that is susceptible to natural or human-induced events or forces capable of impairing the integrity of some or all of the landfill structural components responsible for preventing releases from a landfill. Unstable areas can include poor foundation conditions, areas susceptible to mass movements, and Karst terrains.</text>
+        <text>6)	Bodies of Water. No solid waste disposal site or landfill shall be located within 1,000 feet of a lake, pond, slough, river, stream, or other body of water. To the greatest extent possible, MSWLFs will be located substantially greater distances from any surface water of significance.</text>
+        <text>7)	Adverse Impact. No MSWLF shall be located in a manner that will cause significant adverse impact to recreational opportunities, wildlife habitat or populations or Pueblo of Picuris aesthetics.</text>
+        <text>8)	Dwellings. To the greatest extent possible, taking into account the requirements of this Ordinance, no MSWLF shall be located within 3,000 feet of a dwelling inhabited at the time the site is created.</text>
+        <text>9)	Domestic Water Well. No solid waste disposal site or landfill shall be located within 2,000 feet of a domestic water well, unless the Pueblo of Picuris Environment Department determines in writing that the well will not be contaminated by the site and establishes a water monitoring program for the well, or the Pueblo of Picuris Environment Department provides a substitute source of equal or better convenience and quality.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Determination Prerequisites for Reservation of Site</text>
+        <text>The following information shall be submitted to the Director for review and evaluation in order for a potential solid waste landfill site to be considered:</text>
+        <text>1)	A map or aerial photograph of the proposed site that shows all land within one mile of the proposed MSWLF site. The map or aerial photograph shall be of sufficient scale to show the entire property owned or leased for the disposal site by the person proposing the landfill, all homes, industrial buildings, wells, watercourses, rock outcroppings, roads and other applicable details and shall indicate the general topography.</text>
+        <text>2)	A summary of the geological formations and groundwater table to a depth of at least ten feet below the proposed excavation and at lowest elevation at the site. Such data shall be obtained by soil borings or other appropriate means.</text>
+        <text>3)	Identification of source and characteristics of cover material.</text>
+        <text>4)	Identification of watercourses within or adjacent to the proposed disposal site and, if no watercourse is involved, name of the watershed which will receive the drainage from the site.</text>
+        <text>5)	Any other information pertinent to the proposed site.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-14</num>
+      <heading>Storage</heading>
+      <para>
+        <num>(A)</num>
+        <text>Sanitary Site Conditions: The owner, agent or occupant of any dwelling, residence, premises or business establishment shall be responsible for the sanitary condition of said residence, premises or business establishment. No person shall place or deposit refuse or allow refuse to be placed or deposited on any public street, road or alley within the Pueblo of Picuris.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Storage of Solid Waste for Collection: The owner, agent or occupant of any dwelling, residence, premises or business establishment shall be responsible for the storage and stockpiling of all solid waste accumulated for collection or disposal.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Container Specifications: Commercial establishments shall be required to store garbage in durable, rust-resistant, non-absorbent and easily cleanable containers with close-fitting covers. Residents who transport solid waste to community transfer stations shall be required to haul their solid waste in such a way that it does not result in littering or wind- swept garbage.  Appropriate covers include tarps, cargo netting or closed-lid receptacles.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Ashes: Ashes, warm or cold, shall not be placed in plastic containers.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Hazardous Waste: No owner, occupant, business establishment or agency shall store hazardous waste within the boundaries of the Pueblo of Picuris. The Pueblo of Picuris Integrated Solid Waste Program shall collect small quantities of household hazardous waste which shall then be transferred to a disposal service operating an EPA-approved site which accepts hazardous material.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-15</num>
+      <heading>Collection</heading>
+      <text>Pueblo of Picuris tribal members, residents and tribal business establishments shall be solely responsible for their own collection and disposal of solid waste at designated MSWLFs within the exterior boundaries of the Pueblo of Picuris or an approved collection site such as a transfer station.</text>
+    </section>
+    <section>
+      <num>11-1-16</num>
+      <heading>Disposal</heading>
+      <para>
+        <num>(A)</num>
+        <text>Applicability of Standards: This Ordinance shall apply to all MSWLFs and to all equipment  used  at  disposal  facilities  on  the  Pueblo  of Picuris.   In  addition,  40 CFR §§258.20 through 258.29 are incorporated by reference herein. All owner/operators of MSWLFs shall comply with Part 258 Criteria, in addition to any additional waste management operating criteria specified in this Ordinance, rules or regulations, or in any conditions in the MSWLF facility operation permit, or in guidance documents, or in orders of the Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Prohibition on Hazardous Waste: The receipt, acceptance, handling, storage, processing or disposal of hazardous waste at any MSWLF for disposal on the Pueblo of Picuris is prohibited, provided that the Pueblo of Picuris Environment Department may establish a program for collection, transfer, storage, transportation and disposal of the Pueblo of Picuris of hazardous waste generated or found on the Pueblo of Picuris. If an operator knows or has reason to believe hazardous waste has been received at a solid waste disposal facility, the operator shall notify the Pueblo of Picuris Environment Department within two (2) hours of discovery of such waste. The owner or operator of a solid waste disposal facility shall implement a program to detect and prevent receipt, acceptance, handling, storage, processing or disposal of hazardous waste. This program must include at a minimum:</text>
+        <para>
+          <num>(1)</num>
+          <text>Random inspections of incoming loads;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Inspection of suspicious loads;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Maintenance records of inspections;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Training of personnel to recognize hazardous waste;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Containment vessels shall be in compliance with 40 C.F.R. Part 112, SPCC Rule; (Spill Prevention, Containment and Counter Measures Rule) and;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Procedures for notifying the Pueblo of Picuris Environment Department if hazardous waste is discovered at the facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Design: The uniform design criteria for MSWLFs contained in 40 CFR §258.40 are incorporated by reference for new MSWLFs. If the EPA has not approved the Tribe's solid waste program, then no new MSWLF units or lateral expansions shall be constructed unless they comply with Part 258 uniform design criteria, which includes a composite liner and a leachate system as set forth in 40 CFR §258.40(a)(2).</text>
+        <text>If the EPA has approved the Tribe's solid waste program, the Pueblo of Picuris Environment Department may approve the design criteria for an MSWLF, on a site-specific basis, in accordance with 40 CFR §258.40(a)(1).</text>
+        <text>If the Tribe does not have and EPA approved solid waste program, then the uniform design criteria in 40 CFR §258.40(a)(2) shall apply as follows, unless the Pueblo of Picuris Environment  Department  determines  that  the  small  landfill exemption under  40 CFR §258.1(f)(1) applies, and that an MSWLF unit is exempt from the design criteria under Subpart D of 40 CFR Part 258.</text>
+        <para>
+          <num>(1)</num>
+          <text>There must be a composite liner, as defined in paragraph (2) below, and a leachate collection system that is designed and constructed to maintain less than a 30-cm depth of leachate over the liner.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Composite liner" means a system consisting of two components; the upper component must consist of a minimum 30 mil flexible membrane liner (FML), and the lower component must consist of at least a two-foot layer of compacted soil with a hydraulic conductivity of no more than 1 x 10' cm/sec. FML components consisting of high density polyethylene (HDPE) shall be at least 60-mil thick. The FML component must be installed in direct and uniform contact with the compacted soil component.</text>
+          <text>If the EPA has approved the Tribe's solid waste program, then the design performance criteria in <cite path="11|1|11-1-16">this section</cite> applies, and a composite liner and leachate collection system are not required, but the Pueblo of Picuris Environment Department may require the same in his/her discretion.</text>
+          <text>If the Tribe has an EPA approved solid waste program, or an MSWLF unit is determined to be exempt from Subpart D of 40 CFR Part 258, then the Pueblo of Picuris Environment Department in approving an alternative design for an MSWLF, must consider at least the following factors:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The hydrogeologic characteristics of the facility and surrounding land; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The climatic factors of the area; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The volume and physical and chemical characteristics of the leachate.</text>
+          <text>In addition, any site-specific design must ensure that the concentration values for chemicals listed in Table 1 of 40 CFR Part 258, which is incorporated by reference herein, will not be exceeded in the uppermost aquifer at the relevant point of compliance, as specified in 40 CFR §258.40 (d) as follows:</text>
+          <text>The relevant point of compliance specified by the Pueblo of Picuris Environment Department shall be no more than 150 meters from the waste management unit boundary and shall be located on land owned by the owner of the MSWLF unit. In determining the relevant point of compliance the Pueblo of Picuris Environment Department shall consider at least the following factors:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The hydrogeologic characteristics of the facility surrounding land;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The volume and physical and chemical characteristics of the leachate;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The quantity, quality and direction of flow of ground water;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The proximity and withdrawal rate of the groundwater users;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The availability of alternative drinking water supplies;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The existing quality of the ground water, including other sources of contamination and their cumulative impacts on the ground water and whether the ground water is currently used or reasonably expected to be used for drinking water.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Public health, safety and welfare effects; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Practicable capability of the owner/operator.</text>
+          <text>The design of an MSWLF site shall also be based on the service area, anticipated nature and quantity of solid waste to be received, adjacent land uses, number and type of vehicles anticipated to enter the disposal facility site, whether the facility will be used by the general public, ground and surface  water,  leachate control, soils, drainage, provisions for monitoring, venting, controlling and possible use of disposal facility decomposition gases and other pertinent information. The owner or operator shall design the disposal facility to maximize the protection of public health.</text>
+          <text>The MSWLF design shall include one or more proposed ultimate uses of the site or the intent to develop the site as open space graded to harmonize with the setting and landscape of native shrubbery or low-maintenance ground cover.</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Records: Copies of all reports, records, analytical data and other data and other documents required by this Ordinance shall be maintained at the disposal facility, unless the Pueblo of Picuris Environment Department has authorized storage of the records at an alternative location. The owner or operator shall maintain records of weights, volumes and types of solid waste accepted at the facility, and shall be adequate for overall planning and control purposes and for forecasting the rate of filling. The owner or operator shall maintain adequate records regarding length and depth of any cuts made in natural terrain where fill will be placed, together with the depth to the groundwater table. The owner or operator shall also adequately record other cuts that may affect the safe and proper operation of the disposal facility or cause damage to adjoining properties.</text>
+        <text>The owner or operator shall maintain a log of the following: fires, earthslides, unusual or sudden settlement, personal injury, property damage, accidents, explosions, deliveries or discharge of hazardous waste or other materials not permitted at the disposal facility site, flooding, vandalism, contamination, pollution and other unusual occurrences. The owner or operator shall maintain inspection records, training procedures and notification procedures required herein. The owner or operator shall record and permanently maintain closure and post-closure maintenance plans as required by this Ordinance, any cost estimates and financial assurance documentation and information demonstrating compliance with the small community exemption as required by 40 CFR §258.1(f)(2).</text>
+        <text>Disposal facility records shall be open to inspection by authorized representatives of the Pueblo of Picuris Environment Department, and other regulatory and enforcement agencies during normal business hours. If information is identified as proprietary or confidential pursuant to this Ordinance, the Pueblo of Picuris Environment Department shall treat it as such.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Personnel: The owner or operator shall provide adequate numbers of qualified personnel to staff the disposal facility and deal effectively and promptly with matters of operation, maintenance, environmental controls, records, emergencies, and health and safety. Such personnel shall be adequately trained in the operation and maintenance of a disposal facility, including health, safety and environmental controls and emergency   procedures.</text>
+        <text>The owner or operator shall provide adequate supervision to insure proper operation of the disposal facility and compliance with requirements of this Ordinance. The owner or operator shall advise the Pueblo of Picuris Environment Department of the names, addresses and telephone numbers of the owner or operator, the disposal facility manager and the supervisor. Any disposal facility that is open to the public shall have an attendant on duty during operating hours.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Security: The disposal facility shall have an adequate perimeter barrier designed to discourage unauthorized entry by persons or vehicles. Areas within the disposal facility where open storage or ponding of material occurs or which the Pueblo of Picuris Environment Department deems hazardous shall be separately fenced and properly identified to create an adequate level of security.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Roads: Roads serving the disposal facility shall have reasonably smooth surfaces designed to minimize the generation of dust and the tracking of material onto adjacent paved public roads. Such roads shall allow vehicles using the disposal facility to have reasonable all- weather access to the facility. Roads within the disposal facility shall be kept in safe condition, maintained such that vehicle access and unloading can be carried on during inclement weather, and identified with suitable signs showing direction to the operating area.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Communication Facilities: The owner or operator shall provide communications facilities available to users and disposal facility personnel to allow quick response to emergencies by the appropriate authorities and emergency services.</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Lighting: The owner or operator shall equip the disposal facility and/or equipment with adequate lighting to insure safety and to permit monitoring of the effectiveness of cover and compaction operations.</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Fire Fighting Equipment: The owner or operator shall keep adequate fire suppression equipment available at the disposal facility at all times.</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>Confined Unloading: The owner or operator shall confine unloading of solid waste to as small an area as practicable and provide adequate control and collection of windblown material. The owner or operator shall deposit solid waste at the toe of the fill or as otherwise approved by the Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Spreading and Compacting: The owner or operator shall spread and compact solid waste in layers with repeated passages of equipment to eliminate voids within the cell that may produce potential harborage for vectors as rapidly as practicable. The loose layer shall not exceed a depth of two feet before compaction.</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Slopes and Cuts: The owner or operator shall maintain the slope of the working face at a ratio that will allow effective compaction of the solid waste. The depth of the cuts and slopes trench sides shall not exceed horizontal to vertical ratios approved by Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(N)</num>
+        <text>Stockpiling: The placement of stockpiled cover material or unsuitable native material shall not interfere with unloading, spreading, compacting, access, safety, drainage or other operations.</text>
+      </para>
+      <para>
+        <num>(O)</num>
+        <text>Daily Cover: In order to prevent propagation, harborage or attraction of vectors, to control disposal facility fires and to prevent the creation of nuisances, the owner or operator shall compact cover material to a minimum thickness of six (6) inches and place cover material over all surfaces of the compacted solid waste at the disposal facility on a daily basis or at a more frequent interval if required by the Pueblo of Picuris Environment Department. Pueblo of Picuris Environment Department may establish different cover and compaction requirements for special operating practices, including, but not limited to, disposal of shredded waste. Daily cover shall be designed and constructed to minimize percolation of precipitation through wastes.</text>
+      </para>
+      <para>
+        <num>(P)</num>
+        <text>Liquid Waste: The owner or operator may accept liquid waste and sewage sludge at the disposal facility only as specifically approved by the Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(Q)</num>
+        <text>Dead Animals: Dead animals may be accepted at a disposal facility only as specifically approved by the Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(R)</num>
+        <text>Nuisance Control: The owner or operator shall operate and maintain the disposal facility to prevent nuisance.</text>
+      </para>
+      <para>
+        <num>(S)</num>
+        <text>Dust Control: The owner or operator shall take all necessary measures to minimize the creation of dust.</text>
+      </para>
+      <para>
+        <num>(T)</num>
+        <text>Contact with Water: The owner or operator shall not deposit solid waste in such a manner that it has direct contact with either surface water or groundwater.</text>
+      </para>
+      <para>
+        <num>(U)</num>
+        <text>Explosive Gas Control: The owner or operator shall implement all necessary measures to prevent concentrations of methane gas at levels in excess of the requirements of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(V)</num>
+        <text>Maintenance: Maintenance procedures and programs for equipment and site facilities shall be developed and followed throughout the active life and the closure and post-closure maintenance periods of all solid waste disposal facilities.</text>
+        <text>The owner or operator shall frequently monitor and promptly repair or correct deteriorated or defective conditions in order to meet the requirements of this Ordinance and the permit conditions. The owner or operator shall develop and follow effective preventive maintenance procedures and programs for disposal facility equipment and facilities.</text>
+        <text>The owner or operator shall notify the Pueblo of Picuris Environment Department at least ten days prior to completion or suspension of work at a disposal facility so that a site inspection may be conducted prior to removal of earth moving equipment.</text>
+        <text>The owner or operator shall, at the beginning of disposal facility use and upon closure of the facility, file a detailed description of the disposal facility, including, but not limited to, a map with the Pueblo of Picuris Environment Department and the Bureau of Indian Affairs.</text>
+      </para>
+      <para>
+        <num>(W)</num>
+        <text>Containment Structures: Permanent containment structures shall be designed by and construction shall be supervised by a certified registered civil engineer or a certified engineering geologist, and the Pueblo of Picuris Environment Department shall conduct a final inspection and approve of the construction before use of the disposal facility commences. The owner or operator shall maintain the integrity of containment structures. Excavation made as part of disposal operations shall not result in removal of any portion of a containment structure.</text>
+        <text>Material used in containment structures shall have appropriate chemical and physical properties to ensure that such structures do not fail to contain solid waste because of pressure gradients. Physical contact with solid waste or leachate, chemical reactions with soil and rock, climate conditions, stress of installation or the stress of daily operation.</text>
+        <text>Permeabilities specified for containment structures other than cover shall be relative to the liquids including solid waste and leachate, to be contained. Permeabilities specified for final cover shall be relative to water.</text>
+      </para>
+      <para>
+        <num>(X)</num>
+        <text>Liners: Liners shall be installed to cover all natural geologic material at a disposal facility likely to be in contact with solid waste or leachate and shall be made of high-density polyethylene or clay sufficient for the containment of the types of solid waste to be disposed of at the disposal facility.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-17</num>
+      <heading>Periodic Review of Plan</heading>
+      <text>From the date of issuance of the permit, at least once each year, or more frequently as determined by the Pueblo of Picuris Environment Department, the owner or operator shall cause a registered civil engineer to review the disposal facility design, implementation and operation plan to determine if any revisions are necessary and to estimate the remaining facility life. The conclusions and recommendations of this review shall be presented in a report and filed with the Pueblo of Picuris Environment Department.  Review of the plan shall occur every five years.</text>
+    </section>
+    <section>
+      <num>11-1-18</num>
+      <heading>Resource Recovery Program Policy and Program</heading>
+      <text>Tribal policy shall be that solid wastes which are reusable shall be recycled if economically feasible. The Pueblo of Picuris Environment Department shall include a study regarding the recycling of solid wastes on the Pueblo of Picuris, as part of the Tribe's Solid Waste Management Plan. Such study shall include an analysis of technological and economically feasible systems for the collection, separation, containerization and marketing of solid wastes that are recyclable and a characterization of waste streams. The study shall identify potential markets for recyclable solid wastes. The Pueblo of Picuris Environment Department shall issue rules and regulations for the recycling of solid waste on the Pueblo of Picuris based on the study. Review of the policy and program shall occur every five years.</text>
+    </section>
+    <section>
+      <num>11-1-19</num>
+      <heading>Permit and Inspection Program</heading>
+      <text>
+        <strong>Solid Waste Facility and Transportation Permits</strong>
+      </text>
+      <text>Tribally chartered corporations or agencies, private enterprises and any other persons are required to obtain a permit from the Pueblo of Picuris Environment Department to either collect solid waste or to construct or operate a municipal solid waste landfill within the exterior boundaries of the Pueblo of Picuris. Any permittee shall be required to comply with this Ordinance, and any rules or regulations promulgated thereunder, all Tribal environmental standards and criteria, all relevant guidance documents, all permit conditions, all orders issued by the Pueblo of Picuris Environment Department under authority of this Ordinance, and all applicable federal or Tribal laws, environmental in nature or otherwise.</text>
+      <text>No tribally chartered corporation or agency, private enterprise, or person may collect or transport solid waste, or construct or operate an MSWLF within the exterior boundaries of the Pueblo of Picuris without first having to obtain from the Pueblo of Picuris Environment Department  either:</text>
+      <para>
+        <num>(1)</num>
+        <text>a solid waste collection and transportation permit; or (2) a solid waste facility construction and/or operation permit.</text>
+        <text>Any qualified tribally chartered corporation, agency, private enterprise or person may file an application with the Pueblo of Picuris Environment Department for a permit to collect and transport solid waste, or to construct and/or operate an MSWLF on the Pueblo of Picuris.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-20</num>
+      <heading>Permits for the Construction and Operation of MSWLFs</heading>
+      <text>Any application for a permit to construct and/or operate an MSWLF must contain all of the following information, tests, and data that are necessary to demonstrate that the permittee will comply with all of the provisions of this Ordinance; the SWDA, 40 CFR Part 258; and all solid waste rules and regulations, technical standards or criteria or applicable guidance documents. In addition, the Pueblo of Picuris Environment Department may require that a permittee acquire or perform such additional information, tests or studies as he/she deems reasonably necessary to demonstrate compliance with this Ordinance.</text>
+      <text>The permit application to construct and/or operate an MSWLF must contain the following minimum information:</text>
+      <para>
+        <num>(1)</num>
+        <text>A legal description and area map of the site of the proposed facility.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title report showing ownership of the site of the proposed facility and all encumbrances, covenants, conditions, restrictions, reservations to title and easements and rights of way on or across the site.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proof that the applicant is the owner or holds an interest or lease in the proposed site; that all taxes, fees and lease payments are current; and if not that the applicant has a notarized consent of the owner approving the use of the land for the purposes set forth in the application; approval from the Pueblo of Picuris Tribal Council; and if the land is leased or permitted under Title 25 of the United States Code, approval of the Secretary of the Interior or his/her authorized delegate, and a certified copy of the lease or permit, with all exhibits and attachments thereto.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A general design plan for the facility certified by a professional engineer.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A map and aerial photograph of the area to be used for the MSWLF showing all land use and political jurisdiction within five miles of the landfill site. The map and aerial photograph shall be of sufficient scale to show all homes, airports, wells, water ways, topography, roads and other objects that may be affected.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A report indicating the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>The population and area to be served by the proposed site and life expectancy of the facility;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The geological formation, aquifer characteristics and groundwater elevations below the lowest elevation of the site. Such data will be obtained by soil boring and other appropriate means;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The source and characteristics of cover material to be used;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Reliable data on existing ground water quality within 2,000 feet of the site;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Topography of the site and drainage patterns; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Location of the 100 year flood plain as approved by the Pueblo of Picuris Environment Department in relation to the site.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A design and plan of operation for the facility, certified by a professional engineer, which identifies how the landfill will meet the standards and criteria of the Ordinance and 40 CFR Part 258 for the location, design, performance, operating standards, groundwater monitoring, closure, post-closure and financial assurance requirements. The design shall also include one or more topographic maps with contour intervals. The maps should show the proposed fill area, borrow areas, access roads, drainage areas, fencing, equipment and buildings and the groundwater monitoring systems.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A financial statement, estimating the cost of construction, operation, closure and post- closure of the site, explaining the applicant's financial condition and the applicant's ability to fund the continued operation, closure, and post-closure of the site in compliance with the Ordinance and the financial assurance requirements of 40 CFR Part 258.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>An identification statement certified as to its truth and accuracy, signed by the applicant, and notarized, containing the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name, address, social security number and phone number of all persons owning or holding an interest in the applicant of 5% or more;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Name, address, social security number and phone number of all officers, directors or partners;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A statement that no officer, director, partner or holder of an interest of 5% or more has ever been convicted of a felony, and that no felony charges are currently pending;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A statement which discloses in detail any charge, complaint, fine, order, decree, statement or finding of "no contest" for violation of any Tribal, federal, state, county or municipal environmental or health law, regulation, permit or condition against any officer, director, partner or holder of an interest of 5% or more within the past five (5) years, including the jurisdiction, disposition and name, address and phone number of the person who filed the original charge, or complaint, and the name of the director, board, administrative body, judge, justice of the peace, magistrate or arbitrator who levied or entered any fine, order, penalty, decree, statement or finding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>A current financial statement of the applicant's net worth, including a description of major assets and liabilities, and any other financial information requested by the Pueblo of Picuris Environment Department.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>A description of any judgments rendered against any officer, director, partner or holder of an interest of 5% or more in the applicant for five (5) years preceding the date of the application.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>A description of any bankruptcy or insolvency proceedings  instituted  by  any officer, director, partner or holder of an interest of 5% or more in the applicant for  five (5) years preceding the date of application.</text>
+        <text>The Pueblo of Picuris Environment Department shall not issue a solid waste construction and/or operation facility permit unless the Tribe has issued a land use permit, or lease, authorizing the operation of the MSWLF facility.</text>
+        <text>The Pueblo of Picuris Environment Department may issue a solid waste construction and/or operation facility permit, on if it finds, on the basis of information contained in the application and otherwise available to it, an only after conducting a public hearing as specified herein, that the applicant will comply with the Ordinance: the 40 CFR Part 258 Criteria; and all rules and regulations, technical standards and criteria, guidance documents and permit conditions.</text>
+        <text>The Pueblo of Picuris Environment Department must also find that the applicant has the financial and technical ability to construct and/or operate, close and post-close the MSWLF as required by the Ordinance.</text>
+        <text>The burden of proof shall rest on the applicant to demonstrate compliance with all Tribal solid waste criteria and requirement. The issuance or denial of any permit by the Pueblo of Picuris Environment Department is completely discretionary. In issuing any permit, the Pueblo of Picuris Environment Department may impose permit conditions which are more stringent than provided under the Ordinance, if such are reasonably necessary. The Pueblo of Picuris Environment Department shall not issue a solid waste construction and/or operation facility permit, unless it is convinced that the primary consideration of the permittee is to prevent environmental damage and protect the public health. The long-term protection of the Tribe's public health, environment and natural resources shall be a critical consideration for the Pueblo of Picuris Environment Department's issuance or denial of a permit.</text>
+        <text>A solid waste operation facility permit shall be valid for the operation, closures and post- closure period designated and required for such MSWLF, but such permit is subject to revocation, suspension or modification as provided herein. Any condition imposed on any solid waste construction and/or operation facility permit issued by the Pueblo of Picuris Environment Department may only be modified after a public hearing which is duly noticed regarding modification of such permit.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-21</num>
+      <heading>Permits for the Collection and Transportation of Solid Waste</heading>
+      <text>As a condition for the issuance of a solid waste collection and transportation permit, the Pueblo of Picuris Environment Department shall require every vehicle operated by the transporter to be conspicuously marked to identify the solid waste transported. Every vehicle shall be marked with the trade name of the transporter, and the number of solid waste transportation permits issued pursuant to <cite path="11|1|11-1-21">this Section</cite>. Every vehicle and driver must be licensed by the State of New Mexico and must comply with all safety and insurance requirements of the State of New Mexico and the Department of Transportation.</text>
+      <text>As a condition for the issuance of a solid waste collection and transportation permit, a transporter agrees to make an annual report by December 1 of each year to the Pueblo of Picuris Environment Department indicating the number and type of installations emptied or cleaned, the volume and nature of solid waste disposed of, the place and manner in which such solid waste was finally disposed and such other information as the Pueblo of Picuris Environment Department may require. A renewal may be denied by the Pueblo of Picuris Environment Department for failure of the permittee to properly and timely file such annual report.</text>
+      <text>Solid waste permits for the collection and transportation of solid waste must be renewed annually by the Pueblo of Picuris Environment Department on a calendar basis. The Pueblo of Picuris Environment Department shall adopt rules and regulations for solid waste collection and transportation on the Pueblo of Picuris, including the operation of transfer stations, and may impose whatever condition it deems reasonably necessary to protect the environment, and the health, safety and welfare of the Tribe and its members before issuing any permit under <cite path="11|1|11-1-21">this section</cite>.</text>
+    </section>
+    <section>
+      <num>11-1-22</num>
+      <heading>Public Hearing on MSWLF Permit Applications</heading>
+      <text>No solid waste construction and/or operation facility permit shall be issued unless there has been a public hearing conducted by the Pueblo of Picuris Environment Department at which the applicant and all interested persons shall have an opportunity to present relevant evidence and be heard on whether or not the permit should be granted, or whether there are any special conditions which should be included in such permit. All applications for a solid waste construction and/or operation facility permit, including all documentation required for such permit, shall be available for public review and inspection at least sixty (60) days in advance of the hearing. The Pueblo of Picuris Environment Department shall publish weekly notice of such public hearing on each application beginning at least sixty (60) days in advance of the hearing in the most widely circulated newspaper on the Pueblo of Picuris for three consecutive weeks. The Pueblo of Picuris Environment Department shall also post notice, at least sixty (60) days in advance of the hearing. The Pueblo of Picuris Environment Department may designate issues it deems most relevant for the public hearing in the public notice, but the Pueblo of Picuris Environment Department shall consider all issued which are raised at the hearing. The public hearing shall be continued until all persons have had an opportunity to present their views.</text>
+    </section>
+    <section>
+      <num>11-1-23</num>
+      <heading>Oath and Application Filing Fees</heading>
+      <text>Each report and application filed shall be signed or notarized under oath in a form approved by the Pueblo of Picuris Environment Department. Each application shall be accompanied by a reasonable filing fee established by the Pueblo of Picuris Environment Department to reflect the Tribe's cost of processing the application or preparing an environmental assessment, the public notice and hearing and  the  costs of  technical  and legal consultants to review the application, prepare the permit, exhibits and guidance documents.</text>
+    </section>
+    <section>
+      <num>11-1-24</num>
+      <heading>Other Fees and Taxes</heading>
+      <text>In order to recover operating costs, the Tribe may impose reasonable fees on each permittee who constructs or operates an MSWLF, or collects  and  transports solid  waste. Any fees to be imposed by the Tribe shall be specifically referred to in each permit. In addition, the Tribe may impose taxes on each permittee who operates an  MSWLF,  or collects and transports solid waste.   The payment of such fees or taxes shall be a condition   of maintaining such permit.</text>
+    </section>
+    <section>
+      <num>11-1-25</num>
+      <heading>Closure; Post-Closure and Financial Assurances Closure Care Requirements for MSWLFs</heading>
+      <text>The owner or operator of an MSWLF which has received solid waste after October   9, 1991, shall install a final cover system that is designed to minimize  infiltration and  erosion in compliance with 40 CFR §258.60.</text>
+      <text>The final cover system as set forth in 40 CFR §258.60(a) must be comprised of an erosion layer underlain by an infiltration layer as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The infiltration layer must be comprised of a minimum of 18 inches of earthen material that has a permeability of less than or equal to the permeability of any bottom liner system or natural subsoils present, or a permeability no greater than 1 x 10-5 cm/sec, whichever is less; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The erosion layer must consist of a minimum of 6 inches of earthen material that is capable of sustaining native plant growth.</text>
+        <text>If EPA approves the Tribe's solid waste program, then the Pueblo of Picuris Environment  Department  may  approve  an  alternative  final  cover  design  under  40  CFR §258.60(b) that includes:</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>An infiltration layer that achieves an equivalent reduction in infiltration as the infiltration layer specified in §258.60(a)(1); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An erosion layer that provides equivalent protection from wind and water erosion as the erosion layer specified in §258.60(a)(2). This alternative final cover design may not be applied to landfills which ceased to receive solid waste on or after October 9, 1993.</text>
+        <text>The owner or operator must prepare a written closure plan that describes the steps necessary to close an MSWLF unit at any point during its active life in accordance with the cover design requirements.	The closure plan, at  a minimum,  must  include   the following information:</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>A description of the final cover and the methods and procedures to be used to install the cover;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An estimate of the largest area of the MSWLF unit ever requiring a final cover at any time during the active life;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An estimate of the maximum inventory of wastes ever on-site over the active life of the landfill facility; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A schedule for completing all activities necessary to satisfy the closure criteria  in §258.60.</text>
+        <text>The owner or operator must notify the Pueblo of Picuris Environment Department that a closure plan has been prepared and placed in the operating record by the date of the first receipt of solid waste.</text>
+        <text>Prior to beginning closure of each MSWLF unit, the owner or operator must notify the Pueblo of Picuris Environment Department that a notice of intent to close the unit has been placed in the operating record.</text>
+        <text>The owner or operator must begin closure activities of each MSWLF unit no later than 30 days after the date on which the MSWLF unit receives the known final receipt of wastes or, if the MSWLF unit has remaining capacity and there is a reasonable likelihood that the MSWLF unit will receive additional wastes, no later than one year after the most recent receipt of waste. Extensions beyond the one-year deadline for beginning closure may be granted by the Pueblo of Picuris Environment Department if the Tribe has an EPA approved solid waste program, and if the owner or operator demonstrates that the MSWLF unit has the capacity to receive additional wastes and the owner or operator has taken and will continue to take all steps necessary to prevent threats to human health and the environment from the unclosed MSWLF unit.</text>
+        <text>The owner or operator of any MSWLF unit must complete closure activities of each MSWLF unit in accordance with the closure plan within 180 days following the beginning of closure as specified in 40 CFR §258.60(f). Extensions of the closure period may be granted by the Pueblo of Picuris Environment Department, if the Tribe has an EPA approved solid waste program, and if the owner or operator demonstrates that closure will, of necessity, take longer than 180 days and he/she has taken and will continue to take all steps to prevent threats to human health and the environment from the unclosed MSWLF unit.</text>
+        <text>Following the closure of each MSWLF unit, the owner or operator must supply the Pueblo of Picuris Environment Department with a certification signed by an independent registered professional engineer that verifies that closure has been completed in accordance with the closure plan, an shall place such certification in the operating record.</text>
+        <text>The Pueblo of Picuris Environment Department shall take whatever action is reasonably necessary in perpetuity to notify any potential users or purchasers of the landfill facility property that the land has been used as a landfill facility and that its use is restricted under 40 CFR §258.61(c)(3). Post-closure use of the property shall not disturb the integrity of the site, final cover, liner(s) or monitoring systems, unless necessary to comply with requirements under 40 CFR Part 258.</text>
+        <text>
+          <strong>Post Closure Care Requirement for MSWLFs</strong>
+        </text>
+      </para>
+      <para>
+        <num>(A)</num>
+        <text>Following closure of each MSWLF unit, the owner or operator must conduct post- closure care. Post-closure care must be conducted for thirty (30) years, except as provided under Paragraph B of <cite path="11|1|11-1-25">this section</cite>, and must include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintaining the integrity and effectiveness of any final cover, including making repairs to the cover as necessary to correct the effects of settlement, subsidence, erosion, or other events, and preventing run-on and run-off from eroding or otherwise damaging the final cover; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Maintaining and operating the leachate collection system in accordance with the requirements in 40 CFR §258.40. The Pueblo of Picuris Environment Department may allow the owner or operator to stop managing leachate if the owner or operator demonstrates that leachate no longer poses a threat to human health and the environment.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Monitoring the ground water in accordance with the requirements of Subpart E of 40 CFR Part 258 and maintaining the groundwater monitoring system; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Maintaining and operating the gas monitoring system in accordance with the requirements of 40 CFR §258.23.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The length of the post-closure care period may be:</text>
+        <para>
+          <num>(1)</num>
+          <text>Decreased by the Pueblo of Picuris Environment Department if the Tribe has an EPA approved solid waste program and if the owner or operator demonstrates to the satisfaction of the Pueblo of Picuris Environment Department that the reduced period is sufficient to protect human health and the environment; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Increased by the Pueblo of Picuris Environment Department if the Pueblo of Picuris Environment Department determines that the lengthened period is necessary to protect human health and the environment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The owner or operator of an MSWLF unit must prepare a written post-closure plan that includes, at a minimum, the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A description of the monitoring and maintenance activities required in 40 CFR § 258.61(a) for each MSWLF unit, and the frequency at which the activities will be performed; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name, address and telephone number of the person or office to contact about the facility during the post-closure period; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A description of the planned uses of the property during the post-closure period. Post-closure use of the property shall not disturb the integrity of the final cover, liner(s), or any other components of the containment system, or the function of the monitoring systems unless necessary to comply with the requirements of 40 CFR Part 258. The Pueblo of Picuris Environment Department may, if the Tribe has an EPA approved solid waste plan, approve any other disturbance if the owner or operator demonstrates that disturbance of the final cover, liner or other component of the containment system, including any removal of waste, will not increase the potential threat to human health or the environment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The owner or operator must notify the Pueblo of Picuris Environment Department  that  a post-closure plan has been prepared and placed  in  the operating record prior  to the initial receipt of waste by the facility.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Following completion of the post-closure care period for each MSWLF unit, the owner or operator must  supply the Pueblo of Picuris Environment Department with   a certification signed by an independent registered professional engineer which verifies that all post-closure care has been completed in accordance with the post- closure plan, and shall place such certification in the operating record.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-26</num>
+      <heading>Financial Assurance Requirements for Closure, Post-Closure and Corrective Action</heading>
+      <text>Owners or operators of MSWLFs on the Pueblo of Picuris are required to comply with the financial assurance criteria under Subpart G of 40 CFR Part 258, which are incorporated herein and contained at 40 CFR §258.71 (Financial Assurance for Closure); 40 CFR§258-72 (Financial Assurance for Post-Closure Care); 40 CFR §258.73 (Financial Assurance for Corrective Action); and 40 CFR §258.74 (Allowable Mechanisms to Demonstrate Financial Assurance).</text>
+      <para>
+        <num>(A)</num>
+        <text>Financial Assurance for Closure.</text>
+        <text>The owner or operator of an MSWLF must have a detailed written estimate, in current dollars, of the cost of hiring a third party to close the largest area of each MSWLF unit ever requiring a final cover as required under 40 CFR §258.60 at any time during the active life in accordance with the closure plan. The owner or operator must notify the Pueblo of Picuris Environment Department that the estimate has been placed in the operating record.</text>
+        <text>The cost estimate must equal the cost of closing the largest area of an MSWLF unit ever requiring a final cover at any time during the active life when the extent and manner of its operation would make closure the most expensive, as indicated by its closure plan.</text>
+        <text>During the active life of the MSWLF unit, the owner or operator must annually adjust the closure estimate for inflation.</text>
+        <text>The owner or operator must increase the closure cost estimate and the amount of financial assurance provided, if changes to the closure plan or MSWLF unit conditions increase the maximum cost of closure at any time during the remaining active life. The owner or operator may reduce the closure cost estimate and the amount of financial assurance provided under Section B herein, if the closure cost estimate exceeds the maximum cost of closure at any time during the remaining life of the MSWLF unit. The owner or operator must notify the Pueblo of Picuris Environment Department that the justification for the reduction of the closure cost estimate and the amount of financial assurance has been placed in the operating record.</text>
+        <text>The owner or operator of each MSWLF unit must establish financial assurance for closure of the MSWLF unit in compliance with 40 CFR §258.74. The owner or operator must provide continuous coverage for closure until released from financial assurance requirements by demonstrating compliance with 40 CFR §258.60(h) and (i).</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Financial Assurance for Post-Closure Care.</text>
+        <text>The owner or operator must have a detailed estimate, in current dollars, of the cost of hiring a third party to conduct post-closure care for the MSWLF unit in compliance with the post-closure plan developed under 40 CFR §258.61. The post-closure cost estimate used to demonstrate financial assurance must account for the total costs of conducting post-</text>
+        <text>closure care, including annual and periodic costs as described in the post-closure plan over the entire post-closure care period. The owner or operator must notify the Pueblo of Picuris Environment Department that the estimate has been placed in the operating record.</text>
+        <text>The cost estimate for post-closure care must be based on the most expensive cost of post-closure care during the post-closure care period.</text>
+        <text>During the active live of the MSWLF unit and during the post-closure care period the owner or operator must annually adjust the post-closure cost estimate for inflation.</text>
+        <text>The owner operator must increase the post-closure care cost estimate and the amount of financial assurance provided if changes in the post-closure care plan or the MSWLF unit conditions increase the maximum cost of post-closure care. The owner or operator may reduce the post-closure care cost estimate and the amount of financial assurance provided if the cost estimate exceeds the maximum costs of the post-closure care remaining over the post-closure care period.	The  owner  or  operator  must  notify  the  Pueblo of Picuris Environment Department that the justification for the reduction of the post-closure care cost estimate and the amount of financial assurance has been placed in the operating record.</text>
+        <text>The owner or operator of each MSWLF unit must establish financial assurance for the costs of post-closure care of the MSWLF unit in compliance with 40 CFR§258.74.</text>
+        <text>The owner or operator must provide continuous coverage and financial assurance for post- closure care until released from financial assurance requirements for post-closure care by demonstrating compliance with 40 CFR §258.61(e).</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Financial Assurance for Corrective Action.</text>
+        <text>An owner or operator of an MSWLF unit required to undertake a corrective action program under 40 CFR §258.58 must have a detailed written estimate, in current dollars, of the cost of hiring a third party to perform the corrective action in accordance with the program required under 40 CFR §258.58. The corrective action cost estimate must account for the total costs of corrective action activities as described in the corrective action plan for the entire corrective action period. The owner or operator must notify the Pueblo of Picuris Environment Department that the estimate has been placed in the operating record.</text>
+        <text>The owner or operator must annually adjust the estimate for inflation until the corrective action program is completed in accordance with 40 CFR §258.58(f).</text>
+        <text>The owner or operator must increase the corrective action cost estimate and the amount of financial assurance provided if changes in the corrective action program or MSWLD unit conditions increase the maximum cost of corrective action.</text>
+        <text>The owner or operator may reduce the amount of the corrective action cost estimate and the amount of financial assurance provided if the cost estimate exceeds the maximum remaining costs of corrective action. The owner or operator must notify the Pueblo of Picuris Environment Department that the justification for any reduction of the corrective action cost estimate and the amount of financial assurance has been placed in the operating record.</text>
+        <text>The owner or operator of each MSWLF unit required to undertake a corrective action program under 40 CFR §258.58 must establish, in a manner in accordance with the 40 CFR</text>
+        <text>§258.74, financial assurance for the most recent corrective action program. The owner or operator must provide continuous coverage and financial assurance for corrective action until released from financial assurance requirements for corrective action by demonstrating compliance with the 40 CFR §258.58(f) and (g).</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Allowable Financial Mechanisms.</text>
+        <text>40 CFR §258.74 required that an owner or operator of an MSWLF unit provide financial assurance to ensure that funds necessary to meet the costs of closure, post-closure care and corrective action for known release will be available in a timely fashion when they are needed. There are four mechanisms available to provide financial assurance, including a trust fund; a surety bond; a letter of cred; an insurance policy; or a combination of all four mechanisms. Any mechanism(s) that is/are used by an owner or operator must comply with all of the criteria in 40 CFR §258.74, which is incorporated by reference herein, and must be legally valid, binding and enforceable under state, federal and Tribal law.</text>
+        <text>The financial assurance mechanism(s) must be obtained by the owner or operator before the initial receipt of waste in the case of closure and post-closure care cost estimates; and no later than one hundred twenty (120) days after the corrective action remedy has been selected in accordance with the requirements of 40 CFR §258.58, and maintained as required by 40 CFR §§258.71-74.</text>
+        <text>The Pueblo of Picuris Environment Department must approve the actual financial assurance mechanism(s) and financial assurance agreements that is/are provided by the owner or operator. The Pueblo of Picuris Environment Department may also require in its discretion, in addition to the criteria for financial assurance under 40 CFR Part 258, that an owner or operator provide financial assurance for corrective action for other than known releases as a condition for issuing an MSWLF permit.</text>
+        <text>The Pueblo of Picuris Environment Department shall also require that liability and property damage insurance coverage be provided by an owner or operator for claims arising from personal injury or property damage, including any claims from releases from an MSWLF unit.</text>
+        <text>If a trust fund mechanism is used, the trustee must be an entity who has the authority to act as a trustee, and whose trust operations are regulated and examined by a federal agency. Trust fund payments must be made as specified in 40 CFR§258.74 criteria. The Pueblo of Picuris Environment Department must approve the terms of any trust agreement which is to be used as a financial assurance mechanism. The trust agreement shall be irrevocable. Trust funds shall only be release to reimburse the owner or operator for closure, post-closure and corrective action costs actually incurred, but only if sufficient funds remain in the trust to cover the remaining costs.</text>
+        <text>If any surety bond is used, the surety company issuing the bond must, at a minimum, be among those listed as acceptable sureties in federal bonds in Circular 570 of the U.S. Department of the Treasury.</text>
+        <text>If any letter of credit is used, the issuing institution must be an entity which has the authority to issue letter of credit and whose letter of credit operations are regulated and examined by a federal agency.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-27</num>
+      <heading>Enforcement Program/Administrative Procedures</heading>
+      <text>Enforcement Policy: It is the policy of the Pueblo of Picuris Environment Department to encourage informal, practical, result-oriented resolution of alleged violations and actions needed to prevent damage to Pueblo of Picuris resources or harm to the health, safety or welfare of the Pueblo of Picuris population. It is also the policy of the Pueblo of Picuris Environment Department, consistent with the principles of due process, to provide effective procedures for enforcement.</text>
+      <text>Enforcement Agency: The Pueblo of Picuris Environment Department shall be responsible for enforcing the provisions of this Ordinance. Specifically, the Pueblo of Picuris Environment Department shall conduct investigations when a complaint is received by the Bureau of Indian Affairs or other tribal agency believes that a violation of this Ordinance has occurred.</text>
+      <text>Enforcement Activities: Where a written and verified complaint shall be filed with the Bureau of Indian Affairs, New Mexico State Police for Taos County (per Special Law Enforcement Commissions in Pueblo of Picuris Tribal Council Resolution 2014-10) and the Pueblo of Picuris Environment Department and reviewed by the Pueblo of Picuris Environment Department alleging that, or where, the Pueblo of Picuris Environment Department itself shall have cause to believe that, any person is violating any solid waste regulation or permit condition, the Pueblo of Picuris Environment Department shall cause a prompt investigation to be made.</text>
+      <text>Notice of Violation: Cease and Desist Order: If the Pueblo of Picuris Environment Department finds after an investigation pursuant to this Ordinance that a violation of any regulation or permit condition exists, the Pueblo of Picuris Environment Department shall promptly notify both the alleged violator and the Pueblo of Picuris Tribal Council, in writing.</text>
+      <text>In the case of an apparent violation of this Ordinance, the Pueblo of Picuris Environment Department is authorized to issue a Notice of Violation to the person(s) apparently responsible for the violation, and, if the apparent violation occurred on property owned by a person other than the alleged violator, a Notice of Violation shall also be issued to the landowner.</text>
+      <text>In the case of a continuing violation or a threatened violation, the Pueblo of Picuris Environment Department is authorized to issue a Cease and Desist Order to prevent the violation from continuing or occurring.</text>
+      <text>Failure to comply with a Cease and Desist Order shall constitute a violation of this Ordinance. Both a Notice of Violation and a Cease and Desist Order may be issued for a single incident. A Notice of Violation will include a Summons to appear before the Pueblo of Picuris Tribal Court at an enforcement hearing at a specified time and date, and shall advise the alleged violator that failure to appear may result in the imposition of civil penalties.</text>
+      <text>If a Cease and Desist Order is issued without an accompanying Notice of Violation, the Order will inform the recipient that failure to comply with the Order will constitute a violation of this Ordinance which will result in the issuance of a Notice of Violation and may result in the imposition of civil penalties.</text>
+      <text>Informal Conferences: The Pueblo of Picuris Environment Department shall afford the landowner or his or her representative reasonable opportunities to discuss proposed enforcement actions at an informal conference prior to taking further enforcement action, unless the Pueblo of Picuris Environment Department determines that there may be either imminent environmental damage to a Pueblo of Picuris resource or adverse impact upon the health, safety and welfare of the Pueblo of Picuris population. Informal conferences may be used at any stage in the enforcement proceedings, except that the Pueblo of Picuris Environment Department may refuse to conduct informal conferences with respect to any matter pending before the Pueblo of Picuris Tribal Court.</text>
+      <text>Reports Required: The Pueblo of Picuris Environment Department shall keep written notes of the date and place of the conference, the persons in attendance, the subject matter discussed and any decisions reached with respect to further enforcement action.</text>
+      <text>Enforcement Hearings: If the landowner and the Pueblo of Picuris Environment Department are unable to resolve the matter via an informal conference, the Pueblo of Picuris Tribal Court is authorized to conduct adjudicatory hearings to determine if a violation of this Ordinance has occurred.</text>
+      <text>In such a hearing the Pueblo of Picuris Solid Waste Department Manager, in cooperation with the Pueblo of Picuris Environment Department Director, in cooperation with the Tribal Sheriff shall present the case to the Pueblo of Picuris Tribal Court to establish that the person(s) charged has (have) committed a violation of this Ordinance. Any person so charged shall be entitled, at his or her own expense, to be represented by an attorney or other representative.</text>
+      <para>
+        <num>(A)</num>
+        <text>Burden of Proof. The Director of the Pueblo of Picuris Solid Waste Department Manager shall have the burden of proving that a violation of this Ordinance has occurred and that a person charged was responsible for the violation. The Pueblo of Picuris Tribal Court shall rule that a violation of this Ordinance has occurred if it finds that the charges are supported by substantial evidence and that a preponderance of the credible evidence supports a finding that a violation has occurred.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Enforcement Orders. Within thirty (30) days after the date of any enforcement hearing, the Pueblo of Picuris Tribal Court shall issue a written decision. If the Pueblo of Picuris Tribal Court determines that a violation has occurred and that the person(s) charged was (were) responsible for the violation, the Pueblo of Picuris Tribal Court shall include an Enforcement Order.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-28</num>
+      <heading>Civil Penalties and Corrective Action:</heading>
+      <text>An Enforcement  Order shall direct  any  person(s) found to have committed a violation of this Ordinance to take whatever corrective action the Pueblo of Picuris Tribal Court deems appropriate under the circumstances. An Enforcement Order may impose civil penalties in accordance with a schedule of civil penalties prescribed in the Committee's rules. Alternatively, an Enforcement Order may impose civil penalties in the event that a person found to have committed a violation of this Ordinance does not take corrective action in accordance with the Order with a prescribed time frame. If a person who has been found to have committed a violation does not take corrective action within the prescribed timeframe, an appropriate department or agency of the Tribal government may by twice the amount of the cost incurred by the Tribal department or agency taking the corrective action.</text>
+      <para>
+        <num>(A)</num>
+        <text>Emergency Orders. Notwithstanding any other provision of this Ordinance, if the Pueblo of Picuris Tribal Court determines that noncompliance with this Ordinance is presenting an imminent and substantial threat to the public health, welfare or environment and determines, in consultation with the Tribe's attorneys, that it is not practicable to assure prompt protection of the public health, welfare or environment of an administrative or judicial action under this Part, the Pueblo of Picuris Tribal Court may issue such orders as may be necessary to protect the public health, welfare or environment. Any such Order shall be effective immediately upon issuance and shall remain in effect for a period not to exceed sixty (60) days.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Revocation Permit: Failure of any person to comply with any Enforcement Orders will result in an immediate revocation of his or her permit. In order to obtain a reinstatement of such permit, the person(s) against who the Enforcement Order was issued must first demonstrate compliance with the Order and pay all outstanding penalties and then petition the Pueblo of Picuris Tribal Court, in writing, for reinstatement of the permit with the Pueblo of Picuris Environment Department.</text>
+      </para>
+    </section>
+    <section>
+      <num>11-1-29</num>
+      <heading>Special Provisions for Tribal Departments and Agencies:</heading>
+      <text>In any case in which the Pueblo of Picuris Tribal Council or any Tribal agency or department is alleged to have violated the terms and conditions of a solid waste permit, or to have conducted activities without a permit, the Pueblo of Picuris Environment Department shall bring the matter to the attention of the Governor of the Pueblo of Picuris who shall consider taking action to ensure compliance with this Ordinance.</text>
+    </section>
+    <section>
+      <num>11-1-30</num>
+      <heading>Appeals Judicial Review:</heading>
+      <text>Any person who is aggrieved by the issuance or denial of  a solid waste permit without respect to whether that person, corporation or other entity is a party to such permit application, or who is the subject of an Enforcement Order, may file an appeal with the Pueblo of Picuris Tribal Court. The Court is authorized to hear such appeal.</text>
+    </section>
+    <section>
+      <num>11-1-31</num>
+      <heading>Other Provisions</heading>
+      <text>Severability: If any provision of this Ordinance, or the application thereof, is held invalid, the remainder of this Ordinance, or application of such provisions, shall not be affected.</text>
+    </section>
+    <section>
+      <num>11-1-32</num>
+      <heading>Amendments</heading>
+      <text>The Pueblo of Picuris Tribal Council reserves the sole right to amend this Ordinance and to issue rules effecting all aspects of the Ordinance. Provisions in the Ordinance allow the Pueblo of Picuris Tribal Council full flexibility to enact measures which will benefit the Tribe. The inclusion of these provisions does not necessitate their implementation, but allows the Pueblo of Picuris Tribal Council flexibility to alter the Ordinance according to the evolving needs of the Pueblo of Picuris.</text>
+    </section>
+    <section>
+      <num>11-1-33</num>
+      <heading>Modifications and Applicability of Part 258 Criteria</heading>
+      <text>This Ordinance incorporates by reference all of the criteria contained in the 40 CFR Part 258. If any part of 40 CFR Part 258 is modified, any modifications are automatically incorporated by reference and become part of this Ordinance, and supercede any of the provisions that were modified. If any of the part 258 Criteria are not actually restated in this Ordinance, they are nevertheless incorporated by reference and are applicable. If the EPA approves the Tribe's solid waste program, then the Tribe has all of the flexibility granted to it under the Part 258 Criteria, whether or not such flexibility is specifically restated in this Ordinance. Any specific provisions of this Ordinance which are more stringent than Part 258 Criteria are applicable and controlling.</text>
+    </section>
+    <section>
+      <num>11-1-34</num>
+      <heading>Effective Date</heading>
+      <text>This Ordinance shall become effective on _______________________________, 2015.</text>
+    </section>
+    <section>
+      <num>11-1-35</num>
+      <heading>Sovereign Immunity Preserved</heading>
+      <text>Nothing in this Ordinance is intended to, nor should be interpreted as a waiver of the Tribe's sovereign immunity from unconsented lawsuit, or as authorization for a claim for monetary damages from the Tribe.</text>
+    </section>
+  </container>
+</container>
