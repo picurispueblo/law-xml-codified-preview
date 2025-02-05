@@ -1249,7 +1249,7 @@
     <section>
       <num>10-9-5</num>
       <heading>Delivery of Minor to Detention or Shelter Care.</heading>
-      <text>If a minor's parent, guardian or custodian cannot be found, and if there is no relative to whom the minor may be released, or if circumstances pursuant to <cite path="10|9|10-9-4|C">Section 10-9-4C</cite> of this Code arise, the minor shall be delivered to a place of detention or shelter care designated by the Court. The Indian Child Welfare Act (ICWA) Director shall immediately make arrangements for the temporary care and custody of the minor.</text>
+      <text>If a minor's parent, guardian or custodian cannot be found, and if there is no relative to whom the minor may be released, or if circumstances pursuant to <cite path="10|9|10-9-4|C.">Section 10-9-4C</cite> of this Code arise, the minor shall be delivered to a place of detention or shelter care designated by the Court. The Indian Child Welfare Act (ICWA) Director shall immediately make arrangements for the temporary care and custody of the minor.</text>
     </section>
     <section>
       <num>10-9-6</num>
@@ -1371,7 +1371,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Plea: If the minor wishes to admit that he/she has committed the alleged illegal act, the Court shall proceed as required in <cite path="10|9|10-9-6|G">Section 10-9-6G</cite> of this Code.</text>
+        <text>Plea: If the minor wishes to admit that he/she has committed the alleged illegal act, the Court shall proceed as required in <cite path="10|9|10-9-6|G.">Section 10-9-6G</cite> of this Code.</text>
       </para>
       <para>
         <num>D.</num>
@@ -2694,7 +2694,7 @@
       <heading>Enforcement of Attendance Law.</heading>
       <para>
         <num>A.</num>
-        <text>The Board of Education of the local school district and the governing body of a public and/or charter school shall initiate the enforcement of the provisions of the Compulsory School Attendance Law [<cite path="22|12|22-12-1">22-12-1</cite> NMSA 1978] for students enrolled in their respective schools.</text>
+        <text>The Board of Education of the local school district and the governing body of a public and/or charter school shall initiate the enforcement of the provisions of the Compulsory School Attendance Law [22-12-1 NMSA 1978] for students enrolled in their respective schools.</text>
       </para>
       <para>
         <num>B.</num>
@@ -2800,6 +2800,10 @@
         <text>A judicial determination by the Tribal Court.</text>
         <text>§<cite path="10|17|10-17-3">10-17-3</cite>.	Proceedings to Establish Parentage and Compel Support.</text>
       </para>
+    </section>
+    <section>
+      <num>10-17-3</num>
+      <heading>Proceedings to Establish Parentage and Compel Support.</heading>
       <para>
         <num>A.</num>
         <text>Proceedings to establish parentage may be brought at any time after the child is born and before the child is eighteen (18) years of age by a parent or by the minor acting through a guardian if the complainant dies or becomes disabled, or by the Tribe.</text>
