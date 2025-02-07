@@ -1,37 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
-  <prefix>TITLE</prefix>
+  <prefix>Title</prefix>
   <num>7</num>
-  <heading>DOMESTIC VIOLENCE CODE</heading>
+  <heading>Domestic Violence Code</heading>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>1</num>
-    <heading>DOMESTIC VIOLENCE</heading>
+    <prefix>Chapter</prefix>
+    <num>7.01</num>
+    <heading>Domestic Violence</heading>
     <section>
-      <num>7-1-1</num>
+      <num>7.01.010</num>
       <heading>Statement of Purpose and Jurisdiction.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>It is the purpose of this Code to stop all family violence on the Pueblo of Picuris and to promote the healing of families where possible. Domestic violence is a serious crime against society and this Code seeks to guarantee to the victim the maximum protection from abuse which the law can provide.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>It is the intent of the Pueblo of Picuris Tribal Council that the official response to cases of domestic violence shall be that violent behavior is not to be tolerated or excused, whether or not the abuser in under the influence of drugs or alcohol. The elders, adults and children of the Pueblo of Picuris are to be cherished and treated with respect.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>In the absence of criminal jurisdiction over persons to enforce tribal law, the Pueblo of Picuris has the inherent power to exclude from all lands belonging to the Pueblo of Picuris, those persons over whom criminal jurisdiction cannot be obtained, but who pose a danger to the public, health, safety and/or welfare to the Pueblo of Picuris community.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Civil jurisdiction shall extend to all persons listed in this Code as a "family member" or "household member".</text>
       </para>
+      <annotation type="Prior Codifications">§7.01.010 was formerly codified as 7-1-1</annotation>
     </section>
     <section>
-      <num>7-1-2</num>
+      <num>7.01.020</num>
       <heading>Definitions.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>"Domestic Violence" means a pattern of abusive behavior in any relationship that is used by one partner to gain or maintain power and control over another intimate partner. Domestic violence can be:</text>
         <para>
           <num>(1)</num>
@@ -56,64 +57,66 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>"Court" means the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>"Family member" or "household member" of a person means a spouse, former spouse, a person related by blood, a person related by an existing or prior marriage, a person who resides or formerly resided with the person, a person who has had a continuing personal relationship whether or not they have resided together, or a person with whom the person has a child in common regardless of whether the parents of the child have been married or have lived together at any time.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>"Mandatory arrest" means that the victim need not sign a complaint for an arrest to occur. A law enforcement officer shall arrest if there is a probable cause to believe the person to be arrested has committed an offense as defined by this Code even though the arrest may be against the expressed wishes of the victim.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>"Order of Protection" means a Court Order granted for the protection of victims of domestic violence.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>"Perpetrator" means the person who has committed an act of abuse on his or her family member or household member.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>"Law enforcement officer" means a member of the Bureau of Indian Affairs Law Enforcement, New Mexico State Police, or any law enforcement officer commissioned by the Governor of the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>H.</num>
-        <text>"Probable cause" for arrest means that the law enforcement officer, acting as a person of reasonable action, has reasonable grounds to believe that the person to be arrested has committed an offense as defined by <cite path="7|1">this Chapter</cite>, based on all the facts known to the officer, including the officer's personal observations, statements made by the parties involved in the incident, statements made by witnesses, if any, and any other reliable information.</text>
+        <num>(h)</num>
+        <text>"Probable cause" for arrest means that the law enforcement officer, acting as a person of reasonable action, has reasonable grounds to believe that the person to be arrested has committed an offense as defined by <cite path="7|7.01">this chapter</cite>, based on all the facts known to the officer, including the officer's personal observations, statements made by the parties involved in the incident, statements made by witnesses, if any, and any other reliable information.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text>"Coordinator of the Adult Protective Team' means the coordinator, his or her designee, the Governor, or any other person appointed by the Governor, acting in close cooperation with the Domestic Violence Program, Alcohol and Substance Abuse Programs. In this document, the term "Coordinator" shall include all persons named in the preceding sentence.</text>
       </para>
+      <annotation type="Prior Codifications">§7.01.020 was formerly codified as 7-1-2</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>2</num>
-    <heading>CRIMINAL PROCEDURES AND PENALTIES</heading>
+    <prefix>Chapter</prefix>
+    <num>7.02</num>
+    <heading>Criminal Procedures and Penalties</heading>
     <section>
-      <num>7-2-1</num>
+      <num>7.02.010</num>
       <heading>Crime of Domestic Violence.</heading>
       <para>
-        <num>A.</num>
-        <text>Any person who shall knowingly commit an act of domestic violence as defined under <cite path="7|1|7-1-2">Section 7-1-2</cite>, paragraphs (1) through (5) shall be deemed guilty of the offense of domestic violence and upon conviction thereof shall be sentenced to a Class A offense. The Court in its discretion may order community service in lieu of some or all of the confinement or fine, but not in lieu of counseling.</text>
+        <num>(a)</num>
+        <text>Any person who shall knowingly commit an act of domestic violence as defined under <cite path="§7.01.020">Section 7.01.020</cite>, paragraphs (1) through (5) shall be deemed guilty of the offense of domestic violence and upon conviction thereof shall be sentenced to a Class A offense. The Court in its discretion may order community service in lieu of some or all of the confinement or fine, but not in lieu of counseling.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>In addition to or in lieu of the imposition of such confinement and/or fine the Court shall order the person convicted of the offense of domestic violence to participate in a domestic violence treatment program.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Prosecution for the offense of domestic violence shall not preclude prosecution for any offense under the Pueblo of Picuris Tribal Code arising from the same circumstances.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.010 was formerly codified as 7-2-1</annotation>
     </section>
     <section>
-      <num>7-2-2</num>
+      <num>7.02.020</num>
       <heading>Duties of Law Enforcement Officer to Victim of Domestic Violence; Required Notice to Victim.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A law enforcement officer that responds to an allegation of domestic violence shall use all reasonable means to protect the victim and prevent further violence, including but not limited to:</text>
         <para>
           <num>(1)</num>
@@ -136,17 +139,19 @@
           <text>Giving the victim immediate and adequate notice of the rights of victims and of the remedies and services available to victims of domestic violence.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§7.02.020 was formerly codified as 7-2-2</annotation>
     </section>
     <section>
-      <num>7-2-3</num>
+      <num>7.02.030</num>
       <heading>Mandatory Arrest.</heading>
       <text>Without a warrant, a law enforcement officer shall arrest an alleged abuser if the officer has probable cause to believe that the person has committed an act of domestic violence, whether the crime was committed in or outside the presence of the officer.</text>
+      <annotation type="Prior Codifications">§7.02.030 was formerly codified as 7-2-3</annotation>
     </section>
     <section>
-      <num>7-2-4</num>
+      <num>7.02.040</num>
       <heading>Primary Aggressor; Dual Arrest.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>If a law enforcement officer receives cross complaints of domestic violence from two or more opposing persons, the officer shall arrest the primary aggressor. In determining whether a person was the primary aggressor the officer shall consider one or more of the following:</text>
         <para>
           <num>(1)</num>
@@ -170,19 +175,20 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>If the officer determines that one person was the primary aggressor, the officer is not required to arrest the other person believed to have caused physical harm or bodily injury. However, if it appears that two or more parties were aggressors, the officer shall arrest both or all of the parties.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.040 was formerly codified as 7-2-4</annotation>
     </section>
     <section>
-      <num>7-2-5</num>
+      <num>7.02.050</num>
       <heading>Mandatory Investigative Report.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Whenever a law enforcement officer investigates an allegation of domestic violence, whether or not an arrest is made, the officer shall make a written investigative report of the alleged abuse and submit the report to the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The mandatory investigative report must contain, at a minimum, the following information:</text>
         <para>
           <num>(1)</num>
@@ -204,21 +210,22 @@
           <num>(5)</num>
           <text>If no party is arrested or if more than one party is arrested, the officer shall submit a detailed, written report detailing:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Why no one was arrested; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Why multiple parties were arrested.</text>
           </para>
         </para>
       </para>
+      <annotation type="Prior Codifications">§7.02.050 was formerly codified as 7-2-5</annotation>
     </section>
     <section>
-      <num>7-2-6</num>
+      <num>7.02.060</num>
       <heading>Authority for Law Enforcement Officers to Seize Weapons.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>When there is an arrest for domestic violence, a law enforcement officer:</text>
         <para>
           <num>(1)</num>
@@ -230,47 +237,50 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>If an arrest for domestic violence leads to a conviction of the charge, the weapon(s) seized shall not be returned. If there is no conviction, the weapon(s) will be returned by law enforcement after receipt of notice from the Tribal Court of the disposition of the matter.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If there is a conviction of the charge of domestic violence, any weapon used in the commission of the crime shall be destroyed by BIA Law Enforcement. Any weapon seized by law enforcement and not used in the commission of the crime shall be returned to the defendant, with a Court Order, and the defendant may be charged a storage fee.</text>
       </para>
       <para>
-        <num>D.</num>
-        <text>All provisions of <cite path="7|2|7-2-6">this Section</cite> apply equally to law enforcement officers charged with the crime of domestic violence.</text>
+        <num>(d)</num>
+        <text>All provisions of <cite path="§7.02.060">this section</cite> apply equally to law enforcement officers charged with the crime of domestic violence.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.060 was formerly codified as 7-2-6</annotation>
     </section>
     <section>
-      <num>7-2-7</num>
+      <num>7.02.070</num>
       <heading>Filing a Criminal Complaint for Domestic Violence.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A criminal complaint charging the crime of domestic violence must be signed by the law enforcement officer making the complaint. If the alleged perpetrator is not in custody at the time the complaint is filed, the officer may seek a warrant for arrest.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>An individual may file a criminal complaint and sworn affidavit in the Pueblo of Picuris Tribal Court charging the crime of domestic violence.  Upon receipt and review of the   criminal complaint and affidavit, the Judge shall, if probable cause exists, issue a warrant to arrest the individual so charged.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.070 was formerly codified as 7-2-7</annotation>
     </section>
     <section>
-      <num>7-2-8</num>
+      <num>7.02.080</num>
       <heading>Twenty-Four Hour Hold Following Arrest.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Following an arrest for an offense pursuant to this Code, the alleged perpetrator may be held  for a period of twenty-four (24) hours following his or her arrest. The alleged perpetrator shall be arraigned and advised regarding bail in accordance with the Pueblo of Picuris Rules of Criminal Procedure, and shall be eligible for bail following the twenty-four (24) hour hold period.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.080 was formerly codified as 7-2-8</annotation>
     </section>
     <section>
-      <num>7-2-9</num>
+      <num>7.02.090</num>
       <heading>Conditions of Release.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>In making a decision as to the release of a person arrested for and/or charged with domestic violence, the Court shall review the facts of the arrest and determine whether the alleged perpetrator is a threat to the victim, to family members, to a witness or to public safety, and is reasonably likely to appear in Court as ordered by the Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Before releasing a person charged with domestic violence, the Court shall impose conditions to ensure the safety of the victim and family and to ensure the alleged abuser's appearance at subsequent court proceedings, including any or more of the following:</text>
         <para>
           <num>(1)</num>
@@ -296,62 +306,67 @@
           <num>(6)</num>
           <text>Any other Order required to protect the safety of the victim and to ensure the appearance of the alleged perpetrator in Court.</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>The Court shall issue a written Order for conditions of release and immediately distribute copies to the alleged abuser, the victim, law enforcement and the tribal sheriff. The alleged abuser must acknowledge his/her understanding of the conditions of release by affixing his/her signature prior to being released.</text>
           </para>
         </para>
       </para>
+      <annotation type="Prior Codifications">§7.02.090 was formerly codified as 7-2-9</annotation>
     </section>
     <section>
-      <num>7-2-10</num>
+      <num>7.02.100</num>
       <heading>Required Records.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>When a Court dismisses criminal charges or a prosecutor moves to dismiss charges against a person accused of a crime involving domestic violence, the specific reasons for the dismissal must be recorded in the court file. The prosecutor shall indicate the specific reason(s) why the case cannot be prosecuted; if it is due to a witness being unavailable the reason for unavailability must be noted.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>BIA law enforcement shall keep and update and a listing of protection orders and conditional release orders issued pursuant to this Code, indicating effective dates for the orders and restrictions. The list shall be readily accessible to all officers.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.100 was formerly codified as 7-2-10</annotation>
     </section>
     <section>
-      <num>7-2-11</num>
-      <heading>Criminal Case Shall not be Dismissed Because a Civil Compromise is Reached.</heading>
+      <num>7.02.110</num>
+      <heading>Criminal Case Shall Not Be Dismissed Because a Civil Compromise Is Reached.</heading>
       <text>A Court shall not dismiss a criminal complaint charging domestic violence for the sole reason that a civil compromise or settlement, including, but not limited to a tort settlement, custody agreement or issuance of a protection order is reached, or that children are involved in the case.</text>
+      <annotation type="Prior Codifications">§7.02.110 was formerly codified as 7-2-11</annotation>
     </section>
     <section>
-      <num>7-2-12</num>
+      <num>7.02.120</num>
       <heading>Penalties for Crime of Domestic Violence.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Domestic violence is a Class A offense. If the defendant is sentenced to incarceration, the Court may order the defendant to reimburse the Pueblo of Picuris for the cost of the incarceration.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Court shall order any person found guilty or who pleads guilty to a charge of domestic violence to make appropriate reimbursement to the victim for expenses associated with domestic violence, including, but not limited to medical expenses, counseling fees and the repair or replacement of damaged property.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.120 was formerly codified as 7-2-12</annotation>
     </section>
     <section>
-      <num>7-2-13</num>
+      <num>7.02.130</num>
       <heading>Probation.</heading>
       <para>
-        <num>A.</num>
-        <text>At the discretion of the Court, any penalty ordered by the Court, pursuant to <cite path="7|2|7-2-12">Section 7-2-12</cite>, may be suspended pending the completion of a recommended term of probation.</text>
+        <num>(a)</num>
+        <text>At the discretion of the Court, any penalty ordered by the Court, pursuant to <cite path="§7.02.120">Section 7.02.120</cite>, may be suspended pending the completion of a recommended term of probation.</text>
       </para>
       <para>
-        <num>B.</num>
-        <text>In lieu of the imposition of such confinement and/or fine, as authorized under <cite path="7|2|7-2-12">Section 7-2-12</cite>, the Court may order a person convicted of the offense of domestic violence to complete a term of probation and to comply with the conditions of that probation, including directing the defendant to undergo a psychological evaluation, including an alcohol/chemical dependency test, and to comply with any resulting recommendation for counseling.</text>
+        <num>(b)</num>
+        <text>In lieu of the imposition of such confinement and/or fine, as authorized under <cite path="§7.02.120">Section 7.02.120</cite>, the Court may order a person convicted of the offense of domestic violence to complete a term of probation and to comply with the conditions of that probation, including directing the defendant to undergo a psychological evaluation, including an alcohol/chemical dependency test, and to comply with any resulting recommendation for counseling.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If the defendant fails to comply with the terms of probation, the Court shall order execution of any suspended sentence.</text>
       </para>
+      <annotation type="Prior Codifications">§7.02.130 was formerly codified as 7-2-13</annotation>
     </section>
     <section>
-      <num>7-2-14</num>
+      <num>7.02.140</num>
       <heading>Spousal Privileges Inapplicable.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The following evidentiary privileges do not apply in any criminal proceeding in which a spouse or family or household member is the victim of an alleged crime involving domestic or family violence perpetrated by the other spouse:</text>
         <para>
           <num>(1)</num>
@@ -362,46 +377,49 @@
           <text>The testimonial privilege of spouses.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§7.02.140 was formerly codified as 7-2-14</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>3</num>
-    <heading>CIVIL ORDERS OF PROTECTION</heading>
+    <prefix>Chapter</prefix>
+    <num>7.03</num>
+    <heading>Civil Orders of Protection</heading>
     <section>
-      <num>7-3-1</num>
+      <num>7.03.010</num>
       <heading>Eligible Petitioners.</heading>
       <text>Any victim of domestic violence may file a petition for an order of protection if either petitioner or respondent, or both, are enrolled members of the Pueblo of Picuris or non-members who are residents of the Pueblo of Picuris.</text>
+      <annotation type="Prior Codifications">§7.03.010 was formerly codified as 7-3-1</annotation>
     </section>
     <section>
-      <num>7-3-2</num>
+      <num>7.03.020</num>
       <heading>Standard Forms; Clerical Assistance; Fee Waivers.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Standard, simplified petition forms with instructions for completion shall be made available by the Tribal Court, BIA Law Enforcement, and the Eight Northern Indian Pueblos Council PeaceKeepers Domestic Violence Program to persons wishing to file petitions.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Court Clerk of the Tribal Court shall provide to a person requesting an order of protection a standard form for a petition for an order of protection.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Court Clerk of the Tribal Court and/or a domestic violence caseworker shall provide clerical assistance in completing the forms and filing the petition. The Court Clerk is restricted from giving any legal advice.</text>
       </para>
       <para>
-        <num>D.</num>
-        <text>No filing fee shall be required for the filing of a petition under <cite path="7|3|7-3-2">this Section</cite>.</text>
+        <num>(d)</num>
+        <text>No filing fee shall be required for the filing of a petition under <cite path="§7.03.020">this section</cite>.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.020 was formerly codified as 7-3-2</annotation>
     </section>
     <section>
-      <num>7-3-3</num>
+      <num>7.03.030</num>
       <heading>Ex Parte Emergency Orders of Protection; Available Relief; Availability of Judge; Expiration of Order.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Tribal Court may issue a written or oral protection order ex parte when a law enforcement officer states to the Court in person, by telephone, facsimile or email, and the Court finds reasonable grounds to believe that the petitioner or petitioner's child(ren) is/are in immediate danger of domestic violence based on an allegation of a recent incident of domestic violence.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A law enforcement officer who receives an emergency order of protection, whether in writing, by telephone, facsimile or email, from the Court shall:</text>
         <para>
           <num>(1)</num>
@@ -421,7 +439,7 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Court may grant the following relief in an emergency order of protection upon a probable cause finding that domestic violence has occurred:</text>
         <para>
           <num>(1)</num>
@@ -465,15 +483,16 @@
         </para>
       </para>
       <para>
-        <num>E.</num>
+        <num>(d)</num>
         <text>The Tribal Court Judge shall be available twenty-four (24) hours a day to hear petitions for emergency orders of protection.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.030 was formerly codified as 7-3-3</annotation>
     </section>
     <section>
-      <num>7-3-4</num>
+      <num>7.03.040</num>
       <heading>Temporary Order of Protection; Hearing.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon the filing of a petition for order of protection, the Court shall:</text>
         <para>
           <num>(1)</num>
@@ -489,19 +508,20 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>If an ex parte order is not granted, the Court shall immediately serve notice to appear upon the parties and hold a hearing on the petition for order of protection within seventy-two (72) hours after the filing of the petition; provided that, if notice of hearing cannot be served within seventy-two (72) hours, a temporary order of protection shall be issued and remain in effect until such time as a hearing can be held.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.040 was formerly codified as 7-3-4</annotation>
     </section>
     <section>
-      <num>7-3-5</num>
+      <num>7.03.050</num>
       <heading>Final Orders of Protection.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Court may grant the following relief in an Order of Protection after notice and hearing, whether or not the respondent appears:</text>
         <para>
           <num>(1)</num>
-          <text>Grant the relief available in accordance with <cite path="7|3|7-3-3">Section 7-3-3</cite>, above;</text>
+          <text>Grant the relief available in accordance with <cite path="§7.03.030">Section 7.03.030</cite>, above;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -519,15 +539,15 @@
           <num>(5)</num>
           <text>Order the respondent to do any of the following that may apply:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Pay rent or make payment on the mortgage on the petitioner's residence and  pay for the support of the petitioner and any minor child(ren), if the respondent is found to have a duty to support the petitioner or the minor child(ren);</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Reimburse the petitioner or other person for expenses associated with domestic violence, including but not limited to medical expenses, lost earnings and/or support, counseling, the repair or replacement of damaged property, and the expense of any temporary housing.</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>(C)</num>
             <text>Pay the costs incurred in bringing the action.</text>
           </para>
         </para>
@@ -541,7 +561,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Court shall:</text>
         <para>
           <num>(1)</num>
@@ -557,140 +577,149 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The BIA Law Enforcement agency shall provide for expedited service of Orders of Protection.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>If the Order supersedes any prior court order concerning domestic arrangement, it shall so state on its face.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>No Order issued shall affect title to property.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>Final Orders of Protection shall be effective for a minimum time period of three (3) months, but the Court may, in its discretion, impose a longer time of effectiveness.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.050 was formerly codified as 7-3-5</annotation>
     </section>
     <section>
-      <num>7-3-6</num>
+      <num>7.03.060</num>
       <heading>Modifications of Orders of Protection.</heading>
       <text>An existing ex-parte order of protection or an existing final order of protection may be modified upon motion to the Court.</text>
+      <annotation type="Prior Codifications">§7.03.060 was formerly codified as 7-3-6</annotation>
     </section>
     <section>
-      <num>7-3-7</num>
+      <num>7.03.070</num>
       <heading>Extension of Final Order of Protection.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Prior to the expiration of a final Order of Protection, the petitioner may apply for a modification to extend the time period for which the Order of Protection is effective.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Court may, in its discretion, issue an Order of Protection of Permanent Duration, particularly if the victim has been subjected to domestic violence that required hospitalization or resulted in life threatening injuries, significant disfigurement, impairment or disability.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If there has been no violation of the existing Order prior to the application for an extension, the Court shall take this as an indication that the Order of Protection is effective in ensuring the safety of the victim. The Court may not use the fact that there has been no violation of the Order of Protection to determine that there is no further need for the Order of Protection.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.070 was formerly codified as 7-3-7</annotation>
     </section>
     <section>
-      <num>7-3-8</num>
+      <num>7.03.080</num>
       <heading>Effect of Action by Petitioner or Respondent on Order.</heading>
       <para>
-        <num>A.</num>
-        <text>If an Order of Protection requires a respondent to stay away from the residence of the petitioner or to stay away from the petitioner, an invitation by the petitioner does not invalidate the Order of Protection. It shall not be a defense to a charge of a violation of an Order of Protection under <cite path="7|3|7-3-8">this Section</cite> that the victim consented to the violation of the Order of Protection by encouraging contact.</text>
+        <num>(a)</num>
+        <text>If an Order of Protection requires a respondent to stay away from the residence of the petitioner or to stay away from the petitioner, an invitation by the petitioner does not invalidate the Order of Protection. It shall not be a defense to a charge of a violation of an Order of Protection under <cite path="§7.03.080">this section</cite> that the victim consented to the violation of the Order of Protection by encouraging contact.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>An Order of Protection can only be dismissed by the Tribal Court.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>To request that an Order of Protection be dismissed a petitioner must file a Motion to Dismiss an Order of Protection with the Tribal Court. After a hearing the Court will decide whether or not to dismiss the Order.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.080 was formerly codified as 7-3-8</annotation>
     </section>
     <section>
-      <num>7-3-9</num>
+      <num>7.03.090</num>
       <heading>Violation of an Order of Protection.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Violation of an Order of Protection issued pursuant to the Domestic Violence Code shall constitute Contempt of Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A law enforcement officer shall arrest without a warrant and take into custody any person who the officer has probable cause to believe has willfully violated an order issued pursuant to the Domestic Violence Code.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>A person convicted of violating an Order of Protection granted by this Court under the Domestic Violence Code shall be sentenced in accordance with Title 1, Chapter 4, Section 1- 4-3, Pueblo of Picuris Tribal Code. Violation of an Order of Protection is a Class A offense.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>In addition to any other punishment provided in the Domestic Violence Code, the Court shall order a person to make appropriate restitution to the party injured by the violation of an Order of Protection and order the person convicted to participate in and complete a program of professional counseling, at his or her own expense.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.090 was formerly codified as 7-3-9</annotation>
     </section>
     <section>
-      <num>7-3-10</num>
+      <num>7.03.100</num>
       <heading>Time for Filing.</heading>
       <text>In determining whether to grant an Order of Protection, the Court shall consider whether the petitioner's fear is reasonable and imminent regardless of the lapse of time between the act of domestic violence and the filing of the petition.</text>
+      <annotation type="Prior Codifications">§7.03.100 was formerly codified as 7-3-10</annotation>
     </section>
     <section>
-      <num>7-3-11</num>
+      <num>7.03.110</num>
       <heading>Mutual Orders of Protection.</heading>
       <text>If it is clear to the Court that both parties are at risk of physical injury, the Court shall issue mutual protection orders against both parties.</text>
+      <annotation type="Prior Codifications">§7.03.110 was formerly codified as 7-3-11</annotation>
     </section>
     <section>
-      <num>7-3-12</num>
-      <heading>Continuing	Duty	to	Inform	Court;	Other	Proceedings;	Omission			of Petitioner's Address.</heading>
+      <num>7.03.120</num>
+      <heading>Continuing Duty to Inform Court; Other Proceedings; Omission of Petitioner's Address.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>At any hearing in a proceeding to obtain or amend an Order of Protection, each party has a continuing duty to inform the Court of any other civil proceedings whether in civil, family, or juvenile court, and of any criminal case involving either of the parties.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>An Order of Protection is in addition to other civil or criminal proceedings. A petitioner is not barred from applying for an Order of Protection because of other court proceedings.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Court shall not delay granting relief because of a pending action between the parties.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The Court shall not refuse to grant or dismiss an Order of Protection because of the possibility, pendency, or existence of other court proceedings.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>A petitioner may omit their home address from all court papers, but the Court shall maintain the address under sealed record, not to be accessible without the petitioner's consent.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.120 was formerly codified as 7-3-12</annotation>
     </section>
     <section>
-      <num>7-3-13</num>
+      <num>7.03.130</num>
       <heading>Full Faith and Credit.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>An Order of Protection issued pursuant to due process of law by a Court of another jurisdiction, State or Tribal, hereinafter "foreign order", shall be given full faith and credit by this Court and enforced as one issued by this Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A law enforcement officer may rely upon a copy of any foreign Order of Protection that has been provided to the officer by any source and may also rely upon the statement of any person protected by a foreign order that the order remains in effect. A law enforcement officer acting in good faith shall be immune from civil and criminal liability in any action arising in connection with a Court's finding that the foreign order was no enforceable.</text>
       </para>
+      <annotation type="Prior Codifications">§7.03.130 was formerly codified as 7-3-13</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>4</num>
-    <heading>VIOLENCE AGAINST DOMESTIC VIOLANCE ADVOCATES AND VOLUNTEERS.</heading>
+    <prefix>Chapter</prefix>
+    <num>7.04</num>
+    <heading>Violence Against Domestic Violance Advocates and Volunteers.</heading>
     <section>
-      <num>7-4-1</num>
+      <num>7.04.010</num>
       <heading>Purpose.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Pueblo of Picuris recognizes that abusers and/or their families may target Tribal and domestic violence advocates, as well as other who assist victims of domestic violence, for retaliatory violence, intimidation, harassment, and other unlawful acts. Such acts often are committed or attempted as a result of advocacy activities and assistance rendered during the course of advocacy duties or efforts.</text>
       </para>
       <para>
-        <num>B.</num>
-        <text>For the purpose of <cite path="7|4">this Chapter</cite>:</text>
+        <num>(b)</num>
+        <text>For the purpose of <cite path="7|7.04">this chapter</cite>:</text>
         <para>
           <num>(1)</num>
           <text>"Unlawful acts" means any violation of an Order of Protection, issued against an abuser, that enjoins the abuser and his/her family from committing assault, battery, harassment, intimidation, stalking, malicious mischief, destruction of property, terroristic threats, or any other unlawful act of force or violence, as set forth under the Pueblo of Picuris Tribal Code, against any domestic violence advocate;</text>
@@ -705,15 +734,16 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
-        <text><cite path="7|4">This Chapter</cite> makes any such retaliation or intimidation unlawful as a matter of Civil Contempt and any findings of liability by the Pueblo of Picuris Tribal Code will subject the respondent to the sanctions expressed in <cite path="7|4">this Chapter</cite>, as well as any other applicable fines, remedies, or restrictions available under Title 1, Chapter 4 (Contempts), and Title 2 (Rules of Civil Procedures) of the Pueblo of Picuris Tribal Code.</text>
+        <num>(c)</num>
+        <text><cite path="7|7.04">This chapter</cite> makes any such retaliation or intimidation unlawful as a matter of Civil Contempt and any findings of liability by the Pueblo of Picuris Tribal Code will subject the respondent to the sanctions expressed in <cite path="7|7.04">this chapter</cite>, as well as any other applicable fines, remedies, or restrictions available under Title 1, Chapter 4 (Contempts), and Title 2 (Rules of Civil Procedures) of the Pueblo of Picuris Tribal Code.</text>
       </para>
+      <annotation type="Prior Codifications">§7.04.010 was formerly codified as 7-4-1</annotation>
     </section>
     <section>
-      <num>7-4-2</num>
+      <num>7.04.020</num>
       <heading>Implied Consent.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Any person who is not a member of the Pueblo of Picuris shall be deemed as having consented to the jurisdiction of the Tribe by doing personally, through an employee, through an agent, or through a subsidiary, any of the following acts within the exterior boundaries of the Pueblo of Picuris:</text>
         <para>
           <num>(1)</num>
@@ -749,20 +779,22 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
-        <text>The Pueblo of Picuris has chosen, through <cite path="7|4|7-4-2">this Section</cite>, to exercise its civil authority to provide civil sanctions against those persons, whether members, non-members, or non-Indians, who live within the exterior boundaries of the Pueblo of Picuris, or who otherwise come under the Tribe's authority through implied consent, and who use unlawful force or violence in violation of <cite path="7|4">this Chapter</cite>.</text>
+        <num>(b)</num>
+        <text>The Pueblo of Picuris has chosen, through <cite path="§7.04.020">this section</cite>, to exercise its civil authority to provide civil sanctions against those persons, whether members, non-members, or non-Indians, who live within the exterior boundaries of the Pueblo of Picuris, or who otherwise come under the Tribe's authority through implied consent, and who use unlawful force or violence in violation of <cite path="7|7.04">this chapter</cite>.</text>
       </para>
+      <annotation type="Prior Codifications">§7.04.020 was formerly codified as 7-4-2</annotation>
     </section>
     <section>
-      <num>7-4-3</num>
+      <num>7.04.030</num>
       <heading>Penalties.</heading>
-      <text>Any person found liable, or against whom a default judgment has been entered, in any cause of action brought as a result of retaliation or intimidation against any person identified in <cite path="7|4|7-4-1">Section 7-4-1</cite>, shall be subject to a minimum of one-thousand ($1,000) dollars in punitive charges, plus such costs, medical fees, compensatory damages, and/or any further relief which the Court may deem just and proper.</text>
+      <text>Any person found liable, or against whom a default judgment has been entered, in any cause of action brought as a result of retaliation or intimidation against any person identified in <cite path="§7.04.010">Section 7.04.010</cite>, shall be subject to a minimum of one-thousand ($1,000) dollars in punitive charges, plus such costs, medical fees, compensatory damages, and/or any further relief which the Court may deem just and proper.</text>
+      <annotation type="Prior Codifications">§7.04.030 was formerly codified as 7-4-3</annotation>
     </section>
     <section>
-      <num>7-4-4</num>
+      <num>7.04.040</num>
       <heading>Special Court Rules.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>In addition to the rules of court generally applicable to criminal proceedings, the Court is authorized to take the following actions in a proceeding involving alleged domestic violence offenses:</text>
         <para>
           <num>(1)</num>
@@ -774,7 +806,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Upon a guilty plea or conviction, the perpetrator shall be ordered to participate in an appropriate domestic violence program consisting of at least the following:</text>
         <para>
           <num>(1)</num>
@@ -798,19 +830,22 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
-        <text>Willful failure or refusal to comply with the Court Order requiring a perpetrator to attend and cooperate in evaluation and/or to undergo treatment as described in the treatment plan, shall constitute contempt of court. If the Court has suspended execution of any penalty imposed under <cite path="7|2|7-2-12">Section 7-2-12</cite> of <cite path="7|4">this Chapter</cite> on the condition that the perpetrator under Court ordered evaluation and/or treatment, the Court may also order execution of any such suspended sentence.</text>
+        <num>(c)</num>
+        <text>Willful failure or refusal to comply with the Court Order requiring a perpetrator to attend and cooperate in evaluation and/or to undergo treatment as described in the treatment plan, shall constitute contempt of court. If the Court has suspended execution of any penalty imposed under <cite path="§7.02.120">Section 7.02.120</cite> of <cite path="7|7.04">this chapter</cite> on the condition that the perpetrator under Court ordered evaluation and/or treatment, the Court may also order execution of any such suspended sentence.</text>
       </para>
+      <annotation type="Prior Codifications">§7.04.040 was formerly codified as 7-4-4</annotation>
     </section>
     <section>
-      <num>7-4-5</num>
+      <num>7.04.050</num>
       <heading>Liability.</heading>
       <text>No law enforcement officer shall be held criminally or civilly liable for making an arrest authorized by this Code, provided he/she acted in good faith and without malice.</text>
+      <annotation type="Prior Codifications">§7.04.050 was formerly codified as 7-4-5</annotation>
     </section>
     <section>
-      <num>7-4-6</num>
+      <num>7.04.060</num>
       <heading>Confidentiality.</heading>
       <text>The Tribal Court Clerk shall keep statistical data concerning incidents of domestic abuse or neglect and present these reports to the Chief Judge on request, but at least annually.</text>
+      <annotation type="Prior Codifications">§7.04.060 was formerly codified as 7-4-6</annotation>
     </section>
   </container>
 </container>

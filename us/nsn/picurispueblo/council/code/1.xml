@@ -1,101 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
-  <prefix>TITLE</prefix>
+  <prefix>Title</prefix>
   <num>1</num>
-  <heading>GENERAL PROVISIONS</heading>
+  <heading>General Provisions</heading>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>1</num>
-    <heading>PRELIMINARY PROVISIONS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.01</num>
+    <heading>Preliminary Provisions</heading>
     <section>
-      <num>1-1-1</num>
+      <num>1.01.010</num>
       <heading>Name of Code.</heading>
       <text>This Law and Order Code shall be known and may be cited as the Pueblo of Picuris Tribal Code, and may be referred to as the Code(s). Codes or rules contained herein or elsewhere may be cited by the name given in the code or rule heading (e.g., Pueblo of Picuris Criminal Code).</text>
+      <annotation type="Prior Codifications">§1.01.010 was formerly codified as 1-1-1</annotation>
     </section>
     <section>
-      <num>1-1-2</num>
+      <num>1.01.020</num>
       <heading>Repeal of Prior Inconsistent Ordinances.</heading>
       <text>Any and all ordinances or resolutions of the Pueblo of Picuris Tribal Council which deal with subjects contained herein or are inconsistent with or conflict with the provisions contained herein are hereby repealed as of the effective date of this Code. The effective date of this code is January 30, 2017. (Pueblo of Picuris Tribal Resolution No. 11-08)</text>
+      <annotation type="Prior Codifications">§1.01.020 was formerly codified as 1-1-2</annotation>
     </section>
     <section>
-      <num>1-1-3</num>
+      <num>1.01.030</num>
       <heading>Amendment of Code.</heading>
       <text>This Code may be amended and additions made hereto and deletions made here from in the manner provided for the adoption of tribal ordinances and resolutions. Amendments and additions to this Tribal Code shall become a part hereof for all purpose and shall be organized and incorporated herein in a manner consistent with the numbering and organization of the rest of the Code.</text>
+      <annotation type="Prior Codifications">§1.01.030 was formerly codified as 1-1-3</annotation>
     </section>
     <section>
-      <num>1-1-4</num>
-      <heading>Interpretation of this Code.</heading>
+      <num>1.01.040</num>
+      <heading>Interpretation of This Code.</heading>
       <text>This Code shall be interpreted pursuant to the customs and traditions of the Pueblo of Picuris. Where any doubt arises as to these customs and traditions, the Court may request the advice of counselors familiar with these customs and traditions. If none exist, then the Court may use appropriate Federal and State guidelines.</text>
+      <annotation type="Prior Codifications">§1.01.040 was formerly codified as 1-1-4</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>2</num>
-    <heading>JURISDICTION</heading>
+    <prefix>Chapter</prefix>
+    <num>1.02</num>
+    <heading>Jurisdiction</heading>
     <section>
-      <num>1-2-1</num>
+      <num>1.02.010</num>
       <heading>Tribal Policy.</heading>
       <text>It is hereby declared as a matter of Tribal Policy and legislative determination by the Pueblo of Picuris Tribal Council that the public interest and the interests of the Pueblo of Picuris require that the Tribe provides itself, its members and other persons living within the jurisdiction of the Tribe with an effective means of redress in both civil and criminal cases involving both members and non-members of the Tribe who, through either their residence, presence, business dealings, or contacts or other actions or failures to act, or other significant minimum contacts on or within the exterior boundaries of the Pueblo of Picuris, commit offenses against the Tribe or incur civil obligations to persons or entities entitled to the Tribe's protection. The jurisdictional provisions of this Tribal Code and the procedures and requirements contained herein shall, except otherwise expressly provided, apply to all persons and entities, whether members of the Tribe or not, within the territorial jurisdiction of the Tribe.</text>
+      <annotation type="Prior Codifications">§1.02.010 was formerly codified as 1-2-1</annotation>
     </section>
     <section>
-      <num>1-2-2</num>
+      <num>1.02.020</num>
       <heading>Territorial Jurisdiction.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The jurisdiction of the Pueblo of Picuris as exercised in this Tribal Code shall extend to all "Pueblo of Picuris Indian Lands" now or which may hereafter be added thereto within the exterior boundaries of the Pueblo of Picuris, and all other lands owned by the Pueblo of Picuris subject to federal law restrictions on alienation or held by the United States for the use and benefit of the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>To the extent not prohibited by federal law, the jurisdiction of the Pueblo of Picuris and its Courts shall extend beyond the territorial limitation set forth above to effectuate the jurisdictional provisions set forth below.</text>
       </para>
+      <annotation type="Prior Codifications">§1.02.020 was formerly codified as 1-2-2</annotation>
     </section>
     <section>
-      <num>1-2-3</num>
+      <num>1.02.030</num>
       <heading>Personal Jurisdiction</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>As used in these jurisdictional provisions, the word "person" shall include any individual firm, company, association, or corporation.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Subject to any contrary provisions, exceptions or limitations contained in either federal law or as expressly stated elsewhere in this Tribal Code, the Pueblo of Picuris Tribal Court shall have civil and criminal jurisdiction over the following persons, who shall also be subject to the rules, regulations and procedures established in this Tribal Code.</text>
         <para>
           <num>(1)</num>
           <text>Any person residing, located or present within the exterior boundaries of the Pueblo of Picuris for:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Any civil cause of action; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Any charge of a criminal offense prohibited by this Code or other ordinance of the Tribe when the offense is alleged to have occurred within the exterior boundaries of the Pueblo of Picuris.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Any person who transacts, conducts or performs any business or activity within the exterior boundaries of the Pueblo of Picuris, either in person or by an agent or representative, for any civil cause of action or charge of criminal offense for any act expressly prohibited by this Code or other ordinance of the Tribe arising from such business or activity.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Any person who owns, uses or possesses any property within the exterior boundaries of the Pueblo of Picuris, for any civil cause of action or charge of criminal offense prohibited by this Code or other ordinance of the Tribe arising from such ownership, use or possession.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>Any person who commits a tortuous act or engages in tortuous conduct within the exterior boundaries of the Pueblo of Picuris, either in person or by an agent or representative, for any civil cause of action arising from such act or conduct.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>Any person who commits a criminal offense prohibited by this Code or other ordinance of the Tribe, by his/her own conduct or the conduct of another for which he/she is legally accountable, if:</text>
         <para>
           <num>(1)</num>
           <text>The conduct occurs either wholly or partly within the exterior boundaries of the Pueblo of Picuris; or</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>The conduct, which occurs outside the exterior boundaries of the Pueblo of Picuris constitutes an attempt, solicitation, or conspiracy to commit an offense within the exterior boundaries of the Pueblo of Picuris, and an act in furtherance of the attempt or conspiracy occurs within the exterior boundaries of the Pueblo of Picuris; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>The conduct which occurs within the exterior boundaries of the Pueblo of Picuris constitutes an attempt, solicitation, or conspiracy to commit in another jurisdiction an offense prohibited by this Law and Order Code or other ordinance of the Tribe is also prohibited by such other jurisdictions.</text>
           </para>
         </para>
@@ -104,169 +110,180 @@
           <text>None of the foregoing bases of jurisdiction is exclusive, and jurisdiction over a person may be established on any one or more of such bases.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§1.02.030 was formerly codified as 1-2-3</annotation>
     </section>
     <section>
-      <num>1-2-4</num>
+      <num>1.02.040</num>
       <heading>Jurisdiction over Property.</heading>
       <text>Subject to any contrary provisions, exceptions or limitations in Federal law or as expressly stated elsewhere in this Tribal Code, the rules, regulations and procedures contained herein shall apply to, and the Pueblo of Picuris Tribal Court shall have jurisdiction over, any real  or personal property located within the territorial jurisdiction of the Tribe as defined in  this Code to determine the ownership thereof or rights therein or to determine the application of such property to the satisfaction of a claim for which the owner of the property is or may be liable.</text>
+      <annotation type="Prior Codifications">§1.02.040 was formerly codified as 1-2-4</annotation>
     </section>
     <section>
-      <num>1-2-5</num>
+      <num>1.02.050</num>
       <heading>General Subject Matter Jurisdiction and Limitation.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Subject to any contrary provisions, exceptions or limitations contained in either Federal law or this Tribal Code, the Pueblo of Picuris Tribal Court shall have jurisdiction over all civil actions and over all offenses occurring within the jurisdiction defined by this Code.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Pueblo of Picuris Tribal Court shall not assume jurisdiction over any civil or criminal matter which does not involve either the Pueblo of Picuris, its officers, agents, or employees in their official capacities, its property or enterprises, or a member of the Pueblo of Picuris or of some other federally recognized Tribe, or the ordinances, resolutions, rules, or regulations of the Pueblo of Picuris, if some other judicial forum exists for the handling of the matter and the matter is not one in which the rights of the Pueblo of Picuris or its members may be directly affected.</text>
       </para>
+      <annotation type="Prior Codifications">§1.02.050 was formerly codified as 1-2-5</annotation>
     </section>
     <section>
-      <num>1-2-6</num>
+      <num>1.02.060</num>
       <heading>Exclusive Original Jurisdiction.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Except as otherwise required by Federal law, the Pueblo of Picuris Tribal Court shall have exclusive original jurisdiction over all matters in which the Pueblo of Picuris or its officers, agents, or employees are parties in their official capacities or as a result of performing their duties for the Tribe.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Nothing contained in the preceding paragraph or elsewhere in this Code shall be construed as a waiver of the sovereign immunity of the Tribe, its enterprises, its officers, agents or employees unless specifically denominated as such.</text>
       </para>
+      <annotation type="Prior Codifications">§1.02.060 was formerly codified as 1-2-6</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>3</num>
-    <heading>COURTS, JUDGES, AND OTHER COURT PERSONNEL</heading>
+    <prefix>Chapter</prefix>
+    <num>1.03</num>
+    <heading>Courts, Judges, and Other Court Personnel</heading>
     <section>
-      <num>1-3-1</num>
+      <num>1.03.010</num>
       <heading>The Judicial Department.</heading>
       <text>The Judicial Department of the Pueblo of Picuris, as established by the Pueblo of Picuris Tribal Council, shall consist of the Tribal and Appellate Courts and the Judge(s), Court Clerk(s), and other Court related personnel specified herein.</text>
+      <annotation type="Prior Codifications">§1.03.010 was formerly codified as 1-3-1</annotation>
     </section>
     <section>
-      <num>1-3-2</num>
+      <num>1.03.020</num>
       <heading>Courts.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Southwest Intertribal Court of Appeals (SWITCA) shall hear appeals from final judgments and orders of the Pueblo of Picuris Tribal Court. The Appellate Court shall also have the power to issue any writs or orders necessary and proper to the complete exercise of its jurisdiction, or to prevent or remedy any act of the Pueblo of Picuris Tribal Court beyond such Court's  jurisdiction or to cause the Pueblo of Picuris Tribal Court to act when it unlawfully fails or refuses to act within its jurisdiction.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>There is hereby established the Pueblo of Picuris Tribal Court, which may be referred to as the "Tribal Court," to handle all matters of a judicial nature not specifically placed within the jurisdiction of some other judicial forum. The Tribal Court shall be a Court of general civil and criminal jurisdiction and shall hear appeals from all Tribal administrative bodies.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>There is hereby established the Pueblo of Picuris Children's Court, which may be referred to as the "Children's Court," a Juvenile Division of the Tribal Court to hear and decide all juvenile and family law cases. The Chief Judge of the Tribal Court may hear and decide all juvenile and family matters or designate a Tribal Court Judge.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The Pueblo of Picuris Tribal and Appellate Courts, shall be courts of records, and the clerks thereof are authorized to certify under seal as to the accuracy and validity of the files and records of all proceedings before the Pueblo of Picuris Tribal Court. The Court Clerks are authorized and directed to take, preserve and certify under seal as to the accuracy of a verbatim record of the proceedings before the Pueblo of Picuris Tribal Court. Such record may be taken and recorded by stenographic, electronic, mechanical or other recording means or devices approved by the Chief Judge of the Tribal Court as a trustworthy means of creating a permanent, verbatim record of all proceedings.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>The Chief Judge of the Tribal Court shall, by rule, prescribe the length of time such verbatim transcript shall be preserved by the Court Clerk. It shall be a criminal offense for a Court Clerk to knowingly make or keep a false record, file, certify or alter, amend, or destroy any file record or transcript without lawful authority. Verbatim transcripts shall be preserved by the Court Clerk.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.020 was formerly codified as 1-3-2</annotation>
     </section>
     <section>
-      <num>1-3-3</num>
+      <num>1.03.030</num>
       <heading>Judges.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Governor of the Pueblo of Picuris, with the concurrence of the Tribal Council, shall appoint a Chief Judge and up to one Associate Judge of the Tribal Court in accordance with the traditional practices and customs of the Pueblo of Picuris. The salary and other benefits of employment shall be set by resolution of the Tribal Council.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Appellate Court shall be promulgated by the rules and regulations set forth by SWITCA.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Governor of the Pueblo of Picuirs, in appointing Judges for the Tribal Court shall give preference to enrolled members of the Pueblo of Picuris familiar with the language, customs, traditions and culture of the Tribe, but the Governor may, in his discretion appoint non-Tribal members as Judges if they possess the appropriate legal training and judicial qualifications.</text>
       </para>
       <para>
-        <num>D.</num>
-        <text>A Judge once appointed shall not have his/her salary or compensation decreased during his/her term of office and no Judge shall be removed from office prior to the expiration of his/her term except as provided in <cite path="1|3|1-3-4">Section 1-3-4</cite>.</text>
+        <num>(d)</num>
+        <text>A Judge once appointed shall not have his/her salary or compensation decreased during his/her term of office and no Judge shall be removed from office prior to the expiration of his/her term except as provided in <cite path="§1.03.040">Section 1.03.040</cite>.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>Judges may be appointed to successive terms of office.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.030 was formerly codified as 1-3-3</annotation>
     </section>
     <section>
-      <num>1-3-4</num>
+      <num>1.03.040</num>
       <heading>Removal of Judges.</heading>
       <text>A Judge may be removed from office prior to the expiration of his/her term by the affirmative vote of five (5) members of the Tribal Council only upon the grounds of neglect of duty or gross misconduct, and only after the holding of a public hearing at which the Judge, after being given not less than five (5) days of notice, is given an opportunity to answer all charges and present evidence in his/her own defense.</text>
+      <annotation type="Prior Codifications">§1.03.040 was formerly codified as 1-3-4</annotation>
     </section>
     <section>
-      <num>1-3-5</num>
+      <num>1.03.050</num>
       <heading>Powers and Duties of Judges.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Judges shall administer justice and discharge all duties imposed upon them by law and shall hear and decide matters of a judicial nature and enter judgments and orders disposing of such matters. In the absence of the Court Clerk, a Judge may perform the Court Clerk's duties in addition to his/her own and may receive bail bond payments whenever a Court Clerk or other authorized person is not available.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Chief Judge shall be responsible for the administration of the Court and shall supervise all Probation and Parole Officers. In addition, the Chief Judge shall be responsible for the assignment of cases and the management of the Court's calendar and business. The Chief Judge shall designate an Associate Judge to act as Chief Judge in his/her absence.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>All Judges of the Pueblo of Picuris Tribal Court shall conform their conduct to the Code of Judicial Conduct as adopted by the American Bar Association.</text>
         <para>
-          <num>D.</num>
+          <num>(1)</num>
           <text>Every Judicial Officer has power to:</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(d)</num>
         <text>Preserve and enforce order in his/her immediate presence, and in proceedings before him/her when he/she is engaged in the performance of his/her official duty;</text>
         <para>
-          <num>(2)</num>
+          <num>(1)</num>
           <text>Compel obedience to his/her lawful orders;</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(2)</num>
           <text>Provide for the orderly conduct of proceedings before him/her, as provided by law:</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(e)</num>
         <text>Administer oaths to persons in proceedings before him/her and in any other case where such shall be necessary in the exercise of his/her powers and duties;</text>
         <para>
-          <num>(5)</num>
+          <num>(1)</num>
           <text>Punish for contempt to assure the effectual exercise of these powers.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§1.03.050 was formerly codified as 1-3-5</annotation>
     </section>
     <section>
-      <num>1-3-6</num>
+      <num>1.03.060</num>
       <heading>Disqualification of Judges.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A Judge shall disqualify him/herself from hearing any matter in which he/she has a direct interest or in which any party to the matter is a relative by blood, in the fourth degree (first cousins), or where he/she feels that he/she will not be able to render a just decision.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Any party to a legal proceeding may request a Judge to recuse him/herself from the proceeding by filing a Motion to Recuse, reasonable ground why the Judge should not hear the case. Such Motion shall be presented to the Judge assigned to hear the case and shall rule on the sufficiency of the Motion, and, if sufficient, either disqualify him/herself or turn the Motion over to the Chief Judge for a decision as to whether a different Judge should be assigned.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.060 was formerly codified as 1-3-6</annotation>
     </section>
     <section>
-      <num>1-3-7</num>
+      <num>1.03.070</num>
       <heading>Oath of Office of Judges</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Every Judge prior to taking office or acting in such office shall take the following oath or affirmation:</text>
         <text>"I, do solemnly swear (affirm) that I will support and defend the Constitution, laws and treaties of the United States, that I will support and defend the laws, Ordinances and Resolutions of the Pueblo of Picuris and that I will faithfully and impartially discharge the duties of my office to the best of my ability"</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Said oath may be administered by the Governor of the Tribe, or by a Judge of the Tribal Court.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.070 was formerly codified as 1-3-7</annotation>
     </section>
     <section>
-      <num>1-3-8</num>
+      <num>1.03.080</num>
       <heading>Authority for Tribal Courts.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Pueblo of Picuris Tribal Court, in deciding matters of both substance and procedure, in cases otherwise properly before the Pueblo of Picuris Tribal Court, shall look to and give weight as authority to, the following:</text>
         <para>
           <num>(1)</num>
@@ -298,478 +315,510 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Pueblo of Picuris Tribal Court shall not recognize nor apply any federal, state, or common law rule or procedure which is inconsistent with either the spirit or the letter of either this Tribal Code, or any Pueblo of Picuris Ordinances or Resolution or the customs, traditions, or culture of the Pueblo of Picuris, unless otherwise required, in the case of federal law, by the Supremacy Clause of the United States Constitution.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.080 was formerly codified as 1-3-8</annotation>
     </section>
     <section>
-      <num>1-3-9</num>
+      <num>1.03.090</num>
       <heading>Clerks of the Courts.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>There shall be a Court Clerk of the Pueblo of Picuris Tribal Court and an assistant Court Clerk, as may be required.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The appointment, qualifications, term of office and compensation of Court Clerk(s) shall be determined by the Chief Judge.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.090 was formerly codified as 1-3-9</annotation>
     </section>
     <section>
-      <num>1-3-10</num>
+      <num>1.03.100</num>
       <heading>Duties and Powers of Clerks.</heading>
       <text>It shall be the duty of the Court Clerk(s) of the Pueblo of Picuris Tribal Court to supervise and keep all records, files, dockets or other records required to be kept by this Law and Order Code, by rule of the Pueblo of Picuris Tribal Court, Tribal Resolution or as otherwise established, and further to keep a written record of all proceedings of the Pueblo of Picuris Tribal Court, to administer oaths, to collect and account for all fines, bail bond money, fees or other charges, which cause money to come to the Pueblo of Picuris Tribal Court, to deposit and account for all such moneys in the manner prescribed by the Tribal Council, and to disburse such money as authorized by law. The Court Clerk(s) shall further assist the Pueblo of Picuris Tribal Court in any way required to facilitate the performance of its duties, aid the police or private citizens in their dealings with the Pueblo of Picuris Tribal Court, and may render assistance to individual members of the Tribe or their counsel in the drafting of documents incidental to proceedings in the Pueblo of Picuris Tribal Court.</text>
+      <annotation type="Prior Codifications">§1.03.100 was formerly codified as 1-3-10</annotation>
     </section>
     <section>
-      <num>1-3-11</num>
+      <num>1.03.110</num>
       <heading>Probation and Parole Officers.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Governor, with the consent of the Tribal Council, shall appoint one or more individuals to be Probation and Parole Officers.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The qualifications, terms of employment and compensation of Probation and Parole Officers shall be determined by the Chief Judge.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Probation and Parole Officers, subject to the supervision of the Chief Judge, shall have the responsibility of assuring the faithful performance of probation or parole agreements by persons subject thereto, counseling such persons and their families, preparing pre-sentence or other reports as requested by the Chief Judge, and doing other such duties as may be directed by the Chief Judge or otherwise required by law.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>A Probation and Parole Officer shall have the authority of a Police Officer to make arrests for violations of probation and parole agreements.</text>
       </para>
+      <annotation type="Prior Codifications">§1.03.110 was formerly codified as 1-3-11</annotation>
     </section>
     <section>
-      <num>1-3-12</num>
+      <num>1.03.120</num>
       <heading>Bonding of Court Personnel.</heading>
       <text>All Judges and Clerks shall be bonded, at the Tribe's expense, in amounts determined by the Tribal Council, to secure the honest performance of their duties.</text>
+      <annotation type="Prior Codifications">§1.03.120 was formerly codified as 1-3-12</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>4</num>
-    <heading>CONTEMPTS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.04</num>
+    <heading>Contempts</heading>
     <section>
-      <num>1-4-1</num>
+      <num>1.04.010</num>
       <heading>Acts or Failures to Act Which Constitute Contempt of Court.</heading>
       <text>The following acts or failure to act may serve as the basis for finding an individual or other entity in contempt of court:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Disorderly, contemptuous, or insulting behavior toward a Judge while holding Court, which tends to interrupt the course of the proceedings or undermine the dignity of the Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A breach of the peace, or loud or boisterous conduct, which tends to interrupt the course of a judicial proceeding.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Misbehavior in office, or other willful neglect or violation of duty as a counselor, attorney, or other spokesman, or a clerk, court administrator, police officer or other person appointed, elected, or hired to perform a representative, judicial or ministerial service in connection with the operation of the Court.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Deceit, or abuse of process or proceedings of the Court by a party or counselor to a judicial proceeding.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>Disobedience to a lawful judgment, order or process of the Court.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>Assuming to be an officer, spokesman or other official of the Court and acting as such without authority.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>Rescuing or taking any person or property from the Court or an Officer acting under Court Order, contrary to the Order of the Court.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>Unlawfully detaining or otherwise interfering with a witness or party to an action while such person is going to or from a Court proceeding or attending Court.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text>Disobedience of a subpoena duly served, or refusing to be sworn or answer as a witness.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>(j)</num>
         <text>Any other interference with the process, proceedings, or dignity of the Court or a Judge of the Court while in the performance of his/her official duties.</text>
       </para>
+      <annotation type="Prior Codifications">§1.04.010 was formerly codified as 1-4-1</annotation>
     </section>
     <section>
-      <num>1-4-2</num>
+      <num>1.04.020</num>
       <heading>Civil Contempt.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A civil contempt is prosecuted to preserve, protect, enforce or restore the duly adjudicated rights of a party to a civil action against one under legal obligation to do or refrain from doing something as a result of a judicial decree or order.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Relief in a civil contempt proceeding may be coercive or compensatory in nature as to the complaining party and may include a fine payable to the Court or to the complaining party or imprisonment of the party in contempt to secure compliance, or both.</text>
       </para>
+      <annotation type="Prior Codifications">§1.04.020 was formerly codified as 1-4-2</annotation>
     </section>
     <section>
-      <num>1-4-3</num>
+      <num>1.04.030</num>
       <heading>Criminal Contempt</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Conduct, which is directed at, or is detrimental to, the dignity and authority of the Court is a criminal contempt.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Criminal contempt is an offense which may be punishable, at the discretion of the Court based on the nature of the conduct in question, with a fine of up to five-hundred dollars ($500.00) and/or up to six (6) months in jail.</text>
       </para>
+      <annotation type="Prior Codifications">§1.04.030 was formerly codified as 1-4-3</annotation>
     </section>
     <section>
-      <num>1-4-4</num>
+      <num>1.04.040</num>
       <heading>Contempt Procedure.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A direct contempt is one committed in the presence of the Court or so near thereto as to be disruptive of the Court proceedings, and such may be adjudged and punished summarily.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>All other types of contempt shall be determined at a hearing at which the person accused of contempt is given notice and an opportunity to be heard.</text>
       </para>
+      <annotation type="Prior Codifications">§1.04.040 was formerly codified as 1-4-4</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>5</num>
-    <heading>COUNSELORS AND PROFESSIONAL ATTORNEYS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.05</num>
+    <heading>Counselors and Professional Attorneys</heading>
     <section>
-      <num>1-5-1</num>
+      <num>1.05.010</num>
       <heading>Lay Counsel.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Any person appearing as a party in any judicial proceeding before the Pueblo of Picuris Tribal Court shall have the right to be represented by a lay counselor (not a professional attorney) and to have such person assist in the preparation and presentation of his/her case.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Pueblo of Picuris shall have no obligation to provide or pay for such lay counselors and such obligation shall rest entirely with the person desiring such a counselor.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Any person appearing as a lay counselor shall be subject to the same ethical obligations of honesty and confidentiality towards his/her client as would be a professional attorney, and the attorney-client testimonial privilege shall apply in appropriate circumstances.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Lay counselors shall be deemed officers of the Court for purposes of their representation of a party and shall be subject to the disciplinary authority of the Court in all matters related to their representative capacity.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.010 was formerly codified as 1-5-1</annotation>
     </section>
     <section>
-      <num>1-5-2</num>
-      <heading>Right to be Represented by a Professional Attorney.</heading>
+      <num>1.05.020</num>
+      <heading>Right to Be Represented by a Professional Attorney.</heading>
       <text>Any person appearing as a party in any civil or criminal action shall have the right to be represented by a professional attorney of his/her own choice and at his/her own expense; provided however, that the Pueblo of Picuris has no obligation to provide or pay for such an attorney; provided further, that any such attorney appearing before the Pueblo of Picuris Tribal Court shall have first obtained admission to practice before such Courts in accordance with the procedures set forth herein.</text>
+      <annotation type="Prior Codifications">§1.05.020 was formerly codified as 1-5-2</annotation>
     </section>
     <section>
-      <num>1-5-3</num>
+      <num>1.05.030</num>
       <heading>Eligibility for Admission.</heading>
       <text>Any attorney who is certified and eligible to practice before the highest Court of any state or of the United States Supreme Court, and is in good standing before such Court, shall be eligible to be admitted to practice before the Pueblo of Picuris Tribal Court.</text>
+      <annotation type="Prior Codifications">§1.05.030 was formerly codified as 1-5-3</annotation>
     </section>
     <section>
-      <num>1-5-4</num>
+      <num>1.05.040</num>
       <heading>Procedure for Admission.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Chief Judge of the Pueblo of Picuris Tribal Court may, by rule, establish admission procedures, admission fees and an oath to be complied with by attorneys desiring to practice before the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>B.</num>
-        <text>Until such time as admission procedures are established, any attorney meeting the qualifications of <cite path="1|5|1-5-3">Section 1-5-3</cite> shall be permitted to practice before the Pueblo of Picuris Tribal Court.</text>
+        <num>(b)</num>
+        <text>Until such time as admission procedures are established, any attorney meeting the qualifications of <cite path="§1.05.030">Section 1.05.030</cite> shall be permitted to practice before the Pueblo of Picuris Tribal Court.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.040 was formerly codified as 1-5-4</annotation>
     </section>
     <section>
-      <num>1-5-5</num>
+      <num>1.05.050</num>
       <heading>Standards of Conduct and Obligations for Attorneys and Lay Counsel.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Every attorney admitted to practice before the Pueblo of Picuris Tribal Court, and every lay counsel employed or appointed to represent another before such courts when acting in such capacity or in matters in any way related thereto, shall conform behavior of the Code of Professional Responsibility as adopted by the American Bar Association.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Both professional attorneys and lay counselors who hold themselves out as being available to act as such, have a responsibility to accept as clients and represent without compensation or without full compensation, such persons a Judge of the Pueblo of Picuris Tribal Court may feel have particularly urgent need for such representation but are personally unable to afford or pay for such legal help.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.050 was formerly codified as 1-5-5</annotation>
     </section>
     <section>
-      <num>1-5-6</num>
+      <num>1.05.060</num>
       <heading>Disbarment and Discipline.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Whenever it is shown to the Chief Judge of the Pueblo of Picuris Tribal Court that an attorney admitted to practice before the Courts of the Pueblo of Picuris has been disbarred or suspended from the practice of law by or before the highest court of any state, such attorney shall immediately be given notice that he/she shall be indefinitely suspended from further practice  before the Pueblo of Picuris Tribal Court unless he/she can appear within ten (10) days and show good cause why an order to the effect should not be made.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Any Judge that finds an attorney admitted to practice before the Pueblo of Picuris Tribal Court to be in contempt of Court may, in addition to any other sanction imposed, order the attorney to appear within ten (10) days and show cause why he/she should not be suspended from practicing before the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Chief Judge may, upon receiving a written, verified complaint, which indicates that an attorney admitted to practice before the Pueblo of Picuris Tribal Court has acted in an unethical or improper manner while functioning as an attorney, order such attorney to appear and defend him/herself at a hearing to hear all evidence relevant to the matter, and may order the suspension of such an attorney if such appears reasonably necessary or appropriate.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>All suspensions from practicing before the Pueblo of Picuris Tribal Court shall be for an indefinite period unless the Chief Judge specifically orders otherwise. An attorney suspended for an indefinite period, or one suspended for a specific time, may petition the Tribal Court for permission to reapply for admission to practice at the end of one (1) year or the specific period of suspension, and such permission shall be granted if it is made to appear, at a hearing or otherwise as the Court shall direct, that he/she has been adequately reproved and now appears willing to conduct him/herself in a proper manner, and that the petitioner has been reinstated to practice if previously disbarred or suspended in another jurisdiction</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>Any person appearing as lay counsel for another may be suspended from further appearance as such for misconduct or improper behavior by any Judge upon the same conditions of notice and hearing provided professional attorneys.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.060 was formerly codified as 1-5-6</annotation>
     </section>
     <section>
-      <num>1-5-7</num>
+      <num>1.05.070</num>
       <heading>Oath of Attorneys and Counselors.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon admission to practice as provided herein, an attorney may be required to take an oath, in a form to be prescribed by the Chief Judge of the Pueblo of Picuris Tribal Court, to the effect that he/she will support and defend the Constitution and laws of the United States and laws, ordinances and resolutions of the Pueblo of Picuris, that he/she will show due respect for the Courts and Judges of the Pueblo of Picuris, and that he/she will observe and follow the ethical standards embodied in the American Bar Association's Code of Professional Responsibility.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A lay counselor, hired, retained, or appointed to represent another before the Pueblo of Picuris Tribal Court shall take a like oath at or before the time of his/her first appearance in Court.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.070 was formerly codified as 1-5-7</annotation>
     </section>
     <section>
-      <num>1-5-8</num>
+      <num>1.05.080</num>
       <heading>Admission Fee for Professional Attorneys.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Chief Judge of the Tribal Court may, by rule, establish a reasonable fee to be charged professional attorneys upon their admission to practice before the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Chief Judge of the Pueblo of Picuris Tribal Court may, by rule, establish an annual fee to be charged to all professional attorneys who have been admitted to practice before the Pueblo of Picuris Tribal Court. Such fee shall not be charged in the year in which an admission fee has been paid.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Until otherwise established as provided herein, the admission and annual fees shall be one- hundred twenty five dollars ($125.00) and seventy five dollars ($75.00) respectively.</text>
       </para>
+      <annotation type="Prior Codifications">§1.05.080 was formerly codified as 1-5-8</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>6</num>
-    <heading>JURORS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.06</num>
+    <heading>Jurors</heading>
     <section>
-      <num>1-6-1</num>
+      <num>1.06.010</num>
       <heading>Eligibility for Jury Duty</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Any enrolled member of the Pueblo of Picuris, between the ages of eighteen (18) and seventy (70), who has not been convicted of a felony or a Class A offense under this Code, and who resides on the Pueblo of Picuris, shall be eligible to be a juror. Judges and other officers or employees of the Pueblo of Picuris Tribal Court shall not be eligible to be jurors while thus employed.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>In any case involving non-enrolled Indians, or non-Indians, the list of potential jurors shall include persons from a list of non-members of the Tribe living on the Pueblo of Picuris. In any such case, the selection of potential jurors shall be made by some random means by which persons on the list of non-members have an equal chance of being chosen to be placed on the list of potential jurors.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Chief Judge shall cause a list of non-members of the Tribe eligible for jury duty to be prepared, using the assistance of whatever resources exist on the Pueblo of Picuris, having access to the relevant information. Such persons shall be eligible if they are between the ages of eighteen (18) and seventy (70), have not been convicted of a felony or a Class A offense under this Code and reside on the Pueblo of Picuris.</text>
       </para>
+      <annotation type="Prior Codifications">§1.06.010 was formerly codified as 1-6-1</annotation>
     </section>
     <section>
-      <num>1-6-2</num>
+      <num>1.06.020</num>
       <heading>Jury List.</heading>
       <text>Each year, the Chief Judge or Court Clerk, shall prepare a list of eligible jurors, which shall contain not less than twenty-five (25) names.</text>
+      <annotation type="Prior Codifications">§1.06.020 was formerly codified as 1-6-2</annotation>
     </section>
     <section>
-      <num>1-6-3</num>
+      <num>1.06.030</num>
       <heading>Trial Juries</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Court Clerk shall subpoena not less than fourteen (14) persons from the list of eligible jurors to appear and be available to serve as jurors whenever a jury trial is scheduled in a civil or criminal matter.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The selection from the list of eligible jurors shall be by lot or some other means of random, impartial selection.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Selection of jurors to hear the case shall be accomplished as provided in the Rules of Civil and Criminal Procedure found in Title 2 and Title 3 in this Tribal Code.</text>
       </para>
+      <annotation type="Prior Codifications">§1.06.030 was formerly codified as 1-6-3</annotation>
     </section>
     <section>
-      <num>1-6-4</num>
+      <num>1.06.040</num>
       <heading>Power to Excuse Jurors.</heading>
       <text>The Judge assigned to hear a case shall have the power to excuse a person subpoenaed to appear as a juror on account of sickness, disability, extreme hardship or other good cause shown upon the request for such excusal by the person subpoenaed.</text>
+      <annotation type="Prior Codifications">§1.06.040 was formerly codified as 1-6-4</annotation>
     </section>
     <section>
-      <num>1-6-5</num>
+      <num>1.06.050</num>
       <heading>Compensation of Jurors.</heading>
       <text>Each juror who is called and reports for jury duty or who serves on a jury shall be entitled to receive such fees for daily service and/or mileage, if any, as the Tribal Council shall establish by Resolution, or as established by a rule of the Court approved by the Tribal Council.</text>
+      <annotation type="Prior Codifications">§1.06.050 was formerly codified as 1-6-5</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>7</num>
-    <heading>SUBPOENAS AND SERVICE OF OTHER PAPERS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.07</num>
+    <heading>Subpoenas and Service of Other Papers</heading>
     <section>
-      <num>1-7-1</num>
+      <num>1.07.010</num>
       <heading>Issuance of Subpoenas</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Court Clerk shall issue subpoenas to compel the attendance of witnesses, jurors or such other persons as a Judge may direct for a trial, hearing or other proceeding before the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>In a criminal case, the complaining witness and all witnesses for the Pueblo of Picuris may be subpoenaed to appear at the date and time set for trial or a reasonable time before such time, plus the defendant shall have the right to have witnesses subpoenaed to appear on his/her behalf by notifying the Court Clerk of the names and addresses of such witnesses by the date and time as prescribed in a scheduling order issued by the Pueblo of Picuris Tribal Court.</text>
       </para>
+      <annotation type="Prior Codifications">§1.07.010 was formerly codified as 1-7-1</annotation>
     </section>
     <section>
-      <num>1-7-2</num>
+      <num>1.07.020</num>
       <heading>Service of Subpoenas; Return of Service.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Subpoenas in criminal cases shall be served by a Bureau of Indian Affairs (BIA) Officer, or other person designated by the Chief Judge</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Subpoenas in non-criminal cases may be served by any person, over eighteen (18) years of age, and not a party to the action.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Except by Order of the Court based upon good cause shown therefore, no subpoena shall be served between the hours of 9:00 p.m. and 7:00 a.m. or on Sundays or legal holidays.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The person serving a subpoena shall endorse upon the copy served, his/her name, title, and the place, date and time of service.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>The person serving a subpoena shall return the Return of Service to the Court Clerk.</text>
       </para>
+      <annotation type="Prior Codifications">§1.07.020 was formerly codified as 1-7-2</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>8</num>
-    <heading>GENERAL PROVISIONS</heading>
+    <prefix>Chapter</prefix>
+    <num>1.08</num>
+    <heading>General Provisions</heading>
     <section>
-      <num>1-8-1</num>
+      <num>1.08.010</num>
       <heading>Copies of Laws.</heading>
       <text>Copies shall be kept available for public inspection during regular business hours at the office of the Court Clerk of the Pueblo of Picuris Tribal Court, copies of this Tribal Code and any amendments thereto, plus copies of all laws or rules which are incorporated by reference from other jurisdictions into this Law and Order Code, plus a copy of the Code of Professional Responsibility of the American Bar Association.</text>
+      <annotation type="Prior Codifications">§1.08.010 was formerly codified as 1-8-1</annotation>
     </section>
     <section>
-      <num>1-8-2</num>
+      <num>1.08.020</num>
       <heading>Records of Court Open to Public Inspection; Exceptions.</heading>
       <text>The files and records of the Pueblo of Picuris Tribal Court shall be open for public inspection, except the files and records of adoptions, competency proceedings, and Juvenile Court proceedings shall not be open to public inspection and may be inspected only with prior specific judicial authorization.</text>
+      <annotation type="Prior Codifications">§1.08.020 was formerly codified as 1-8-2</annotation>
     </section>
     <section>
-      <num>1-8-3</num>
+      <num>1.08.030</num>
       <heading>Adoption by Reference Not a Waiver of Sovereign Power of the Pueblo of Picuris.</heading>
       <text>The adoption of any law, code, or other document by reference into this Law and Order Code shall in no way constitute a waiver or concession of any sovereign power of the Pueblo of Picuris to the jurisdiction whose law or code is adopted or in any way diminish such sovereign power, but shall result in the law or code thus adopted becoming the law of the Pueblo of Picuris.</text>
+      <annotation type="Prior Codifications">§1.08.030 was formerly codified as 1-8-3</annotation>
     </section>
     <section>
-      <num>1-8-4</num>
+      <num>1.08.040</num>
       <heading>Sovereign Immunity.</heading>
       <text>Except as required by federal law, or the Laws of the Pueblo of Picuris, or as specifically waived by a resolution or ordinance of the Tribal Council specifically referring to such, the Pueblo of Picuris shall be immune from suit in any civil action, and its officers and employees immune from suit for any liability arising from the performance of their official duties.</text>
+      <annotation type="Prior Codifications">§1.08.040 was formerly codified as 1-8-4</annotation>
     </section>
     <section>
-      <num>1-8-5</num>
-      <heading>Actions by or Against the Tribe or its Officers or Employees</heading>
+      <num>1.08.050</num>
+      <heading>Actions by or Against the Tribe or Its Officers or Employees</heading>
       <text>In any action otherwise authorized by or against the Tribe or its officers or employees arising from the performance of their official duties, the following modifications to the rules or procedures set forth in this Law and Order Code shall apply:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The periods of time specified for civil cases or appeals of either a civil or criminal nature in which an answer, reply or other pleading or response of any kind shall be required shall be double the period specified.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Neither the Tribe nor its officers or employees when involved in a civil action arising from the performance of their official duties shall be liable for the payment of the costs or expenses of the opposing party.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Neither the Tribe nor its officers or employees when involved in a civil action arising from the performance of their official duties shall be required to post a security bond or otherwise for any purpose.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>No action, otherwise authorized, may be instituted against any officer or employee of the Tribe for a cause of action arising out of, or in the course of the performance of his/her duty, or any action upon the bond of any such officer or employee, unless there is filed with the complaint a cash or written bond or undertaking with at least two (2) sufficient sureties subject to the jurisdiction of the Pueblo of Picuris Tribal Court in the amount of three-hundred dollars ($300.00) or such greater amount as the Pueblo of Picuris Tribal Court may order, conditioned for the payment of such costs, charges and reasonable attorney's fees to be fixed by the Pueblo of Picuris Tribal Court as may be awarded against the Plaintiff in said action.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>No action may be instituted against the Tribe unless security under the same conditions as set forth above is filed with the complaint.</text>
       </para>
+      <annotation type="Prior Codifications">§1.08.050 was formerly codified as 1-8-5</annotation>
     </section>
     <section>
-      <num>1-8-6</num>
+      <num>1.08.060</num>
       <heading>Limitations in Civil Actions.</heading>
       <text>Unless otherwise specifically provided in the Law and Order Code, the following limitations on the bringing of civil actions will apply.</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Any action against the Tribe or its officers or employees arising from the performance of their official duties must be commenced within one year of the date the cause of action occurred.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Any other action must be commenced within three years of the date the cause of action occurred, provided, that any cause of action based on fraud or mistake shall not be deemed to have occurred until the aggrieved party has discovered or reasonably should have discovered the facts constituting the fraud or mistake.</text>
       </para>
+      <annotation type="Prior Codifications">§1.08.060 was formerly codified as 1-8-6</annotation>
     </section>
     <section>
-      <num>1-8-7</num>
+      <num>1.08.070</num>
       <heading>Principles of Construction.</heading>
       <text>The following principles of construction will apply to all of the Tribal Code unless different construction is obviously intended:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Masculine words shall include the feminine, and singular words shall include the plural, and vice versa.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Words shall be given their plain meaning and technical words shall be given their usually understood meaning where no other meaning is specified.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Whenever a term is defined for a specific part of the Tribal Code that definition shall apply to all parts of this Tribal Code unless a contrary meaning is clearly intended.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>This Tribal Code shall be construed as a whole to give effect to all its parts in a logical, consistent manner.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>If any provision of this Tribal Code or the application of any provisions to any person or circumstance is held invalid, the remainder of the Tribal Code shall not be affected thereby, and to this end the provisions of the Tribal Code are declared to be severable.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>Any typographical errors or omissions shall be ignored whenever the intended meaning of the provision containing the error or omission is otherwise reasonably certain to the Court.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>Any other issues of construction shall be handled in accordance with generally accepted principles of construction giving due regard for the underlying principles and purposes of the Tribal Code.</text>
       </para>
+      <annotation type="Prior Codifications">§1.08.070 was formerly codified as 1-8-7</annotation>
     </section>
     <section>
-      <num>1-8-8</num>
+      <num>1.08.080</num>
       <heading>Definitions.</heading>
       <text>The following definitions will apply to the Tribal Code:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"Indian" or "Indian person" shall mean any person of Indian descent who is a member of any recognized Tribe under federal jurisdiction.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"Member" shall mean a person whose name appears on the Membership Role of the Pueblo of Picuris Tribe.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Pueblo of Picuris Indian Lands" shall mean all lands within the exterior boundaries of the Pueblo of Picuris, and all other lands owned by the Pueblo of Picuris subject to federal law restrictions on alienation or held by the United States for the use and benefit of the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"Pueblo of Picuris Grant" shall mean lands granted to the Pueblo under the 1848 Treaty of Guadalupe Hidalgo, to protect communal lands that the Pueblos had used and held for centuries before the arrival of the Spanish.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"Tribe" or "Pueblo" shall mean the Pueblo of Picuris, New Mexico.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"Tribal Council" shall mean the Pueblo of Picuris Tribal Council.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"Age of Majority" shall mean eighteen (18) years of age unless otherwise provided in this Law and Order Code.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"Signature" shall mean the written signature, or official seal of a person, or the mark or thumbprint of a person witnessed by two (2) disinterested persons subscribing their names therewith.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"Governor" shall mean the Governor of the Pueblo of Picuris.</text>
       </para>
+      <annotation type="Prior Codifications">§1.08.080 was formerly codified as 1-8-8</annotation>
     </section>
   </container>
 </container>

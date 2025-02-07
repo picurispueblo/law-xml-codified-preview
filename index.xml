@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="picurispueblo/law-xml" commit="2547a545b4b5e474a9545d137f0f26aebcbc0793"/>
+        <repository name="picurispueblo/law-xml" commit="30eff188fa1ae349c1063fac39a2aab1fd5749dd"/>
       </repositories>
-      <platform version="2.14.5" reproducible="false"/>
-      <build-date>2025-02-05</build-date>
+      <platform version="2.15.4" reproducible="false"/>
+      <build-date>2025-02-07</build-date>
       <codified-date>2019-03-01</codified-date>
     </build>
   </meta>

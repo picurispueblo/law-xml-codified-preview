@@ -1,388 +1,411 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
-  <prefix>TITLE</prefix>
+  <prefix>Title</prefix>
   <num>13</num>
-  <heading>PUEBLO OF PICURIS ELDER AND VULNERABLE ADULT PROTECTION CODE</heading>
-  <section>
-    <num>13-1-1</num>
-    <heading>Title</heading>
-    <text>This Code is known as the Pueblo of Picuris Elder and Vulnerable Adult Code.</text>
-  </section>
-  <section>
-    <num>13-1-2</num>
-    <heading>Authority</heading>
-    <text>Pursuant to the sovereign authority of the Pueblo of Picuris Tribal Council, a federally recognized Tribe of Indians with the inherent authority to make laws to protect the political integrity, economic security, health, safety, and welfare of the Pueblo of Picuris and its tribal members.</text>
-  </section>
-  <section>
-    <num>13-1-3</num>
-    <heading>Policy</heading>
-    <text>It is the policy of the Pueblo of Picuris to continue the traditional respect the members of the Pueblo of Picuris have had for elders. Elders are a valuable resource to the Pueblo of Picuris because they are repositories and custodians of tribal history, language, culture and tradition; and they are the best hope of the Pueblo of Picuris to pass on the tribal history, language, culture, and tradition to children of the Pueblo of Picuris. Thus, the interests of the Pueblo of Picuris, now and in the future, are advanced when its Elders can be confident they are protected from abuse, neglect, and exploitation and are free to fully participate in the activities and proceedings of the Pueblo of Picuris.</text>
-  </section>
-  <section>
-    <num>13-1-4</num>
-    <heading>Purpose</heading>
-    <text>The Pueblo of Picuris Tribal Council in the exercise of its sovereign power to safeguard and provide for the health, safety and welfare of the members of the Pueblo of Picuris, hereby enacts this Code in furtherance of our values and cultural mandates to care for elders and vulnerable adults in our community. With the enactment of this Code, the Pueblo of Picuris Tribal Council is expressing their sovereign intent to create a system that honors and respects its duties and responsibilities to its elders and vulnerable adults. These duties and responsibilities include provision for their basic needs and insuring their continued participation.</text>
-  </section>
-  <section>
-    <num>13-1-5</num>
-    <heading>Jurisdiction</heading>
-    <text>The jurisdiction of the Pueblo of Picuris Tribal Court and the effective scope of this Code shall include all Pueblo of Picuris tribal elders or vulnerable adults residing within the exterior boundaries of the Pueblo of Picuris.</text>
-    <text>The Pueblo of Picuris Tribal Court shall have jurisdiction over all cases arising under the provisions of this Code.  This Code is intended as a civil code and shall be enforced as such.</text>
-    <text>All cases of abuse of an elder or a vulnerable adult, involving any member of the Pueblo of Picuris that may arise outside of the Pueblo of Picuris are subject to the assertion of concurrent jurisdiction by the Pueblo of Picuris Tribal Court.</text>
-    <text>The Pueblo of Picuris Tribal Court shall construe <cite path="13|13-1-5">this section</cite> liberally to exercise maximum jurisdiction consistent with applicable tribal law and custom, state and federal law.</text>
-  </section>
-  <section>
-    <num>13-1-6</num>
-    <heading>Definitions</heading>
-    <text>As used in this Code, these terms have the following meanings:</text>
-    <para>
-      <num>A.</num>
-      <text>"Abuse" is an intentional or negligent infliction of bodily injury, including but not limited to sexual abuse or exploitation, unreasonable confinement, intimidation, emotional abuse or cruel punishment of an elder or vulnerable adult which results in physical injury or pain, or mental anguish. Also includes improper use of an elder or vulnerable adult's funds, property (real or personal), including regalia, or any other resource in a manner not consistent with the elder or vulnerable adult's interests and needs. Also includes failure to care for an elder or vulnerable adult when a standard of care or need has been medically or legally established which results in physical injury, pain or mental anguish; when said care has been communicated to the caregiver, who has accepted the duty to care for said person in need of care.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>"Advisor to Tribal Court" any party to an action pursuant to this Code may nominate a member of their family or another person known to them to act as an advisor to the Pueblo of Picuris Tribal Court, or the Pueblo of Picuris Tribal Court may nominate a person to serve in this role for the elder or vulnerable adult. The advisor's role is not designated to replace a party advocate but is to help the Pueblo of Picuris Tribal Court reach a disposition in each case that is consistent with the purposes of this Code to protect elders and vulnerable adult's rights to basic needs and community participation that is consistent with Pueblo of Picuris cultural imperatives. For that purpose the advisor is allowed to address the Pueblo of Picuris Tribal Court with a non-binding recommendation or, with the permission of the parties, address the Court in chambers in an unreported hearing for the purpose of making non-binding recommendations.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>"Caretaker" is a person who is required by Pueblo of Picuris Tribal, state law or tribal custom to provide services or resources to an elder or vulnerable adult; a person who volunteers to provide services or resources to an elder or vulnerable adult; and/or an institution or agency and its employees who are required by tribal, state or federal law, tribal custom or through any other agreement to provide services or resources to a tribal elder or vulnerable adult.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>"Care Plan for Protection" of a named individual must contain a safety plan as approved by the Pueblo of Picuris Tribal Court whenever a temporary or permanent Order of Protection is issued pursuant to this Code.  The requirements for a plan are established herein.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>"Duty of Care" requires that a person act toward others and the public with watchfulness, attention, caution and prudence that a reasonable person in the circumstances would. If a person's actions do not meet this standard of care, them the acts are considered negligent, and any damages resulting may be claimed in a lawsuit for negligence.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>"Elder" is a Pueblo of Picuris tribal member who is fifty-five (55) years of age or older or a person who resides on the Pueblo of Picuris who is fifty-five (55) years of age or older to who a tribal member owes a duty of care because of traditional or familial ties.</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>"Exploitation" is the improper or unauthorized use of an elder or vulnerable adult's money, property, personal belongings, or other resources. A failure to use an elder or vulnerable adult's funds, property or resources as the elder or adult desires and/or for their benefit, shall be deemed as exploitation.</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>"Emergency" is a situation in which an elder or vulnerable adult is put in immediate risk of death or physical injury or serious loss of property and is unable to consent to services and/or mitigate or remove the risk.</text>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>"Family" is as determined by law including but not limited to tribal law, custom or traditions.</text>
-    </para>
-    <para>
-      <num>J.</num>
-      <text>"Good Faith" is an honest and reasonable belief or purpose and the lack of intent to defraud or injure.</text>
-    </para>
-    <para>
-      <num>K.</num>
-      <text>"Least Restrictive Alternative" is whenever it is necessary to protect an elder or vulnerable adult, the least restrictive method of intervention consistent with protecting their freedom and independence will be utilized.</text>
-    </para>
-    <para>
-      <num>L.</num>
-      <text>"Neglect" is a failure to provide for the basic needs of an elder or vulnerable adult by not supplying resources, care or supervision necessary to secure the basic needs of the person, including interfering with delivery of necessary services or resources and failure to report abuse of said persons; said failure will not include any failure based on the lack of available resources to the caretaker.</text>
-    </para>
-    <para>
-      <num>M.</num>
-      <text>"Protective Placement" is the placement of an elder or vulnerable adult in a hospital, nursing home, residential care facility, other suitable placement or transfer from one placement to another with consent or that person or with appropriate legal authority.</text>
-    </para>
-    <para>
-      <num>N.</num>
-      <text>"Protective Services" are those services provided to an elder or vulnerable adult with consent or by order of appropriate legal authority which includes but is not limited to: social services, mental and physical health examinations, home and day care, legal assistance, guardianship, case management and any other services consistent with the intent of this Code.</text>
-    </para>
-    <para>
-      <num>O.</num>
-      <text>"Retaliation" is considered intimidation or a threat to cause bodily harm or causing bodily harm or causing bodily harm to a reporter or family of a person reporting elder abuse; causing or attempting to cause the reporter or reporter's family to be terminated, suspended or reprimanded by an employer; causing property damage to real or personal property belonging to a reporter's family.</text>
-    </para>
-    <para>
-      <num>P.</num>
-      <text>"Substantiated Report" is when there is probable cause to make a finding of abuse after an investigation has been conducted by the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker. The report is sent to the Pueblo of Picuris Tribal Court for further action.</text>
-    </para>
-    <para>
-      <num>Q.</num>
-      <text>"Unsubstantiated Report" is when no probable cause exists to pursue further action after an investigation by the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker.  Unsubstantiated reports will be kept on file for two (2) years.</text>
-    </para>
-    <para>
-      <num>R.</num>
-      <text>"Vulnerable Adult" is an adult over eighteen (18) years of age and is unable to protect themselves from abuse, neglect or exploitation. This includes the person who is unable to make responsible decisions for him/herself because of mental illness or deficiency, physical disability or illness, age related capacity issues, or the effects of chronic use of alcohol and/or drugs.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-7</num>
-    <heading>Duty to Report Abuse or Neglect of an Elder or Vulnerable Adult and Immunity for Good Faith Reporting</heading>
-    <text>Suspected abuse of neglect of an elder or vulnerable adult shall be reported to the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement by the following persons; said reports by these reporters are mandated and shall be presumed to be made in good faith; any person who in good faith reports suspected abuse or neglect is immune from any recourse under the law if said report is found to be unsubstantiated:</text>
-    <para>
-      <num>(1)</num>
-      <text>The elder or vulnerable adult's family or caretaker;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>All elected officials of the Pueblo of Picuris;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Any and all Bureau of Indian Affairs Social Workers, medical and dental staff, religious/cultural practitioners and/or any other tribal employees who provide services and or benefits to tribal elders and or vulnerable adults;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Any person or agency including employees, with fiduciary duties to elders or vulnerable adults; such as attorneys, accountants, property managers, or financial institutions;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The elder or vulnerable adult abuses; and/or</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Any other person(s) who have reason to suspect that an elder or vulnerable adult is abused or neglected.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-8</num>
-    <heading>Confidentiality</heading>
-    <text>The identity of a person who in good faith reports suspected elder abuse, neglect, self-neglect or exploitation is confidential and shall not be released unless the reporter consents or the Pueblo of Picuris Tribal Court orders the release because it finds, after notice to the reporter and an opportunity to be heard; that the need to protect the elder outweighs the reporter's interest in confidentiality.</text>
-  </section>
-  <section>
-    <num>13-1-9</num>
-    <heading>Standard of Proof</heading>
-    <text>The standard of proof for actions brought under <cite path="13|13-1-9">this section</cite> is the preponderance of evidence.</text>
-  </section>
-  <section>
-    <num>13-1-10</num>
-    <heading>Failure to Report and/or False Reporting</heading>
-    <text>Any person who is required to report pursuant to this statute and willfully fails to report suspected or actual abuse or neglect may be subject to a civil penalty of up to $5,000 and may suffer any other appropriate civil fine or order that might be necessary to insure compliance with this Code and protect any individual who is entitled to protection pursuant to this Code. All persons required to report who fail to report are entitled to receive specific notice in a timely manner and an opportunity to be heard in the Pueblo of Picuris Tribal Court prior to any penalty being assessed. Any penalty or order may only be assessed after determination of a duty to report is found at the hearing. A person failing to report suspected abuse of neglect may be subject to suit by or on behalf of abused person for damages resulting from unreported abuse.</text>
-    <text>A person who makes a report of suspected abuse or neglect knowing such report to be false will be subject to a civil money penalty of up to $5,000. Said fine or other appropriate civil orders to insure compliance with this Code will not be assessed unless and until the accused false reporter receives specific notice in a timely manner and in opportunity to be heard in the Pueblo of Picuris Tribal Court prior to any penalty being assessed. The false reporter may also suffer civil damages being assessed pursuant to an action by the person falsely accused.</text>
-  </section>
-  <section>
-    <num>13-1-11</num>
-    <heading>Confidentiality of Reporter, Reports, Hearings; Penalties for Non-Compliance</heading>
-    <text>All proceedings under this Code are confidential unless otherwise provided. The Pueblo of Picuris Tribal Court and all individuals and agencies who are responsible for enforcing or participating in the enforcement of the provisions of this Code will ensure that disclosure of confidential personal information received or maintained in the course of actions brought under this Code shall be limited to purposes directly connected with the administration of this Code. Protections include but are not necessarily limited to the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>The identity of the reporter of abuse or neglect under this Code is confidential and shall not be released unless the reporter consents of the Pueblo of Picuris Tribal Court determines that the need of the elder or vulnerable adult exceeds the reporter's right to privacy and mandates disclosure. The reporter has the opportunity to petition the Pueblo of Picuris Tribal Court and be heard with regard to any disclosure. Any disclosure may be released only to the extent necessary to protect the elder or vulnerable adult.  However, the investigating worker's name is not protected.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Records of investigations concerning abuse or neglect under this Code are confidential. Protective services, the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement, court officials, attorneys, Coroner, medical staff and any other person whom the Pueblo of Picuris Tribal Court determines have reasonable cause to have access may view the record(s).</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Anyone who violates <cite path="13|13-1-11">this section</cite> of the Code shall be subject to a money penalty of up to $5,000 per occurrence. A petition, notice and an opportunity to be heard in the Pueblo of Picuris Tribal Court shall determine if a violation has occurred.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-12</num>
-    <heading>Investigation Requirements</heading>
-    <text>The Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker shall initiate an investigation upon receiving a report of elder of vulnerable adult abuse of neglect. The Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement or Social Services worker shall investigate the report of abuse or neglect within forty-eight (48) hours. The investigator will immediately assess whether or not an emergency situation exists and if one does, will proceed under Section 8 of this Code. If an emergency situation does not exist the investigator shall prepare a written report within ten (10) days base upon:</text>
-    <para>
-      <num>(1)</num>
-      <text>Personal interviews of the abuse, the immediate family and caretaker, suspected abuser, employees of agencies (if involved), and any other person who may have pertinent information;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Medical records and other evidence of abuse;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Assessment of elder or vulnerable adult's living conditions using tribal standards for housing; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Any other observations, assessments, or documents that may aid in completing an accurate and complete report.</text>
-    </para>
-    <text>The written report shall contain:</text>
-    <para>
-      <num>(1)</num>
-      <text>The elder or vulnerable person's name, tribal enrollment number, address or location, telephone number;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Name, address or location, telephone number(s) of the person(s) or agency who is suspected of abuse or neglect under this Code.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The condition of the abused;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Names of witnesses and sufficient information to affect the subpoena power of the Pueblo of Picuris Tribal Court over said witnesses;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Name, address or location, telephone number of reported caretaker(s);</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>A description of the act(s) which are suspected of being abusive or neglectful; and</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Any other information helpful in establishing abuse or neglect.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-13</num>
-    <heading>Emergency Situation Investigation and Procedures</heading>
-    <para>
-      <num>A.</num>
-      <text>The Pueblo of Picuris Tribal Court may issue an ex parte emergency order of protection authorizing emergency services or protective placement upon clear and convincing factual statements and/or evidence that an elder or vulnerable adult:</text>
+  <heading>Pueblo of Picuris Elder and Vulnerable Adult Protection Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.01</num>
+    <heading>Elder and Vulnerable Adult Protection</heading>
+    <section>
+      <num>13.01.010</num>
+      <heading>Title</heading>
+      <text>This Code is known as the Pueblo of Picuris Elder and Vulnerable Adult Code.</text>
+      <annotation type="Prior Codifications">§13.01.010 was formerly codified as 13-1-1</annotation>
+    </section>
+    <section>
+      <num>13.01.020</num>
+      <heading>Authority</heading>
+      <text>Pursuant to the sovereign authority of the Pueblo of Picuris Tribal Council, a federally recognized Tribe of Indians with the inherent authority to make laws to protect the political integrity, economic security, health, safety, and welfare of the Pueblo of Picuris and its tribal members.</text>
+      <annotation type="Prior Codifications">§13.01.020 was formerly codified as 13-1-2</annotation>
+    </section>
+    <section>
+      <num>13.01.030</num>
+      <heading>Policy</heading>
+      <text>It is the policy of the Pueblo of Picuris to continue the traditional respect the members of the Pueblo of Picuris have had for elders. Elders are a valuable resource to the Pueblo of Picuris because they are repositories and custodians of tribal history, language, culture and tradition; and they are the best hope of the Pueblo of Picuris to pass on the tribal history, language, culture, and tradition to children of the Pueblo of Picuris. Thus, the interests of the Pueblo of Picuris, now and in the future, are advanced when its Elders can be confident they are protected from abuse, neglect, and exploitation and are free to fully participate in the activities and proceedings of the Pueblo of Picuris.</text>
+      <annotation type="Prior Codifications">§13.01.030 was formerly codified as 13-1-3</annotation>
+    </section>
+    <section>
+      <num>13.01.040</num>
+      <heading>Purpose</heading>
+      <text>The Pueblo of Picuris Tribal Council in the exercise of its sovereign power to safeguard and provide for the health, safety and welfare of the members of the Pueblo of Picuris, hereby enacts this Code in furtherance of our values and cultural mandates to care for elders and vulnerable adults in our community. With the enactment of this Code, the Pueblo of Picuris Tribal Council is expressing their sovereign intent to create a system that honors and respects its duties and responsibilities to its elders and vulnerable adults. These duties and responsibilities include provision for their basic needs and insuring their continued participation.</text>
+      <annotation type="Prior Codifications">§13.01.040 was formerly codified as 13-1-4</annotation>
+    </section>
+    <section>
+      <num>13.01.050</num>
+      <heading>Jurisdiction</heading>
+      <text>The jurisdiction of the Pueblo of Picuris Tribal Court and the effective scope of this Code shall include all Pueblo of Picuris tribal elders or vulnerable adults residing within the exterior boundaries of the Pueblo of Picuris.</text>
+      <text>The Pueblo of Picuris Tribal Court shall have jurisdiction over all cases arising under the provisions of this Code.  This Code is intended as a civil code and shall be enforced as such.</text>
+      <text>All cases of abuse of an elder or a vulnerable adult, involving any member of the Pueblo of Picuris that may arise outside of the Pueblo of Picuris are subject to the assertion of concurrent jurisdiction by the Pueblo of Picuris Tribal Court.</text>
+      <text>The Pueblo of Picuris Tribal Court shall construe <cite path="§13.01.050">this section</cite> liberally to exercise maximum jurisdiction consistent with applicable tribal law and custom, state and federal law.</text>
+      <annotation type="Prior Codifications">§13.01.050 was formerly codified as 13-1-5</annotation>
+    </section>
+    <section>
+      <num>13.01.060</num>
+      <heading>Definitions</heading>
+      <text>As used in this Code, these terms have the following meanings:</text>
       <para>
-        <num>(1)</num>
-        <text>Is at risk of immediate physical harm or irretrievable or irreversible loss of valuable resources or benefits;</text>
+        <num>(a)</num>
+        <text>"Abuse" is an intentional or negligent infliction of bodily injury, including but not limited to sexual abuse or exploitation, unreasonable confinement, intimidation, emotional abuse or cruel punishment of an elder or vulnerable adult which results in physical injury or pain, or mental anguish. Also includes improper use of an elder or vulnerable adult's funds, property (real or personal), including regalia, or any other resource in a manner not consistent with the elder or vulnerable adult's interests and needs. Also includes failure to care for an elder or vulnerable adult when a standard of care or need has been medically or legally established which results in physical injury, pain or mental anguish; when said care has been communicated to the caregiver, who has accepted the duty to care for said person in need of care.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>No one is authorized by law or existing court order to give consent, or after reasonable efforts, no said person can be located; and</text>
+        <num>(b)</num>
+        <text>"Advisor to Tribal Court" any party to an action pursuant to this Code may nominate a member of their family or another person known to them to act as an advisor to the Pueblo of Picuris Tribal Court, or the Pueblo of Picuris Tribal Court may nominate a person to serve in this role for the elder or vulnerable adult. The advisor's role is not designated to replace a party advocate but is to help the Pueblo of Picuris Tribal Court reach a disposition in each case that is consistent with the purposes of this Code to protect elders and vulnerable adult's rights to basic needs and community participation that is consistent with Pueblo of Picuris cultural imperatives. For that purpose the advisor is allowed to address the Pueblo of Picuris Tribal Court with a non-binding recommendation or, with the permission of the parties, address the Court in chambers in an unreported hearing for the purpose of making non-binding recommendations.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The elder or vulnerable adult or authorized caretaker is incapacitated and cannot consent to services.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The emergency order of protection shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>State the name and interest (or relationship) of the petitioner;</text>
+        <num>(c)</num>
+        <text>"Caretaker" is a person who is required by Pueblo of Picuris Tribal, state law or tribal custom to provide services or resources to an elder or vulnerable adult; a person who volunteers to provide services or resources to an elder or vulnerable adult; and/or an institution or agency and its employees who are required by tribal, state or federal law, tribal custom or through any other agreement to provide services or resources to a tribal elder or vulnerable adult.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>State the specific emergency services to be provided to convert the situation to non- emergency status;</text>
+        <num>(d)</num>
+        <text>"Care Plan for Protection" of a named individual must contain a safety plan as approved by the Pueblo of Picuris Tribal Court whenever a temporary or permanent Order of Protection is issued pursuant to this Code.  The requirements for a plan are established herein.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>Allow protective placement only if the evidence indicates that it is absolutely necessary;</text>
+        <num>(e)</num>
+        <text>"Duty of Care" requires that a person act toward others and the public with watchfulness, attention, caution and prudence that a reasonable person in the circumstances would. If a person's actions do not meet this standard of care, them the acts are considered negligent, and any damages resulting may be claimed in a lawsuit for negligence.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>Designate the person or agency required to implement the order;</text>
+        <num>(f)</num>
+        <text>"Elder" is a Pueblo of Picuris tribal member who is fifty-five (55) years of age or older or a person who resides on the Pueblo of Picuris who is fifty-five (55) years of age or older to who a tribal member owes a duty of care because of traditional or familial ties.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Be issued for one-hundred twenty (120) hours if evidence of a continuing emergency exists; Said orders may be set aside upon a showing of good cause by any interested party (continuance may be granted for good cause at the discretion of the Pueblo of Picuris Tribal Court); and</text>
+        <num>(g)</num>
+        <text>"Exploitation" is the improper or unauthorized use of an elder or vulnerable adult's money, property, personal belongings, or other resources. A failure to use an elder or vulnerable adult's funds, property or resources as the elder or adult desires and/or for their benefit, shall be deemed as exploitation.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>Present a transition plan for the at-risk elder or vulnerable adult for the period immediately following the expiration of the Order of Protection until it expires or a hearing is held pursuant to a permanent order request.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The Pueblo of Picuris Tribal Court may issue a warrant for forcible entry by the Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement if attempts to gain voluntary access have failed and a sworn declaration by a law enforcement officer or Social Services worker sets forth emergent circumstances that establish probable cause that an elder or vulnerable adult is at risk. This does NOT prohibit law enforcement from acting on probable cause at any scene where the officer personally observes and believes an at risk situation exists; said officer may take the appropriate steps to secure the scene or mitigate the risk including but not limited to transporting the at risk individual to a safe location.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-14</num>
-    <heading>Rights of Elders, Vulnerable Adults, their Families and Caretakers</heading>
-    <para>
-      <num>A.</num>
-      <text>An elder, vulnerable adult, family, and/or caretaker shall be informed of an abuse investigation as soon as the investigation begins or as soon thereafter as is possible unless an emergency exists. If an emergency exists, notice must be given using a means reasonably calculated to give actual notice as soon as possible, but in any event shall any notice shall not be given later than seventy-to (72) hours.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Elders or vulnerable adults may refuse to accept protective services provided there is good cause to believe that the abused can take care of themselves and the elder or vulnerable adult knows of the services offered.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Families or caretakers may refuse services for themselves but cannot refuse services for the elder or vulnerable adult unless alternate services have been established and no unusual risk remains.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Elders, vulnerable adults, family, or caretakers may refuse to allow investigators into their home and must be told of the right of the investigator to seek a warrant should entry be denied.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Personal service of notice to elder, vulnerable adult, family, and/or caretaker is required when a petition is filed pursuant to this Code.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>The elder, vulnerable adult, family, or caretaker has the right to attend all proceedings pertaining to the capacity of the abused unless the Pueblo of Picuris Tribal Court determines the elder or vulnerable adult's health is at risk in attending such proceedings. However, the Pueblo of Picuris Tribal Court may make accommodations as it sees fit to facilitate an elder or vulnerable adult's participation.</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>The elder, vulnerable adult, family, or caretaker has the right to independent medical, psychological or psychiatric evaluations at their own expense, but must submit to any Pueblo of Picuris Tribal Court ordered evaluation or suffer possible adverse inference from the failure to cooperate.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-15</num>
-    <heading>Court Process Requirements</heading>
-    <text>The Pueblo of Picuris will be represented by the Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement or Social Services worker in all matters pursuant to this Code. They will review any and all cases prior to filing of a petition; if they decline to prosecute, a private party may file a petition pursuant to this Code and the Pueblo of Picuris Tribal Court may ask them for a recommendation which will include a summary of the reasons for initially declining prosecution.</text>
-    <para>
-      <num>A.</num>
-      <text>Petition.	The Bureau of Indian Affairs-Northern Pueblo Agency Law  Enforcement or Social Services worker shall initiate proceeding on behalf of the Pueblo of Picuris by filing a petition which contains the following information:</text>
-      <para>
-        <num>(1)</num>
-        <text>The name, tribal enrollment number, birth date, age, residence, and gender of the elder and/or vulnerable adult;</text>
+        <num>(h)</num>
+        <text>"Emergency" is a situation in which an elder or vulnerable adult is put in immediate risk of death or physical injury or serious loss of property and is unable to consent to services and/or mitigate or remove the risk.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The factual basis for the Pueblo of Picuris Tribal Court's jurisdiction under this Code;</text>
+        <num>(i)</num>
+        <text>"Family" is as determined by law including but not limited to tribal law, custom or traditions.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>A plain and concise statement of facts upon which the claim is made that the elder and/or vulnerable adult is in need of protection, including date(s), time(s), and location(s) at which the alleged facts occurred;</text>
+        <num>(j)</num>
+        <text>"Good Faith" is an honest and reasonable belief or purpose and the lack of intent to defraud or injure.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The names, residences, and tribal affiliation (if any) of the person(s) alleged to have neglected and/or abused the elder and/or vulnerable adult.</text>
+        <num>(k)</num>
+        <text>"Least Restrictive Alternative" is whenever it is necessary to protect an elder or vulnerable adult, the least restrictive method of intervention consistent with protecting their freedom and independence will be utilized.</text>
       </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Notice of Petition Filing; Hearing. Any person who has an interest in the welfare of the elder and/or vulnerable adult, including but not necessarily limited to the immediate family and/or known caretakers, shall be provided notice of the filing of the petition and the date of hearing pursuant to the Pueblo of Picuris Tribal Court's notice requirements as set forth in Title 2. Rules of Civil Procedure of the Pueblo of Picuris Law and Order Code.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Hearings. The Pueblo of Picuris Tribal Court shall conduct a hearing on the petition to determine whether the facts support a finding that the elder and/or vulnerable adult is in need of protection. All material and relevant evidence that is reliable and trustworthy may be admitted and relied upon by the Pueblo of Picuris Tribal Court to the extent of its probative value, including hearsay contained in a written investigative report, provided that the preparer of the report is present and available to provide testimony. The parties, including the elder and/or vulnerable adult, shall be afforded an opportunity to examine and controvert written reports, and cross-examine individuals whose testimony is presented. The Pueblo of Picuris Tribal Court may rely on teleconferences or other electronic devices that permit all those appearing or participating to hear and speak to each other.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Judgments. The Court shall make a decision at the conclusion of the hearing and make  orders including ordering a specific party to draft the Temporary or Permanent Order or the Pueblo of Picuris Tribal Court's review and signature. If the allegations of the petition are not sustained, the Pueblo of Picuris Tribal Court shall dismiss the matter. If the allegations of the petition are sustained, the Pueblo of Picuris Tribal Court shall find that the elder and/or vulnerable adult is in need of protection, and may enter further orders for evaluation, assessment, or other orders to protect the elder and/or vulnerable adult. The Pueblo of Picuris Tribal Court may also enter Order of Mandatory Review to check on the status of the protected individual.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-16</num>
-    <heading>Elder and Vulnerable Adults Orders; Terms</heading>
-    <text>If the Pueblo of Picuris Tribal Court determines that there is incapacity or evidence of abuse or neglect of an elder or vulnerable adult, an order of protection shall be issued which must contain a Care Plan for the Protection (a Care Plan for the Protection of a named individual must also be issued when a temporary order of protection is made) of the named individual and which shall contain protections addressing the care of the elder or vulnerable adult, but shall not necessarily be limited to the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>Removal of the abuser from the place where abuse or neglect occurs, including the elder or vulnerable adult's home;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Securing the abused in a care facility;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Enjoining the abuser from committing further abusive acts;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Requiring any party having a fiduciary duty to the elder or vulnerable adult to account for the elder or vulnerable adult's funds, and or real or personal property;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Requiring compensatory damages to be paid by an abuser or neglectful person to the elder or vulnerable adult for injuries resulting from the abuser's or neglectful person's wrongful act(s);</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Assess a fine pursuant to this Code; and</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Appointing a representative, guardian, guardian ad litem, or appoint or order the securing of a representative payee for the elder or vulnerable adult's benefits, or to otherwise manage their personal resources.</text>
-      <text>All such Orders must be reviewed at least every twelve (12) months and should be set for such a review if earlier dates of review are not established at the conclusion of the Order establishing the need for an Order of Protection.</text>
-    </para>
-  </section>
-  <section>
-    <num>13-1-17</num>
-    <heading>Criminal Prosecution</heading>
-    <text>Criminal prosecution in any applicable jurisdiction does NOT bar an action pursuant to this Code. Criminal prosecution does not bar a defendant from receiving services pursuant to this Code. A criminal prosecution does not bar an investigation or petition/orders pursuant to this Code.</text>
-  </section>
-  <section>
-    <num>13-1-18</num>
-    <heading>Severability</heading>
-    <text>If a court, with the authority to do so finds any clause or section of this Code to be invalid, such clause or section shall be severed, and the remainder of this Code shall remain in full force and effect.</text>
-  </section>
+      <para>
+        <num>(l)</num>
+        <text>"Neglect" is a failure to provide for the basic needs of an elder or vulnerable adult by not supplying resources, care or supervision necessary to secure the basic needs of the person, including interfering with delivery of necessary services or resources and failure to report abuse of said persons; said failure will not include any failure based on the lack of available resources to the caretaker.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Protective Placement" is the placement of an elder or vulnerable adult in a hospital, nursing home, residential care facility, other suitable placement or transfer from one placement to another with consent or that person or with appropriate legal authority.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Protective Services" are those services provided to an elder or vulnerable adult with consent or by order of appropriate legal authority which includes but is not limited to: social services, mental and physical health examinations, home and day care, legal assistance, guardianship, case management and any other services consistent with the intent of this Code.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Retaliation" is considered intimidation or a threat to cause bodily harm or causing bodily harm or causing bodily harm to a reporter or family of a person reporting elder abuse; causing or attempting to cause the reporter or reporter's family to be terminated, suspended or reprimanded by an employer; causing property damage to real or personal property belonging to a reporter's family.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Substantiated Report" is when there is probable cause to make a finding of abuse after an investigation has been conducted by the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker. The report is sent to the Pueblo of Picuris Tribal Court for further action.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Unsubstantiated Report" is when no probable cause exists to pursue further action after an investigation by the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker.  Unsubstantiated reports will be kept on file for two (2) years.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Vulnerable Adult" is an adult over eighteen (18) years of age and is unable to protect themselves from abuse, neglect or exploitation. This includes the person who is unable to make responsible decisions for him/herself because of mental illness or deficiency, physical disability or illness, age related capacity issues, or the effects of chronic use of alcohol and/or drugs.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.060 was formerly codified as 13-1-6</annotation>
+    </section>
+    <section>
+      <num>13.01.070</num>
+      <heading>Duty to Report Abuse or Neglect of an Elder or Vulnerable Adult and Immunity for Good Faith Reporting</heading>
+      <text>Suspected abuse of neglect of an elder or vulnerable adult shall be reported to the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement by the following persons; said reports by these reporters are mandated and shall be presumed to be made in good faith; any person who in good faith reports suspected abuse or neglect is immune from any recourse under the law if said report is found to be unsubstantiated:</text>
+      <para>
+        <num>(a)</num>
+        <text>The elder or vulnerable adult's family or caretaker;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All elected officials of the Pueblo of Picuris;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any and all Bureau of Indian Affairs Social Workers, medical and dental staff, religious/cultural practitioners and/or any other tribal employees who provide services and or benefits to tribal elders and or vulnerable adults;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any person or agency including employees, with fiduciary duties to elders or vulnerable adults; such as attorneys, accountants, property managers, or financial institutions;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The elder or vulnerable adult abuses; and/or</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Any other person(s) who have reason to suspect that an elder or vulnerable adult is abused or neglected.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.070 was formerly codified as 13-1-7</annotation>
+    </section>
+    <section>
+      <num>13.01.080</num>
+      <heading>Confidentiality</heading>
+      <text>The identity of a person who in good faith reports suspected elder abuse, neglect, self-neglect or exploitation is confidential and shall not be released unless the reporter consents or the Pueblo of Picuris Tribal Court orders the release because it finds, after notice to the reporter and an opportunity to be heard; that the need to protect the elder outweighs the reporter's interest in confidentiality.</text>
+      <annotation type="Prior Codifications">§13.01.080 was formerly codified as 13-1-8</annotation>
+    </section>
+    <section>
+      <num>13.01.090</num>
+      <heading>Standard of Proof</heading>
+      <text>The standard of proof for actions brought under <cite path="§13.01.090">this section</cite> is the preponderance of evidence.</text>
+      <annotation type="Prior Codifications">§13.01.090 was formerly codified as 13-1-9</annotation>
+    </section>
+    <section>
+      <num>13.01.100</num>
+      <heading>Failure to Report And/Or False Reporting</heading>
+      <text>Any person who is required to report pursuant to this statute and willfully fails to report suspected or actual abuse or neglect may be subject to a civil penalty of up to $5,000 and may suffer any other appropriate civil fine or order that might be necessary to insure compliance with this Code and protect any individual who is entitled to protection pursuant to this Code. All persons required to report who fail to report are entitled to receive specific notice in a timely manner and an opportunity to be heard in the Pueblo of Picuris Tribal Court prior to any penalty being assessed. Any penalty or order may only be assessed after determination of a duty to report is found at the hearing. A person failing to report suspected abuse of neglect may be subject to suit by or on behalf of abused person for damages resulting from unreported abuse.</text>
+      <text>A person who makes a report of suspected abuse or neglect knowing such report to be false will be subject to a civil money penalty of up to $5,000. Said fine or other appropriate civil orders to insure compliance with this Code will not be assessed unless and until the accused false reporter receives specific notice in a timely manner and in opportunity to be heard in the Pueblo of Picuris Tribal Court prior to any penalty being assessed. The false reporter may also suffer civil damages being assessed pursuant to an action by the person falsely accused.</text>
+      <annotation type="Prior Codifications">§13.01.100 was formerly codified as 13-1-10</annotation>
+    </section>
+    <section>
+      <num>13.01.110</num>
+      <heading>Confidentiality of Reporter, Reports, Hearings; Penalties for Non-Compliance</heading>
+      <text>All proceedings under this Code are confidential unless otherwise provided. The Pueblo of Picuris Tribal Court and all individuals and agencies who are responsible for enforcing or participating in the enforcement of the provisions of this Code will ensure that disclosure of confidential personal information received or maintained in the course of actions brought under this Code shall be limited to purposes directly connected with the administration of this Code. Protections include but are not necessarily limited to the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>The identity of the reporter of abuse or neglect under this Code is confidential and shall not be released unless the reporter consents of the Pueblo of Picuris Tribal Court determines that the need of the elder or vulnerable adult exceeds the reporter's right to privacy and mandates disclosure. The reporter has the opportunity to petition the Pueblo of Picuris Tribal Court and be heard with regard to any disclosure. Any disclosure may be released only to the extent necessary to protect the elder or vulnerable adult.  However, the investigating worker's name is not protected.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Records of investigations concerning abuse or neglect under this Code are confidential. Protective services, the Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement, court officials, attorneys, Coroner, medical staff and any other person whom the Pueblo of Picuris Tribal Court determines have reasonable cause to have access may view the record(s).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Anyone who violates <cite path="§13.01.110">this section</cite> of the Code shall be subject to a money penalty of up to $5,000 per occurrence. A petition, notice and an opportunity to be heard in the Pueblo of Picuris Tribal Court shall determine if a violation has occurred.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.110 was formerly codified as 13-1-11</annotation>
+    </section>
+    <section>
+      <num>13.01.120</num>
+      <heading>Investigation Requirements</heading>
+      <text>The Bureau of Indian Affairs-Northern Pueblos Agency Law Enforcement or Social Services worker shall initiate an investigation upon receiving a report of elder of vulnerable adult abuse of neglect. The Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement or Social Services worker shall investigate the report of abuse or neglect within forty-eight (48) hours. The investigator will immediately assess whether or not an emergency situation exists and if one does, will proceed under Section 8 of this Code. If an emergency situation does not exist the investigator shall prepare a written report within ten (10) days base upon:</text>
+      <para>
+        <num>(a)</num>
+        <text>Personal interviews of the abuse, the immediate family and caretaker, suspected abuser, employees of agencies (if involved), and any other person who may have pertinent information;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Medical records and other evidence of abuse;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Assessment of elder or vulnerable adult's living conditions using tribal standards for housing; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any other observations, assessments, or documents that may aid in completing an accurate and complete report.</text>
+      </para>
+      <text>The written report shall contain:</text>
+      <para>
+        <num>(e)</num>
+        <text>The elder or vulnerable person's name, tribal enrollment number, address or location, telephone number;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Name, address or location, telephone number(s) of the person(s) or agency who is suspected of abuse or neglect under this Code.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The condition of the abused;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Names of witnesses and sufficient information to affect the subpoena power of the Pueblo of Picuris Tribal Court over said witnesses;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Name, address or location, telephone number of reported caretaker(s);</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>A description of the act(s) which are suspected of being abusive or neglectful; and</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Any other information helpful in establishing abuse or neglect.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.120 was formerly codified as 13-1-12</annotation>
+    </section>
+    <section>
+      <num>13.01.130</num>
+      <heading>Emergency Situation Investigation and Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo of Picuris Tribal Court may issue an ex parte emergency order of protection authorizing emergency services or protective placement upon clear and convincing factual statements and/or evidence that an elder or vulnerable adult:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is at risk of immediate physical harm or irretrievable or irreversible loss of valuable resources or benefits;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No one is authorized by law or existing court order to give consent, or after reasonable efforts, no said person can be located; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The elder or vulnerable adult or authorized caretaker is incapacitated and cannot consent to services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The emergency order of protection shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>State the name and interest (or relationship) of the petitioner;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>State the specific emergency services to be provided to convert the situation to non- emergency status;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Allow protective placement only if the evidence indicates that it is absolutely necessary;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Designate the person or agency required to implement the order;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Be issued for one-hundred twenty (120) hours if evidence of a continuing emergency exists; Said orders may be set aside upon a showing of good cause by any interested party (continuance may be granted for good cause at the discretion of the Pueblo of Picuris Tribal Court); and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Present a transition plan for the at-risk elder or vulnerable adult for the period immediately following the expiration of the Order of Protection until it expires or a hearing is held pursuant to a permanent order request.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo of Picuris Tribal Court may issue a warrant for forcible entry by the Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement if attempts to gain voluntary access have failed and a sworn declaration by a law enforcement officer or Social Services worker sets forth emergent circumstances that establish probable cause that an elder or vulnerable adult is at risk. This does NOT prohibit law enforcement from acting on probable cause at any scene where the officer personally observes and believes an at risk situation exists; said officer may take the appropriate steps to secure the scene or mitigate the risk including but not limited to transporting the at risk individual to a safe location.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.130 was formerly codified as 13-1-13</annotation>
+    </section>
+    <section>
+      <num>13.01.140</num>
+      <heading>Rights of Elders, Vulnerable Adults, Their Families and Caretakers</heading>
+      <para>
+        <num>(a)</num>
+        <text>An elder, vulnerable adult, family, and/or caretaker shall be informed of an abuse investigation as soon as the investigation begins or as soon thereafter as is possible unless an emergency exists. If an emergency exists, notice must be given using a means reasonably calculated to give actual notice as soon as possible, but in any event shall any notice shall not be given later than seventy-to (72) hours.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Elders or vulnerable adults may refuse to accept protective services provided there is good cause to believe that the abused can take care of themselves and the elder or vulnerable adult knows of the services offered.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Families or caretakers may refuse services for themselves but cannot refuse services for the elder or vulnerable adult unless alternate services have been established and no unusual risk remains.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Elders, vulnerable adults, family, or caretakers may refuse to allow investigators into their home and must be told of the right of the investigator to seek a warrant should entry be denied.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Personal service of notice to elder, vulnerable adult, family, and/or caretaker is required when a petition is filed pursuant to this Code.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The elder, vulnerable adult, family, or caretaker has the right to attend all proceedings pertaining to the capacity of the abused unless the Pueblo of Picuris Tribal Court determines the elder or vulnerable adult's health is at risk in attending such proceedings. However, the Pueblo of Picuris Tribal Court may make accommodations as it sees fit to facilitate an elder or vulnerable adult's participation.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The elder, vulnerable adult, family, or caretaker has the right to independent medical, psychological or psychiatric evaluations at their own expense, but must submit to any Pueblo of Picuris Tribal Court ordered evaluation or suffer possible adverse inference from the failure to cooperate.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.140 was formerly codified as 13-1-14</annotation>
+    </section>
+    <section>
+      <num>13.01.150</num>
+      <heading>Court Process Requirements</heading>
+      <text>The Pueblo of Picuris will be represented by the Bureau of Indian Affairs-Northern Pueblo Agency Law Enforcement or Social Services worker in all matters pursuant to this Code. They will review any and all cases prior to filing of a petition; if they decline to prosecute, a private party may file a petition pursuant to this Code and the Pueblo of Picuris Tribal Court may ask them for a recommendation which will include a summary of the reasons for initially declining prosecution.</text>
+      <para>
+        <num>(a)</num>
+        <text>Petition.	The Bureau of Indian Affairs-Northern Pueblo Agency Law  Enforcement or Social Services worker shall initiate proceeding on behalf of the Pueblo of Picuris by filing a petition which contains the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, tribal enrollment number, birth date, age, residence, and gender of the elder and/or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The factual basis for the Pueblo of Picuris Tribal Court's jurisdiction under this Code;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A plain and concise statement of facts upon which the claim is made that the elder and/or vulnerable adult is in need of protection, including date(s), time(s), and location(s) at which the alleged facts occurred;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The names, residences, and tribal affiliation (if any) of the person(s) alleged to have neglected and/or abused the elder and/or vulnerable adult.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Notice of Petition Filing; Hearing. Any person who has an interest in the welfare of the elder and/or vulnerable adult, including but not necessarily limited to the immediate family and/or known caretakers, shall be provided notice of the filing of the petition and the date of hearing pursuant to the Pueblo of Picuris Tribal Court's notice requirements as set forth in Title 2. Rules of Civil Procedure of the Pueblo of Picuris Law and Order Code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Hearings. The Pueblo of Picuris Tribal Court shall conduct a hearing on the petition to determine whether the facts support a finding that the elder and/or vulnerable adult is in need of protection. All material and relevant evidence that is reliable and trustworthy may be admitted and relied upon by the Pueblo of Picuris Tribal Court to the extent of its probative value, including hearsay contained in a written investigative report, provided that the preparer of the report is present and available to provide testimony. The parties, including the elder and/or vulnerable adult, shall be afforded an opportunity to examine and controvert written reports, and cross-examine individuals whose testimony is presented. The Pueblo of Picuris Tribal Court may rely on teleconferences or other electronic devices that permit all those appearing or participating to hear and speak to each other.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Judgments. The Court shall make a decision at the conclusion of the hearing and make  orders including ordering a specific party to draft the Temporary or Permanent Order or the Pueblo of Picuris Tribal Court's review and signature. If the allegations of the petition are not sustained, the Pueblo of Picuris Tribal Court shall dismiss the matter. If the allegations of the petition are sustained, the Pueblo of Picuris Tribal Court shall find that the elder and/or vulnerable adult is in need of protection, and may enter further orders for evaluation, assessment, or other orders to protect the elder and/or vulnerable adult. The Pueblo of Picuris Tribal Court may also enter Order of Mandatory Review to check on the status of the protected individual.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.150 was formerly codified as 13-1-15</annotation>
+    </section>
+    <section>
+      <num>13.01.160</num>
+      <heading>Elder and Vulnerable Adults Orders; Terms</heading>
+      <text>If the Pueblo of Picuris Tribal Court determines that there is incapacity or evidence of abuse or neglect of an elder or vulnerable adult, an order of protection shall be issued which must contain a Care Plan for the Protection (a Care Plan for the Protection of a named individual must also be issued when a temporary order of protection is made) of the named individual and which shall contain protections addressing the care of the elder or vulnerable adult, but shall not necessarily be limited to the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Removal of the abuser from the place where abuse or neglect occurs, including the elder or vulnerable adult's home;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Securing the abused in a care facility;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Enjoining the abuser from committing further abusive acts;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Requiring any party having a fiduciary duty to the elder or vulnerable adult to account for the elder or vulnerable adult's funds, and or real or personal property;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Requiring compensatory damages to be paid by an abuser or neglectful person to the elder or vulnerable adult for injuries resulting from the abuser's or neglectful person's wrongful act(s);</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Assess a fine pursuant to this Code; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Appointing a representative, guardian, guardian ad litem, or appoint or order the securing of a representative payee for the elder or vulnerable adult's benefits, or to otherwise manage their personal resources.</text>
+        <text>All such Orders must be reviewed at least every twelve (12) months and should be set for such a review if earlier dates of review are not established at the conclusion of the Order establishing the need for an Order of Protection.</text>
+      </para>
+      <annotation type="Prior Codifications">§13.01.160 was formerly codified as 13-1-16</annotation>
+    </section>
+    <section>
+      <num>13.01.170</num>
+      <heading>Criminal Prosecution</heading>
+      <text>Criminal prosecution in any applicable jurisdiction does NOT bar an action pursuant to this Code. Criminal prosecution does not bar a defendant from receiving services pursuant to this Code. A criminal prosecution does not bar an investigation or petition/orders pursuant to this Code.</text>
+      <annotation type="Prior Codifications">§13.01.170 was formerly codified as 13-1-17</annotation>
+    </section>
+    <section>
+      <num>13.01.180</num>
+      <heading>Severability</heading>
+      <text>If a court, with the authority to do so finds any clause or section of this Code to be invalid, such clause or section shall be severed, and the remainder of this Code shall remain in full force and effect.</text>
+      <annotation type="Prior Codifications">§13.01.180 was formerly codified as 13-1-18</annotation>
+    </section>
+  </container>
 </container>

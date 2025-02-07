@@ -1,114 +1,118 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo of Picuris Tribal Law and Order Code">
-  <prefix>TITLE</prefix>
+  <prefix>Title</prefix>
   <num>14</num>
-  <heading>PUEBLO OF PICURIS PROBATE CODE</heading>
+  <heading>Pueblo of Picuris Probate Code</heading>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>1</num>
-    <heading>GENERAL PROVISIONS</heading>
+    <prefix>Chapter</prefix>
+    <num>14.01</num>
+    <heading>General Provisions</heading>
     <section>
-      <num>14-1-1</num>
+      <num>14.01.010</num>
       <heading>Title</heading>
       <text>This Code is known as the Pueblo of Picuris Probate Code.</text>
+      <annotation type="Prior Codifications">§14.01.010 was formerly codified as 14-1-1</annotation>
     </section>
     <section>
-      <num>14-1-2</num>
+      <num>14.01.020</num>
       <heading>Authority</heading>
       <text>Pursuant to the sovereign authority of the Pueblo of Picuris Tribal Council, a federally recognized Tribe of Indians with the inherent authority to make laws to protect the political integrity, economic security, health, safety, and welfare of the Pueblo of Picuris and its tribal members.</text>
+      <annotation type="Prior Codifications">§14.01.020 was formerly codified as 14-1-2</annotation>
     </section>
     <section>
-      <num>14-1-3</num>
+      <num>14.01.030</num>
       <heading>Purpose</heading>
       <text>The objective of the Probate Code is to provide for the exercise of the greatest possible tribal jurisdiction over the probate of the estate of decedents who were domiciled or owned personal property on the Pueblo of Picuris. The Pueblo of Picuris Tribal Council finds that probate procedure in the Pueblo of Picuris Tribal Court is in the best interest of tribal members in that probate may be concluded more economically and more expeditiously than by other jurisdictions. The determination of how property is disposed upon a person's death is an exercise of self-governance crucial to tribal sovereignty.</text>
       <text>This Code shall be liberally construed and applied to meet the following objectives to ensure that the personal property of decedents passes to the rightful heirs or beneficiaries:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To comply with the decedents wishes as much as possible;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To comply with tribal custom and tradition;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To provide a simple, efficient and inexpensive method for probating decedent's personal property;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>To ensure the rights of creditors of decedents are protected to the extent possible and fair; and</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>To promote and further the tribe's inherent right to self-governance.</text>
       </para>
+      <annotation type="Prior Codifications">§14.01.030 was formerly codified as 14-1-3</annotation>
     </section>
     <section>
-      <num>14-1-4</num>
+      <num>14.01.040</num>
       <heading>Jurisdiction</heading>
       <text>The Pueblo of Picuris Tribal Court shall have jurisdiction to administer in probate the estate of a decedent whose place of domicile was, at the time of their death, within the exterior boundaries of the Pueblo of Picuris.</text>
+      <annotation type="Prior Codifications">§14.01.040 was formerly codified as 14-1-4</annotation>
     </section>
     <section>
-      <num>14-1-5</num>
+      <num>14.01.050</num>
       <heading>Definitions.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>"Abatement" means a reduction or decrease.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>"Administrator" means  the  person  appointed  by  the  Pueblo  of  Picuris  Tribal  Court   to administer the estate of a decedent according to this Probate Code and may include an Administrator nominated by the decedent's will, appointed at the request of an interested party, or appointed by the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>"Class Gift" means a devise of gift to a body of people, uncertain in number at the time of the gift, to be ascertained at a future time, who are all to take in equal, or other definite proportions, the share amount of each being dependent upon the ultimate number of people in the class.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>"Codicil" means a supplement or an addition to a will; it may explain, modify, add to, subtract from, qualify, alter, restrain, or revoke provisions in an existing will. A codicil does not purport to dispose of the entire estate or to contain the entire will of the testator, no does it ordinarily revoke an entire prior will by expression or implication.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>"Decedent" means a person who has died leaving property that is subject to administration.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>"Devisee" means any person to whom property is given by will.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>"Domicile" means the place where a person has his or her true, fixed and permanent home and principal establishment, and to which whenever he/she is absent he/she has the intention of returning.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>"Escheat" means reversion of property to the Pueblo of Picuris because no valid heir or person to inherit exists.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text>"Fee Land" means land held in fee by the decedent whether located on or off the exterior boundaries of the Pueblo of Picuris. Fee land does not include trust lands or lands governed by §1-2- 2. (A) and (B) Territorial Jurisdiction of the Pueblo of Picuris Law and Order Code.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>(j)</num>
         <text>"Fiduciary" as a noun means that person or institution who manages money or property for another and who must exercise the highest standard of care in such management activity; as an adjective, it describes the nature of a trust, which is the highest and most scrupulous duty owed to another.</text>
       </para>
       <para>
-        <num>K.</num>
+        <num>(k)</num>
         <text>"Half-blood" means the degree of relationship which exists between those who have the same father or same mother, but not both parents in common.</text>
       </para>
       <para>
-        <num>L.</num>
+        <num>(l)</num>
         <text>"Heir" means any person, including the surviving spouse, who is entitled under the law governing intestate succession to an interest in the property of the decedent.</text>
       </para>
       <para>
-        <num>M.</num>
+        <num>(m)</num>
         <text>"Incompetent" means a person who is substantially incapable of managing his or her property or caring for him or herself by reason of infirmities of aging, developmental disabilities, or other like capacities. Physical disabilities without mental incapacity is not sufficient to establish incompetence.</text>
       </para>
       <para>
-        <num>N.</num>
+        <num>(n)</num>
         <text>"Interested Party" means a person who has a recognizable stake (and therefore standing) in  a matter.</text>
       </para>
       <para>
-        <num>O.</num>
+        <num>(o)</num>
         <text>"Interested Witness" means any of the following:</text>
         <para>
           <num>(1)</num>
@@ -132,76 +136,77 @@
         </para>
       </para>
       <para>
-        <num>P.</num>
+        <num>(p)</num>
         <text>"Intestate" means one who dies without leaving a valid will, or the circumstances of dying without leaving a valid will effectively disposing all of the estate.</text>
       </para>
       <para>
-        <num>Q.</num>
+        <num>(q)</num>
         <text>"Intestate Succession" means succession to property of a decedent who dies without a will that has certain provisions that are not valid.</text>
       </para>
       <para>
-        <num>R.</num>
+        <num>(r)</num>
         <text>"Issue" when used to refer to persons who take by intestate succession, means children, grandchildren, and lineal descendants of more remote degree (except those who are the lineal descendants of living descendants). The term includes adopted children and non-marital children and their issue.</text>
       </para>
       <para>
-        <num>S.</num>
+        <num>(s)</num>
         <text>"Letters Testamentary" means the formal document of authority and appointment given to an executor or administrator by the Pueblo of Picuris Tribal Court, empowering him/her to fulfill his/her duties as required by his/her position as executor or administrator.</text>
       </para>
       <para>
-        <num>T.</num>
+        <num>(t)</num>
         <text>Member" means an enrolled member of the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>U.</num>
+        <num>(u)</num>
         <text>"Personal property" means all property other than real property an income derived from real property.</text>
       </para>
       <para>
-        <num>V.</num>
+        <num>(v)</num>
         <text>"Real property" means any interest in land, including crops; buildings or other improvements permanently attached to the land.</text>
       </para>
       <para>
-        <num>W.</num>
+        <num>(w)</num>
         <text>Renounce" means to make an affirmative declaration of abandonment.  A waiver of rights.</text>
       </para>
       <para>
-        <num>X.</num>
+        <num>(x)</num>
         <text>"Reservation" means all property within the exterior boundaries of the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>Y.</num>
+        <num>(y)</num>
         <text>"Residue" means the surplus or left over part of a testator's estate remaining after all the debts and distributions have been completed.</text>
       </para>
       <para>
-        <num>Z.</num>
+        <num>(z)</num>
         <text>"Testator" means a decedent who dies leaving a will.</text>
       </para>
       <para>
-        <num>AA.</num>
+        <num>(aa)</num>
         <text>"Tribal Court" means the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>BB.</num>
+        <num>(bb)</num>
         <text>"Tribe" means the Pueblo of Picuris.</text>
       </para>
       <para>
-        <num>CC.</num>
+        <num>(cc)</num>
         <text>"Trust Property" means real or personal property, title to which is in the United States government for the benefit of and Indian or an Indian Tribe.</text>
       </para>
+      <annotation type="Prior Codifications">§14.01.050 was formerly codified as 14-1-5</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>2</num>
-    <heading>ADMINISTRATIVE PROVISIONS</heading>
+    <prefix>Chapter</prefix>
+    <num>14.02</num>
+    <heading>Administrative Provisions</heading>
     <section>
-      <num>14-2-1</num>
+      <num>14.02.010</num>
       <heading>Probate Judge</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Chief Judge of the Pueblo of Picuris Tribal Court shall serve in the capacity as Probate Judge. If the Chief Judge is unable to serve as Probate Judge, the Chief Judge shall appoint a Probate Judge.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Probate Judge may make orders consistent with the Pueblo of Picuris Law and Order Code and applicable local rules of the Pueblo of Picuris Tribal Court. Such orders may include:</text>
         <para>
           <num>(1)</num>
@@ -218,63 +223,67 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The probate judge shall examine the bonds filed by the personal representatives, with a view to ascertaining their sufficiency and may approve the same. The judge may examine any inventory, sale, bill, account current, final account and vouchers filed therewith, or examine into the condition of an estate generally.  Bond may be waived when good cause is shown.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The probate judge shall have the authority to draft orders requesting property of funds outside the exterior boundaries of the Pueblo of Picuris to be delivered to the Pueblo of Picuris Tribal Court for probate in the Tribal Court.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>The probate judge shall have the authority to develop probate forms and set fees.</text>
       </para>
+      <annotation type="Prior Codifications">§14.02.010 was formerly codified as 14-2-1</annotation>
     </section>
     <section>
-      <num>14-2-2</num>
+      <num>14.02.020</num>
       <heading>Probate Clerk</heading>
       <para>
-        <num>A.</num>
-        <text>The probate judge shall appoint a probate clerk to fulfill the duties and responsibilities enumerated in §<cite path="14|1|14-1-8">14-1-8</cite> (B) (1) and (2) of this Code. If the probate judge elects to utilize the Pueblo of Picuris Tribal Court Clerk, rather than appoint a probate clerk, it shall be the prerogative of the probate judge.</text>
+        <num>(a)</num>
+        <text>The probate judge shall appoint a probate clerk to fulfill the duties and responsibilities enumerated in §14-1-8 (B) (1) and (2) of this Code. If the probate judge elects to utilize the Pueblo of Picuris Tribal Court Clerk, rather than appoint a probate clerk, it shall be the prerogative of the probate judge.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The duties and responsibilities of the probate clerk:</text>
         <para>
           <num>(1)</num>
-          <text>Keep records and issue certified copies as provided in §<cite path="14|1|14-1-9">14-1-9</cite> of this Code.</text>
+          <text>Keep records and issue certified copies as provided in §14-1-9 of this Code.</text>
         </para>
         <para>
           <num>(2)</num>
           <text>Within twenty-four (24) hours of the filing of a petition for summary distribution, the probate clerk shall send out the required notice of hearing to all interested parties.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§14.02.020 was formerly codified as 14-2-2</annotation>
     </section>
     <section>
-      <num>14-2-3</num>
+      <num>14.02.030</num>
       <heading>Records and Certified Copies</heading>
       <text>The probate clerk shall keep a file for each decedent of all documents filed with the Pueblo of Picuris Tribal Court under this Code and shall keep a numerical index of all such estates to facilitate access to such records. Upon payment of a fee, the probate clerk shall issue certified copies of any document or paper so filed.</text>
+      <annotation type="Prior Codifications">§14.02.030 was formerly codified as 14-2-3</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>3</num>
-    <heading>RULES AND PROCEDURES</heading>
+    <prefix>Chapter</prefix>
+    <num>14.03</num>
+    <heading>Rules and Procedures</heading>
     <section>
-      <num>14-3-1</num>
+      <num>14.03.010</num>
       <heading>Practice in Court.</heading>
       <text>Unless specifically provided to the contrary of this Code or unless inconsistent with its provisions, the Pueblo of Picuris Rules of Civil Procedure shall apply, including the rules concerning vacation of orders, to formal proceedings under this Code. Appeals shall be taken in Accordance with the Pueblo of Picuris Law and Order Codes Appellate Procedure to the Southwest Indian Tribal Court of Appeals.</text>
+      <annotation type="Prior Codifications">§14.03.010 was formerly codified as 14-3-1</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>4</num>
-    <heading>SUMMARY DISTRIBUTION</heading>
+    <prefix>Chapter</prefix>
+    <num>14.04</num>
+    <heading>Summary Distribution</heading>
     <section>
-      <num>14-4-1</num>
+      <num>14.04.010</num>
       <heading>Small Estates</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Interested parties may file a petition for summary distribution, without the administration of estate, where:</text>
         <para>
           <num>(1)</num>
@@ -290,15 +299,16 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
-        <text>Any person filing a petition under <cite path="14|4">this chapter</cite> must provide notice of the petition for summary distribution to all other known interested parties. Notice must include a statement advising the recipients that he/she has fifteen (15) days from date of mailing, as evidence by a certified mail receipt, to file an objection to the petition for summary distribution. Notice must be mailed no more than forty-eight (48) hours from the time the petition is filed.</text>
+        <num>(b)</num>
+        <text>Any person filing a petition under <cite path="14|14.04">this chapter</cite> must provide notice of the petition for summary distribution to all other known interested parties. Notice must include a statement advising the recipients that he/she has fifteen (15) days from date of mailing, as evidence by a certified mail receipt, to file an objection to the petition for summary distribution. Notice must be mailed no more than forty-eight (48) hours from the time the petition is filed.</text>
       </para>
+      <annotation type="Prior Codifications">§14.04.010 was formerly codified as 14-4-1</annotation>
     </section>
     <section>
-      <num>14-4-2</num>
+      <num>14.04.020</num>
       <heading>Information Required</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A petition or distribution of a small estate shall contain the following information: The name of the decedent;</text>
         <text>Place and date of decedent's death;</text>
         <text>Names, ages, and relationship to decedent of all heirs of the decedent and, if the decedent dies testate; names, ages, and relationship, if any, of all beneficiaries under this will;</text>
@@ -310,84 +320,92 @@
         <text>The Pueblo of Picuris Tribal Court may file a petition for the determination of heirs and distributions of the estate at the request of an interested party.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Copies of certified mail receipts for notices of petitions for summary distribution shall be filed with the probate clerk within forty-eight (48) hours of mailing.</text>
       </para>
+      <annotation type="Prior Codifications">§14.04.020 was formerly codified as 14-4-2</annotation>
     </section>
     <section>
-      <num>14-4-3</num>
+      <num>14.04.030</num>
       <heading>Findings and Final Orders</heading>
       <text>If the probate clerk finds the total persona property of the estate values not more than $15,000, more than thirty (30) days have elapsed since the death of the decedent, the petition for summary distribution is complete, and no interested party has contested the summary distribution, the probate clerk shall order the estate distributed pursuant to the decedent's will, if any, or according to the provisions of this Code.</text>
+      <annotation type="Prior Codifications">§14.04.030 was formerly codified as 14-4-3</annotation>
     </section>
     <section>
-      <num>14-4-4</num>
+      <num>14.04.040</num>
       <heading>Contested Proceedings</heading>
       <text>In the event an interested party has filed an objection, the probate clerk shall refer the matter to the probate judge for further proceedings pursuant to Chapter 5 if decedent dies intestate or Chapter 8 if decedent dies testate (leaving a will).</text>
+      <annotation type="Prior Codifications">§14.04.040 was formerly codified as 14-4-4</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>5</num>
-    <heading>INTESTACY</heading>
+    <prefix>Chapter</prefix>
+    <num>14.05</num>
+    <heading>Intestacy</heading>
     <section>
-      <num>14-5-1</num>
+      <num>14.05.010</num>
       <heading>Tribal Members</heading>
       <text>Intestate succession and distribution of tribal member decedent    property shall abide by and follow the traditions and customs of the Pueblo of Picuris.</text>
+      <annotation type="Prior Codifications">§14.05.010 was formerly codified as 14-5-1</annotation>
     </section>
     <section>
-      <num>14-5-2</num>
-      <heading>Non-tribal members</heading>
-      <text>Intestate succession and distribution of non-tribal member decedent property shall be distributed through the proceeding set forth in §<cite path="14|1|14-1-12">14-1-12</cite> through §14-1-? Of this Code.</text>
+      <num>14.05.020</num>
+      <heading>Non-Tribal Members</heading>
+      <text>Intestate succession and distribution of non-tribal member decedent property shall be distributed through the proceeding set forth in §14-1-12 through §14-1-? Of this Code.</text>
+      <annotation type="Prior Codifications">§14.05.020 was formerly codified as 14-5-2</annotation>
     </section>
     <section>
-      <num>14-5-3</num>
+      <num>14.05.030</num>
       <heading>Administration</heading>
       <para>
-        <num>(A)</num>
+        <num>(a)</num>
         <text>When a non-tribal member dies leaving an intestate estate subject to the jurisdiction of the Pueblo of Picuris Tribal Court under this Probate Code, any person claiming to be an heir of the decedent, or the Pueblo of Picuris, may petition the Pueblo of Picuris Tribal Court for a determination of the heirs of the decedent and for distribution of such property. The petition shall contain the names and address of all known persons known to the petitioners who may be entitled to share I the distribution of the estate.</text>
       </para>
       <para>
-        <num>(B)</num>
+        <num>(b)</num>
         <text>Whenever there is a valid will probated by the Pueblo of Picuris Tribal Court which does not dispose of all the decedent's property, a determination of the heirs entitled to such property and its distribution shall be made by the Court at or before the time the remainder of the estate is distributed and without requiring a separate petition and proceeding.</text>
       </para>
       <para>
-        <num>(C)</num>
+        <num>(c)</num>
         <text>The following person, if legally competent, shall be afforded the priority of their listing for appointment as Administrator: the surviving spouse, any child over eighteen (18) years of age, other blood relatives, any adult person.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.030 was formerly codified as 14-5-3</annotation>
     </section>
     <section>
-      <num>14-5-4</num>
+      <num>14.05.040</num>
       <heading>Appointment of Administrator</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon receipt of a petition to administer an intestate estate, the probate clerk shall schedule a hearing at which an Administrator shall be appointed. Said hearing shall be scheduled far enough in advance to allow the required notice to be made.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Notice of the hearing shall be made by the Probate Clerk if the Tribe is the petitioning party and shall be posted in a conspicuous place in the in the Tribal Administration Building and the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Pueblo of Picuris Tribal Court shall determine who is the proper person to appoint as Administrator, and if such person manifests their willingness to serve, order their appointment as Administrator.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.040 was formerly codified as 14-5-4</annotation>
     </section>
     <section>
-      <num>14-5-5</num>
+      <num>14.05.050</num>
       <heading>Oath of Administrator; Letters of Administration</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon their appointment as Administrator, the person appointed shall take an oath to be prescribed by the Pueblo of Picuris Tribal Court to the effect that they will faithfully and honestly administer the estate.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Upon taking the oath and filing the bond, if any is required, the Administrator shall be granted letters of administrator as proof of their appointment.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.050 was formerly codified as 14-5-5</annotation>
     </section>
     <section>
-      <num>14-5-6</num>
+      <num>14.05.060</num>
       <heading>Duties of Administrator</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The duties of the Administrator shall be:</text>
         <para>
           <num>(1)</num>
@@ -415,65 +433,73 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The administrator shall file a bond in an amount to be set by the Pueblo of Picuris Tribal Court to insure their faithful, honest performance of their duties as Administrator. Unless otherwise made to appear necessary or desirable, no bond shall be required of an Administrator who is the spouse or child of the decedent.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.060 was formerly codified as 14-5-6</annotation>
     </section>
     <section>
-      <num>14-5-7</num>
+      <num>14.05.070</num>
       <heading>Notice to Creditors</heading>
       <text>The Administrator of the estate or the probate clerk if no Administrator is appointed shall cause notice to creditors to be posted in at least three conspicuous places on the Pueblo of Picuris and published in three consecutive tribal memos. Said notice shall state that creditors have ninety (90) days from the date of the first publication of the notice to present their claims to the Administrator or probate clerk and that only those claims may be paid by the estate.</text>
+      <annotation type="Prior Codifications">§14.05.070 was formerly codified as 14-5-7</annotation>
     </section>
     <section>
-      <num>14-5-8</num>
+      <num>14.05.080</num>
       <heading>Payment of Creditors</heading>
       <text>Payment to creditors of the decedent shall be made by the Administrator. Payment to creditors shall be made by the probate clerk if no Administrator is appointed, but only upon the order of the Pueblo of Picuris Tribal Court after determining the validity of the claims by affidavit or personal testimony of the claimant.</text>
       <text>All just claims of creditors allowed by the Pueblo of Picuris Tribal Court shall be paid before distribution of the estate but shall be paid only after payment of the family allowance and homestead allowances as provided herein.</text>
+      <annotation type="Prior Codifications">§14.05.080 was formerly codified as 14-5-8</annotation>
     </section>
     <section>
-      <num>14-5-9</num>
+      <num>14.05.090</num>
       <heading>Accounting</heading>
       <text>Prior to the distribution of every estate for which an Administrator has been appointed, such Administrator shall render an accounting to the Court, for its approval, of all receipts and disbursements from the estate, showing the present status of the estate and that it is ready for distribution, and also showing the computation of any attorney's and/or Administrator's fees involved for which approval for payment is sought. In estates in which no Administrator is appointed, the probate clerk shall account to the Pueblo of Picuris Tribal Court for all transaction relating to the estate.</text>
+      <annotation type="Prior Codifications">§14.05.090 was formerly codified as 14-5-9</annotation>
     </section>
     <section>
-      <num>14-5-10</num>
+      <num>14.05.100</num>
       <heading>No Taker/Escheat to Tribe</heading>
       <text>If there is no taker of the intestate estate, the intestate estate passes or escheats to the Pueblo of Picuris Tribe.</text>
+      <annotation type="Prior Codifications">§14.05.100 was formerly codified as 14-5-10</annotation>
     </section>
     <section>
-      <num>14-5-11</num>
+      <num>14.05.110</num>
       <heading>Advancements</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>If a person dies intestate, property which they gave in their lifetime to an heir is treated as an advancement against the latter's share of the estate only if declared in a contemporaneous writing by the decedent or acknowledged in writing by the heir to be and advancement. For this purpose, the property advanced is valued as of the time the heir came into possession or enjoyment of the property or as of the time of death of the decedent, whichever first occurs.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>If the recipient of the property fails to survive the decedent, the property is not taken into account in computing the intestate share to be received by the recipient's issue, unless the declaration or acknowledgement provides otherwise.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.110 was formerly codified as 14-5-11</annotation>
     </section>
     <section>
-      <num>14-5-12</num>
+      <num>14.05.120</num>
       <heading>Debts to Decedent</heading>
       <text>A debt owed to the decedent is not charged against the intestate share of any person except the debtor. If the debtor fails to survive the decedent, the debt is not taken into account in computing the intestate or other share of the debtor's issue.</text>
+      <annotation type="Prior Codifications">§14.05.120 was formerly codified as 14-5-12</annotation>
     </section>
     <section>
-      <num>14-5-13</num>
+      <num>14.05.130</num>
       <heading>Distribution-Closing the Estate</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>When it is made to appear to the Pueblo of Picuris Tribal Court that an estate is ready to be distributed, the Tribal Court shall order such according to the rules of the intestate succession and this Probate Code.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The estate shall be closed and the Administrator shall be dismissed and their bond released upon the filling of receipts and an affidavit showing the estate is fully distributed, and after being fully administered, is now ready to be closed.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.130 was formerly codified as 14-5-13</annotation>
     </section>
     <section>
-      <num>14-5-14</num>
+      <num>14.05.140</num>
       <heading>Descent and Distribution</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>In the event there is no will admitted to probate, the estate shall be distributed by order of the Court as follows:</text>
         <para>
           <num>(1)</num>
@@ -501,8 +527,8 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
-        <text>As used in <cite path="14|5|14-5-14">this section</cite>, the words "children" and issue include adopted children and children of unwed parents where paternity has been acknowledged or established, except that:</text>
+        <num>(b)</num>
+        <text>As used in <cite path="§14.05.140">this section</cite>, the words "children" and issue include adopted children and children of unwed parents where paternity has been acknowledged or established, except that:</text>
         <para>
           <num>(1)</num>
           <text>A child may not inherit by intestate succession from or through a parent whose parental rights with respect to said child have been terminated pursuant to lawful authority; and</text>
@@ -513,20 +539,22 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Afterborn Heirs. Relatives of the decedent conceived before his/her death and born thereafter but before the estate is distributed inherit as if they had been born during the lifetime of the decedent.</text>
       </para>
+      <annotation type="Prior Codifications">§14.05.140 was formerly codified as 14-5-14</annotation>
     </section>
     <section>
-      <num>14-5-15</num>
+      <num>14.05.150</num>
       <heading>Pueblo of Picuris Custom and Tradition Distribution of Indian Finery and Artifacts</heading>
       <text>Notwithstanding the provision of this Probate Code relating to descent and distribution, the surviving spouse or other surviving next of kin may distribute any Indian artifacts and finery belonging to the decedent in accordance with the customs and tradition of the Tribe prior to the initiation of the administration of the estate. Such distribution shall be in accordance with the directions left by the decedent, if any.</text>
+      <annotation type="Prior Codifications">§14.05.150 was formerly codified as 14-5-15</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>6</num>
-    <heading>EFFECT OF HOMICIDE</heading>
+    <prefix>Chapter</prefix>
+    <num>14.06</num>
+    <heading>Effect of Homicide</heading>
     <para>
       <num>A.</num>
       <text>A surviving spouse, heir or beneficiary who criminally and intentionally kills the decedent is not entitle to any benefits passing under this Code and the estate of the decedent passes as if the killer predeceased the decedent. Property appointed by the will of the decedent to or for the benefit of the killer passes as if the killer has predeceased the decedent.</text>
@@ -541,59 +569,62 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Any other acquisition of property or interest by the killer shall be treated in accordance with the principles of <cite path="14|6">this Section</cite>.</text>
+      <text>Any other acquisition of property or interest by the killer shall be treated in accordance with the principles of <cite path="14|14.06">this chapter</cite>.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>A final judgment of conviction of an offense containing the elements of criminal and intentional killing is conclusive for purposes of <cite path="14|6">this section</cite>. Decedent's estate shall remain open until the final disposition of criminal charges against the decedent's spouse, heir or beneficiary.</text>
+      <text>A final judgment of conviction of an offense containing the elements of criminal and intentional killing is conclusive for purposes of <cite path="14|14.06">this chapter</cite>. Decedent's estate shall remain open until the final disposition of criminal charges against the decedent's spouse, heir or beneficiary.</text>
     </para>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>7</num>
-    <heading>WILLS</heading>
+    <prefix>Chapter</prefix>
+    <num>14.07</num>
+    <heading>Wills</heading>
     <section>
-      <num>14-7-1</num>
-      <heading>Who can make a will?</heading>
+      <num>14.07.010</num>
+      <heading>Who Can Make a Will?</heading>
       <text>Any person eighteen (18) or more years of age, or an emancipated minor, and who is of sound mind can make a will.</text>
+      <annotation type="Prior Codifications">§14.07.010 was formerly codified as 14-7-1</annotation>
     </section>
     <section>
-      <num>14-7-2</num>
+      <num>14.07.020</num>
       <heading>Making and Executing Wills.</heading>
       <para>
-        <num>(A)</num>
+        <num>(a)</num>
         <text>Formal Wills. A will or codicil shall be in writing, subscribed by the testator and attested by two disinterested witnesses. Any bequest given in any will or codicil to a subscribing witness, or to the spouse of such subscribing witness, shall be void unless such will or codicil is legally attested without the signature of such witness.</text>
       </para>
       <para>
-        <num>(B)</num>
-        <text>Holographic Wills.   Will that does not comply with §<cite path="14|1|14-1-25">14-1-25</cite> of this Code is valid as a holographic will, whether or not witnessed, if the signature and the material provision are in the handwriting of the testator.</text>
+        <num>(b)</num>
+        <text>Holographic Wills.   Will that does not comply with §14-1-25 of this Code is valid as a holographic will, whether or not witnessed, if the signature and the material provision are in the handwriting of the testator.</text>
       </para>
       <para>
-        <num>(C)</num>
+        <num>(c)</num>
         <text>Foreign Wills. To the extent it is not in conflict with the provisions of this Code, any will executed according to the laws of the Pueblo of Picuris, country or state where it was executed may be admitted to probate in the Pueblo of Picuris Tribal Court and shall be effectual to pass any personas property of the testator situated within the Pueblo of Picuris. Conflicting provision of the foreign will shall be invalid and distribution of the subject personal property shall be distributed in accordance with this Code.</text>
       </para>
+      <annotation type="Prior Codifications">§14.07.020 was formerly codified as 14-7-2</annotation>
     </section>
     <section>
-      <num>14-7-3</num>
+      <num>14.07.030</num>
       <heading>Implied and Express Revocation of Wills.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>If after the making of a will, the testator marries or is divorced, or testator's marriage is annulled or dissolved, or a child is born to the testator, and no provision has been made in such will for such contingency, such marriage, divorce, annulment, dissolution, birth, or adoption of a minor child shall operate as revocation of such a will, provided such divorce, annulment, or dissolution shall not operate as a revocation of such will fi the spouse of the testator was not a beneficiary under this will.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>A will or codicil shall not be revoked in any other manner except by burning, canceling, tearing, or obliterating it by the testator or by some person in the testator's presence by testator's direction, or by a later will or codicil.</text>
       </para>
+      <annotation type="Prior Codifications">§14.07.030 was formerly codified as 14-7-3</annotation>
     </section>
     <section>
-      <num>14-7-4</num>
+      <num>14.07.040</num>
       <heading>Rules of Construction and Intention.</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The intention of the testator as expressed in the testator's will controls the legal effect of the testator's dispositions.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The following rules of construction apply unless a contrary intent is clear in the will:</text>
         <para>
           <num>(1)</num>
@@ -609,7 +640,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Class gifts. One who would have been a beneficiary under a class gift if they had survived the testator is treated as a devisee for purposes of <cite path="14|7|14-7-4">this section</cite>, regardless of whether their death occurred before or after the execution of the will.</text>
+          <text>Class gifts. One who would have been a beneficiary under a class gift if they had survived the testator is treated as a devisee for purposes of <cite path="§14.07.040">this section</cite>, regardless of whether their death occurred before or after the execution of the will.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -620,22 +651,24 @@
           <text>Ademption by Satisfaction. Property which a testator gave in their lifetime to a person is treated as a satisfaction of a devise to that person is treated as a satisfaction of a devise to that person in whole or in part only if the will provides for deduction of the lifetime gift, or the testator declares in a contemporaneous writing that the gift is to be deducted from the devise or is in satisfaction. For the purpose of partial satisfaction, property given during the lifetime is valued as of the time the beneficiary came into possession or enjoyment of the property or as of the time of death of the decedent, whichever comes first.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§14.07.040 was formerly codified as 14-7-4</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>8</num>
-    <heading>PROBATE OF THE WILL</heading>
+    <prefix>Chapter</prefix>
+    <num>14.08</num>
+    <heading>Probate of the Will</heading>
     <section>
-      <num>14-8-1</num>
+      <num>14.08.010</num>
       <heading>Duty to Present Will for Probate.</heading>
       <text>Every custodian of a will shall deliver the will to the Probate Clerk within thirty (30) days after receipt of information that the testator is deceased. Any will custodian who fails or neglects to do so shall be liable for damages sustained by any person injured thereby.</text>
+      <annotation type="Prior Codifications">§14.08.010 was formerly codified as 14-8-1</annotation>
     </section>
     <section>
-      <num>14-8-2</num>
+      <num>14.08.020</num>
       <heading>Proving, Contesting and Admitting Will</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Proof of Will</text>
         <para>
           <num>(1)</num>
@@ -647,7 +680,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Contest of Will</text>
         <para>
           <num>(1)</num>
@@ -659,131 +692,141 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Admission of Contested Will to Probate</text>
         <para>
           <num>(1)</num>
           <text>Upon considering all relevant evidence concerning the will, the Probate Judge shall enter an order affirming the admission of the will to probate or rejecting such will and ordering that the probate of the decedents' estate proceed as if the decedent had died without executing the will.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§14.08.020 was formerly codified as 14-8-2</annotation>
     </section>
     <section>
-      <num>14-8-3</num>
+      <num>14.08.030</num>
       <heading>Petition for Letters Testamentary</heading>
       <text>A petition for letters testamentary may be made by any person having possession of a decedent's will. The petition must be in writing, signed by the petitioner, and shall state the basis for the Probate Clerk's jurisdiction, the names of the heirs of the decedent, if known, and the name or names of any person specified in the will as Executor and the address of such person if known. The original copy of the will shall be submitted to the Probate Clerk with the petition.</text>
+      <annotation type="Prior Codifications">§14.08.030 was formerly codified as 14-8-3</annotation>
     </section>
     <section>
-      <num>14-8-4</num>
+      <num>14.08.040</num>
       <heading>Qualification of Executor</heading>
       <text>The Probate Clerk shall appoint an Executor to administer the estate. The Executor shall be a competent adult and preference shall be given to the person named in the will, followed by the surviving spouse, child of the decedent over eighteen (18) years of age with preference given in descending order of age, other blood relatives in order of their closeness of relationship, any adult tribal member.</text>
+      <annotation type="Prior Codifications">§14.08.040 was formerly codified as 14-8-4</annotation>
     </section>
     <section>
-      <num>14-8-5</num>
+      <num>14.08.050</num>
       <heading>Appointment of Executor</heading>
       <para>
-        <num>(A)</num>
+        <num>(a)</num>
         <text>Upon receipt of a petition for letters testamentary the Probate Clerk shall schedule a hearing at which an Executor will be appointed and letters testamentary authorized. The hearing shall be scheduled so that adequate notice to interested parties can be made.</text>
       </para>
       <para>
-        <num>(B)</num>
+        <num>(b)</num>
         <text>Notice of hearing shall be made by the petitioning party to all persons named as takers under the will, and to all known heirs of the decedent if different from the named takers, and also posted in a conspicuous place in the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>(C)</num>
+        <num>(c)</num>
         <text>At the hearing, the Probate Clerk shall first determine the validity of the decedent's will and then appoint an Executor to administer the estate according to the terms of this Probate Code and the decedent's will.</text>
       </para>
       <para>
-        <num>(D)</num>
+        <num>(d)</num>
         <text>Letters testamentary shall be granted to the person appointed as Executor    upon their taking an oath, to be prescribed by the Probate Clerk, to the effect that the Executor will faithfully and honestly administer the estate, and upon the Executor's filing of bond, if required.</text>
       </para>
       <para>
-        <num>(E)</num>
+        <num>(e)</num>
         <text>In the event an objection or challenge is raised by any interested party to the will, the Probate Clerk shall take no further action; and shall set a date and time for an evidentiary hearing before the Probate Judge who will resolve the dispute.</text>
       </para>
+      <annotation type="Prior Codifications">§14.08.050 was formerly codified as 14-8-5</annotation>
     </section>
     <section>
-      <num>14-8-6</num>
+      <num>14.08.060</num>
       <heading>Duties of Executor; Bond</heading>
       <text>The duties of the Executor shall be the same as those prescribed in this Probate Code for the Administrator of the intestate estate and the Executor shall file a bond in a like manner and subject to the same exceptions.</text>
+      <annotation type="Prior Codifications">§14.08.060 was formerly codified as 14-8-6</annotation>
     </section>
     <section>
-      <num>14-8-7</num>
+      <num>14.08.070</num>
       <heading>Creditors</heading>
       <text>Notice to creditors, determination of the validity of claims, and payment of claims shall be handled as prescribed for intestate estates, Chapter 5 of this Code.</text>
+      <annotation type="Prior Codifications">§14.08.070 was formerly codified as 14-8-7</annotation>
     </section>
     <section>
-      <num>14-8-8</num>
+      <num>14.08.080</num>
       <heading>Accounting</heading>
       <text>Prior to the distribution of the estate remaining after payment of all just claims and priority payments, the Executor shall submit to the Probate Clerk for approval an accounting of all receipts and disbursements from the estate, showing the present status of the estate and that it is ready for distribution, and also showing the computation of any attorney's and/or Executor's fees involved for which approval for payment is sought.</text>
+      <annotation type="Prior Codifications">§14.08.080 was formerly codified as 14-8-8</annotation>
     </section>
     <section>
-      <num>14-8-9</num>
+      <num>14.08.090</num>
       <heading>Distribution; Closing Estate</heading>
       <para>
-        <num>(A)</num>
+        <num>(a)</num>
         <text>When it is made to appear to the Probate Clerk that an estate is ready to be distributed, the Probate Clerk shall order such distribution according to the provisions of the decedent's will or the rules of intestate succession, whichever is applicable, and according to the rules set forth in this Probate Code.</text>
       </para>
       <para>
-        <num>(B)</num>
+        <num>(b)</num>
         <text>The estate shall be closed and the personal representative of the estate dismissed and their bond, if any, released upon filing with the Probate Clerk receipts showing that the estate is fully distributed, and also upon filing the personal representative's affidavit that the estate is fully administered and ready to be closed. "Personal representative" as used herein includes Administrators and Executors.</text>
       </para>
+      <annotation type="Prior Codifications">§14.08.090 was formerly codified as 14-8-9</annotation>
     </section>
     <section>
-      <num>14-8-10</num>
-      <heading>Distribution:  Order in which Assets Appropriated; Abatement</heading>
+      <num>14.08.100</num>
+      <heading>Distribution: Order in Which Assets Appropriated; Abatement</heading>
       <para>
-        <num>A.</num>
-        <text>Except as provided in §<cite path="14|8|14-8-10|B.">14-8-10B</cite>, and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributes abate, without any preference or priority as between real and personal property, in the following order:</text>
+        <num>(a)</num>
+        <text>Except as provided in §<cite path="§14.08.100|(b)">Section 14.08.100(b)</cite>, and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributes abate, without any preference or priority as between real and personal property, in the following order:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Property not disposed of by the will;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Residuary devises;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>General devises;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Specific devises.</text>
           <text>For purposes of abatement, a general devise charged on any specific property or fund is a specific devise to the extent of the value of the property on which it is charged, and upon the failure or insufficiency of the property on which it is charged, a general devise to the extent of th failure or insufficiency. Abatement within each classification is in proportion to the amounts of property each of the beneficiaries would have received if full distribution of the property had been made in accordance with the terms of the will.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
-        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in §<cite path="14|8|14-8-10|A.">14-8-10A</cite>, then the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
+        <num>(b)</num>
+        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in §<cite path="§14.08.100|(a)">Section 14.08.100(a)</cite>, then the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If the subject of a preferred devise is sold or used incident to administration, abatement shall be achieved by appropriate adjustments in, or contribution from, other interests in the remaining assets.</text>
       </para>
+      <annotation type="Prior Codifications">§14.08.100 was formerly codified as 14-8-10</annotation>
     </section>
     <section>
-      <num>14-8-11</num>
+      <num>14.08.110</num>
       <heading>Property Discovered After Estate Closed</heading>
       <text>A estate may be reopened whenever necessary to dispose of a decedent's property discovered after their estate has been closed. The Probate Clerk shall order distribution of the property to the person or person entitled thereto after making whatever orders appear necessary to assure a just participation of the personas after discovered property in the expenses of the estate.</text>
+      <annotation type="Prior Codifications">§14.08.110 was formerly codified as 14-8-11</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>9</num>
-    <heading>CREDITOR'S CLAIMS</heading>
+    <prefix>Chapter</prefix>
+    <num>14.09</num>
+    <heading>Creditor's Claims</heading>
     <section>
-      <num>14-9-1</num>
+      <num>14.09.010</num>
       <heading>Filing a Claim</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Persons having claims against the estate of the deceased may file the same with the Probate Clerk at any time after the death of the decedent and up to and including the time of the hearing. All claims must be filed in writing and must be itemized in detail and sworn to before the Probate Clerk, or a person authorized to administer oaths. Each such claim must be supported by an affidavit of the claimant or someone on its behalf, that the amount is justly due from decedent, that no payments have been made on the account that are not credited thereon, and that there are no offsets to the knowledge of the affiant.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>All claims that have existed for more than the period prescribed by New Mexico state laws applicable thereto shall not be allowed.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Claims of creditors shall be allowed priority in payment in the following order:</text>
         <para>
           <num>(1)</num>
@@ -802,179 +845,233 @@
           <text>Claims of general creditors.</text>
         </para>
       </para>
+      <annotation type="Prior Codifications">§14.09.010 was formerly codified as 14-9-1</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>10</num>
-    <heading>CUSTODY OF REMAINS OF DECEDENT</heading>
+    <prefix>Chapter</prefix>
+    <num>14.10</num>
+    <heading>Custody of Remains of Decedent</heading>
     <section>
-      <num>14-10-1</num>
+      <num>14.10.010</num>
       <heading>Control of Funeral Arrangements</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Control of funeral arrangements and disposition of the remains of the decedent shall be based upon any wishes, instructions or directions of the decedent as expressed in the decedent's will.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>If the decedent dies intestate or the decedent's will is silent on the issue of funeral arrangements, the control of funeral arrangements and disposition of the remains of the decedent shall be based upon any oral instruction made by the decedent or the decedent's surviving spouse.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If the decedent dies intestate and the decedent's will is silent and decedent gave no oral instructions on the issue of funeral arrangements and the decedent has no surviving spouse, immediate family members (parents or siblings) shall control the funeral arrangements and/or disposition of decedent's remains.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>If the decedent has no family available to make a decision, control of the decedent's funeral arrangements and disposition of the remains shall be based on the customs of the tribe.</text>
       </para>
+      <annotation type="Prior Codifications">§14.10.010 was formerly codified as 14-10-1</annotation>
     </section>
   </container>
   <container>
-    <prefix>CHAPTER</prefix>
-    <num>11</num>
-    <heading>GUARDIANSHIP OF MINORS AND INCOMPETENTS</heading>
+    <prefix>Chapter</prefix>
+    <num>14.11</num>
+    <heading>Guardianship of Minors and Incompetents</heading>
     <section>
-      <num>14-11-1</num>
+      <num>14.11.010</num>
       <heading>Purpose and Intent</heading>
-      <text>The applicability of <cite path="14|11">this Chapter</cite> is only in those situations or circumstances where a minor child or mental incompetent required an appointment of a guardian of their person and/or property as the result of a will or intestate succession. <cite path="14|11">This Chapter</cite> is not intended to provide a procedure for the appointment of a guardian that would be governed by Title 13. Pueblo of Picuris Elder and Vulnerable Adult Protection Code.</text>
+      <text>The applicability of <cite path="14|14.11">this chapter</cite> is only in those situations or circumstances where a minor child or mental incompetent required an appointment of a guardian of their person and/or property as the result of a will or intestate succession. <cite path="14|14.11">This chapter</cite> is not intended to provide a procedure for the appointment of a guardian that would be governed by Title 13. Pueblo of Picuris Elder and Vulnerable Adult Protection Code.</text>
+      <annotation type="Prior Codifications">§14.11.010 was formerly codified as 14-11-1</annotation>
     </section>
     <section>
-      <num>14-11-2</num>
+      <num>14.11.020</num>
       <heading>Definition of Guardian</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>A guardian is an adult appointed by the Probate Judge to take care of the person or property of (1) a minor child with no surviving parent or; (2) a person adjudged to be an incompetent. The guardian must exercise the highest standard of care for the ward, and is subject to regulation by the Pueblo of Picuris Tribal Court.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Probate Judge, when it appears necessary or convenient, may appoint guardians for the persons and/or property of either children under the Court's jurisdiction or incompetents who have no guardian legally appointed by will or deed. Such appointment may be made on the petition of a relative or other person on behalf of the child or incompetent, or a petition of the child if at least fourteen (14) years of age. Before making such appointment, the Court must cause such notice as the Court deems reasonable to be given to any person having the care of a child, and to such other relatives of a child residing on the reservation as the Court may deem proper, and in cases of adult incompetents, the Court may cause notice to be given to the incompetent at least five (5) days before hearing the petition.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>If a child is under the age of fourteen (14) years, the Probate Judge may nominate or appoint their guardian. If the child is fourteen (14) years of age or older, the child may nominate their own guardian who, if approved by the Probate Judge, must be appointed accordingly If the guardian nominated by the child is not approved by the Probate Judge, or if the child resides outs of the Pueblo of Picuris, or if, after being duly cited by the Probate Judge, the child neglects for ten (10) days to nominate a suitable person, the Probate Judge may nominate and appoint the guardian in the same manner as if the child were under the age of fourteen (14) years.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>When a guardian has been appointed by the Probate Judge for a child under the age of fourteen (14) years, the child, at any time after the child attains that age, may nominate their own guardian, subject to the approval of the Probate Judge. A guardian appointed may as specified by the Probate Judge have the custody and care of the education of the child and the care and management of their property until such child arrives at the age of eighteen (18), marries, is emancipated by the Pueblo of Picuris Tribal Court, or until the guardian is legally discharged, provided, however, that said guardian shall not have the authority, without express written consent of the Probate Judge, to dispose of any real or personal property of the child in any manner. Said guardian shall also have the authority to consent to the medical care and treatment of the child.</text>
       </para>
       <para>
-        <num>E.</num>
-        <text>the Probate Judge may order that the Probate Clerk disburse monthly reimbursement payments to the person or agency to whom custody is granted under this code, provided sufficient funds have been appropriated by the Pueblo of Picuris Tribal Council. Said disbursements must be used by the person or agency with custody of the child for the sole purpose of covering expenses incurred in the care and custody of said child and shall not be used for any other purpose. The use of said funds for any purpose other than that described in <cite path="14|11|14-11-2">this section</cite> shall subject said person or agency to contempt of Court and to any criminal and civil penalties or remedies provided by the Pueblo of Picuris Law and Order Code.</text>
+        <num>(e)</num>
+        <text>the Probate Judge may order that the Probate Clerk disburse monthly reimbursement payments to the person or agency to whom custody is granted under this code, provided sufficient funds have been appropriated by the Pueblo of Picuris Tribal Council. Said disbursements must be used by the person or agency with custody of the child for the sole purpose of covering expenses incurred in the care and custody of said child and shall not be used for any other purpose. The use of said funds for any purpose other than that described in <cite path="§14.11.020">this section</cite> shall subject said person or agency to contempt of Court and to any criminal and civil penalties or remedies provided by the Pueblo of Picuris Law and Order Code.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.020 was formerly codified as 14-11-2</annotation>
     </section>
     <section>
-      <num>14-11-3</num>
-      <heading>How Guardians are Appointed</heading>
+      <num>14.11.030</num>
+      <heading>How Guardians Are Appointed</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>By will. The last surviving parent or spouse of a minor or mental incompetent may designate in a will the guardian for the minor or mental incompetent. Upon determination by the Probate Judge that the will is valid, and that the person designated is willing to accept the responsibilities of guardianship, the Probate Judge shall appoint the person designated; provided that for good cause show, the Probate Judge may decline to appoint the person designated.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>By Probate Judge appointment. Where a minor or mental incompetent is in need of a guardian, and no guardian is appointed pursuant to a valid will, the Probate Judge may appoint a guardian, to promote the best interests of the minor or mental incompetent.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Hearing. In each case where a guardian is to be appointed, either by will, or by Probate Judge appointment, a hearing shall be held following notice to all interested parties.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.030 was formerly codified as 14-11-3</annotation>
     </section>
     <section>
-      <num>14-11-4</num>
+      <num>14.11.040</num>
       <heading>Types of Guardianship</heading>
       <text>The types of guardianship shall include guardianship of property and/or guardianship of the person.  Guardianship of the person shall include both temporary or permanent guardianship.</text>
+      <annotation type="Prior Codifications">§14.11.040 was formerly codified as 14-11-4</annotation>
     </section>
     <section>
-      <num>14-11-5</num>
+      <num>14.11.050</num>
       <heading>Guardianship of Property</heading>
       <text>The Probate Judge may appoint a guardian of the property of a child or incompetent person under such terms and conditions as the Probate Judge sets forth in the written order. The guardianship may cover all property until the child reaches eighteen (18) years of age or until the incompetent person becomes competent or it may be limited to only specific property or a specific property or a specific legal action as set forth in the written order. A temporary or permanent guardianship of the person may also include guardianship of the child's property if set forth in the written order.</text>
+      <annotation type="Prior Codifications">§14.11.050 was formerly codified as 14-11-5</annotation>
     </section>
     <section>
-      <num>14-11-6</num>
+      <num>14.11.060</num>
       <heading>Permanent Guardianship</heading>
       <text>The Probate Judge may appoint a permanent guardian for the child under such terms and conditions as the Probate Judge sets forth in the written order. Permanent guardianship provides for permanent custody of a child to someone other than the parent(s), although there is no termination of the parental rights of the parents. There shall be a presumption of continued permanent guardianship in order to provide stability for the child. Permanent guardianship shall only be terminated based upon the unsuitability of the permanent guardian(s) rather than the competency or suitability of the parent(s). The parent(s) and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Probate Judge.</text>
+      <annotation type="Prior Codifications">§14.11.060 was formerly codified as 14-11-6</annotation>
     </section>
     <section>
-      <num>14-11-7</num>
+      <num>14.11.070</num>
       <heading>Temporary Guardianship</heading>
       <text>The Probate Judge may appoint a temporary guardian under such terms and conditions as the Probate Judge sets forth in the written order. A temporary guardianship may be terminated if the Probate Judge determines that it is in the best interests of the child to change custody from the temporary guardian to a new guardian or to return the child to the parent, guardian or custodian. The parent(s) and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Probate Judge.</text>
+      <annotation type="Prior Codifications">§14.11.070 was formerly codified as 14-11-7</annotation>
     </section>
     <section>
-      <num>14-11-8</num>
+      <num>14.11.080</num>
       <heading>Who May File Guardianship Petition</heading>
       <text>Any person may file a petition for guardianship. The petition shall be initiated either by the proposed guardian or by the child if at least fourteen (14) years of age.</text>
+      <annotation type="Prior Codifications">§14.11.080 was formerly codified as 14-11-8</annotation>
     </section>
     <section>
-      <num>14-11-9</num>
+      <num>14.11.090</num>
       <heading>Contents of Guardianship Petition</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The petition for guardianship shall include the following, to the best information and belief of the petitioner.</text>
-        <text>1)	The full name, address and tribal affiliation of the petitioner;</text>
-        <text>2)	The full name, sex, date and place of birth, residence and tribal affiliation of the proposed ward;</text>
-        <text>3)	The basis for the Court's jurisdiction;</text>
-        <text>4)	The relationship of the proposed guardian to the proposed ward;</text>
-        <text>5)	The name and address of the person or agency having legal or temporary custody of the proposed ward;</text>
-        <text>6)	The type of guardianship requested;</text>
-        <text>7)	In the case of the alleged incompetent persons, the grounds for incompetency; and</text>
-        <text>8)	A full description and statement of value of all property owned, possessed, or in which the proposed ward has an interest (in guardianship of property is requested).</text>
+        <para>
+          <num>(1)</num>
+          <text>The full name, address and tribal affiliation of the petitioner;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The full name, sex, date and place of birth, residence and tribal affiliation of the proposed ward;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The basis for the Court's jurisdiction;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The relationship of the proposed guardian to the proposed ward;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The name and address of the person or agency having legal or temporary custody of the proposed ward;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The type of guardianship requested;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>In the case of the alleged incompetent persons, the grounds for incompetency; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A full description and statement of value of all property owned, possessed, or in which the proposed ward has an interest (in guardianship of property is requested).</text>
+        </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>All petitions must be signed and dated by the petitioners, ad must be notarized.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.090 was formerly codified as 14-11-9</annotation>
     </section>
     <section>
-      <num>14-11-10</num>
+      <num>14.11.100</num>
       <heading>Guardianship Report</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon the filing of a guardianship petition, the Probate Judge shall immediately request that the social services department or other qualified agency conduct a guardianship report on the proposed guardian and report on the proposed ward. The guardianship report shall contain all pertinent information necessary to assist the Probate Judge in determining the best interests of the proposed ward.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>No determination cam be made on a petition for guardianship until the report has been completed and submitted to and considered by the Probate Judge. The guardianship report shall be submitted to the Probate Judge no later than ten (10) days before the hearing. The Probate Judge may order additional reports as it deems necessary.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.100 was formerly codified as 14-11-10</annotation>
     </section>
     <section>
-      <num>14-11-11</num>
+      <num>14.11.110</num>
       <heading>Management of Property</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>In the event that any guardian shall receive any money or funds of any child or incompetent person during their term of office as guardian, before taking and receiving into custody such money or funds, the Probate Judge must require of such person a bond with sufficient surety to be approved by the Probate Judge and in such sum as the Probate Judge shall order, conditioned that the guardian will faithfully execute the duties of their trust, and the following conditions shall form the part of such bond without being expressed therein:</text>
-        <text>1)	To make an inventory of all the estate of the ward that comes into their possession or knowledge and to return the same within such time as the Probate Judge may order, and;</text>
-        <text>2)	To dispose of and manage the estate according to law and for the best interests of the ward, and faithfully to discharge their trust in relation thereto, and also in relation to the care, custody and education of the ward, and;</text>
-        <text>3)	To render an account on oath of the property, estate and money of the ward in their hand and all the proceeds or interests derived therefore, and of the management and disposition of the same, within three (3) months after their appointment, and at such other times as the Probate Judge directs, and at the expiration of their trust, to settle their accounts with the Probate Judge or with the ward if the ward is of full age, or their legal representative, and to pay over and deliver all the estate, monies and effects remaining in their hands, or due from them on such settlement to the person who is legally entitled thereto;</text>
-        <text>4)	The funds of any child or incompetent must be used by their guardian solely for the support and education of such child and for the support of such incompetent, and shall be expended by the guardian in a reasonable manner according to the circumstances and station in life of such ward, and in such manner as can reasonable be afforded according to the income and estate of said ward;</text>
-        <text>5)	If determined to be appropriate by the Probate Judge, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reached the age of eighteen (18) or is emancipated by the Pueblo of Picuris Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>To make an inventory of all the estate of the ward that comes into their possession or knowledge and to return the same within such time as the Probate Judge may order, and;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To dispose of and manage the estate according to law and for the best interests of the ward, and faithfully to discharge their trust in relation thereto, and also in relation to the care, custody and education of the ward, and;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To render an account on oath of the property, estate and money of the ward in their hand and all the proceeds or interests derived therefore, and of the management and disposition of the same, within three (3) months after their appointment, and at such other times as the Probate Judge directs, and at the expiration of their trust, to settle their accounts with the Probate Judge or with the ward if the ward is of full age, or their legal representative, and to pay over and deliver all the estate, monies and effects remaining in their hands, or due from them on such settlement to the person who is legally entitled thereto;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The funds of any child or incompetent must be used by their guardian solely for the support and education of such child and for the support of such incompetent, and shall be expended by the guardian in a reasonable manner according to the circumstances and station in life of such ward, and in such manner as can reasonable be afforded according to the income and estate of said ward;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If determined to be appropriate by the Probate Judge, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reached the age of eighteen (18) or is emancipated by the Pueblo of Picuris Tribal Court.</text>
+        </para>
       </para>
+      <annotation type="Prior Codifications">§14.11.110 was formerly codified as 14-11-11</annotation>
     </section>
     <section>
-      <num>14-11-12</num>
+      <num>14.11.120</num>
       <heading>Incompetent Persons</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>In case of incompetent persons, if after a full hearing and examination upon such petition, and upon further proof by the certificates of at least two qualified physicians showing that any person is incompetent as defined in this Code, it appears to the Probate Judge that the person in question is not capable of taking care of him or herself and of managing their property, such Probate Judge must appoint a guardian of the person and estate within the powers and duties specified in this Part.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Every guardian of an incompetent person appointed as provided herein has the care and custody of the person of their ward and the management of their estate until such guardian is legally discharged; the guardian must give bond to such ward in like manner and with like conditions as before specified with respect to the guardianship of a child.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>A person who has been declared incompetent, or the guardian, or any relative of such person within the third degree, or any friend, may apply by petition to the Probate Judge to have the fact of their restoration to capacity judicially determined. The petition shall be verified and shall state that such person is then competent. The Probate Judge shall require notice to be given of a hearing upon said petition at some date after said petition has been filed; and at the hearing upon said petition, witnesses shall be examined and a determination made by the Probate Judge as to whether the petition should be granted and the incompetent person be declared of sound mind and capable of taking care of him or herself and his or her property, their restoration to capacity shall be adjudged and the guardianship of such person, if such person shall be a child, shall cease.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.120 was formerly codified as 14-11-12</annotation>
     </section>
     <section>
-      <num>14-11-13</num>
+      <num>14.11.130</num>
       <heading>Termination of Guardianship</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Upon motion of any person, or the Tribe, the Probate Judge may provide notice and a hearing on whether to terminate guardianship. Grounds for termination shall include, but not be limited to, personal use by the guardian of the assets of the ward, failure to provide a reasonable level of care for the ward, or the marriage of a minor ward.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Guardianship, including guardians of the property of the ward, shall terminate automatically upon a minor reaching age eighteen (18), or upon a mental incompetent being adjudged by the Probate Judge to have regained legal capacity.</text>
       </para>
+      <annotation type="Prior Codifications">§14.11.130 was formerly codified as 14-11-13</annotation>
     </section>
   </container>
 </container>
