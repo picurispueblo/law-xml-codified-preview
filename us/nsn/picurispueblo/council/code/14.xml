@@ -11,13 +11,17 @@
       <num>14.01.010</num>
       <heading>Title</heading>
       <text>This Code is known as the Pueblo of Picuris Probate Code.</text>
-      <annotation type="Prior Codifications">§14.01.010 was formerly codified as 14-1-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.010 was formerly codified as 14-1-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.01.020</num>
       <heading>Authority</heading>
       <text>Pursuant to the sovereign authority of the Pueblo of Picuris Tribal Council, a federally recognized Tribe of Indians with the inherent authority to make laws to protect the political integrity, economic security, health, safety, and welfare of the Pueblo of Picuris and its tribal members.</text>
-      <annotation type="Prior Codifications">§14.01.020 was formerly codified as 14-1-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.020 was formerly codified as 14-1-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.01.030</num>
@@ -44,13 +48,17 @@
         <num>(e)</num>
         <text>To promote and further the tribe's inherent right to self-governance.</text>
       </para>
-      <annotation type="Prior Codifications">§14.01.030 was formerly codified as 14-1-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.030 was formerly codified as 14-1-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.01.040</num>
       <heading>Jurisdiction</heading>
       <text>The Pueblo of Picuris Tribal Court shall have jurisdiction to administer in probate the estate of a decedent whose place of domicile was, at the time of their death, within the exterior boundaries of the Pueblo of Picuris.</text>
-      <annotation type="Prior Codifications">§14.01.040 was formerly codified as 14-1-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.040 was formerly codified as 14-1-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.01.050</num>
@@ -191,7 +199,9 @@
         <num>(cc)</num>
         <text>"Trust Property" means real or personal property, title to which is in the United States government for the benefit of and Indian or an Indian Tribe.</text>
       </para>
-      <annotation type="Prior Codifications">§14.01.050 was formerly codified as 14-1-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.050 was formerly codified as 14-1-5</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -234,7 +244,9 @@
         <num>(e)</num>
         <text>The probate judge shall have the authority to develop probate forms and set fees.</text>
       </para>
-      <annotation type="Prior Codifications">§14.02.010 was formerly codified as 14-2-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.02.010 was formerly codified as 14-2-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.02.020</num>
@@ -255,13 +267,17 @@
           <text>Within twenty-four (24) hours of the filing of a petition for summary distribution, the probate clerk shall send out the required notice of hearing to all interested parties.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§14.02.020 was formerly codified as 14-2-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.02.020 was formerly codified as 14-2-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.02.030</num>
       <heading>Records and Certified Copies</heading>
       <text>The probate clerk shall keep a file for each decedent of all documents filed with the Pueblo of Picuris Tribal Court under this Code and shall keep a numerical index of all such estates to facilitate access to such records. Upon payment of a fee, the probate clerk shall issue certified copies of any document or paper so filed.</text>
-      <annotation type="Prior Codifications">§14.02.030 was formerly codified as 14-2-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.02.030 was formerly codified as 14-2-3</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -272,7 +288,9 @@
       <num>14.03.010</num>
       <heading>Practice in Court.</heading>
       <text>Unless specifically provided to the contrary of this Code or unless inconsistent with its provisions, the Pueblo of Picuris Rules of Civil Procedure shall apply, including the rules concerning vacation of orders, to formal proceedings under this Code. Appeals shall be taken in Accordance with the Pueblo of Picuris Law and Order Codes Appellate Procedure to the Southwest Indian Tribal Court of Appeals.</text>
-      <annotation type="Prior Codifications">§14.03.010 was formerly codified as 14-3-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.010 was formerly codified as 14-3-1</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -302,7 +320,9 @@
         <num>(b)</num>
         <text>Any person filing a petition under <cite path="14|14.04">this chapter</cite> must provide notice of the petition for summary distribution to all other known interested parties. Notice must include a statement advising the recipients that he/she has fifteen (15) days from date of mailing, as evidence by a certified mail receipt, to file an objection to the petition for summary distribution. Notice must be mailed no more than forty-eight (48) hours from the time the petition is filed.</text>
       </para>
-      <annotation type="Prior Codifications">§14.04.010 was formerly codified as 14-4-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.010 was formerly codified as 14-4-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.04.020</num>
@@ -323,19 +343,25 @@
         <num>(b)</num>
         <text>Copies of certified mail receipts for notices of petitions for summary distribution shall be filed with the probate clerk within forty-eight (48) hours of mailing.</text>
       </para>
-      <annotation type="Prior Codifications">§14.04.020 was formerly codified as 14-4-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.020 was formerly codified as 14-4-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.04.030</num>
       <heading>Findings and Final Orders</heading>
       <text>If the probate clerk finds the total persona property of the estate values not more than $15,000, more than thirty (30) days have elapsed since the death of the decedent, the petition for summary distribution is complete, and no interested party has contested the summary distribution, the probate clerk shall order the estate distributed pursuant to the decedent's will, if any, or according to the provisions of this Code.</text>
-      <annotation type="Prior Codifications">§14.04.030 was formerly codified as 14-4-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.030 was formerly codified as 14-4-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.04.040</num>
       <heading>Contested Proceedings</heading>
       <text>In the event an interested party has filed an objection, the probate clerk shall refer the matter to the probate judge for further proceedings pursuant to Chapter 5 if decedent dies intestate or Chapter 8 if decedent dies testate (leaving a will).</text>
-      <annotation type="Prior Codifications">§14.04.040 was formerly codified as 14-4-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.040 was formerly codified as 14-4-4</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -346,13 +372,17 @@
       <num>14.05.010</num>
       <heading>Tribal Members</heading>
       <text>Intestate succession and distribution of tribal member decedent    property shall abide by and follow the traditions and customs of the Pueblo of Picuris.</text>
-      <annotation type="Prior Codifications">§14.05.010 was formerly codified as 14-5-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.010 was formerly codified as 14-5-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.020</num>
       <heading>Non-Tribal Members</heading>
       <text>Intestate succession and distribution of non-tribal member decedent property shall be distributed through the proceeding set forth in §14-1-12 through §14-1-? Of this Code.</text>
-      <annotation type="Prior Codifications">§14.05.020 was formerly codified as 14-5-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.020 was formerly codified as 14-5-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.030</num>
@@ -369,7 +399,9 @@
         <num>(c)</num>
         <text>The following person, if legally competent, shall be afforded the priority of their listing for appointment as Administrator: the surviving spouse, any child over eighteen (18) years of age, other blood relatives, any adult person.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.030 was formerly codified as 14-5-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.030 was formerly codified as 14-5-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.040</num>
@@ -386,7 +418,9 @@
         <num>(c)</num>
         <text>The Pueblo of Picuris Tribal Court shall determine who is the proper person to appoint as Administrator, and if such person manifests their willingness to serve, order their appointment as Administrator.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.040 was formerly codified as 14-5-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.040 was formerly codified as 14-5-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.050</num>
@@ -399,7 +433,9 @@
         <num>(b)</num>
         <text>Upon taking the oath and filing the bond, if any is required, the Administrator shall be granted letters of administrator as proof of their appointment.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.050 was formerly codified as 14-5-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.050 was formerly codified as 14-5-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.060</num>
@@ -436,32 +472,42 @@
         <num>(b)</num>
         <text>The administrator shall file a bond in an amount to be set by the Pueblo of Picuris Tribal Court to insure their faithful, honest performance of their duties as Administrator. Unless otherwise made to appear necessary or desirable, no bond shall be required of an Administrator who is the spouse or child of the decedent.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.060 was formerly codified as 14-5-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.060 was formerly codified as 14-5-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.070</num>
       <heading>Notice to Creditors</heading>
       <text>The Administrator of the estate or the probate clerk if no Administrator is appointed shall cause notice to creditors to be posted in at least three conspicuous places on the Pueblo of Picuris and published in three consecutive tribal memos. Said notice shall state that creditors have ninety (90) days from the date of the first publication of the notice to present their claims to the Administrator or probate clerk and that only those claims may be paid by the estate.</text>
-      <annotation type="Prior Codifications">§14.05.070 was formerly codified as 14-5-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.070 was formerly codified as 14-5-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.080</num>
       <heading>Payment of Creditors</heading>
       <text>Payment to creditors of the decedent shall be made by the Administrator. Payment to creditors shall be made by the probate clerk if no Administrator is appointed, but only upon the order of the Pueblo of Picuris Tribal Court after determining the validity of the claims by affidavit or personal testimony of the claimant.</text>
       <text>All just claims of creditors allowed by the Pueblo of Picuris Tribal Court shall be paid before distribution of the estate but shall be paid only after payment of the family allowance and homestead allowances as provided herein.</text>
-      <annotation type="Prior Codifications">§14.05.080 was formerly codified as 14-5-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.080 was formerly codified as 14-5-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.090</num>
       <heading>Accounting</heading>
       <text>Prior to the distribution of every estate for which an Administrator has been appointed, such Administrator shall render an accounting to the Court, for its approval, of all receipts and disbursements from the estate, showing the present status of the estate and that it is ready for distribution, and also showing the computation of any attorney's and/or Administrator's fees involved for which approval for payment is sought. In estates in which no Administrator is appointed, the probate clerk shall account to the Pueblo of Picuris Tribal Court for all transaction relating to the estate.</text>
-      <annotation type="Prior Codifications">§14.05.090 was formerly codified as 14-5-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.090 was formerly codified as 14-5-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.100</num>
       <heading>No Taker/Escheat to Tribe</heading>
       <text>If there is no taker of the intestate estate, the intestate estate passes or escheats to the Pueblo of Picuris Tribe.</text>
-      <annotation type="Prior Codifications">§14.05.100 was formerly codified as 14-5-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.100 was formerly codified as 14-5-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.110</num>
@@ -474,13 +520,17 @@
         <num>(b)</num>
         <text>If the recipient of the property fails to survive the decedent, the property is not taken into account in computing the intestate share to be received by the recipient's issue, unless the declaration or acknowledgement provides otherwise.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.110 was formerly codified as 14-5-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.110 was formerly codified as 14-5-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.120</num>
       <heading>Debts to Decedent</heading>
       <text>A debt owed to the decedent is not charged against the intestate share of any person except the debtor. If the debtor fails to survive the decedent, the debt is not taken into account in computing the intestate or other share of the debtor's issue.</text>
-      <annotation type="Prior Codifications">§14.05.120 was formerly codified as 14-5-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.120 was formerly codified as 14-5-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.130</num>
@@ -493,7 +543,9 @@
         <num>(b)</num>
         <text>The estate shall be closed and the Administrator shall be dismissed and their bond released upon the filling of receipts and an affidavit showing the estate is fully distributed, and after being fully administered, is now ready to be closed.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.130 was formerly codified as 14-5-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.130 was formerly codified as 14-5-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.140</num>
@@ -542,13 +594,17 @@
         <num>(c)</num>
         <text>Afterborn Heirs. Relatives of the decedent conceived before his/her death and born thereafter but before the estate is distributed inherit as if they had been born during the lifetime of the decedent.</text>
       </para>
-      <annotation type="Prior Codifications">§14.05.140 was formerly codified as 14-5-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.140 was formerly codified as 14-5-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.05.150</num>
       <heading>Pueblo of Picuris Custom and Tradition Distribution of Indian Finery and Artifacts</heading>
       <text>Notwithstanding the provision of this Probate Code relating to descent and distribution, the surviving spouse or other surviving next of kin may distribute any Indian artifacts and finery belonging to the decedent in accordance with the customs and tradition of the Tribe prior to the initiation of the administration of the estate. Such distribution shall be in accordance with the directions left by the decedent, if any.</text>
-      <annotation type="Prior Codifications">§14.05.150 was formerly codified as 14-5-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.150 was formerly codified as 14-5-15</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -584,7 +640,9 @@
       <num>14.07.010</num>
       <heading>Who Can Make a Will?</heading>
       <text>Any person eighteen (18) or more years of age, or an emancipated minor, and who is of sound mind can make a will.</text>
-      <annotation type="Prior Codifications">§14.07.010 was formerly codified as 14-7-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.010 was formerly codified as 14-7-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.07.020</num>
@@ -601,7 +659,9 @@
         <num>(c)</num>
         <text>Foreign Wills. To the extent it is not in conflict with the provisions of this Code, any will executed according to the laws of the Pueblo of Picuris, country or state where it was executed may be admitted to probate in the Pueblo of Picuris Tribal Court and shall be effectual to pass any personas property of the testator situated within the Pueblo of Picuris. Conflicting provision of the foreign will shall be invalid and distribution of the subject personal property shall be distributed in accordance with this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§14.07.020 was formerly codified as 14-7-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.020 was formerly codified as 14-7-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.07.030</num>
@@ -614,7 +674,9 @@
         <num>(b)</num>
         <text>A will or codicil shall not be revoked in any other manner except by burning, canceling, tearing, or obliterating it by the testator or by some person in the testator's presence by testator's direction, or by a later will or codicil.</text>
       </para>
-      <annotation type="Prior Codifications">§14.07.030 was formerly codified as 14-7-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.030 was formerly codified as 14-7-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.07.040</num>
@@ -651,7 +713,9 @@
           <text>Ademption by Satisfaction. Property which a testator gave in their lifetime to a person is treated as a satisfaction of a devise to that person is treated as a satisfaction of a devise to that person in whole or in part only if the will provides for deduction of the lifetime gift, or the testator declares in a contemporaneous writing that the gift is to be deducted from the devise or is in satisfaction. For the purpose of partial satisfaction, property given during the lifetime is valued as of the time the beneficiary came into possession or enjoyment of the property or as of the time of death of the decedent, whichever comes first.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§14.07.040 was formerly codified as 14-7-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.040 was formerly codified as 14-7-4</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -662,7 +726,9 @@
       <num>14.08.010</num>
       <heading>Duty to Present Will for Probate.</heading>
       <text>Every custodian of a will shall deliver the will to the Probate Clerk within thirty (30) days after receipt of information that the testator is deceased. Any will custodian who fails or neglects to do so shall be liable for damages sustained by any person injured thereby.</text>
-      <annotation type="Prior Codifications">§14.08.010 was formerly codified as 14-8-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.010 was formerly codified as 14-8-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.020</num>
@@ -699,19 +765,25 @@
           <text>Upon considering all relevant evidence concerning the will, the Probate Judge shall enter an order affirming the admission of the will to probate or rejecting such will and ordering that the probate of the decedents' estate proceed as if the decedent had died without executing the will.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§14.08.020 was formerly codified as 14-8-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.020 was formerly codified as 14-8-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.030</num>
       <heading>Petition for Letters Testamentary</heading>
       <text>A petition for letters testamentary may be made by any person having possession of a decedent's will. The petition must be in writing, signed by the petitioner, and shall state the basis for the Probate Clerk's jurisdiction, the names of the heirs of the decedent, if known, and the name or names of any person specified in the will as Executor and the address of such person if known. The original copy of the will shall be submitted to the Probate Clerk with the petition.</text>
-      <annotation type="Prior Codifications">§14.08.030 was formerly codified as 14-8-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.030 was formerly codified as 14-8-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.040</num>
       <heading>Qualification of Executor</heading>
       <text>The Probate Clerk shall appoint an Executor to administer the estate. The Executor shall be a competent adult and preference shall be given to the person named in the will, followed by the surviving spouse, child of the decedent over eighteen (18) years of age with preference given in descending order of age, other blood relatives in order of their closeness of relationship, any adult tribal member.</text>
-      <annotation type="Prior Codifications">§14.08.040 was formerly codified as 14-8-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.040 was formerly codified as 14-8-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.050</num>
@@ -736,25 +808,33 @@
         <num>(e)</num>
         <text>In the event an objection or challenge is raised by any interested party to the will, the Probate Clerk shall take no further action; and shall set a date and time for an evidentiary hearing before the Probate Judge who will resolve the dispute.</text>
       </para>
-      <annotation type="Prior Codifications">§14.08.050 was formerly codified as 14-8-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.050 was formerly codified as 14-8-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.060</num>
       <heading>Duties of Executor; Bond</heading>
       <text>The duties of the Executor shall be the same as those prescribed in this Probate Code for the Administrator of the intestate estate and the Executor shall file a bond in a like manner and subject to the same exceptions.</text>
-      <annotation type="Prior Codifications">§14.08.060 was formerly codified as 14-8-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.060 was formerly codified as 14-8-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.070</num>
       <heading>Creditors</heading>
       <text>Notice to creditors, determination of the validity of claims, and payment of claims shall be handled as prescribed for intestate estates, Chapter 5 of this Code.</text>
-      <annotation type="Prior Codifications">§14.08.070 was formerly codified as 14-8-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.070 was formerly codified as 14-8-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.080</num>
       <heading>Accounting</heading>
       <text>Prior to the distribution of the estate remaining after payment of all just claims and priority payments, the Executor shall submit to the Probate Clerk for approval an accounting of all receipts and disbursements from the estate, showing the present status of the estate and that it is ready for distribution, and also showing the computation of any attorney's and/or Executor's fees involved for which approval for payment is sought.</text>
-      <annotation type="Prior Codifications">§14.08.080 was formerly codified as 14-8-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.080 was formerly codified as 14-8-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.090</num>
@@ -767,7 +847,9 @@
         <num>(b)</num>
         <text>The estate shall be closed and the personal representative of the estate dismissed and their bond, if any, released upon filing with the Probate Clerk receipts showing that the estate is fully distributed, and also upon filing the personal representative's affidavit that the estate is fully administered and ready to be closed. "Personal representative" as used herein includes Administrators and Executors.</text>
       </para>
-      <annotation type="Prior Codifications">§14.08.090 was formerly codified as 14-8-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.090 was formerly codified as 14-8-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.100</num>
@@ -801,13 +883,17 @@
         <num>(c)</num>
         <text>If the subject of a preferred devise is sold or used incident to administration, abatement shall be achieved by appropriate adjustments in, or contribution from, other interests in the remaining assets.</text>
       </para>
-      <annotation type="Prior Codifications">§14.08.100 was formerly codified as 14-8-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.100 was formerly codified as 14-8-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.08.110</num>
       <heading>Property Discovered After Estate Closed</heading>
       <text>A estate may be reopened whenever necessary to dispose of a decedent's property discovered after their estate has been closed. The Probate Clerk shall order distribution of the property to the person or person entitled thereto after making whatever orders appear necessary to assure a just participation of the personas after discovered property in the expenses of the estate.</text>
-      <annotation type="Prior Codifications">§14.08.110 was formerly codified as 14-8-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.110 was formerly codified as 14-8-11</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -845,7 +931,9 @@
           <text>Claims of general creditors.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§14.09.010 was formerly codified as 14-9-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.09.010 was formerly codified as 14-9-1</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -871,7 +959,9 @@
         <num>(d)</num>
         <text>If the decedent has no family available to make a decision, control of the decedent's funeral arrangements and disposition of the remains shall be based on the customs of the tribe.</text>
       </para>
-      <annotation type="Prior Codifications">§14.10.010 was formerly codified as 14-10-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.10.010 was formerly codified as 14-10-1</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -882,7 +972,9 @@
       <num>14.11.010</num>
       <heading>Purpose and Intent</heading>
       <text>The applicability of <cite path="14|14.11">this chapter</cite> is only in those situations or circumstances where a minor child or mental incompetent required an appointment of a guardian of their person and/or property as the result of a will or intestate succession. <cite path="14|14.11">This chapter</cite> is not intended to provide a procedure for the appointment of a guardian that would be governed by Title 13. Pueblo of Picuris Elder and Vulnerable Adult Protection Code.</text>
-      <annotation type="Prior Codifications">§14.11.010 was formerly codified as 14-11-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.010 was formerly codified as 14-11-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.020</num>
@@ -907,7 +999,9 @@
         <num>(e)</num>
         <text>the Probate Judge may order that the Probate Clerk disburse monthly reimbursement payments to the person or agency to whom custody is granted under this code, provided sufficient funds have been appropriated by the Pueblo of Picuris Tribal Council. Said disbursements must be used by the person or agency with custody of the child for the sole purpose of covering expenses incurred in the care and custody of said child and shall not be used for any other purpose. The use of said funds for any purpose other than that described in <cite path="§14.11.020">this section</cite> shall subject said person or agency to contempt of Court and to any criminal and civil penalties or remedies provided by the Pueblo of Picuris Law and Order Code.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.020 was formerly codified as 14-11-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.020 was formerly codified as 14-11-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.030</num>
@@ -924,37 +1018,49 @@
         <num>(c)</num>
         <text>Hearing. In each case where a guardian is to be appointed, either by will, or by Probate Judge appointment, a hearing shall be held following notice to all interested parties.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.030 was formerly codified as 14-11-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.030 was formerly codified as 14-11-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.040</num>
       <heading>Types of Guardianship</heading>
       <text>The types of guardianship shall include guardianship of property and/or guardianship of the person.  Guardianship of the person shall include both temporary or permanent guardianship.</text>
-      <annotation type="Prior Codifications">§14.11.040 was formerly codified as 14-11-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.040 was formerly codified as 14-11-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.050</num>
       <heading>Guardianship of Property</heading>
       <text>The Probate Judge may appoint a guardian of the property of a child or incompetent person under such terms and conditions as the Probate Judge sets forth in the written order. The guardianship may cover all property until the child reaches eighteen (18) years of age or until the incompetent person becomes competent or it may be limited to only specific property or a specific property or a specific legal action as set forth in the written order. A temporary or permanent guardianship of the person may also include guardianship of the child's property if set forth in the written order.</text>
-      <annotation type="Prior Codifications">§14.11.050 was formerly codified as 14-11-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.050 was formerly codified as 14-11-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.060</num>
       <heading>Permanent Guardianship</heading>
       <text>The Probate Judge may appoint a permanent guardian for the child under such terms and conditions as the Probate Judge sets forth in the written order. Permanent guardianship provides for permanent custody of a child to someone other than the parent(s), although there is no termination of the parental rights of the parents. There shall be a presumption of continued permanent guardianship in order to provide stability for the child. Permanent guardianship shall only be terminated based upon the unsuitability of the permanent guardian(s) rather than the competency or suitability of the parent(s). The parent(s) and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Probate Judge.</text>
-      <annotation type="Prior Codifications">§14.11.060 was formerly codified as 14-11-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.060 was formerly codified as 14-11-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.070</num>
       <heading>Temporary Guardianship</heading>
       <text>The Probate Judge may appoint a temporary guardian under such terms and conditions as the Probate Judge sets forth in the written order. A temporary guardianship may be terminated if the Probate Judge determines that it is in the best interests of the child to change custody from the temporary guardian to a new guardian or to return the child to the parent, guardian or custodian. The parent(s) and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Probate Judge.</text>
-      <annotation type="Prior Codifications">§14.11.070 was formerly codified as 14-11-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.070 was formerly codified as 14-11-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.080</num>
       <heading>Who May File Guardianship Petition</heading>
       <text>Any person may file a petition for guardianship. The petition shall be initiated either by the proposed guardian or by the child if at least fourteen (14) years of age.</text>
-      <annotation type="Prior Codifications">§14.11.080 was formerly codified as 14-11-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.080 was formerly codified as 14-11-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.090</num>
@@ -999,7 +1105,9 @@
         <num>(b)</num>
         <text>All petitions must be signed and dated by the petitioners, ad must be notarized.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.090 was formerly codified as 14-11-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.090 was formerly codified as 14-11-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.100</num>
@@ -1012,7 +1120,9 @@
         <num>(b)</num>
         <text>No determination cam be made on a petition for guardianship until the report has been completed and submitted to and considered by the Probate Judge. The guardianship report shall be submitted to the Probate Judge no later than ten (10) days before the hearing. The Probate Judge may order additional reports as it deems necessary.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.100 was formerly codified as 14-11-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.100 was formerly codified as 14-11-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.110</num>
@@ -1041,7 +1151,9 @@
           <text>If determined to be appropriate by the Probate Judge, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reached the age of eighteen (18) or is emancipated by the Pueblo of Picuris Tribal Court.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§14.11.110 was formerly codified as 14-11-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.110 was formerly codified as 14-11-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.120</num>
@@ -1058,7 +1170,9 @@
         <num>(c)</num>
         <text>A person who has been declared incompetent, or the guardian, or any relative of such person within the third degree, or any friend, may apply by petition to the Probate Judge to have the fact of their restoration to capacity judicially determined. The petition shall be verified and shall state that such person is then competent. The Probate Judge shall require notice to be given of a hearing upon said petition at some date after said petition has been filed; and at the hearing upon said petition, witnesses shall be examined and a determination made by the Probate Judge as to whether the petition should be granted and the incompetent person be declared of sound mind and capable of taking care of him or herself and his or her property, their restoration to capacity shall be adjudged and the guardianship of such person, if such person shall be a child, shall cease.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.120 was formerly codified as 14-11-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.120 was formerly codified as 14-11-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>14.11.130</num>
@@ -1071,7 +1185,9 @@
         <num>(b)</num>
         <text>Guardianship, including guardians of the property of the ward, shall terminate automatically upon a minor reaching age eighteen (18), or upon a mental incompetent being adjudged by the Probate Judge to have regained legal capacity.</text>
       </para>
-      <annotation type="Prior Codifications">§14.11.130 was formerly codified as 14-11-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§14.11.130 was formerly codified as 14-11-13</annotation>
+      </annotations>
     </section>
   </container>
 </container>

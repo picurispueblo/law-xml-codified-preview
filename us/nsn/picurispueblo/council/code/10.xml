@@ -11,7 +11,9 @@
       <num>10.01.010</num>
       <heading>Title.</heading>
       <text><cite path="10">This title</cite> shall be known and may be cited as the "Pueblo of Picuris Children's Code" and references in <cite path="10">this title</cite> to "Code" shall refer to this Code unless another is clearly indicated.</text>
-      <annotation type="Prior Codifications">§10.01.010 was formerly codified as 10-1-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.01.010 was formerly codified as 10-1-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.01.020</num>
@@ -48,7 +50,9 @@
         <num>(c)</num>
         <text>If any Section of the Pueblo of Picuris Children's Code is found to be invalid, the remainder of this Code shall not be affected thereby.</text>
       </para>
-      <annotation type="Prior Codifications">§10.01.020 was formerly codified as 10-1-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.01.020 was formerly codified as 10-1-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.01.030</num>
@@ -97,7 +101,9 @@
       <text class="text-indent-1">a. Does not comply with the requirements of the compulsory school attendance Chapter of this Code; or</text>
       <text class="text-indent-1">b. Disobeys, continually and habitually, the reasonable and lawful demands of his/her parent, guardian or custodian and is beyond parental control; or</text>
       <text class="text-indent-1">c. Has left the home of his/her parent, guardian, or custodian without consent and has remained away for at least twenty-four (24) hours.</text>
-      <annotation type="Prior Codifications">§10.01.030 was formerly codified as 10-1-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.01.030 was formerly codified as 10-1-3</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -124,7 +130,9 @@
         <num>(d)</num>
         <text>A child's need for happiness. A child cannot be happy unless his/her primary needs are met; but a child also needs opportunities for play and recreation, leisure time and other activities that the child enjoys, and possession of toys and other personal items of importance to the child.</text>
       </para>
-      <annotation type="Prior Codifications">§10.02.010 was formerly codified as 10-2-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.010 was formerly codified as 10-2-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.020</num>
@@ -157,7 +165,9 @@
         <num>(c)</num>
         <text>The child(ren) shall be permitted to have appropriate involvement with family, tribal and cultural activities.</text>
       </para>
-      <annotation type="Prior Codifications">§10.02.020 was formerly codified as 10-2-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.020 was formerly codified as 10-2-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.030</num>
@@ -222,7 +232,9 @@
           <text>If reasonable belief exists that a minor may cause physical injury to him/herself or others, he/she shall be placed in a supervised holding cell and monitored on a prescribed schedule and referred for immediate treatment by medical and/or psychological personnel.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.02.030 was formerly codified as 10-2-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.030 was formerly codified as 10-2-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.040</num>
@@ -247,7 +259,9 @@
         <num>(e)</num>
         <text>All persons or agencies reporting abuse or neglect, in good faith, shall be immune from civil or criminal liability.</text>
       </para>
-      <annotation type="Prior Codifications">§10.02.040 was formerly codified as 10-2-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.040 was formerly codified as 10-2-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.050</num>
@@ -288,19 +302,25 @@
         <num>(d)</num>
         <text>All records of a minor shall be sealed when the minor is no longer subject to the Court's jurisdiction, and thereafter, released only by Court Order following notice to the parties, and, only if needed, for a Court proceeding concerning a serious criminal charge or similar circumstance of compelling need. This paragraph shall not be construed to permit the release of information for other purposes, such as background checks conducted for employment, licensing, or security clearances. Adoption records shall be released as allowed in Section 10- 13-9.</text>
       </para>
-      <annotation type="Prior Codifications">§10.02.050 was formerly codified as 10-2-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.050 was formerly codified as 10-2-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.060</num>
       <heading>Confidentiality.</heading>
       <text>Any record or information obtained as a result of a proceeding covered by this Code and not otherwise covered by <cite path="§10.02.050">Section 10.02.050</cite> are confidential and shall be made available only to his/her representative, the minor's parent(s), guardian(s), Indian custodian(s) or custodian(s), or to such other person the Court determines has valid reasons to see such records.</text>
-      <annotation type="Prior Codifications">§10.02.060 was formerly codified as 10-2-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.060 was formerly codified as 10-2-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.070</num>
       <heading>Confidentiality of Detention.</heading>
       <text>The Court may order that the place of detention or shelter care be kept confidential to protect the best interests of the minor.</text>
-      <annotation type="Prior Codifications">§10.02.070 was formerly codified as 10-2-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.070 was formerly codified as 10-2-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.080</num>
@@ -325,13 +345,17 @@
         <num>(b)</num>
         <text>Copies of the fingerprints and photographs shall be immediately destroyed if the minor is not referred to the Court, unless needed for a criminal investigation.</text>
       </para>
-      <annotation type="Prior Codifications">§10.02.080 was formerly codified as 10-2-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.080 was formerly codified as 10-2-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.02.090</num>
       <heading>Full Faith and Credit.</heading>
       <text>The Court shall give full faith and credit to State (and other Tribes') child custody court orders, as defined by the Indian Child Welfare Act, 25 U.S.C. Section 1911 (d).</text>
-      <annotation type="Prior Codifications">§10.02.090 was formerly codified as 10-2-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.02.090 was formerly codified as 10-2-9</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -342,7 +366,9 @@
       <num>10.03.010</num>
       <heading>Establishment.</heading>
       <text>There is hereby established for the Pueblo of Picuris, a Court to be known as the Pueblo of Picuris Children's Court.</text>
-      <annotation type="Prior Codifications">§10.03.010 was formerly codified as 10-3-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.03.010 was formerly codified as 10-3-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.03.020</num>
@@ -363,7 +389,9 @@
         <num>(d)</num>
         <text>The Court shall accept or decline state court or other tribe's transfers of child custody proceedings as set out in the Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.03.020 was formerly codified as 10-3-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.03.020 was formerly codified as 10-3-2</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -381,7 +409,9 @@
         <num>(b)</num>
         <text>In carrying out duties and powers specifically enumerated under the Children's Code, Judges of the Court shall have the same powers and duties as Judges of the Pueblo of Picuris Tribal Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.04.010 was formerly codified as 10-4-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.010 was formerly codified as 10-4-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.020</num>
@@ -406,7 +436,9 @@
           <text>Perform such other duties as the Court may order.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.04.020 was formerly codified as 10-4-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.020 was formerly codified as 10-4-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.030</num>
@@ -463,13 +495,17 @@
           <text>Have the powers of law enforcement officers for purposes of this Code but shall, whenever possible, refrain from exercising such powers except in urgent situations in which a regular law enforcement officer is not immediately available.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.04.030 was formerly codified as 10-4-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.030 was formerly codified as 10-4-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.040</num>
       <heading>Clerk.</heading>
       <text>The Clerk of the Tribal Court shall act as Children's Court Clerk and shall keep a record of the court proceedings, issue all processes and notices required herein, and perform such other duties as may be assigned by the Judge.</text>
-      <annotation type="Prior Codifications">§10.04.040 was formerly codified as 10-4-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.040 was formerly codified as 10-4-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.050</num>
@@ -494,13 +530,17 @@
           <text>Make recommendations to the Court on disposition.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.04.050 was formerly codified as 10-4-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.050 was formerly codified as 10-4-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.060</num>
       <heading>Court Appointed Special Advocates.</heading>
       <text>Pursuant to funding and guidelines by the Pueblo of Picuris the Court may utilize a Court Appointed Special Advocate (CASA) to assist in any Children's Court proceedings.</text>
-      <annotation type="Prior Codifications">§10.04.060 was formerly codified as 10-4-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.04.060 was formerly codified as 10-4-6</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -551,13 +591,17 @@
         <num>(j)</num>
         <text>Adults as set out in this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.05.010 was formerly codified as 10-5-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.010 was formerly codified as 10-5-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.05.020</num>
       <heading>Concurrent Jurisdiction.</heading>
       <text>The Children's Court of the Pueblo of Picuris has concurrent jurisdiction over any minor who commits an act, which is deemed illegal by federal, state, municipal or other tribe's law, while within any of those jurisdictions when that minor is an enrolled member of the Pueblo of Picuris.</text>
-      <annotation type="Prior Codifications">§10.05.020 was formerly codified as 10-5-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.020 was formerly codified as 10-5-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.05.030</num>
@@ -622,7 +666,9 @@
         <num>(g)</num>
         <text>The Court's Order under <cite path="§10.05.030">this section</cite> is a final Order for the purposes of appeal.</text>
       </para>
-      <annotation type="Prior Codifications">§10.05.030 was formerly codified as 10-5-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.030 was formerly codified as 10-5-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.05.040</num>
@@ -659,7 +705,9 @@
         <num>(f)</num>
         <text>Adjudicatory Hearing: Upon receipt of transfer jurisdiction from State Court, the Indian Child Welfare Act (ICWA) Director shall file a minor-in-need-of-care petition, and an adjudicatory hearing shall be held in accordance with this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.05.040 was formerly codified as 10-5-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.040 was formerly codified as 10-5-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.05.050</num>
@@ -700,13 +748,17 @@
         <num>(c)</num>
         <text>Enforcement:	The Court may enforce any orders issued under <cite path="§10.05.050">this section</cite> by use of its contempt power.</text>
       </para>
-      <annotation type="Prior Codifications">§10.05.050 was formerly codified as 10-5-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.050 was formerly codified as 10-5-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.05.060</num>
       <heading>Continuance of Jurisdiction.</heading>
       <text>For dispositional purposes, jurisdiction over a child under this Children's Code shall continue until he/she becomes nineteen (19) years of age, unless such jurisdiction is terminated prior thereto.</text>
-      <annotation type="Prior Codifications">§10.05.060 was formerly codified as 10-5-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.05.060 was formerly codified as 10-5-6</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -717,7 +769,9 @@
       <num>10.06.010</num>
       <heading>Rules of Procedure.</heading>
       <text>The Chief Judge, subject to the approval of the Tribal Council, may adopt rules of procedure and forms for the conduct of the Children's Court.</text>
-      <annotation type="Prior Codifications">§10.06.010 was formerly codified as 10-6-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.010 was formerly codified as 10-6-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.020</num>
@@ -730,7 +784,9 @@
         <num>(b)</num>
         <text>Exceptions to Petition: A petition shall not be required in the case of violations of motor vehicle laws, ordinances, or fish and game laws and ordinances. The issuance of a traffic or other citation or summons for these violations is sufficient to invoke the jurisdiction of the Children's Court. Unless the Court otherwise orders, a preliminary investigation is not required in such cases.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.020 was formerly codified as 10-6-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.020 was formerly codified as 10-6-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.030</num>
@@ -771,7 +827,9 @@
         <num>(c)</num>
         <text>Dismissal: The Court may dismiss a petition at any stage of the proceedings.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.030 was formerly codified as 10-6-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.030 was formerly codified as 10-6-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.040</num>
@@ -788,13 +846,17 @@
         <num>(c)</num>
         <text>Who shall receive: The summons shall be served on all parties and the person or persons who have physical custody of the child requiring them to appear personally and to bring the child before the Court at a time and place stated. If the person or person so summoned are not the parent(s) or guardian of the child, then a summons shall also be served on the parent(s) or guardian(s) as the case may be, notifying them of the pendency of the case and of the time and place set for the hearing. No summons needs to be issued to a parent or parents whose parental rights have been terminated.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.040 was formerly codified as 10-6-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.040 was formerly codified as 10-6-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.050</num>
       <heading>Subpoena of Witnesses.</heading>
       <text>The Court shall issue a subpoena immediately upon a request of any party, but such request shall be made at least forty-eight (48) hours before any hearing for which a subpoena is requested.</text>
-      <annotation type="Prior Codifications">§10.06.050 was formerly codified as 10-6-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.050 was formerly codified as 10-6-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.060</num>
@@ -823,7 +885,9 @@
           <text>If the address or whereabouts of the guardian outside of the Pueblo, cannot, after diligent inquiry, be ascertained, by publishing a summons in a newspaper having general circulation on the Pueblo. The summons shall be published once a week for four (4) successive weeks. Service shall be complete on the day of the last publication. Proof of such service shall be filed with the Court.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.06.060 was formerly codified as 10-6-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.060 was formerly codified as 10-6-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.070</num>
@@ -836,7 +900,9 @@
         <num>(b)</num>
         <text>Subpoenas and other Court orders shall be served not less than twenty-four (24) hours before the time set for the hearing.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.070 was formerly codified as 10-6-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.070 was formerly codified as 10-6-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.080</num>
@@ -865,19 +931,25 @@
         <num>(d)</num>
         <text>Bench Warrant: The Court may issue a warrant for a person's arrest for contempt of court immediately upon the failure to appear in court, either in person or by counsel, as ordered by the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.080 was formerly codified as 10-6-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.080 was formerly codified as 10-6-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.090</num>
       <heading>Contempt of Court.</heading>
       <text>The Court may punish an adult for contempt of court in accordance with the Pueblo of Picuris Law and Order Code, but only after a hearing in which the defendant is accorded the procedures and rights required by this Code.</text>
-      <annotation type="Prior Codifications">§10.06.090 was formerly codified as 10-6-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.090 was formerly codified as 10-6-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.100</num>
       <heading>Separate, Civil Proceedings.</heading>
       <text>Proceedings in children's cases shall be regarded as civil proceedings, with the Court exercising equitable powers. Children's cases shall be handled separately from adult cases.</text>
-      <annotation type="Prior Codifications">§10.06.100 was formerly codified as 10-6-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.100 was formerly codified as 10-6-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.110</num>
@@ -914,49 +986,65 @@
         <num>(f)</num>
         <text>Postponement: On the Court's motion, or the motion of the minor, his/her parent(s), guardian, custodian, or attorney, the Court may postpone the hearing for a reasonable time.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.110 was formerly codified as 10-6-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.110 was formerly codified as 10-6-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.120</num>
       <heading>Standard of Proof.</heading>
       <text>The standard of proof of a juvenile offender's adjudicatory hearing or for termination of parental rights shall be proof beyond a reasonable doubt, and for all other hearings, the standard of proof shall be clear and convincing evidence.</text>
-      <annotation type="Prior Codifications">§10.06.120 was formerly codified as 10-6-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.120 was formerly codified as 10-6-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.130</num>
       <heading>Use of Reports in Minor-in-Need-of-Care and Dispositional Hearing.</heading>
       <text>For the purpose of establishing that a child is a minor-in-need-of-care, and for the purpose of determining proper disposition of a minor in any case, written reports and other materials relating to the child's mental, physical and social history and condition, may be received in evidence, and may be considered by the Court along with other evidence, but the Court may require that the person who wrote the report or prepared the material appear as a witness if he/she is reasonably available.</text>
-      <annotation type="Prior Codifications">§10.06.130 was formerly codified as 10-6-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.130 was formerly codified as 10-6-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.140</num>
       <heading>Consolidation.</heading>
       <text>When more than one child is involved in the same situation which may be found to constitute abuse or neglect, or when more than one child is alleged to be involved in the same law violation, the proceedings may be consolidated, except that separate hearings may be held with respect to disposition.</text>
-      <annotation type="Prior Codifications">§10.06.140 was formerly codified as 10-6-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.140 was formerly codified as 10-6-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.150</num>
       <heading>Amendment of Pleadings; Postponements.</heading>
       <text>When it appears, during the course of any proceeding in a child's case that the evidence presented alleges material facts not alleged in the petition, the Court may proceed to consider the additional or different matters raised by the evidence. In such event, the Court, on motion of any interested party or on its own motion, shall direct that the petition be amended to conform to the evidence. The Court shall grant such postponements as justice may require when a petition is amended under <cite path="§10.06.150">this section</cite>.</text>
-      <annotation type="Prior Codifications">§10.06.150 was formerly codified as 10-6-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.150 was formerly codified as 10-6-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.160</num>
       <heading>Special Rules of Procedure: Traffic, Fish and Game Laws and Violations.</heading>
       <text>The Court may adopt special rules of procedure to govern proceedings involving violations by children of traffic laws or ordinances, and violations of fish and game laws or ordinances.</text>
-      <annotation type="Prior Codifications">§10.06.160 was formerly codified as 10-6-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.160 was formerly codified as 10-6-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.170</num>
       <heading>Presence of Parent, Guardian, Custodian, or Guardian Ad Litem.</heading>
       <text>The Court shall endeavor to insure the presence at a hearing of one or both parents or guardian or custodian of the minor. If no parent, guardian or custodian is present during the hearing, the Court shall appoint a guardian ad litem to protect the interests of the child.</text>
-      <annotation type="Prior Codifications">§10.06.170 was formerly codified as 10-6-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.170 was formerly codified as 10-6-17</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.180</num>
       <heading>Grounds for Re-Hearing.</heading>
       <text>A parent, guardian or custodian of any child whose status has been adjudicated in a case under this Code, or any adult affected by an order or judgment in a proceeding under this Code, may at any time petition the Court for a new hearing on the grounds that new evidence, which was not known or could not, with due diligence, have been made available at the original hearing and which might affect the order or judgment, has been discovered. If it appears to the Court that there is such new evidence, which might affect its order or judgment, it shall order a new hearing and enter such order or judgment and make such disposition of the case as is warranted by all the facts and circumstances and the best interests of the child.</text>
-      <annotation type="Prior Codifications">§10.06.180 was formerly codified as 10-6-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.180 was formerly codified as 10-6-18</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.190</num>
@@ -985,13 +1073,17 @@
         <num>(b)</num>
         <text>A hearing to modify, revoke, or extend a Court Order shall be conducted according to <cite path="10|10.06">this chapter</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.190 was formerly codified as 10-6-19</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.190 was formerly codified as 10-6-19</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.200</num>
       <heading>Judgment.</heading>
       <text>The Court shall file a written judgment including the findings, decision, and disposition of every minor and their party within five (5) days of the date of the disposition.</text>
-      <annotation type="Prior Codifications">§10.06.200 was formerly codified as 10-6-20</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.200 was formerly codified as 10-6-20</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.06.210</num>
@@ -1004,7 +1096,9 @@
         <num>(b)</num>
         <text>Failure to Comply with Time Limit: Failure to comply with time limits is not grounds for granting a new hearing or for setting aside a verdict, for vacating, modifying or otherwise disturbing a judgment or order or dismissing an action, unless refusal to take such action appears to the Court to work a substantial injustice or unless these rules expressly provide otherwise.</text>
       </para>
-      <annotation type="Prior Codifications">§10.06.210 was formerly codified as 10-6-21</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.06.210 was formerly codified as 10-6-21</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1015,7 +1109,9 @@
       <num>10.07.010</num>
       <heading>Due Process Guaranteed.</heading>
       <text>All provisions and procedures of this Code shall be interpreted and applied to provide due process of law to both children and adults subject to the Children's Code.</text>
-      <annotation type="Prior Codifications">§10.07.010 was formerly codified as 10-7-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.010 was formerly codified as 10-7-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.020</num>
@@ -1037,79 +1133,105 @@
         <num>(d)</num>
         <text>If he/she cannot afford an attorney, he/she may be eligible for any free legal services available on the Pueblo of Picuris.</text>
       </para>
-      <annotation type="Prior Codifications">§10.07.020 was formerly codified as 10-7-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.020 was formerly codified as 10-7-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.030</num>
       <heading>Questioning of Minor in Custody.</heading>
       <text>A minor alleged to be a juvenile offender who is taken into custody and placed in detention or shelter care shall not be questioned except in the presence of his/her parent, spokesperson, guardian ad litem, guardian, custodian, or attorney except to determine identity and immediate physical or medical needs. A minor who is at least sixteen (16) years of age may select the person who will be present during questioning.</text>
-      <annotation type="Prior Codifications">§10.07.030 was formerly codified as 10-7-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.030 was formerly codified as 10-7-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.040</num>
       <heading>Right to an Attorney or Spokesperson.</heading>
       <text>Each party has the right to be represented by an attorney or spokesperson at his/her own expense at every stage of the proceedings.</text>
-      <annotation type="Prior Codifications">§10.07.040 was formerly codified as 10-7-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.040 was formerly codified as 10-7-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.050</num>
       <heading>Right to Remain Silent.</heading>
       <text>Each party has the right to remain silent and not be forced to speak or testify at any stage of the proceedings but must appear as ordered by the Court.</text>
-      <annotation type="Prior Codifications">§10.07.050 was formerly codified as 10-7-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.050 was formerly codified as 10-7-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.060</num>
       <heading>Right to Testify.</heading>
       <text>Each party has the right to speak or testify at an appropriate stage of the proceedings, but any statement made by him/her may be used against him/her during the proceedings.</text>
-      <annotation type="Prior Codifications">§10.07.060 was formerly codified as 10-7-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.060 was formerly codified as 10-7-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.070</num>
       <heading>Right to Cross-Examine.</heading>
       <text>Each party has the right to question or cross-examine witnesses.</text>
-      <annotation type="Prior Codifications">§10.07.070 was formerly codified as 10-7-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.070 was formerly codified as 10-7-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.080</num>
       <heading>Right to Subpoena and Present Witnesses.</heading>
       <text>Each party has the right to subpoena witnesses on his/her own behalf and have witnesses testify on his/her behalf.</text>
-      <annotation type="Prior Codifications">§10.07.080 was formerly codified as 10-7-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.080 was formerly codified as 10-7-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.090</num>
       <heading>Notice.</heading>
       <text>The minor and his/her attorney and his/her parent, guardian or custodian and his/her attorney and any other party have the right to adequate notice of all proceedings.</text>
-      <annotation type="Prior Codifications">§10.07.090 was formerly codified as 10-7-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.090 was formerly codified as 10-7-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.100</num>
       <heading>Appeal.</heading>
       <text>The minor and his/her attorney and his/her parent, guardian, custodian or any other party, have the right to appeal as set out in this Code.</text>
-      <annotation type="Prior Codifications">§10.07.100 was formerly codified as 10-7-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.100 was formerly codified as 10-7-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.110</num>
       <heading>Fingerprints and Photographs.</heading>
       <text>An alleged juvenile offender shall not be fingerprinted or photographed without the consent of the Court as set out in this Code. An alleged minor-in-need-of-care may not be fingerprinted or photographed unless allegations of abuse or neglect have been made and in those cases, photographs may be taken.</text>
-      <annotation type="Prior Codifications">§10.07.110 was formerly codified as 10-7-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.110 was formerly codified as 10-7-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.120</num>
       <heading>Guardian Ad Litem.</heading>
       <text>The Court, at any stage of a proceeding, shall appoint a guardian ad litem for a minor who is a party, if the minor has no parent, guardian or custodian appearing on their behalf, or if the interests of the minor conflict with the interests of the parent, guardian or custodian or when it appears to the Court that the child's best interest warrant the appointment.</text>
-      <annotation type="Prior Codifications">§10.07.120 was formerly codified as 10-7-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.120 was formerly codified as 10-7-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.130</num>
       <heading>Consequences of Petition.</heading>
       <text>The Court shall inform all parties at the beginning of each hearing of the possible consequences if the allegations of the petition are found to be true.</text>
-      <annotation type="Prior Codifications">§10.07.130 was formerly codified as 10-7-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.130 was formerly codified as 10-7-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.140</num>
       <heading>Admissibility of Evidence in Other Proceedings.</heading>
       <text>No adjudication upon a juvenile offender shall be deemed criminal or a conviction of a crime. Therefore, the disposition of a child or evidence given shall not be admissible as evidence against the child in any proceedings in another court.</text>
-      <annotation type="Prior Codifications">§10.07.140 was formerly codified as 10-7-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.140 was formerly codified as 10-7-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.150</num>
@@ -1122,13 +1244,17 @@
         <num>(b)</num>
         <text>Contempt: Any person found to have violated the confidentiality of any minor's case or file shall be found in contempt of court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.07.150 was formerly codified as 10-7-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.150 was formerly codified as 10-7-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.07.160</num>
       <heading>Confidentiality of Detention.</heading>
       <text>The Court may order, at any time, that the place of detention or shelter care be kept confidential in order to protect the best interests of the minor.</text>
-      <annotation type="Prior Codifications">§10.07.160 was formerly codified as 10-7-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.07.160 was formerly codified as 10-7-16</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1146,7 +1272,9 @@
         <num>(b)</num>
         <text>Scope: The investigation shall cover the child's home environment, history and present condition of the child and family, and recommendations as to the child's future care. In cases involving the duty of support, the study shall include such matters as earnings, assets, financial obligations and employment.</text>
       </para>
-      <annotation type="Prior Codifications">§10.08.010 was formerly codified as 10-8-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.08.010 was formerly codified as 10-8-1</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1169,7 +1297,9 @@
         <num>(c)</num>
         <text>The officer has reasonable cause to believe a minor who is subject to the Children's Code jurisdiction is leaving the jurisdiction of the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.09.010 was formerly codified as 10-9-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.010 was formerly codified as 10-9-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.020</num>
@@ -1202,13 +1332,17 @@
           <text>If the child is in detention or shelter care, the time and date placed in such care and the reasons therefore.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.09.020 was formerly codified as 10-9-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.020 was formerly codified as 10-9-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.030</num>
       <heading>Warrants.</heading>
       <text>Warrants shall be issued in accordance with Chapter 5 of this Code.</text>
-      <annotation type="Prior Codifications">§10.09.030 was formerly codified as 10-9-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.030 was formerly codified as 10-9-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.040</num>
@@ -1261,13 +1395,17 @@
           <text>Reasonable cause exists to believe that the minor will run away from the Pueblo of Picuris and its boundaries.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.09.040 was formerly codified as 10-9-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.040 was formerly codified as 10-9-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.050</num>
       <heading>Delivery of Minor to Detention or Shelter Care.</heading>
       <text>If a minor's parent, guardian or custodian cannot be found, and if there is no relative to whom the minor may be released, or if circumstances pursuant to <cite path="§10.09.040|(c)">Section 10.09.040(c)</cite> of this Code arise, the minor shall be delivered to a place of detention or shelter care designated by the Court. The Indian Child Welfare Act (ICWA) Director shall immediately make arrangements for the temporary care and custody of the minor.</text>
-      <annotation type="Prior Codifications">§10.09.050 was formerly codified as 10-9-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.050 was formerly codified as 10-9-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.060</num>
@@ -1336,7 +1474,9 @@
           <text>The minor has not stated any facts that would be a defense. If the Court determines that the minor does not understand his/her rights or the consequences of admitting to have committed the alleged act or the minor has stated a defense, the Court shall order either an informal adjustment conference be held or that a petition be filed. If the Court determines that the minor understands his/her rights and the consequences of admitting to having committed the alleged act and has not stated a defense, the Court may proceed to the dispositional hearing as allowed by this Code.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.09.060 was formerly codified as 10-9-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.060 was formerly codified as 10-9-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.070</num>
@@ -1361,25 +1501,33 @@
           <text>A facility outside of the Pueblo of Picuris which has been approved by the State of New Mexico.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.09.070 was formerly codified as 10-9-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.070 was formerly codified as 10-9-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.080</num>
       <heading>Petition.</heading>
       <text>The petition shall be prepared as required by this Code and filed within three (3) days after it is determined or recommended that a petition be filed unless an extension of time is filed with the Pueblo of Picuris Tribal Court.</text>
-      <annotation type="Prior Codifications">§10.09.080 was formerly codified as 10-9-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.080 was formerly codified as 10-9-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.090</num>
       <heading>Notice of Hearing.</heading>
       <text>A notice of hearing shall be given to all parties as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.09.090 was formerly codified as 10-9-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.090 was formerly codified as 10-9-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.100</num>
       <heading>Summons.</heading>
       <text>A summons shall be issued and served as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.09.100 was formerly codified as 10-9-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.100 was formerly codified as 10-9-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.110</num>
@@ -1404,13 +1552,17 @@
         <num>(e)</num>
         <text>Final Order: A finding that the minor is a juvenile offender is a final order.</text>
       </para>
-      <annotation type="Prior Codifications">§10.09.110 was formerly codified as 10-9-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.110 was formerly codified as 10-9-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.09.120</num>
       <heading>Probation Revocation Hearing.</heading>
       <text>A minor who is alleged to have violated his/her terms of probation may be proceeded against in a probation revocation hearing. All procedures, rights and duties applicable to juvenile offender petitions shall be followed in a probation revocation hearing.</text>
-      <annotation type="Prior Codifications">§10.09.120 was formerly codified as 10-9-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.09.120 was formerly codified as 10-9-12</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1437,7 +1589,9 @@
           <text>He/she has reasonable causes to believe that a minor who is subject to the Children's Court jurisdiction is leaving the jurisdiction of the Court.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.10.010 was formerly codified as 10-10-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.010 was formerly codified as 10-10-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.020</num>
@@ -1454,7 +1608,9 @@
           <text>Deliver the minor, immediately, to the child welfare caseworker, or to shelter care as designated by the Court, or to a medical facility if the minor is believed to need prompt medical treatment. If the minor is not delivered to the caseworker, the officer shall immediately notify the caseworker of the circumstances of the custody and location of the minor.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.10.020 was formerly codified as 10-10-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.020 was formerly codified as 10-10-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.030</num>
@@ -1491,13 +1647,17 @@
           <text>If the minor is in detention or shelter care, the time and date placed in such care and the reasons therefore.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.10.030 was formerly codified as 10-10-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.030 was formerly codified as 10-10-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.040</num>
       <heading>Warrants and Custody Orders.</heading>
       <text>Warrants and custodial orders shall be issued in accordance with this Code.</text>
-      <annotation type="Prior Codifications">§10.10.040 was formerly codified as 10-10-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.040 was formerly codified as 10-10-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.050</num>
@@ -1534,7 +1694,9 @@
         <num>(d)</num>
         <text>Release from Custody: If the Court determines that there is a probable cause to believe that the minor is a minor-in-need-of-care, but the minor is not in need of shelter care, the minor shall be released to the custody of his/her parent(s) or guardian pending final disposition of the matter and under protective supervision.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.050 was formerly codified as 10-10-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.050 was formerly codified as 10-10-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.060</num>
@@ -1564,7 +1726,9 @@
         <num>(f)</num>
         <text>The minor will run away and be unavailable for further proceedings.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.060 was formerly codified as 10-10-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.060 was formerly codified as 10-10-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.070</num>
@@ -1589,7 +1753,9 @@
         <num>(b)</num>
         <text>Places Not Allowed: A minor who is alleged to be a minor-in-need-of-care may not be detained in a detention facility or jail.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.070 was formerly codified as 10-10-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.070 was formerly codified as 10-10-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.080</num>
@@ -1614,13 +1780,17 @@
           <text>A petition to be filed.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.10.080 was formerly codified as 10-10-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.080 was formerly codified as 10-10-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.090</num>
       <heading>Petition Not Recommended; Release of Minor.</heading>
       <text>If the prosecutor does not file a petition, the minor shall be released immediately, if in shelter care, all charges shall be dismissed unless informal adjustment is recommended in which case the matter shall proceed as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.10.090 was formerly codified as 10-10-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.090 was formerly codified as 10-10-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.100</num>
@@ -1641,7 +1811,9 @@
         <num>(d)</num>
         <text>Disposition: If the Court finds that the minor is a minor-in-need-of-care, the Court shall dispose of the matter in a manner least restrictive to the minor consistent with the best interests of the minor.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.100 was formerly codified as 10-10-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.100 was formerly codified as 10-10-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.110</num>
@@ -1679,7 +1851,9 @@
         <num>(h)</num>
         <text>Recommend that either full or partial emancipation be ordered.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.110 was formerly codified as 10-10-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.110 was formerly codified as 10-10-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.120</num>
@@ -1709,7 +1883,9 @@
         <num>(f)</num>
         <text>In cases of violations of traffic laws or ordinances, the Court may in addition to any other disposition, restrain the child from driving for such period of time as the Court deems necessary, and may take possession of the child's driver's license.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.120 was formerly codified as 10-10-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.120 was formerly codified as 10-10-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.130</num>
@@ -1747,13 +1923,17 @@
         <num>(h)</num>
         <text>Any other dispositions as set out in this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.130 was formerly codified as 10-10-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.130 was formerly codified as 10-10-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.140</num>
       <heading>Off-Pueblo of Picuris Agreements.</heading>
       <text>Whenever a minor is placed in a home or facility located outside the boundaries of the Pueblo of Picuris, the Court shall require the party receiving custody of the minor to sign an agreement that the minor will be returned to the Court upon order of the Court. Absent such a signed agreement, any person or institution shall be deemed to have consented to return such child by having taken placement under this Code.</text>
-      <annotation type="Prior Codifications">§10.10.140 was formerly codified as 10-10-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.140 was formerly codified as 10-10-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.150</num>
@@ -1767,7 +1947,9 @@
         <num>(b)</num>
         <text>Make a disposition that would have been appropriate in the original disposition.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.150 was formerly codified as 10-10-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.150 was formerly codified as 10-10-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.160</num>
@@ -1780,13 +1962,17 @@
         <num>(b)</num>
         <text>Discretionary Review:  An interested party may ask the Court for a review of disposition at  any time. The granting of such a request is done at the discretion of the Court and within the Court's jurisdiction.</text>
       </para>
-      <annotation type="Prior Codifications">§10.10.160 was formerly codified as 10-10-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.160 was formerly codified as 10-10-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.10.170</num>
       <heading>Final Order.</heading>
       <text>A dispositional order is a final order for purposes of appeal.</text>
-      <annotation type="Prior Codifications">§10.10.170 was formerly codified as 10-10-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.10.170 was formerly codified as 10-10-17</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1797,7 +1983,9 @@
       <num>10.11.010</num>
       <heading>Removal of Minor from Home; Requirements</heading>
       <text>The removal of a minor from his/her home for foster care placement, termination of parental rights and pre-adoption placement must result from a judicial determination that continuation would be contrary to the welfare of each minor. Reasonable efforts are to be made before foster care placement, termination of parental rights and pre-adoption placement to prevent or eliminate the need to remove the minor from his/her home and reasonable efforts are to be made for the minor's return to his/her home and removal is in the best interest of the minor. Nothing in <cite path="§10.11.010">this section</cite> prevents the emergency removal of a minor as allowed by the Children's Code, pursuant to <cite path="§10.10.010">Section 10.10.010</cite>.</text>
-      <annotation type="Prior Codifications">§10.11.010 was formerly codified as 10-11-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.010 was formerly codified as 10-11-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.020</num>
@@ -1819,7 +2007,9 @@
         <num>(d)</num>
         <text>Project a likely date by which the minor may be returned home or placed for adoption or legal guardianship.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.020 was formerly codified as 10-11-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.020 was formerly codified as 10-11-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.030</num>
@@ -1845,13 +2035,17 @@
         <num>(e)</num>
         <text>Recommending parental rights be terminated and the minor placed for adoption.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.030 was formerly codified as 10-11-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.030 was formerly codified as 10-11-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.040</num>
       <heading>Procedures for Review Hearings.</heading>
       <text>The Court shall return a minor to the physical custody of his/her parent(s) or guardian, unless by a preponderance of evidence, it finds that returning the minor would cause a substantial risk to the physical or emotional well-being of the minor. The Behavioral Health has the burden of providing the risk. The Court shall review the Human Services and Administrative Review Panel reports, and consider any other evidence and testimony including the parent(s) or guardian treatment or efforts at rehabilitation. The Court also may order additional services, which will facilitate the return of the minor to the custody of his/her parent(s) or guardian.</text>
-      <annotation type="Prior Codifications">§10.11.040 was formerly codified as 10-11-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.040 was formerly codified as 10-11-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.050</num>
@@ -1880,7 +2074,9 @@
         <num>(b)</num>
         <text>By the end of the sixth (6th) month of foster care, a decision regarding the permanent placement of the minor shall be made.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.050 was formerly codified as 10-11-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.050 was formerly codified as 10-11-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.060</num>
@@ -1894,13 +2090,17 @@
         <num>(b)</num>
         <text>The minor is a ward of the Pueblo of Picuris Tribal Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.060 was formerly codified as 10-11-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.060 was formerly codified as 10-11-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.070</num>
       <heading>Notice of Change in Minor's Placement.</heading>
       <text>The removal of the minor from the parent(s) home, change of the minor's placement or a determination affecting a parent's visitation privileges may not be made without a notice to and an opportunity to be heard by the parent except if the Court determines that it would be in the minor's best interests to do.</text>
-      <annotation type="Prior Codifications">§10.11.070 was formerly codified as 10-11-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.070 was formerly codified as 10-11-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.080</num>
@@ -1913,7 +2113,9 @@
         <num>(b)</num>
         <text>Reports and Recommendations: Each report shall first recommend whether or not the minor should be immediately returned to his/her parent(s) or guardian. If the Department recommends against such return, the report should address whether there is a substantial probability that the minor will be returned to the physical custody of his/her parent(s) or guardian within a reasonable time. If the report is being prepared for a permanency planning hearing and the Department determines there is substantial probability that the minor cannot be returned to his/her parent(s) or guardian within six (6) months, the report should address other permanent placement including long term foster care, guardianship, termination of parental rights and adoption.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.080 was formerly codified as 10-11-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.080 was formerly codified as 10-11-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.11.090</num>
@@ -1927,7 +2129,9 @@
         <num>(b)</num>
         <text>Tribal Court personnel.</text>
       </para>
-      <annotation type="Prior Codifications">§10.11.090 was formerly codified as 10-11-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.11.090 was formerly codified as 10-11-9</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1938,13 +2142,17 @@
       <num>10.12.010</num>
       <heading>Purpose.</heading>
       <text>The purpose of <cite path="10|10.12">this chapter</cite> is to provide for voluntary or non-voluntary termination of the parent-child relationship by Court Order. Non-voluntary termination of parental rights over a child is a serious matter and an action that the Court may take only after all remedies have been exhausted in the attempt to maintain the stability of the family. Further, it is the purpose of <cite path="10|10.12">this chapter</cite> to provide meaningful and clear standards to be applied to cases involving termination of parental rights and to ensure competent, stable and on-going care of the child by prompt and final adjudication.</text>
-      <annotation type="Prior Codifications">§10.12.010 was formerly codified as 10-12-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.010 was formerly codified as 10-12-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.020</num>
       <heading>Enrollment and Inheritance Status.</heading>
       <text>No adjudication of termination of parental rights shall affect a child's enrollment status as a member of the Pueblo of Picuris or a child's degree of blood quantum or a child's rights of inheritance from his/her natural parents so long as the child has not been adopted.</text>
-      <annotation type="Prior Codifications">§10.12.020 was formerly codified as 10-12-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.020 was formerly codified as 10-12-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.030</num>
@@ -2005,19 +2213,25 @@
         <num>(d)</num>
         <text>Best Interests of the Child: In considering terminating the rights of a parent, the Court shall give primary consideration to the best interests of the child as shown by his/her physical, mental, and emotional condition and needs.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.030 was formerly codified as 10-12-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.030 was formerly codified as 10-12-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.040</num>
       <heading>Petition.</heading>
       <text>The petition shall be prepared as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.12.040 was formerly codified as 10-12-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.040 was formerly codified as 10-12-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.050</num>
       <heading>Notice of Hearing.</heading>
       <text>Notice of Hearing shall be given to all parties as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.12.050 was formerly codified as 10-12-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.050 was formerly codified as 10-12-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.060</num>
@@ -2046,13 +2260,17 @@
           <text>The Court may also order other individuals or agencies to submit written reports. All reports shall be filed ten (10) days prior to the hearing and shall be made available to the parent whose rights are being terminated at the same time they are filed.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.12.060 was formerly codified as 10-12-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.060 was formerly codified as 10-12-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.070</num>
       <heading>Appointment of Counsel or Guardian Ad Litem.</heading>
       <text>In any proceeding for non-voluntary termination of parental rights, or any rehearing or appeal thereon, the Court shall appoint an advocate to represent the child as his/her counsel or guardian ad litem. The Court may appoint a guardian ad litem in a voluntary termination or parental rights proceeding.</text>
-      <annotation type="Prior Codifications">§10.12.070 was formerly codified as 10-12-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.070 was formerly codified as 10-12-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.080</num>
@@ -2069,7 +2287,9 @@
         <num>(c)</num>
         <text>Conduct: The hearing shall be conducted in accordance with this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.080 was formerly codified as 10-12-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.080 was formerly codified as 10-12-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.090</num>
@@ -2087,13 +2307,17 @@
         <num>(c)</num>
         <text>Proceed to the Adoption Section of this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.090 was formerly codified as 10-12-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.090 was formerly codified as 10-12-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.100</num>
       <heading>Appeal.</heading>
       <text>A judgment of non-voluntary termination of parental rights is a final order for purpose of appeal. An appeal must be filed within six (6) months from the date the termination order becomes final.</text>
-      <annotation type="Prior Codifications">§10.12.100 was formerly codified as 10-12-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.100 was formerly codified as 10-12-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.110</num>
@@ -2102,13 +2326,17 @@
         <num>(a)</num>
         <text>Purpose: The purpose of <cite path="10|10.12">this chapter</cite> is to provide for voluntary or non-voluntary termination of the parent-child relationship by Court Order. Non-voluntary termination of parental rights over a child is a serious matter and an action that the Court may take only after all remedies have been exhausted in the attempt to maintain the stability of the family. It is the further purpose of <cite path="10|10.12">this chapter</cite> to provide meaningful and clear standards to be applied in cases involving termination of parental rights and to ensure competent, stable ad on-going care of the child by prompt and final adjudication.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.110 was formerly codified as 10-12-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.110 was formerly codified as 10-12-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.120</num>
       <heading>Enrollment an Inheritance Status.</heading>
       <text>No adjudication of termination of parental rights shall affect a child's enrollment status as a member of the Tribe or a child's degree of blood quantum or a child's rights of inheritance from his natural parents so long as the child has not been adopted.</text>
-      <annotation type="Prior Codifications">§10.12.120 was formerly codified as 10-12-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.120 was formerly codified as 10-12-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.130</num>
@@ -2169,19 +2397,25 @@
         <num>(d)</num>
         <text>Best Interests of the child(ren): In considering terminating the rights of a parent(s), the Court shall give primary consideration to the best interests of the child(ren) as shown by his/her physical, mental, and emotional condition and needs.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.130 was formerly codified as 10-12-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.130 was formerly codified as 10-12-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.140</num>
       <heading>Petition.</heading>
       <text>The petition shall be prepared as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.12.140 was formerly codified as 10-12-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.140 was formerly codified as 10-12-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.150</num>
       <heading>Notice of Hearing.</heading>
       <text>Notice of hearing shall be given to all parties as required by this Code.</text>
-      <annotation type="Prior Codifications">§10.12.150 was formerly codified as 10-12-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.150 was formerly codified as 10-12-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.160</num>
@@ -2210,13 +2444,17 @@
           <text>The Court may also order other individuals or agencies to submit written reports. All reports shall be filed 10 days prior to the hearing and shall be made available to the parent whose rights are being terminated at the same time they are filed.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.12.160 was formerly codified as 10-12-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.160 was formerly codified as 10-12-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.170</num>
       <heading>Appointment of Counsel or Guardian Ad Litem.</heading>
       <text>In any proceeding for non-voluntary termination of parental rights, or any rehearing or appeal thereon, the Court shall appoint an advocate to represent the child as his counsel or guardian ad litem. The Court may appoint a guardian ad litem in a voluntary termination or parental rights proceeding.</text>
-      <annotation type="Prior Codifications">§10.12.170 was formerly codified as 10-12-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.170 was formerly codified as 10-12-17</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.180</num>
@@ -2233,7 +2471,9 @@
         <num>(c)</num>
         <text>Conduct: The hearing shall be conducted in accordance with this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.180 was formerly codified as 10-12-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.180 was formerly codified as 10-12-18</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.190</num>
@@ -2251,13 +2491,17 @@
         <num>(c)</num>
         <text>Proceed to the Adoption Section of the Code.</text>
       </para>
-      <annotation type="Prior Codifications">§10.12.190 was formerly codified as 10-12-19</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.190 was formerly codified as 10-12-19</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.200</num>
       <heading>Appeal.</heading>
       <text>A judgment of non-voluntary termination of parental rights is a final order for the purpose of appeal.</text>
-      <annotation type="Prior Codifications">§10.12.200 was formerly codified as 10-12-20</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.200 was formerly codified as 10-12-20</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.210</num>
@@ -2298,13 +2542,17 @@
           <text>Extend the period for no more than thirty (30) days to allow additional counseling. At the expiration of the additional counseling, and based upon the reports about the results of the counseling, the Court shall proceed as allowed by this Code.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.12.210 was formerly codified as 10-12-21</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.210 was formerly codified as 10-12-21</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.220</num>
       <heading>Interpreter for the Voluntary Termination of Parental Rights and Consent to Adoption.</heading>
       <text>A parent(s) who elects to voluntarily terminate his/her parental rights or consents to adoption shall be provided an interpreter if he/she does not understand English. A hearing to determine whether a non-English speaking parent is knowingly and voluntarily terminating his/her parental rights or consenting to adoption may be conducted by telephone if a local interpreter is not available.</text>
-      <annotation type="Prior Codifications">§10.12.220 was formerly codified as 10-12-22</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.12.220 was formerly codified as 10-12-22</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2362,13 +2610,17 @@
           </para>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.13.010 was formerly codified as 10-13-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.010 was formerly codified as 10-13-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.020</num>
       <heading>Who May Be Adopted.</heading>
       <text>A minor subject to the jurisdiction of the Pueblo of Picuris Tribal Court may be adopted under this Code.</text>
-      <annotation type="Prior Codifications">§10.13.020 was formerly codified as 10-13-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.020 was formerly codified as 10-13-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.030</num>
@@ -2406,7 +2658,9 @@
         <num>(h)</num>
         <text>A brief and concise statement of the facts, which may aid the Court in its determination.</text>
       </para>
-      <annotation type="Prior Codifications">§10.13.030 was formerly codified as 10-13-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.030 was formerly codified as 10-13-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.040</num>
@@ -2423,7 +2677,9 @@
         <num>(c)</num>
         <text>Copies: Copies of reports shall be served on the petitioner at the same time they are presented to the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.13.040 was formerly codified as 10-13-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.040 was formerly codified as 10-13-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.050</num>
@@ -2464,19 +2720,25 @@
           <text>The parent has been declared incompetent.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.13.050 was formerly codified as 10-13-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.050 was formerly codified as 10-13-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.060</num>
       <heading>Procedure for Signing the Consent to Adopt.</heading>
       <text>Written consent, where required by this Code, shall be attached to the petition for adoption. Written consent to an adoption shall be signed and acknowledged before the Court. Consent shall be accepted or acknowledged by the Court unless signed and acknowledged more than ten (10) days after birth of the child. An interpreter shall be provided if required by the Court.</text>
-      <annotation type="Prior Codifications">§10.13.060 was formerly codified as 10-13-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.060 was formerly codified as 10-13-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.070</num>
       <heading>Withdrawal of Consent to Adopt.</heading>
       <text>Written consent to an adoption cannot be withdrawn after the entry of a final order of adoption. Consent may be withdrawn prior to the final order of adoption upon a showing by a preponderance of the evidence at a hearing before the Court that the consent was obtained by fraud, duress or coercion.</text>
-      <annotation type="Prior Codifications">§10.13.070 was formerly codified as 10-13-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.070 was formerly codified as 10-13-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.080</num>
@@ -2509,7 +2771,9 @@
           <text>Denying the Petition: If the Court is satisfied that the adoption petition will not be in the best interests of the child, the petition shall be denied. The Court may request the Indian Child Welfare Act (ICWA) Director to provide such services, to assist in the placement and care of the child. In any case where the Court finds that the best interests of the child will not be served by the adoption, a guardian of the person shall be appointed and suitable arrangements made for the care of the child, in accordance with the applicable provisions of this Code.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.13.080 was formerly codified as 10-13-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.080 was formerly codified as 10-13-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.090</num>
@@ -2530,25 +2794,33 @@
           <text>The biological parent has consented, in writing, the release of information; or that the Court determines that the need for information is greater than the biological parent's right to privacy.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.13.090 was formerly codified as 10-13-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.090 was formerly codified as 10-13-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.100</num>
       <heading>Contents of Adoption Order.</heading>
       <text>The final order of adoption shall include such facts as are necessary to establish that the child is eligible and suitable for adoption, and that the adoptive home and parents are adequate and capable of providing the proper care of the child, as shown by the investigation reports and the findings of the Court upon the evidence produced at the hearings.</text>
-      <annotation type="Prior Codifications">§10.13.100 was formerly codified as 10-13-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.100 was formerly codified as 10-13-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.110</num>
       <heading>Adoptive Birth Certificate; Release of Original Certificate.</heading>
       <text>Within five (5) days after the final decree of adoption has been entered by the Court, the Bureau of Vital Records of the State Department of Health of the state which issued the original certificate of birth shall be notified by the Clerk of the Court that the adoption has taken place, giving the full name, sex, birthday and names of the natural parents, in order that a new record of birth in the new name and with the name or names of the adoptive parents can be recorded. The state agency must be provided with a certified copy of the final decree of adoption.</text>
-      <annotation type="Prior Codifications">§10.13.110 was formerly codified as 10-13-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.110 was formerly codified as 10-13-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.13.120</num>
       <heading>Name and Legal Status of Adopted Child.</heading>
       <text>Minor children adopted by order of the Court shall assure the surname of the persons by whom they are adopted, unless the Court orders otherwise. They shall be entitled to the same rights as children of heirs of the persons adopting them. However, the adoption does not confer Tribal membership status on the adopted children who would not be otherwise eligible.</text>
-      <annotation type="Prior Codifications">§10.13.120 was formerly codified as 10-13-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.13.120 was formerly codified as 10-13-12</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2566,13 +2838,17 @@
         <num>(b)</num>
         <text>The Children's Court shall have the authority to appoint guardians when the child for whom the guardianship is sought is a member of the Tribe, whether or not he/she lives on the Pueblo of Picuris.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.010 was formerly codified as 10-14-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.010 was formerly codified as 10-14-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.020</num>
       <heading>Power to Appoint Guardians for Minors.</heading>
       <text>The Pueblo of Picuris Children's Court is empowered to appoint a guardian, either of the person or of the estate or both.</text>
-      <annotation type="Prior Codifications">§10.14.020 was formerly codified as 10-14-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.020 was formerly codified as 10-14-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.030</num>
@@ -2585,7 +2861,9 @@
         <num>(b)</num>
         <text>If the person so designated is unable to or unwilling to serve, or if such person's appointment is objected to by any child over fourteen (14) years of age, or if the Court deems such to be in the minor's best interests, a separate guardianship hearing shall be held as provided herein.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.030 was formerly codified as 10-14-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.030 was formerly codified as 10-14-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.040</num>
@@ -2598,7 +2876,9 @@
         <num>(b)</num>
         <text>The petition shall set forth the name of the petitioner; the petitioner's relationship to the minor or incompetent, shall list all known relatives of the minor or incompetent and their addresses, relationships and ages insofar as is known to a petitioner; shall list all property of the minor or incompetent, real and personal, known to the petitioner; shall list in detail the present conditions and circumstances which warrant the appointment of a guardian; shall pray that Letters of Guardianship be issued to him/herself or some other suitable person to act as guardian of the minor.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.040 was formerly codified as 10-14-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.040 was formerly codified as 10-14-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.050</num>
@@ -2631,13 +2911,17 @@
           <text>Make an order appointing a guardian, setting forth the scope of the guardian's authority, whether or not security for his/her performance is to be required, and the duration of such appointment.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.14.050 was formerly codified as 10-14-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.050 was formerly codified as 10-14-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.060</num>
       <heading>Who May Serve as Guardian.</heading>
       <text>Any adult person twenty-one (21) years of age or older and subject to the jurisdiction of the Pueblo of Picuris Tribal Court may serve as a guardian.  Preference shall be given to relatives of the minor in order of their closeness of relationship and some preference shall be given to a person with whom the minor is living with at the time of the guardianship hearing. Preference shall be given to the person preferred to act as his/her guardian by a minor over fourteen (14) years of age, but in all cases, the Court shall determine the best interests of the minor in selecting a guardian.</text>
-      <annotation type="Prior Codifications">§10.14.060 was formerly codified as 10-14-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.060 was formerly codified as 10-14-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.070</num>
@@ -2650,7 +2934,9 @@
         <num>(b)</num>
         <text>Upon taking the oath, the guardian shall be issued an Order as evidence of his/her appointment. Any limitations in the authority of the guardian shall be set forth in the Order so issued.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.070 was formerly codified as 10-14-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.070 was formerly codified as 10-14-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.080</num>
@@ -2667,7 +2953,9 @@
         <num>(c)</num>
         <text>No appraisement shall be required of items of obvious, readily ascertainable value (e.g. bank account assets) or where the value of the estate is reasonably believed by the guardian to be less than one-thousand dollars ($1,000.00). If no appraisement is required, the guardian shall certify, under oath, to the obvious or estimated value of the assets not appraised.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.080 was formerly codified as 10-14-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.080 was formerly codified as 10-14-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.090</num>
@@ -2680,7 +2968,9 @@
         <num>(b)</num>
         <text>Such account shall be verified, on the oath of the guardian, and shall contain an accounting of all additions to and withdrawals from the estate, and shall be accompanied by supporting cancelled checks, vouchers, receipts, statements, etc.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.090 was formerly codified as 10-14-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.090 was formerly codified as 10-14-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.100</num>
@@ -2689,7 +2979,9 @@
         <num>(a)</num>
         <text>No guardian shall receive any compensation for acting as such without the prior approval of  the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.100 was formerly codified as 10-14-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.100 was formerly codified as 10-14-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.110</num>
@@ -2718,7 +3010,9 @@
           <text>A guardian of any kind shall stand in a fiduciary relationship to the minor; shall exercise a high degree of care in managing the estate of his/her ward; shall derive no personal benefit of any kind from his/her management of the estate of his/her ward; and shall be civilly liable to said ward for any losses to the estate attributable to a breach of these duties. Action to enforce such liability may be brought by the ward or a subsequently appointed guardian on behalf of the ward within two (2) years after the appointment of the new guardian or the removal of the incompetency or the arriving at the age of majority.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§10.14.110 was formerly codified as 10-14-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.110 was formerly codified as 10-14-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.120</num>
@@ -2731,25 +3025,33 @@
         <num>(b)</num>
         <text>A guardian of a minor, not otherwise incompetent, or the minor him/herself, may petition the Court on or after the date the minor reaches the age of majority to have the guardian discharged and the estate turned over to the minor. The Court shall grant such discharge with or without notice and hearing, upon the receipt of sufficient, competent evidence that the minor has reached the age of majority unless the minor appears to be otherwise incompetent, in which case a hearing shall be held to determine such fact.</text>
       </para>
-      <annotation type="Prior Codifications">§10.14.120 was formerly codified as 10-14-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.120 was formerly codified as 10-14-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.130</num>
       <heading>Guardianship Records.</heading>
       <text>The Clerk shall keep a separate, permanent file for each guardianship proceedings and shall file all papers relevant thereto, including petitions, notices, orders for hearing, etc. Any guardian duly appointed shall be entitled to receive, without charge, three (3) certified copies of the Letters of Guardianship. Certified copies of filed papers shall be otherwise available at a fee per copy to be established by the Court.</text>
-      <annotation type="Prior Codifications">§10.14.130 was formerly codified as 10-14-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.130 was formerly codified as 10-14-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.140</num>
       <heading>Guardianship of Trust Property.</heading>
       <text>The Court is hereby authorized to appoint a Guardian of the Trust Estate of Minors, using the procedures and safeguards outlined herein for the purpose of conveying or consenting to the conveyance of an interest in trust property owned by such minor or ward of the Court if it appears that the price to be paid is reasonable and adequate and that such sale is in the best interests of said minor or ward of the Court, the Court may enter an order authorizing such action.</text>
-      <annotation type="Prior Codifications">§10.14.140 was formerly codified as 10-14-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.140 was formerly codified as 10-14-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.14.150</num>
       <heading>Temporary Guardianship and Custody.</heading>
       <text>The Court shall have the power to entertain and grant or deny petitions for temporary guardianship and custody when it determines it to be in the best interests of the child involved.</text>
-      <annotation type="Prior Codifications">§10.14.150 was formerly codified as 10-14-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.14.150 was formerly codified as 10-14-15</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2783,13 +3085,17 @@
         <num>(c)</num>
         <text>The parent(s), guardian, or custodian is responsible for the minor's school attendance.</text>
       </para>
-      <annotation type="Prior Codifications">§10.15.010 was formerly codified as 10-15-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.15.010 was formerly codified as 10-15-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.15.020</num>
       <heading>Traditional Religious Participation or Healing.</heading>
       <text>A student may be excused to participate in tribal religious or healing activities with the written excuse of the Governor of the Pueblo of Picuris or his designated representative.</text>
-      <annotation type="Prior Codifications">§10.15.020 was formerly codified as 10-15-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.15.020 was formerly codified as 10-15-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.15.030</num>
@@ -2814,7 +3120,9 @@
         <num>(e)</num>
         <text>A parent of a student, after receiving written notice as provided in Subsection B of <cite path="§10.15.030">this section</cite> and after the matter has been reviewed in accordance with Subsection D of <cite path="§10.15.030">this section</cite>, knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class C Offense. Upon the first conviction, a fine of not less than twenty- five dollars ($25.00) or more than five hundred dollars ($500.00) may be imposed, or the parent of the student may be ordered to perform community service. If violations of the Compulsory School Attendance Law continue, upon the second and subsequent convictions, the parent(s) of the student who knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class B Offense and shall be subject to a fine of not more than one thousand dollars ($1,000.00) or imprisonment for a definite term not to exceed six (6) months or both.</text>
       </para>
-      <annotation type="Prior Codifications">§10.15.030 was formerly codified as 10-15-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.15.030 was formerly codified as 10-15-3</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2833,7 +3141,9 @@
         <num>(b)</num>
         <text>Is a minor-in-need-of-care or a delinquent child as defined by this Code; and all of the following exist.</text>
       </para>
-      <annotation type="Prior Codifications">§10.16.010 was formerly codified as 10-16-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.16.010 was formerly codified as 10-16-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.020</num>
@@ -2855,7 +3165,9 @@
         <num>(d)</num>
         <text>Have an acceptable plan for independent living.</text>
       </para>
-      <annotation type="Prior Codifications">§10.16.020 was formerly codified as 10-16-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.16.020 was formerly codified as 10-16-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.030</num>
@@ -2876,13 +3188,17 @@
         <num>(d)</num>
         <text>Declaration: If the Court grants the petition, it shall immediately issue a declaration of emancipation.</text>
       </para>
-      <annotation type="Prior Codifications">§10.16.030 was formerly codified as 10-16-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.16.030 was formerly codified as 10-16-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.040</num>
       <heading>Purpose for Emancipation.</heading>
       <text>An emancipated minor is subject to the continuing jurisdiction of the Pueblo of Picuris Children's Court and is subject to the laws requiring compulsory school attendance until he/she reaches the age of eighteen (18) or meets the requirements of <cite path="§10.16.010">Section 10.16.010</cite> of this Code.</text>
-      <annotation type="Prior Codifications">§10.16.040 was formerly codified as 10-16-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.16.040 was formerly codified as 10-16-4</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2893,7 +3209,9 @@
       <num>10.17.010</num>
       <heading>Child's Right to Support.</heading>
       <text>The father and mother of a child, whether married or not, are jointly liable for the support of a child until he/she reaches eighteen (18) years of age, is emancipated, or their parental rights are severed. Notwithstanding the foregoing, the father and mother of a child may be liable for claims of restitution brought within the applicable claims period after the child reaches eighteen (18) years of age.</text>
-      <annotation type="Prior Codifications">§10.17.010 was formerly codified as 10-17-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.17.010 was formerly codified as 10-17-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.17.020</num>
@@ -2907,7 +3225,9 @@
         <num>(b)</num>
         <text>A judicial determination by the Tribal Court.</text>
       </para>
-      <annotation type="Prior Codifications">§10.17.020 was formerly codified as 10-17-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.17.020 was formerly codified as 10-17-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.17.030</num>
@@ -2972,19 +3292,25 @@
         <num>(g)</num>
         <text>Judgments: The Court shall enter its order determining the child's parentage and support, if any, and the conclusion of the adjudicatory hearing.</text>
       </para>
-      <annotation type="Prior Codifications">§10.17.030 was formerly codified as 10-17-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.17.030 was formerly codified as 10-17-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.17.040</num>
       <heading>Starting and Completing Proceedings.</heading>
       <text>Proceedings may be started before the birth of the child, but, unless the alleged father consents, trial will not be held until at least fifteen (15) days after the birth of the child.</text>
-      <annotation type="Prior Codifications">§10.17.040 was formerly codified as 10-17-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.17.040 was formerly codified as 10-17-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.17.050</num>
       <heading>Rights of a Child Once Parentage Is Established.</heading>
       <text>After the parentage of a child is established, the child has the same rights of inheritance from the person who is established as a parent that a child born as a result of a lawful marriage has under Tribal Law.</text>
-      <annotation type="Prior Codifications">§10.17.050 was formerly codified as 10-17-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.17.050 was formerly codified as 10-17-5</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2995,13 +3321,17 @@
       <num>10.18.010</num>
       <heading>Procedure.</heading>
       <text>An appeal to the Southwest Intertribal Court of Appeals (SWITCA) may be taken from any order, decree, or judgment of the Children's Court. Such an appeal shall be taken in the same manner in which appeals are taken from judgments or decrees of the Tribal Court. Except as otherwise provided in this Code, the appeal must be taken within one month from the entry of the order, decree, or judgment appealed from.</text>
-      <annotation type="Prior Codifications">§10.18.010 was formerly codified as 10-18-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.18.010 was formerly codified as 10-18-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.18.020</num>
       <heading>Stay Pending Appeal.</heading>
       <text>Unless the Court stays its order, the pendency of an appeal shall not stay the order or judgment appealed from in a child's case. Where the order or decree appealed from directs a change of legal custody of a child, the appeal shall be heard and decided at the earliest practicable time. The name of the child shall not appear on the record on appeal.</text>
-      <annotation type="Prior Codifications">§10.18.020 was formerly codified as 10-18-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§10.18.020 was formerly codified as 10-18-2</annotation>
+      </annotations>
     </section>
   </container>
 </container>

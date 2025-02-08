@@ -10,14 +10,18 @@
     <section>
       <num>5.01.010</num>
       <heading>Name of Code.</heading>
-      <text>This title shall be known and may be cited as the "Pueblo of Picuris Traffic Safety Code" and references in this title to "Code" shall refer to this Code unless another is clearly indicated.</text>
-      <annotation type="Prior Codifications">§5.01.010 was formerly codified as 5-1-1</annotation>
+      <text><cite path="5">This title</cite> shall be known and may be cited as the "Pueblo of Picuris Traffic Safety Code" and references in <cite path="5">this title</cite> to "Code" shall refer to this Code unless another is clearly indicated.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§5.01.010 was formerly codified as 5-1-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.01.020</num>
       <heading>Administration and Enforcement.</heading>
-      <text>The Governor and Tribal Council of the Pueblo of Picuris, authorized tribal officials, and staff shall administer and enforce this title and, may call upon any duly authorized officers to assist in its enforcement.</text>
-      <annotation type="Prior Codifications">§5.01.020 was formerly codified as 5-1-2</annotation>
+      <text>The Governor and Tribal Council of the Pueblo of Picuris, authorized tribal officials, and staff shall administer and enforce <cite path="5">this title</cite> and, may call upon any duly authorized officers to assist in its enforcement.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§5.01.020 was formerly codified as 5-1-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.01.030</num>
@@ -34,13 +38,17 @@
         <num>(c)</num>
         <text>Where certain violations have been committed by an Indian ["Indian" as defined under <cite path="§5.01.050">Section 5.01.050</cite>.] under Chapter 7 of this Code, it would be constituted as a criminal offense and shall be subjected to Title 4, Pueblo of Picuris Criminal Code.</text>
       </para>
-      <annotation type="Prior Codifications">§5.01.030 was formerly codified as 5-1-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.01.030 was formerly codified as 5-1-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.01.040</num>
       <heading>Adoption of the New Mexico State Statutes 2011, Chapter 66, Motor Vehicles, Traffic Offenses and Penalties.</heading>
       <text>The Governor and Tribal Council wish to provide standard uniformity with the traffic laws of this state and the Pueblo of Picuris by applying the New Mexico Motor Vehicle offenses and penalties as may be applicable for proper enforcement of this Code.</text>
-      <annotation type="Prior Codifications">§5.01.040 was formerly codified as 5-1-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.01.040 was formerly codified as 5-1-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.01.050</num>
@@ -164,7 +172,9 @@
       <text><strong>"Vehicle"</strong> means every device in, upon or by which any person or property is, or may be transported or drawn upon a highway, including any frame, chassis, body or unitized frame and body of any vehicle or motor vehicle, except devices moved exclusively by human power or used exclusively upon stationary rails or tracks;</text>
       <text><strong>"Wholesaler"</strong> means any person, except a person making a casual sale of the person's own vehicle who sells or offers for sale vehicles of a type subject to registration in this state, to a vehicle dealer who is licensed under the Motor Vehicle Code or who is franchised by a manufacturer, distributor or vehicle dealer; provided, however, that if any person except a person making a casual sale of the person's own vehicle also sells a vehicle at retail, that person shall be deemed to be a dealer and is subject to the dealer-licensing provisions of the Motor Vehicle Code;</text>
       <text><strong>"Written Clearance from a Law Enforcement Agency"</strong> means any written statement signed by a law enforcement officer stating that a check has been made of the law enforcement agency's records and the computerized records of the National Crime Information Center (NCIC) and that the check of records indicates that the vehicle or motor vehicle in question has not been reported stolen.</text>
-      <annotation type="Prior Codifications">§5.01.050 was formerly codified as 5-1-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.01.050 was formerly codified as 5-1-5</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -190,19 +200,25 @@
         <num>(d)</num>
         <text>All motorcyclists must have in their possession a driver's license clearly marked "Motorcycle License." Dirt bikes must be kept off the main highway and, all cyclists are required to wear safety helmets while cycle is in motion.</text>
       </para>
-      <annotation type="Prior Codifications">§5.02.010 was formerly codified as 5-2-1/66-5-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.010 was formerly codified as 5-2-1/66-5-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.020</num>
       <heading>Persons Exempt from License.</heading>
       <text>Any operator of a farm tractor or agricultural implement temporarily drawn, moved or propelled on the highway within the Pueblo of Picuris, to include the exterior boundaries, is exempt from possessing a driver's license.</text>
-      <annotation type="Prior Codifications">§5.02.020 was formerly codified as 5-2-2/66-5-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.020 was formerly codified as 5-2-2/66-5-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.030</num>
       <heading>License to Be Carried and Exhibited on Demand.</heading>
       <text>Every licensee shall have his/her operator's or chauffeur's license in his/her immediate possession at all times when operating a motor vehicle and shall display the same upon demand of an officer. However, no person charged with violating <cite path="§5.02.030">this section</cite> shall be convicted if he/she produces in Court an operator's or chauffeur's license issued to him/her at the time of his/her being issued a citation.</text>
-      <annotation type="Prior Codifications">§5.02.030 was formerly codified as 5-2-3/66-5-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.030 was formerly codified as 5-2-3/66-5-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.040</num>
@@ -231,7 +247,9 @@
         <num>(d)</num>
         <text>Operator or chauffeur, who has previously been afflicted with, or suffering from, any mental disability or disease which could render him/her unable to operate a motor vehicle safely upon the highways and who has not, at the time of application, been restored to health.</text>
       </para>
-      <annotation type="Prior Codifications">§5.02.040 was formerly codified as 5-2-4/66-5-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.040 was formerly codified as 5-2-4/66-5-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.050</num>
@@ -260,25 +278,33 @@
           <text>To permit any unlawful use of driver's license or chauffeur's license issued to him/her.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.02.050 was formerly codified as 5-2-5/66-5-37</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.050 was formerly codified as 5-2-5/66-5-37</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.060</num>
       <heading>Driving While License Suspended or Revoked.</heading>
       <text>Any person who drives a motor vehicle on any public road of the Pueblo of Picuris, and its boundaries, at a time when his/her privilege to do so is suspended or revoked shall be guilty of a violation and upon conviction shall be subject to a penalty assessment of not more than five hundred ($500.00) dollars or such other orders of the Court which may include a satisfactory completion of a Driver's Training Course.</text>
-      <annotation type="Prior Codifications">§5.02.060 was formerly codified as 5-2-6/66-5-39</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.060 was formerly codified as 5-2-6/66-5-39</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.070</num>
       <heading>Permitting an Unauthorized Minor to Drive.</heading>
       <text>No person shall cause or knowingly permit a child under his/her care, under the age of eighteen (18) years to drive a motor vehicle upon any highway when such minor is not authorized, or in violation of any of the provisions of this Code.</text>
-      <annotation type="Prior Codifications">§5.02.070 was formerly codified as 5-2-7/66-5-40</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.070 was formerly codified as 5-2-7/66-5-40</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.080</num>
       <heading>Permitting an Unauthorized Person to Drive.</heading>
       <text>No person shall authorize or knowingly permit a motor vehicle owned by him/her or under his/her control to be driven upon any highway by any person who is not licensed to drive.</text>
-      <annotation type="Prior Codifications">§5.02.080 was formerly codified as 5-2-8/66-5-41</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.080 was formerly codified as 5-2-8/66-5-41</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.090</num>
@@ -319,7 +345,9 @@
           <text>Fails to pay traffic fines.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.02.090 was formerly codified as 5-2-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.090 was formerly codified as 5-2-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.100</num>
@@ -348,13 +376,17 @@
           <text>Continuing use of a permit, cancellation of use of temporary permits or suspension of use of temporary permits for a time stated, and notice to the New Mexico Motor Vehicle Department.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.02.100 was formerly codified as 5-2-10/66-4-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.100 was formerly codified as 5-2-10/66-4-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.110</num>
       <heading>Evidence of Registration to Be Signed and on Demand.</heading>
       <text>Every owner, upon receipt of registration evidence, shall write his/her signature thereon in the space provided. Every such registration evidence or duplicates validated by the division shall be exhibited upon demand of any police officer.</text>
-      <annotation type="Prior Codifications">§5.02.110 was formerly codified as 5-2-11/66-3-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.110 was formerly codified as 5-2-11/66-3-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.120</num>
@@ -375,19 +407,25 @@
         <num>(d)</num>
         <text>Nothing contained in <cite path="§5.02.120">this section</cite> shall be construed as prohibiting the use of a promotional or advertising plate on the front of the vehicle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.02.120 was formerly codified as 5-2-12/66-3-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.120 was formerly codified as 5-2-12/66-3-18</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.130</num>
       <heading>Improper Use of Evidences of Registration.</heading>
       <text>No person shall lend to another any certificate of title, registration evidence, registration plate, special plate, or permit issued to him/her if the person desiring to borrow the same would not be entitled to the use thereof, nor shall any person knowingly permit the use of any of the same by one not entitled thereto, nor shall any person display upon a vehicle any registration evidence, registration plate, or permit not issued for such vehicle or not otherwise lawfully used thereon under this Code.</text>
-      <annotation type="Prior Codifications">§5.02.130 was formerly codified as 5-2-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.130 was formerly codified as 5-2-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.140</num>
       <heading>Seizure of Documents and Plates.</heading>
       <text>The Pueblo of Picuris Tribal Court is hereby authorized to take possession of any certificate of title, evidence of registration, permit, license or registration plate issued by it upon expiration, revocation, cancellation, or suspension, or which is fictitious, or which has been unlawfully or erroneously issued.</text>
-      <annotation type="Prior Codifications">§5.02.140 was formerly codified as 5-2-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.140 was formerly codified as 5-2-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.02.150</num>
@@ -412,7 +450,9 @@
         <num>(e)</num>
         <text>Any person who violates the provisions of <cite path="§5.02.150">this section</cite> is guilty of a misdemeanor and upon conviction shall be sentenced to a fine not to exceed three hundred ($300) dollars.</text>
       </para>
-      <annotation type="Prior Codifications">§5.02.150 was formerly codified as 5-2-15/66-5-201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.02.150 was formerly codified as 5-2-15/66-5-201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -434,31 +474,41 @@
         <num>(c)</num>
         <text>The Judge may suspend the license or permit to drive and any nonresident operating privilege of the person so convicted and notify the New Mexico Motor Vehicle Department.</text>
       </para>
-      <annotation type="Prior Codifications">§5.03.010 was formerly codified as 5-3-1/66-7-201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.010 was formerly codified as 5-3-1/66-7-201</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.020</num>
       <heading>Leaving the Scene of an Accident; Damage to Vehicle.</heading>
       <text>The driver of any vehicle involved in an accident resulting only in damage to the vehicle which is driven or attended by any person shall immediately stop such vehicle at the scene of the accident or as close thereto as possible but shall return and in every event shall remain at the scene of the accident until he/she has fulfilled the requirements of <cite path="§5.03.030">Section 5.03.030</cite>. Every such stop shall be made without obstructing traffic more than is necessary and any person failing to stop or comply with said requirements under such circumstances shall be guilty of an offense.</text>
-      <annotation type="Prior Codifications">§5.03.020 was formerly codified as 5-3-2/66-7-202</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.020 was formerly codified as 5-3-2/66-7-202</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.030</num>
       <heading>Duty to Give Information and Render Aid.</heading>
       <text>The driver of any vehicle involved in an accident resulting in injury to, or death of, any person or damage to any vehicle which is driven or attended by any person shall give his/her name, address and the registration number of the vehicle he/she is driving and shall upon request exhibit his/her driver's license to the person struck or the driver or occupant of person attending any vehicle collided with and shall render to any person injured in such accident reasonable assistance, including the carrying, or the making of arrangements for the carrying, of such person to a physician, surgeon or hospital for medical or surgical treatment if it is apparent that such treatment is necessary or if such carrying is requested by the injured person.</text>
-      <annotation type="Prior Codifications">§5.03.030 was formerly codified as 5-3-3/66-7-203</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.030 was formerly codified as 5-3-3/66-7-203</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.040</num>
       <heading>Duty After Striking Fixtures or Other Property upon a Highway.</heading>
       <text>The driver of any vehicle involved in an accident resulting only in damage to fixtures or other property legally upon or adjacent to a highway shall take reasonable steps to locate and notify the owner or person in charge of such property of the accident and provide his/her name and address, the registration number of the vehicle he/she is driving and shall, upon request, exhibit his/her driver's license and shall make a report of such accident when and as required in <cite path="§5.03.060">Section 5.03.060</cite>.</text>
-      <annotation type="Prior Codifications">§5.03.040 was formerly codified as 5-3-4/66-7-205</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.040 was formerly codified as 5-3-4/66-7-205</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.050</num>
       <heading>Immediate Notice of Accidents; Failure to Report.</heading>
       <text>The driver of a vehicle involved in an accident resulting in bodily injury to or death of any person or property damage to an apparent extent of one hundred dollars ($100.00) or more shall immediately, by the quickest means of communication, give notice of the accident to the Bureau of Indian Affairs Law Enforcement office.</text>
-      <annotation type="Prior Codifications">§5.03.050 was formerly codified as 5-3-5/66-7-206</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.050 was formerly codified as 5-3-5/66-7-206</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.060</num>
@@ -475,13 +525,17 @@
         <num>(c)</num>
         <text>Every law enforcement officer who, in the regular course of duty, investigates a motor vehicle accident of which report must be made as required in <cite path="§5.03.060">this section</cite>, either at the time of, and at the scene of the accident, or thereafter by interviewing participants or witnesses shall, within twenty-four (24) hours after completing such investigation, forward a written report of such accident to its respective police department.</text>
       </para>
-      <annotation type="Prior Codifications">§5.03.060 was formerly codified as 5-3-6/66-7-207</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.060 was formerly codified as 5-3-6/66-7-207</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.03.070</num>
       <heading>Penalty for Failure to Report.</heading>
       <text>The Judge may suspend the license or permit to drive of any person and any non-resident operating privileges of any person failing to report an accident as herein provided until such report has been filed, and in addition, may impose a penalty assessment of and not to exceed two-hundred and fifty ($250.00) dollars and costs.</text>
-      <annotation type="Prior Codifications">§5.03.070 was formerly codified as 5-3-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.03.070 was formerly codified as 5-3-7</annotation>
+      </annotations>
     </section>
     <para>
       <num>A.</num>
@@ -547,13 +601,17 @@
         <num>(c)</num>
         <text>The speed limits set forth in <cite path="§5.04.010">this section</cite> may be changed by ordinance of the Council.</text>
       </para>
-      <annotation type="Prior Codifications">§5.04.010 was formerly codified as 5-4-1/66-7-301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.04.010 was formerly codified as 5-4-1/66-7-301</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.04.020</num>
       <heading>Minimum Speed Regulations.</heading>
       <text>No person shall drive a motor vehicle at such a slow speed as to impede or block the normal and reasonable movement of traffic except when slow speed is necessary for safe operation or in compliance with law. All authorized law enforcement officers are to enforce this provision by directions to drivers, and in the event of apparent willful disobedience to this provision and refusal to comply with direction of an officer in accordance herewith; the continued slow operation by a driver shall be a violation.</text>
-      <annotation type="Prior Codifications">§5.04.020 was formerly codified as 5-4-2/66-7-305</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.04.020 was formerly codified as 5-4-2/66-7-305</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -575,7 +633,9 @@
         <num>(c)</num>
         <text>Whenever any vehicle is stopped at a marked crosswalk or at any unmarked crosswalk at an intersection to permit a pedestrian to cross the roadway, the driver of any vehicle approaching from the rear shall not overtake and pass the stopped vehicle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.05.010 was formerly codified as 5-5-1/66-7-334</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.010 was formerly codified as 5-5-1/66-7-334</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.05.020</num>
@@ -592,7 +652,9 @@
         <num>(c)</num>
         <text>Between adjacent intersections at which traffic-control signals are in operation, pedestrians shall not cross at any place except in a marked crosswalk.</text>
       </para>
-      <annotation type="Prior Codifications">§5.05.020 was formerly codified as 5-5-2/66-7-335</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.020 was formerly codified as 5-5-2/66-7-335</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.05.030</num>
@@ -625,19 +687,25 @@
           <text>At a point where a pedestrian tunnel or overhead crossing is provided.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.05.030 was formerly codified as 5-5-3/66-7-336</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.030 was formerly codified as 5-5-3/66-7-336</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.05.040</num>
       <heading>Drivers to Exercise Due Care.</heading>
       <text>Every driver of a vehicle shall exercise due care to avoid colliding with any pedestrian upon any roadway and shall give warning by sounding the horn when necessary and shall exercise proper precaution upon observing any child or any confused or incapacitated person upon a roadway.</text>
-      <annotation type="Prior Codifications">§5.05.040 was formerly codified as 5-5-4/66-7-337</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.040 was formerly codified as 5-5-4/66-7-337</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.05.050</num>
       <heading>Pedestrians to Use Right Half of Crosswalk.</heading>
       <text>Pedestrians shall move, whenever practicable, upon the right half of the crosswalks.</text>
-      <annotation type="Prior Codifications">§5.05.050 was formerly codified as 5-5-5/66-7-338</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.050 was formerly codified as 5-5-5/66-7-338</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.05.060</num>
@@ -650,7 +718,9 @@
         <num>(b)</num>
         <text>Where sidewalks are not provided, any pedestrian walking upon a highway shall, when practicable, walk only on the left side of the roadway or its shoulder facing traffic which may approach from the opposite direction.</text>
       </para>
-      <annotation type="Prior Codifications">§5.05.060 was formerly codified as 5-5-6/66-7-339</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.05.060 was formerly codified as 5-5-6/66-7-339</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -684,13 +754,17 @@
         <num>(b)</num>
         <text>Upon all roadways any vehicle proceeding at less than the normal speed of traffic at the time and place and under the conditions then existing shall be driven in the right hand curb or edge of the roadway, except when overtaking and passing another car proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.010 was formerly codified as 5-6-1/66-7-307</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.010 was formerly codified as 5-6-1/66-7-307</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.020</num>
       <heading>Passing Vehicles Proceeding in Opposite Direction.</heading>
       <text>Drivers of vehicles proceeding in opposite directions shall pass each other to the right and upon roadways width for not more than one (1) line of traffic in each direction. Each driver shall give to the other at least one-half of the main traveled portion of the roadway as nearly as possible.</text>
-      <annotation type="Prior Codifications">§5.06.020 was formerly codified as 5-6-2/66-7-309</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.020 was formerly codified as 5-6-2/66-7-309</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.030</num>
@@ -715,13 +789,17 @@
         <num>(b)</num>
         <text>The driver of a vehicle may overtake and pass another vehicle upon the right only under conditions permitting such movement in safety. In no event shall such movement be made by driving off the pavement or main traveled portion of the roadway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.030 was formerly codified as 5-6-3/66-7-311</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.030 was formerly codified as 5-6-3/66-7-311</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.040</num>
       <heading>Limitations on Overtaking on the Left.</heading>
       <text>No vehicle shall be driven on the left side of the center of roadway in overtaking and passing another vehicle proceeding in the same direction unless such left side is clearly visible and is free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the same operation of any vehicle approaching from the opposite direction or any vehicle overtaken. In every event, the overtaking vehicle must return to the right-hand of the roadway before coming within one-hundred (100) feet of any vehicle approaching from the opposite direction.</text>
-      <annotation type="Prior Codifications">§5.06.040 was formerly codified as 5-6-4/66-7-312</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.040 was formerly codified as 5-6-4/66-7-312</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.050</num>
@@ -746,13 +824,17 @@
         <num>(b)</num>
         <text>The foregoing limitations shall not apply upon a one-way roadway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.050 was formerly codified as 5-6-5/66-7-313</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.050 was formerly codified as 5-6-5/66-7-313</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.060</num>
       <heading>Movement of Hazardous Vehicle; Escort to Be Furnished.</heading>
       <text>When, in the judgment of the motor transportation division of the department of public safety or Pueblo of Picuris Tribal Council, with respect to highways under their jurisdiction, the movement of any vehicle is deemed a hazard to traffic upon a highway over which the vehicle is to travel, the granting of permission for the movement of the vehicle may be conditioned upon a special escort accompanying the hazardous vehicle.</text>
-      <annotation type="Prior Codifications">§5.06.060 was formerly codified as 5-6-6/66-7-314</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.060 was formerly codified as 5-6-6/66-7-314</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.070</num>
@@ -769,7 +851,9 @@
         <num>(c)</num>
         <text><cite path="§5.06.070">This section</cite> does not apply under the conditions described to the driver of a vehicle turning left into, or from an alley, private road or driveway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.070 was formerly codified as 5-6-7/66-7-315</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.070 was formerly codified as 5-6-7/66-7-315</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.080</num>
@@ -786,7 +870,9 @@
         <num>(c)</num>
         <text>A vehicle passing around a rotary traffic island shall be driven only to the right of the island.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.080 was formerly codified as 5-6-8/66-7-316</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.080 was formerly codified as 5-6-8/66-7-316</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.090</num>
@@ -804,7 +890,9 @@
         <num>(c)</num>
         <text>Official signs may be erected directing slow-moving traffic to use a designated lane or designating those lanes to be used by traffic moving in a particular direction regardless of the center of the roadway and drivers of vehicles shall obey the directions of every such sign.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.090 was formerly codified as 5-6-9/66-7-317</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.090 was formerly codified as 5-6-9/66-7-317</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.100</num>
@@ -821,19 +909,25 @@
         <num>(c)</num>
         <text>Motor vehicles being driven upon any roadway outside of a business or residence district in a caravan or motorcade whether or not towing other vehicles shall not follow the preceding vehicle closer than three hundred (300) feet. This provision shall not apply to funeral processions, nor shall it apply within, or outside, of a business or residence district for motor vehicle escort vehicles of a motor vehicle escort service, which may, if necessary to maintain the continuity of the escorted unit or units, precede or follow at a distance closer than three hundred (300) feet of the escorted unit or units.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.100 was formerly codified as 5-6-10/66-7-318</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.100 was formerly codified as 5-6-10/66-7-318</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.110</num>
       <heading>Driving on Divided Highways.</heading>
       <text>Whenever any highway has been divided into two (2) roadways by leaving an intervening space or by a physical barrier or clearly indicated dividing section so constructed as to impede vehicular traffic, every vehicle shall be driven only upon the right-hand roadway and no vehicle shall be driven over, across, or within any such dividing space, barrier or section, except through an opening in such physical barrier or dividing section or space or at a crossover or intersection established by the written resolution of the Tribal Council.</text>
-      <annotation type="Prior Codifications">§5.06.110 was formerly codified as 5-6-11/66-7-319</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.110 was formerly codified as 5-6-11/66-7-319</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.120</num>
       <heading>Restricted Access.</heading>
       <text>No person shall drive a vehicle onto, or from any controlled access roadway, except at such entrances and exits as established by public authority.</text>
-      <annotation type="Prior Codifications">§5.06.120 was formerly codified as 5-6-12/66-7-320</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.120 was formerly codified as 5-6-12/66-7-320</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.130</num>
@@ -855,19 +949,25 @@
         <num>(d)</num>
         <text>The Pueblo of Picuris Tribal Council may have signs placed within or adjacent to intersections and thereby require and direct a different course from that specified in <cite path="§5.06.130">this section</cite> to be traveled by vehicles turning at an intersection, and when signs are so placed no driver of a vehicle shall turn a vehicle at an intersection other than as directed and required by such signs.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.130 was formerly codified as 5-6-13/66-7-322</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.130 was formerly codified as 5-6-13/66-7-322</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.140</num>
       <heading>Turning on Curve or Crest of Grade Prohibited.</heading>
       <text>No vehicle shall be turned so as to proceed in the opposite direction upon any curve, or upon the approach to, or near the crest of a grade, where such vehicle cannot be seen by the driver of any other vehicle approaching from either direction within one thousand (1,000) feet.</text>
-      <annotation type="Prior Codifications">§5.06.140 was formerly codified as 5-6-14/66-7-323</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.140 was formerly codified as 5-6-14/66-7-323</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.150</num>
       <heading>Starting Parked Vehicles.</heading>
       <text>No person shall start a vehicle which is stopped, standing or parked unless and until such movement can be made with reasonable safety.</text>
-      <annotation type="Prior Codifications">§5.06.150 was formerly codified as 5-6-15/66-7-324</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.150 was formerly codified as 5-6-15/66-7-324</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.160</num>
@@ -884,7 +984,9 @@
         <num>(c)</num>
         <text>No person shall stop or suddenly decrease the speed of a vehicle without first giving an appropriate signal in the manner provided herein to the driver of any vehicle immediately to the rear when there is opportunity to give such signal.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.160 was formerly codified as 5-6-16/66-7-325</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.160 was formerly codified as 5-6-16/66-7-325</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.170</num>
@@ -897,7 +999,9 @@
         <num>(b)</num>
         <text>Any motor vehicle in use on a highway shall be equipped with, and required signal shall be given by, a signal lamp or lamps or mechanical signal device when the distance from the center of the top of the steering post to the left outside limit of the body, cab or load of such motor vehicle exceeds twenty-four (24) inches, or when the distance from the center of the top of the steering post to the rear limit of the body or load thereof exceeds fourteen (14) feet. The latter measurement shall apply to any single vehicle, also to any combination of vehicles.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.170 was formerly codified as 5-6-17/66-7-326</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.170 was formerly codified as 5-6-17/66-7-326</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.180</num>
@@ -915,7 +1019,9 @@
         <num>(c)</num>
         <text>Stop or decrease speed: hand and arm extended downward.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.180 was formerly codified as 5-6-18/66-7-327</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.180 was formerly codified as 5-6-18/66-7-327</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.190</num>
@@ -932,13 +1038,17 @@
         <num>(c)</num>
         <text>The right-of-way rules declared in Subsections A and B are modified at through highways and otherwise as stated in this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.190 was formerly codified as 5-6-19/66-7-328</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.190 was formerly codified as 5-6-19/66-7-328</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.200</num>
       <heading>Vehicle Turning Left at Intersection.</heading>
       <text>The driver of a vehicle within an intersection intending to turn to the left shall yield the right- of-way to any vehicle approaching from the opposite direction which is within the intersection or so close thereto as to constitute an immediate hazard, but said driver, having yielded and having given a signal when required by the Motor Vehicle Code [66-1-1 NMSA 1978], may make such left turn and the drivers of all other vehicles approaching the intersection from said opposite direction shall yield the right-of-way to the vehicle making the left turn.</text>
-      <annotation type="Prior Codifications">§5.06.200 was formerly codified as 5-6-20/66-7-329</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.200 was formerly codified as 5-6-20/66-7-329</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.210</num>
@@ -955,7 +1065,9 @@
         <num>(c)</num>
         <text>The driver of a vehicle approaching a yield sign shall, in obedience to the sign, slow down to a speed reasonable for the existing conditions, and shall yield the right-of-way to any vehicle in the intersection or approaching on another highway so closely as to constitute an immediate hazard during the time the driver is moving across or within the intersection. If the driver is involved in a collision with a vehicle in the intersection, after driving past a yield sign without stopping, the collision shall be deemed prima facie evidence of his/her failure to yield right- of-way.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.210 was formerly codified as 5-6-21/66-7-330</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.210 was formerly codified as 5-6-21/66-7-330</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.220</num>
@@ -969,19 +1081,25 @@
         <num>(b)</num>
         <text>Flashing yellow (caution signal). When a yellow lens is illuminated with rapid intermittent flashes, drivers of vehicles may proceed through the intersection or past such signal only with caution.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.220 was formerly codified as 5-6-22/66-7-107</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.220 was formerly codified as 5-6-22/66-7-107</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.230</num>
       <heading>Stop Before Emerging from Alley or Private Driveway.</heading>
       <text>The driver of a vehicle within a business or residence district emerging from an alley, driveway or building shall stop such vehicle immediately prior to driving onto a sidewalk or the sidewalk area extending across any alleyway or driveway, and shall yield the right-of-way to any pedestrian as may be necessary to avoid collision, and upon entering the roadway shall yield the right-of-way to all vehicles approaching on said roadway.</text>
-      <annotation type="Prior Codifications">§5.06.230 was formerly codified as 5-6-23/66-7-346</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.230 was formerly codified as 5-6-23/66-7-346</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.240</num>
       <heading>Vehicle Entering Highway from Private Road or Driveway.</heading>
       <text>The driver of a vehicle about to enter or cross a highway from a private road or driveway shall yield the right-of-way to all vehicles approaching on said highway.</text>
-      <annotation type="Prior Codifications">§5.06.240 was formerly codified as 5-6-24/66-7-331</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.240 was formerly codified as 5-6-24/66-7-331</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.250</num>
@@ -1006,7 +1124,9 @@
         <num>(c)</num>
         <text><cite path="§5.06.250">This section</cite> shall not operate to relieve the driver of an authorized emergency vehicle from the duty to drive and park with due regard for the safety of all persons using the highway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.250 was formerly codified as 5-6-25/66-7-332</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.250 was formerly codified as 5-6-25/66-7-332</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.260</num>
@@ -1043,7 +1163,9 @@
         <num>(d)</num>
         <text><cite path="§5.06.260">This section</cite> does not relieve the driver of an authorized emergency vehicle from the duty to drive with due regard for the safety of all persons nor does it protect the driver from the consequences of his reckless disregard for the safety of others.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.260 was formerly codified as 5-6-26/66-7-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.260 was formerly codified as 5-6-26/66-7-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.270</num>
@@ -1060,7 +1182,9 @@
         <num>(c)</num>
         <text>The driver of a vehicle upon a highway with separate roadways need not stop upon meeting or passing a school bus which is on a different roadway or when upon a controlled-access highway and the school bus is stopped in a loading zone which is a part of or adjacent to such highway and where pedestrians are not permitted to cross the roadway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.270 was formerly codified as 5-6-27/66-7-347</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.270 was formerly codified as 5-6-27/66-7-347</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.280</num>
@@ -1077,7 +1201,9 @@
         <num>(c)</num>
         <text>The New Mexico Highway and Transportation Department, or Pueblo of Picuris Transportation Department, unless otherwise directed by an investigating police officer, or a police officer may remove or cause to be removed a vehicle or other obstruction from the paved or main-traveled part of a highway to the nearest place of safety if the vehicle or other obstruction obstructs traffic or poses a traffic hazard.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.280 was formerly codified as 5-6-28/66-7-349</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.280 was formerly codified as 5-6-28/66-7-349</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.290</num>
@@ -1098,7 +1224,9 @@
         <num>(d)</num>
         <text>Whenever an officer shall order a dealer or wrecker to remove from a highway, or territory adjacent thereto, any damaged or abandoned vehicle, the officer shall at the time issue signed and dated instructions in writing to the dealer or wrecker specifically stating if the vehicle is to be "held for investigation" or if it may be released to the owner.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.290 was formerly codified as 5-6-29/66-7-350</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.290 was formerly codified as 5-6-29/66-7-350</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.300</num>
@@ -1167,7 +1295,9 @@
         <num>(b)</num>
         <text>No person shall move a vehicle not lawfully under his/her control into any such prohibited area or away from a curb such distance as is unlawful.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.300 was formerly codified as 5-6-30/66-7-351</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.300 was formerly codified as 5-6-30/66-7-351</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.310</num>
@@ -1188,13 +1318,17 @@
         <num>(d)</num>
         <text>The state highway commission and the Pueblo of Picuris, with respect to highways under their jurisdictions, may place signs prohibiting or restricting stopping, standing, or parking of vehicles on any highway where in its opinion, as evidenced by resolution or order, such stopping, standing or parking is dangerous to those using the highway or where stopping, standing, or parking of vehicles would unduly interfere with the free movement of traffic thereon. Such signs shall be official signs and no person shall stop, stand, or park any vehicle in violation of the restrictions stated on such signs.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.310 was formerly codified as 5-6-31/66-7-352</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.310 was formerly codified as 5-6-31/66-7-352</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.320</num>
       <heading>Unattended Motor Vehicle</heading>
       <text>No person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, locking the ignition, removing the key and effectively setting the brake, or placing the transmission in parking position thereon and, when standing upon any grade, turning the front wheels in such manner that the vehicle will be held by the curb or will not leave the highway if the brake fails. A violation of <cite path="§5.06.320">this section</cite> shall not mitigate the offense of stealing a motor vehicle, nor shall the provisions of <cite path="§5.06.320">this section</cite> or any violation thereof be admissible as evidence in a civil action for the recovery of a stolen motor vehicle, or in any other civil action arising out of the theft of a motor vehicle.</text>
-      <annotation type="Prior Codifications">§5.06.320 was formerly codified as 5-6-32/66-7-353</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.320 was formerly codified as 5-6-32/66-7-353</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.330</num>
@@ -1208,25 +1342,33 @@
         <num>(b)</num>
         <text>Upon any shoulder or roadway of any controlled-access highway, or upon the exit or entry road of any controlled access highway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.330 was formerly codified as 5-6-33/66-7-354</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.330 was formerly codified as 5-6-33/66-7-354</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.340</num>
       <heading>Clinging to Vehicles.</heading>
       <text>No person riding upon any bicycle, coaster, roller skates, sled or toy vehicle shall attach the same or him/herself to any vehicle upon a roadway.</text>
-      <annotation type="Prior Codifications">§5.06.340 was formerly codified as 5-6-34/66-3-704</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.340 was formerly codified as 5-6-34/66-3-704</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.350</num>
       <heading>Stopped Vehicles Not to Interfere with Other Traffic.</heading>
       <text>No person riding upon any bicycle, coaster, roller skates, sled or toy vehicle shall attach the same or him/herself to any vehicle upon a roadway.</text>
-      <annotation type="Prior Codifications">§5.06.350 was formerly codified as 5-3-35/66-3-852</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.350 was formerly codified as 5-3-35/66-3-852</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.360</num>
       <heading>Emergency Signals; Disabled Vehicle.</heading>
       <text>No person riding upon any bicycle, coaster, roller skates, sled or toy vehicle shall attach the same or him/herself to any vehicle upon a roadway.</text>
-      <annotation type="Prior Codifications">§5.06.360 was formerly codified as 5-3-36/66-3-853</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.360 was formerly codified as 5-3-36/66-3-853</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.370</num>
@@ -1240,7 +1382,9 @@
         <num>(b)</num>
         <text>If the stop is to exceed ten (10) minutes, the driver shall place emergency signals as required and in the manner prescribed by <cite path="5|6|5-6-36/66-3-853">Section 5-6-36/66-3-853</cite> B, C and D.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.370 was formerly codified as 5-6-37/66-3-854</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.370 was formerly codified as 5-6-37/66-3-854</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.380</num>
@@ -1254,7 +1398,9 @@
         <num>(b)</num>
         <text>If the stop is to exceed ten (10) minutes, the driver shall place emergency signals as required and in the manner prescribed by <cite path="5|6|5-6-36/66-3-853">Section 5-6-36/66-3-853</cite> B, C and D.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.380 was formerly codified as 5-3-38/66-3-857</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.380 was formerly codified as 5-3-38/66-3-857</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.390</num>
@@ -1268,7 +1414,9 @@
         <num>(b)</num>
         <text>If the stop is to exceed ten (10) minutes, the driver shall place emergency signals as required and in the manner prescribed by <cite path="5|6|5-6-36/66-3-853">Section 5-6-36/66-3-853</cite> B, C and D.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.390 was formerly codified as 5-3-39/66-7-407</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.390 was formerly codified as 5-3-39/66-7-407</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.400</num>
@@ -1317,7 +1465,9 @@
           <text>Any clergy or his/her agent who carries alcoholic beverages for religious purposes in the clergyman's or agent's motor vehicle.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.06.400 was formerly codified as 5-6-40/66-8-138</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.400 was formerly codified as 5-6-40/66-8-138</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.410</num>
@@ -1330,7 +1480,9 @@
         <num>(b)</num>
         <text>In addition to any other penalty or disposition ordered pursuant to law, upon conviction for a second or subsequent violation of the provisions of <cite path="§5.06.400">Section 5.06.400</cite>, the convicted person shall have his/her driver's license revoked for a period of three (3) months upon a second violation and for one year upon a third or subsequent violation.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.410 was formerly codified as 5-6-41/66-8-139</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.410 was formerly codified as 5-6-41/66-8-139</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.420</num>
@@ -1347,7 +1499,9 @@
         <num>(c)</num>
         <text>Any person violating the provisions of <cite path="§5.06.420">this section</cite> is guilty of a violation.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.420 was formerly codified as 5-6-42/66-7-356</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.420 was formerly codified as 5-6-42/66-7-356</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.430</num>
@@ -1364,7 +1518,9 @@
         <num>(c)</num>
         <text>Owners of livestock ranging in pastures through which unfenced roads or highways pass shall not be liable for damages by reason of injury or damage to persons or property occasioned by collisions of vehicles using said roads and highways and livestock or animals ranging in said pastures unless such owner of livestock is guilty of specific negligence other than allowing his/her animals to range in said pasture.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.430 was formerly codified as 5-6-43/66-7-367</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.430 was formerly codified as 5-6-43/66-7-367</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.440</num>
@@ -1385,7 +1541,9 @@
         <num>(d)</num>
         <text>As used in <cite path="§5.06.440">this section</cite>, "trash" means any article or substance that when discarded creates  or contributes to an unsanitary, offensive or unsightly condition. "Trash" includes waste food; paper products; cans, bottles and other containers; household furnishings and equipment; parts or bodies of vehicles and other metallic junk or scrap; and collections of ashes, dirt, yard trimmings and other rubbish.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.440 was formerly codified as 5-6-44/66-7-364</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.440 was formerly codified as 5-6-44/66-7-364</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.06.450</num>
@@ -1407,7 +1565,9 @@
         <num>(b)</num>
         <text>Leave a door of a vehicle open on the side of the vehicle near moving traffic for a period of time longer than necessary to load or unload passengers.</text>
       </para>
-      <annotation type="Prior Codifications">§5.06.450 was formerly codified as 5-6-45/66-7-367</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.06.450 was formerly codified as 5-6-45/66-7-367</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1445,7 +1605,9 @@
           <text>A prior conviction in New Mexico or any other jurisdiction, territory or possession of the United States, including a tribal jurisdiction, when the criminal act is driving under the influence of alcohol or drugs.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.07.010 was formerly codified as 5-7-1/66-8-101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.010 was formerly codified as 5-7-1/66-8-101</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.020</num>
@@ -1490,7 +1652,9 @@
         <num>(e)</num>
         <text>A person found guilty under <cite path="§5.07.020">this section</cite> is subject to one-year of incarceration a five-thousand ($5,000.00) dollars fine or both, at the discretion of the Court. The Court may, in lieu of incarceration, order offender to a minimum of one (1) year of residential treatment.</text>
       </para>
-      <annotation type="Prior Codifications">§5.07.020 was formerly codified as 5-7-2/66-8-102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.020 was formerly codified as 5-7-2/66-8-102</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.030</num>
@@ -1503,7 +1667,9 @@
         <num>(b)</num>
         <text>A test of blood or breath or both, approved by the scientific laboratory division of the Department of Health pursuant to the provisions of Section 24-1-22 NMSA 1978, shall be administered at the direction of a law enforcement officer having reasonable grounds to believe the person to have been driving a motor vehicle within this state or within this Pueblo while under the influence of an intoxicating liquor or drug.</text>
       </para>
-      <annotation type="Prior Codifications">§5.07.030 was formerly codified as 5-7-3/66-8-107</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.030 was formerly codified as 5-7-3/66-8-107</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.040</num>
@@ -1552,7 +1718,9 @@
         <num>(h)</num>
         <text>Refusal to submit to chemical testing is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§5.07.040 was formerly codified as 5-7-4/66-8-111</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.040 was formerly codified as 5-7-4/66-8-111</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.050</num>
@@ -1569,7 +1737,9 @@
         <num>(c)</num>
         <text>Upon conviction of violation of <cite path="§5.07.050">this section</cite>, the Court may suspend the license or permit to drive and any nonresident operating privilege for a period not to exceed ninety (90) days and will notify the New Mexico Department of Motor Vehicles.</text>
       </para>
-      <annotation type="Prior Codifications">§5.07.050 was formerly codified as 5-7-5/66-8-113</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.050 was formerly codified as 5-7-5/66-8-113</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.060</num>
@@ -1582,13 +1752,17 @@
         <num>(b)</num>
         <text>Any person who operates a vehicle in a careless, inattentive or imprudent manner, without due regard for the width, grade, curves, corners, traffic, weather and road conditions and all other attendant circumstances is guilty of a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§5.07.060 was formerly codified as 5-7-6/66-8-114</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.060 was formerly codified as 5-7-6/66-8-114</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.07.070</num>
       <heading>Parties to a Crime.</heading>
       <text>Every person who commits, attempts to commit, conspires to commit or aids or abets in the commission of any act declared herein to be a crime, whether individually or in connection with one or more other persons or as a principal, agent or accessory, shall be guilty of such offense, and every person who falsely, fraudulently, forcibly or willfully induces, causes, coerces, requires, permits or directs another to violate any provision of the Motor Vehicle Code [66-1-1 NMSA 1978] or any other law of this state or this Pueblo pertaining to motor vehicles is likewise guilty of such offense.</text>
-      <annotation type="Prior Codifications">§5.07.070 was formerly codified as 5-7-7/66-8-120</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.070 was formerly codified as 5-7-7/66-8-120</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1610,13 +1784,17 @@
         <num>(c)</num>
         <text>The provisions of <cite path="§5.08.020">Section 5.08.020</cite> through <cite path="§5.08.280">Section 5.08.280</cite> with respect to equipment on vehicles shall not apply to implements of husbandry, road machinery, road rollers or farm tractors except as made applicable in those sections.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.010 was formerly codified as 5-8-1/66-3-801</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.010 was formerly codified as 5-8-1/66-3-801</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.020</num>
       <heading>When Lighted Lamps Are Required.</heading>
       <text>Every vehicle upon a highway within this state or within this Pueblo at any time from a half- hour after sunset to a half-hour before sunrise and at any other time when there is not sufficient light to render clearly discernible persons and vehicles on the highway at a distance of five hundred (500) feet ahead shall display lighted lamps and illuminating devices as required for different classes of vehicles, subject to exceptions with respect to parked vehicles.</text>
-      <annotation type="Prior Codifications">§5.08.020 was formerly codified as 5-8-2/66-3-802</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.020 was formerly codified as 5-8-2/66-3-802</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.030</num>
@@ -1629,7 +1807,9 @@
         <num>(b)</num>
         <text>Whenever requirement is declared as to the mounted height of lamps or devices it shall mean from the center of such lamp or device to the level ground upon which the vehicle stands when such vehicle is without a load.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.030 was formerly codified as 5-8-3/66-3-803</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.030 was formerly codified as 5-8-3/66-3-803</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.040</num>
@@ -1646,7 +1826,9 @@
         <num>(c)</num>
         <text>Every headlamp upon every motor vehicle, including every motorcycle, shall be located at a height measured from the center of the headlamp of not more than fifty-four (54) inches nor less than twenty (20) inches to be measured as set forth in Subsection B of <cite path="§5.08.030">Section 5.08.030</cite>. The provisions of <cite path="§5.08.040|(c)">Section 5.08.040(c)</cite> shall apply only to new motor vehicles.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.040 was formerly codified as 5-8-4/66-3-804</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.040 was formerly codified as 5-8-4/66-3-804</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.050</num>
@@ -1663,7 +1845,9 @@
         <num>(c)</num>
         <text>Either a tail lamp or a separate lamp shall be so constructed and placed as to illuminate with a white light the rear registration plate and render it clearly legible from a distance of fifty (50) feet to the rear. Any tail lamp or tail lamps, together with any separate lamp for illuminating the rear registration plate, shall be so wired as to be lighted whenever the headlamps or auxiliary driving lamps are lighted.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.050 was formerly codified as 5-8-5/66-3-805</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.050 was formerly codified as 5-8-5/66-3-805</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.060</num>
@@ -1676,13 +1860,17 @@
         <num>(b)</num>
         <text>No person shall sell or offer for sale or operate on the highways or roadways any motor vehicle, trailer, semitrailer or house trailer, unless it is equipped with mechanical or electric turn signals meeting the requirements of <cite path="§5.08.250">Section 5.08.250</cite>. <cite path="§5.08.060|(b)">Section 5.08.060(b)</cite> shall not apply to any motorcycle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.060 was formerly codified as 5-8-6/66-3-807</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.060 was formerly codified as 5-8-6/66-3-807</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.070</num>
       <heading>Application of Succeeding Sections.</heading>
       <text><cite path="§5.08.080">Section 5.08.080</cite>, <cite path="§5.08.100">Section 5.08.100</cite>, <cite path="§5.08.130">Section 5.08.130</cite>, <cite path="§5.08.190">Section 5.08.190</cite> and <cite path="§5.08.200">Section 5.08.200</cite>, shall apply in lieu of <cite path="§5.08.040">Section 5.08.040</cite> and <cite path="§5.08.050">Section 5.08.050</cite>, as to passenger buses, trucks, truck tractors, road tractors, and such trailers, semitrailers, pole trailers, provided for therein, when operated upon any highway or roadway, and said vehicles shall be equipped as required. All lamp equipment required shall be lighted at the times mentioned in <cite path="§5.08.020">Section 5.08.020</cite>.</text>
-      <annotation type="Prior Codifications">§5.08.070 was formerly codified as 5-8-7/66-3-808</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.070 was formerly codified as 5-8-7/66-3-808</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.080</num>
@@ -1696,7 +1884,9 @@
         <num>(b)</num>
         <text>On the rear: one (1) red tail lamp; one (1) red or amber stop lamp; two (2) red reflectors, one at each side.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.080 was formerly codified as 5-8-8/66-3-809</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.080 was formerly codified as 5-8-8/66-3-809</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.090</num>
@@ -1722,7 +1912,9 @@
           <text>red reflector, located at or near the rear.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.08.090 was formerly codified as 5-8-9/66-3-810</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.090 was formerly codified as 5-8-9/66-3-810</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.100</num>
@@ -1736,7 +1928,9 @@
         <num>(b)</num>
         <text>On the rear: one (1) red tail lamp; one (1) red or amber stop lamp.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.100 was formerly codified as 5-8-10/66-3-811</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.100 was formerly codified as 5-8-10/66-3-811</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.110</num>
@@ -1765,7 +1959,9 @@
         <num>(c)</num>
         <text>Every semitrailer, house trailer or trailer less than eighty (80) inches in overall width shall be equipped as follows: on the rear: one (1) red tail lamp; two (2) red reflectors, one at each side; one (1) red or amber stop lamp, if the semitrailer, house trailer or trailer obscures the stop lamp on the towing vehicle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.110 was formerly codified as 5-8-11/66-3-812</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.110 was formerly codified as 5-8-11/66-3-812</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.120</num>
@@ -1779,7 +1975,9 @@
         <num>(b)</num>
         <text>On each side, on the rearmost support for the load: one combination marker lamp showing amber to the front and red to the side and rear, mounted to indicate the maximum width of the pole trailer; and red reflector, located at or near the rear; and on pole trailers thirty (30) feet or more in overall length, an amber marker lamp on each side near the center.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.120 was formerly codified as 5-8-12/66-3-814</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.120 was formerly codified as 5-8-12/66-3-814</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.130</num>
@@ -1816,31 +2014,41 @@
           <text>No provision of <cite path="§5.08.130|(c)|(5)">Section 5.08.130(c)(5)</cite> shall be so construed as to prohibit the use of retroreflective registration plates required by any state or tribal authorities.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.08.130 was formerly codified as 5-8-13/66-3-816</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.130 was formerly codified as 5-8-13/66-3-816</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.140</num>
       <heading>Clearance Lamps to Indicate Extreme Width, Height and Length.</heading>
       <text>Clearance lamps shall, so far as is practicable, be mounted as to indicate the extreme width, height and length of the motor vehicle; except that clearance lamps on truck tractors shall be so located as to indicate the extreme width of the truck-tractor cab.</text>
-      <annotation type="Prior Codifications">§5.08.140 was formerly codified as 5-8-14/66-3-817</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.140 was formerly codified as 5-8-14/66-3-817</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.150</num>
       <heading>Side-Marker Lamps Combined with Clearance Lamps.</heading>
       <text>Side-marker lamps may be combined with clearance lamps and may use the same light source.</text>
-      <annotation type="Prior Codifications">§5.08.150 was formerly codified as 5-8-15/66-3-818</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.150 was formerly codified as 5-8-15/66-3-818</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.160</num>
       <heading>Combining Tail and Stop Lamps.</heading>
       <text>Except as required by <cite path="§5.08.140">Section 5.08.140</cite>, tail lamps may be incorporated in the same housing with stop lamps so long as the requirements for each are fulfilled.</text>
-      <annotation type="Prior Codifications">§5.08.160 was formerly codified as 5-8-16/66-3-819</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.160 was formerly codified as 5-8-16/66-3-819</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.170</num>
       <heading>Lighting Devices to Be Electric.</heading>
       <text>Lighting devices shall be electric, except that red liquid burning lanterns may be used on the end of a load in the nature of poles, pipes and ladders projecting to the rear of the vehicle.</text>
-      <annotation type="Prior Codifications">§5.08.170 was formerly codified as 5-8-17/66-3-820</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.170 was formerly codified as 5-8-17/66-3-820</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.180</num>
@@ -1857,7 +2065,9 @@
         <num>(c)</num>
         <text>Headlamps shall be constructed and installed so as to comply with the provisions of <cite path="§5.08.260">Section 5.08.260</cite> through <cite path="§5.08.280">Section 5.08.280</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.180 was formerly codified as 5-8-18/66-3-821</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.180 was formerly codified as 5-8-18/66-3-821</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.190</num>
@@ -1874,13 +2084,17 @@
         <num>(c)</num>
         <text>Clearance, side-marker, tail and projecting-load marker lamps shall be constructed and installed so as to provide an adequate and reliable warning signal.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.190 was formerly codified as 5-8-19/66-3-822</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.190 was formerly codified as 5-8-19/66-3-822</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.200</num>
       <heading>Obstructed Lights Not Required.</heading>
       <text>Whenever motor and other vehicles are operated in combination during the time that lights are required, any lamp, except tail lamps, need not be lighted which, by reason of its location on a vehicle of the combination, would be obscured by another vehicle of the combination; but, this shall not affect the requirement that lighted clearance lamps be displayed on the front of the foremost vehicle required to have clearance lamps, nor that all lights required on the rear of the rearmost vehicle of any combination shall be lighted.</text>
-      <annotation type="Prior Codifications">§5.08.200 was formerly codified as 5-8-20/66-3-823</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.200 was formerly codified as 5-8-20/66-3-823</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.210</num>
@@ -1893,7 +2107,9 @@
         <num>(b)</num>
         <text>If any part of a vehicle, or any load thereon, or any mechanical device, whether a temporary or permanent part of the vehicle, extends beyond the front bumpers the extreme front corners of such projection shall at the times specified in <cite path="§5.08.020">Section 5.08.020</cite> be indicated by amber lights or lanterns visible from a distance of at least five hundred (500) feet to the sides and front.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.210 was formerly codified as 5-8-21/66-3-824</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.210 was formerly codified as 5-8-21/66-3-824</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.220</num>
@@ -1918,7 +2134,9 @@
         <num>(c)</num>
         <text>Any lighted headlamps upon a parked vehicle shall be depressed or dimmed.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.220 was formerly codified as 5-8-22/66-3-825</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.220 was formerly codified as 5-8-22/66-3-825</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.230</num>
@@ -1935,7 +2153,9 @@
         <num>(c)</num>
         <text>All combinations of tractors and towed farm equipment shall, in addition to the lighting equipment required by Subsection B above, be equipped with a lamp or lamps displaying a white or amber light visible from a distance of five hundred (500) feet to the front and red light visible from a distance of five hundred (500) feet to the rear, and said lamp or lamps shall be installed or capable of being positioned so that visibility from the rear is not obstructed by the towed equipment and so as to indicate the furthest projection of said towed equipment on the side of the road used by other vehicles in passing such combinations. And further, all such towed farm equipment shall be equipped either with two (2) tail lamps displaying a red light visible from a distance of five hundred (500) feet to the rear or two (2) red reflectors visible from a distance of fifty (50) to five hundred (500) feet to the rear when illuminated by the upper beam of headlamps, and the location of such lamps or reflectors shall be such as to indicate as nearly as practicable the extreme left and right rear projections of said towed equipment on the highway.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.230 was formerly codified as 5-8-23/66-3-826</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.230 was formerly codified as 5-8-23/66-3-826</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.240</num>
@@ -1956,7 +2176,9 @@
         <num>(d)</num>
         <text>Any motor vehicle may be equipped with but may not exceed one auxiliary driving lamp mounted on the front at a height not less than sixteen (16) inches nor more than forty-two (42) inches above the level surface upon which the vehicle stands. Any lighted auxiliary driving lamp shall be turned off at least five hundred (500) feet from approaching motor vehicles. The provisions of <cite path="§5.08.260">Section 5.08.260</cite> shall apply to any combination of headlamps and auxiliary driving lamp.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.240 was formerly codified as 5-8-24/66-3-827</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.240 was formerly codified as 5-8-24/66-3-827</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.250</num>
@@ -1981,7 +2203,9 @@
         <num>(c)</num>
         <text>All mechanical signal devices shall be self-illuminated when in use at the times mentioned in <cite path="§5.08.020">Section 5.08.020</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.250 was formerly codified as 5-8-25/66-3-828</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.250 was formerly codified as 5-8-25/66-3-828</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.260</num>
@@ -1999,7 +2223,9 @@
         <num>(c)</num>
         <text>Every new motor vehicle, which has multiple-beam road-lighting equipment shall be equipped with a beam indicator, which shall be lighted whenever the uppermost distribution of light from the headlamps is in use, and shall not otherwise be lighted. The indicator shall be so designed and located that when lighted it will be readily visible without glare to the driver of the vehicle so equipped.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.260 was formerly codified as 5-8-26/66-3-830</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.260 was formerly codified as 5-8-26/66-3-830</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.270</num>
@@ -2017,7 +2243,9 @@
         <num>(c)</num>
         <text>Whenever the driver of a vehicle overtakes another vehicle proceeding in the same direction and within two hundred (200) feet, such driver shall use a distribution of light or composite beam so aimed that the glaring rays are not projected through the rear window of the overtaken vehicle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.270 was formerly codified as 5-8-27/66-3-831</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.270 was formerly codified as 5-8-27/66-3-831</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.280</num>
@@ -2031,7 +2259,9 @@
         <num>(b)</num>
         <text>The intensity shall be sufficient to reveal persons and vehicles at a distance of at least two hundred (200) feet.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.280 was formerly codified as 5-8-28/66-3-832</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.280 was formerly codified as 5-8-28/66-3-832</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.290</num>
@@ -2052,7 +2282,9 @@
           <text>In the event the motorcycle is equipped with a single-beam lamp(s), the lamp(s) shall be so aimed that when the motorcycle is loaded none of the high-intensity portion of light, at a distance of twenty-five (25) feet ahead, shall project higher than the level of the center of the lamp from which it comes.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.08.290 was formerly codified as 5-8-29</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.290 was formerly codified as 5-8-29</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.300</num>
@@ -2077,7 +2309,9 @@
         <num>(e)</num>
         <text>Only fire department vehicles, law enforcement agency vehicles, ambulances and school buses shall display flashing red lights visible from the front of the vehicle. All other vehicles authorized by the Motor Vehicle Code to display flashing lights visible from the front of the vehicle may use any other color of light that is visible.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.300 was formerly codified as 5-8-30/66-3-835</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.300 was formerly codified as 5-8-30/66-3-835</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.310</num>
@@ -2154,7 +2388,9 @@
         <num>(c)</num>
         <text>All brakes shall be maintained in good working order and shall be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the vehicle.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.310 was formerly codified as 5-8-31/66-3-840</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.310 was formerly codified as 5-8-31/66-3-840</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.320</num>
@@ -2171,7 +2407,9 @@
         <num>(c)</num>
         <text>Any authorized emergency vehicle may be equipped with a siren, whistle or bell, capable of emitting sound audible under normal conditions from a distance of not less than five hundred (500) feet, but such siren shall not be used except when such vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law, in which said latter events the driver of such vehicle shall sound said siren when reasonably necessary to warn pedestrians and other drivers of the approach thereof.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.320 was formerly codified as 5-8-32/66-3-843</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.320 was formerly codified as 5-8-32/66-3-843</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.330</num>
@@ -2188,13 +2426,17 @@
         <num>(c)</num>
         <text>Every registered gasoline-fueled motor vehicle manufactured or assembled, commencing with the 1968 models, shall at all times be equipped and maintained in good working order with the factory-installed devices and equipment or their replacements designed to prevent, reduce or control exhaust emissions or air pollution.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.330 was formerly codified as 5-8-33/66-3-844</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.330 was formerly codified as 5-8-33/66-3-844</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.340</num>
       <heading>Mirrors.</heading>
       <text>Every motor vehicle shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least two hundred (200) feet to the rear of such vehicle.</text>
-      <annotation type="Prior Codifications">§5.08.340 was formerly codified as 5-8-34/66-3-845</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.340 was formerly codified as 5-8-34/66-3-845</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.350</num>
@@ -2227,25 +2469,33 @@
           <text>When used in conjunction with the safety glazing materials of the side wings or side windows located at the immediate right and left of the driver, the side windows behind the driver and the rearmost window shall be non-reflective, shall have a light transmission of not less than twenty (20%) percent and shall be used only on the windows of a motor vehicle equipped with one (1) right and one (1) left outside rearview mirror.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.08.350 was formerly codified as 5-8-35/66-3-846</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.350 was formerly codified as 5-8-35/66-3-846</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.360</num>
       <heading>Vehicle Without Required Equipment or in Unsafe Condition.</heading>
       <text>No person shall drive or move on any highway any motor vehicle, trailer, semitrailer, or pole trailer or any combination thereof unless the equipment upon every vehicle is in good working order and adjustment as required in the Motor Vehicle Code [66-1-1 NMSA 1978], and the vehicle is in such safe mechanical condition as not to endanger the driver or other occupant or any person upon the highway.</text>
-      <annotation type="Prior Codifications">§5.08.360 was formerly codified as 5-8-36/66-3-901</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.360 was formerly codified as 5-8-36/66-3-901</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.370</num>
       <heading>Safety Belts Required.</heading>
       <text>It is unlawful for any person to buy, sell, lease, trade or transfer at retail an automobile unless the vehicle is equipped with safety belts installed for use in the left front and right front seats.</text>
-      <annotation type="Prior Codifications">§5.08.370 was formerly codified as 5-8-37/66-3-874</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.370 was formerly codified as 5-8-37/66-3-874</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.380</num>
       <heading>Safety Belts; Type and Manner of Installation.</heading>
       <text>All safety belts required in <cite path="§5.08.370">Section 5.08.370</cite> shall be installed in a manner approved by the Division of Motor Vehicles. The Division shall establish specifications and requirements for approved types of safety belts and attachments thereto. The Division shall accept, as approved, all seat belt installations and the belts and anchors meeting the Society of Automotive Engineers' specifications.</text>
-      <annotation type="Prior Codifications">§5.08.380 was formerly codified as 5-8-38/66-3-875</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.380 was formerly codified as 5-8-38/66-3-875</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.390</num>
@@ -2258,7 +2508,9 @@
         <num>(b)</num>
         <text><cite path="§5.08.390">This section</cite> shall not apply to an occupant of a motor vehicle having a gross vehicle weight of ten thousand (10,000) pounds or less who possess a written statement from a licensed physician that he/she is unable for medical reasons to wear a safety belt or to a rural letter carrier of the United States Postal Service while performing the duties of a rural letter carrier.</text>
       </para>
-      <annotation type="Prior Codifications">§5.08.390 was formerly codified as 5-8-39</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.390 was formerly codified as 5-8-39</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.08.400</num>
@@ -2331,7 +2583,9 @@
           <text>"Text message, instant message, data, photographs, electronic images and snapshots" means a digital communication transmitted or intended to be transmitted between communication devices and includes electronic mail, an instant message, a text or image communication and a command or request to an Internet site; but "text message" excludes communications through the use of a computer-aided dispatch service by law enforcement or rescue personnel.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.08.400 was formerly codified as 5-8-40/12-6-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.08.400 was formerly codified as 5-8-40/12-6-18</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2349,7 +2603,9 @@
         <num>(b)</num>
         <text>Penalty assessment for each violation in the Traffic Safety code may be set by the Tribal Court at an amount not lower than sixty ($60.00) dollars or an amount not higher than four hundred and fifty ($450.00) dollars, even if the past code indicates a different amount.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.010 was formerly codified as 5-9-1/66-8-116</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.010 was formerly codified as 5-9-1/66-8-116</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.020</num>
@@ -2366,7 +2622,9 @@
         <num>(c)</num>
         <text>No record of any penalty assessment payment is admissible as evidence in any court in any civil action.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.020 was formerly codified as 5-9-2/66-8-117</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.020 was formerly codified as 5-9-2/66-8-117</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.030</num>
@@ -2379,7 +2637,9 @@
         <num>(b)</num>
         <text>In addition to the prosecution provided for in Subsection A, it is a violation for any person who has elected to pay a penalty assessment to fail to do so within thirty (30) days from the date of citation issuance.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.030 was formerly codified as 5-9-3/66-8-118</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.030 was formerly codified as 5-9-3/66-8-118</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.040</num>
@@ -2408,7 +2668,9 @@
           <text>He/she refuses to give his/her written promise to appear in court or acknowledge receipt of a warning notice.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§5.09.040 was formerly codified as 5-9-4/66-8-122</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.040 was formerly codified as 5-9-4/66-8-122</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.050</num>
@@ -2433,7 +2695,9 @@
         <num>(e)</num>
         <text>Any officer violating <cite path="§5.09.050">this section</cite> is guilty of misconduct in office and is subject to removal.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.050 was formerly codified as 5-9-5/66-8-123</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.050 was formerly codified as 5-9-5/66-8-123</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.060</num>
@@ -2446,13 +2710,17 @@
         <num>(b)</num>
         <text>A written promise to appear in court may be complied with by appearance of counsel.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.060 was formerly codified as 5-9-6/66-8-126</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.060 was formerly codified as 5-9-6/66-8-126</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.070</num>
       <heading>Officer to Be in Uniform</heading>
       <text>No person shall be cited for violating the Motor Vehicle Code [66-1-1 NMSA 1978] or other law relating to motor vehicles punishable as a violation except by a commissioned, salaried peace officer who, at the time of issuance of citation, is wearing a uniform clearly indicating the peace officer's official status.</text>
-      <annotation type="Prior Codifications">§5.09.070 was formerly codified as 5-9-7/66-8-124</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.070 was formerly codified as 5-9-7/66-8-124</annotation>
+      </annotations>
     </section>
     <section>
       <num>5.09.080</num>
@@ -2481,7 +2749,9 @@
         <num>(c)</num>
         <text>Law enforcement officers of the Bureau of Indian Affairs, if in uniform, may arrest, if commissioned by the State of New Mexico, or detain for appropriate arresting officers, persons who commit the afore mentioned crimes, except that Indian persons may be arrested without a State commission.</text>
       </para>
-      <annotation type="Prior Codifications">§5.09.080 was formerly codified as 5-9-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§5.09.080 was formerly codified as 5-9-8</annotation>
+      </annotations>
     </section>
   </container>
 </container>

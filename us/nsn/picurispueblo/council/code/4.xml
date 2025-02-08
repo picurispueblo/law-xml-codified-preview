@@ -11,13 +11,17 @@
       <num>4.01.010</num>
       <heading>Name of Citation.</heading>
       <text><cite path="4">This title</cite> shall be known and may be cited as the "Pueblo of Picuris Criminal Code," and references in <cite path="4">this title</cite> to "Code" shall refer to this Code unless another is clearly indicated.</text>
-      <annotation type="Prior Codifications">§4.01.010 was formerly codified as 4-1-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.010 was formerly codified as 4-1-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.020</num>
       <heading>Effective Date.</heading>
       <text>This Code shall apply to all offenses as herein defined occurring on or after its effective date of June 16, 2008. If all or any part of any offense was committed prior to such date, the offense shall be governed by the prior existing law except that defenses enumerated herein shall apply to all offenses tried after the effective date.</text>
-      <annotation type="Prior Codifications">§4.01.020 was formerly codified as 4-1-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.020 was formerly codified as 4-1-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.030</num>
@@ -46,19 +50,25 @@
         <num>(b)</num>
         <text>This Code shall not be strictly construed, but shall be construed according to the fair import of the terms used to promote fairness and justice and accomplish the general purposes set forth herein.</text>
       </para>
-      <annotation type="Prior Codifications">§4.01.030 was formerly codified as 4-1-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.030 was formerly codified as 4-1-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.040</num>
       <heading>Exclusiveness of Offenses.</heading>
       <text>No conduct constitutes an offense unless so declared by this Code, or by any other provisions of this Tribal Code, or by any other Tribal resolution or ordinance or by federal law.</text>
-      <annotation type="Prior Codifications">§4.01.040 was formerly codified as 4-1-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.040 was formerly codified as 4-1-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.050</num>
       <heading>Civil Liability Unaffected.</heading>
       <text>This Code does not change, suspend or otherwise affect any civil or other liability, other than criminal liability as defined herein, which would otherwise arise from any conduct defined herein.</text>
-      <annotation type="Prior Codifications">§4.01.050 was formerly codified as 4-1-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.050 was formerly codified as 4-1-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.060</num>
@@ -87,13 +97,17 @@
           <text>The offense is defined, as a continuing course of conduct and the defendant's course of conduct were uninterrupted, unless the Code provides that specific periods of such conduct constitute separate offenses.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.01.060 was formerly codified as 4-1-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.060 was formerly codified as 4-1-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.070</num>
       <heading>Limitation.</heading>
       <text>Except as provided in <cite path="§4.01.080">Section 4.01.080</cite> below, a defendant shall not be subject to separate trials for multiple offenses based on the same conduct or arising from the same criminal episode, if such offenses are known to the prosecuting officer at the time of the commencement of the first trial and are within the jurisdiction of the Pueblo of Picuris Tribal Court.</text>
-      <annotation type="Prior Codifications">§4.01.070 was formerly codified as 4-1-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.070 was formerly codified as 4-1-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.080</num>
@@ -118,7 +132,9 @@
         <num>(b)</num>
         <text>The Court need not charge the jury with respect to an included offense unless there is a rational basis for a verdict acquitting the defendant of the offense charged and convicting him/her of the included offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.01.080 was formerly codified as 4-1-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.080 was formerly codified as 4-1-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.090</num>
@@ -199,7 +215,9 @@
         <num>(f)</num>
         <text>Prosecution of an offense is not barred by virtue of the fact that the defendant could be or has been charged under 18 U.S.C. §1153 (Major Crimes Act) unless such charge has, in fact, resulted in a conviction or acquittal of the defendant by a Federal Court following trial.</text>
       </para>
-      <annotation type="Prior Codifications">§4.01.090 was formerly codified as 4-1-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.090 was formerly codified as 4-1-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.100</num>
@@ -224,13 +242,17 @@
           </para>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.01.100 was formerly codified as 4-1-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.100 was formerly codified as 4-1-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.110</num>
       <heading>Negative Defenses.</heading>
       <text>The prosecution need not negate any defense either in the complaint or by proof unless the defense is in issue as a result of evidence presented at trial by either side, or unless the defense is an affirmative defense and the defendant has presented evidence of such.</text>
-      <annotation type="Prior Codifications">§4.01.110 was formerly codified as 4-1-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.110 was formerly codified as 4-1-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.01.120</num>
@@ -244,7 +266,9 @@
         <num>(b)</num>
         <text>In submitting the issue of the presumed fact to the jury, the Court shall charge the jury that while the presumed fact must on all evidence be proved beyond a reasonable doubt, the law regards the facts that give rise to the presumed fact as evidence of the presumed fact.</text>
       </para>
-      <annotation type="Prior Codifications">§4.01.120 was formerly codified as 4-1-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.01.120 was formerly codified as 4-1-12</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -291,7 +315,9 @@
         <num>(c)</num>
         <text>Possession is an act, within the meaning of <cite path="§4.02.010">this section</cite>, if the possessor knowingly procured or received the item possessed or was away of his/her control thereof for a sufficient period to have been able to terminate his/her possession.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.010 was formerly codified as 4-2-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.010 was formerly codified as 4-2-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.020</num>
@@ -372,7 +398,9 @@
         <num>(j)</num>
         <text>When the grade or degree of an offense depends on whether the offense is committed purposely, knowingly, recklessly, or criminally negligently, its grade or degree shall be the lowest for which the determinative kind of culpability is established with respect to any material element of the offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.020 was formerly codified as 4-2-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.020 was formerly codified as 4-2-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.030</num>
@@ -393,7 +421,9 @@
           <text>When a particular mental state is specified in conjunction with an element of an offense, proof of that element is not avoided because the actual result differed from that intended or that which was probable or likely under the circumstances, either in kind or degree or because a different person or property was injured or affected than that intended or than that which was probable or likely under the circumstances. Unless such differences are sufficient without consideration of the mental state involved to constitute a defense or avoidance or unless such differences are of such a magnitude that it would be unjust to find the element involved in light of such differences.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.02.030 was formerly codified as 4-2-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.030 was formerly codified as 4-2-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.040</num>
@@ -426,7 +456,9 @@
           <text>The person acted in reasonable reliance upon an official statement of law contained in a subsequent enactment or an interpretation rendered by a Judge in a written opinion. In either case the defendant shall have the burden of proving, by a preponderance of the evidence, his/her defense under <cite path="§4.02.040|(c)|(2)">Section 4.02.040(c)(2)</cite>.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.02.040 was formerly codified as 4-2-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.040 was formerly codified as 4-2-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.050</num>
@@ -511,7 +543,9 @@
         <num>(g)</num>
         <text>An accomplice may be convicted on proof of the commission of the offense and of his/her complicity therein, though the person claimed to have committed the offense has not been prosecuted or convicted or has been convicted of a different offense or degree of offense or has immunity from prosecution or has been acquitted.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.050 was formerly codified as 4-2-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.050 was formerly codified as 4-2-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.060</num>
@@ -528,7 +562,9 @@
         <num>(c)</num>
         <text>When a person is convicted of an offense by reason of his/her legal responsibility for the conduct of a corporation or an unincorporated association, he/she is subject to the sentence authorized by law when a natural person is convicted of an offense of the class involved.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.060 was formerly codified as 4-2-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.060 was formerly codified as 4-2-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.070</num>
@@ -553,7 +589,9 @@
         <num>(e)</num>
         <text>"Intoxication" means a disturbance of mental or physical capabilities and/or capacities resulting from the introduction of substances into the body. Except as otherwise provided in this Code, intoxication can be proven by its external indications and no proof of specific consumption or blood alcohol content is necessary, though such evidence is permissible to prove intoxication.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.070 was formerly codified as 4-2-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.070 was formerly codified as 4-2-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.080</num>
@@ -574,7 +612,9 @@
         <num>(d)</num>
         <text>The defense provided in <cite path="§4.02.080">this section</cite> is unavailable in any situation where the coerced conduct threatens to cause death or serious bodily harm to some person, other than the  actor, or does in fact cause such harm.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.080 was formerly codified as 4-2-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.080 was formerly codified as 4-2-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.090</num>
@@ -619,7 +659,9 @@
           <text>It is induced by force, duress, or deception.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.02.090 was formerly codified as 4-2-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.090 was formerly codified as 4-2-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.100</num>
@@ -644,7 +686,9 @@
         <num>(c)</num>
         <text>Except as provided in Subsection B of <cite path="§4.02.100">this section</cite>, a person prosecuted for an offense shall be acquitted if he/she proves by a preponderance of evidence that his/her conduct occurred in response to an entrapment. The issue of entrapment shall be tried to and decided by the Court and not by the jury. Evidence of past offenses shall be admissible only if the defendant takes the stand in his/her own defense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.100 was formerly codified as 4-2-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.100 was formerly codified as 4-2-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.110</num>
@@ -665,7 +709,9 @@
         <num>(d)</num>
         <text>No person who, as a result of mental disease or defect, lacks capacity to understand the proceedings against him/her or to assist in their own defense shall be tried, convicted, or sentenced for the commission of an offense so long as such incapacity endures.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.110 was formerly codified as 4-2-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.110 was formerly codified as 4-2-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.120</num>
@@ -687,7 +733,9 @@
         <num>(d)</num>
         <text>When a person's conduct is reasonable discipline of persons in custody under this Code.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.120 was formerly codified as 4-2-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.120 was formerly codified as 4-2-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.130</num>
@@ -712,13 +760,17 @@
           <text>Was the aggressor or was engaged in a combat by agreement, unless he/she withdraws from the encounter and effectively communicates to such other person his/her intent to do so and the other, notwithstanding, continues or threatens to continue the use of unlawful force,</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§4.02.130 was formerly codified as 4-2-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.130 was formerly codified as 4-2-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.140</num>
       <heading>Force in Arrest.</heading>
       <text>Any person is justified in using any force, except deadly force, which he/she reasonably believes to be necessary to affect an arrest or to defend him/herself or another from bodily harm while making an arrest.</text>
-      <annotation type="Prior Codifications">§4.02.140 was formerly codified as 4-2-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.140 was formerly codified as 4-2-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.150</num>
@@ -740,7 +792,9 @@
         <num>(b)</num>
         <text>The officer is in the performance of his/her legal duty or the execution of legal process and reasonably believes the use of force is necessary to protect themselves or others from imminent danger to life.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.150 was formerly codified as 4-2-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.150 was formerly codified as 4-2-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.160</num>
@@ -754,7 +808,9 @@
         <num>(b)</num>
         <text>He/she reasonably believes that the entry is made or attempted for the purpose of committing a Class A offense or other offense involving threat of bodily injury therein, and that such force is necessary to prevent the commission of such offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.160 was formerly codified as 4-2-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.160 was formerly codified as 4-2-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.170</num>
@@ -772,7 +828,9 @@
         <num>(c)</num>
         <text>Belonging to a person whose property he/she has a legal duty to protect.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.170 was formerly codified as 4-2-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.170 was formerly codified as 4-2-17</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.02.180</num>
@@ -785,7 +843,9 @@
         <num>(b)</num>
         <text>The fact that conduct is justifiable as specified in this Code does not abolish or impair any civil right or remedy, which might arise from such conduct.</text>
       </para>
-      <annotation type="Prior Codifications">§4.02.180 was formerly codified as 4-2-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.02.180 was formerly codified as 4-2-18</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -803,25 +863,33 @@
         <num>(b)</num>
         <text>Penal laws enacted or adopted after the effective date of this Code shall be classified for sentencing purposes in accordance with the provisions of <cite path="4|4.03">this chapter</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.010 was formerly codified as 4-3-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.010 was formerly codified as 4-3-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.020</num>
       <heading>Designation of Offenses.</heading>
       <text>Offenses are designated as Class A offenses, Class B offenses, and Class C offenses.</text>
-      <annotation type="Prior Codifications">§4.03.020 was formerly codified as 4-3-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.020 was formerly codified as 4-3-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.030</num>
       <heading>Class of Offense Not Specified.</heading>
       <text>Any offense for which no penalty or sentence is specified, or which is not specifically designated as a certain class of offense, shall be treated for purposes of sentencing and punishment as a Class C offense.</text>
-      <annotation type="Prior Codifications">§4.03.030 was formerly codified as 4-3-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.030 was formerly codified as 4-3-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.040</num>
       <heading>General Principles.</heading>
       <text>The sentence imposed in each case should call for the minimum amount of custody or confinement, which is consistent with the protection of the public, the severity of the offense, and the rehabilitative needs of the defendant.</text>
-      <annotation type="Prior Codifications">§4.03.040 was formerly codified as 4-3-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.040 was formerly codified as 4-3-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.050</num>
@@ -866,7 +934,9 @@
         <num>(c)</num>
         <text>This part shall not deprive a Court of authority to cite for contempt, cancel or suspend a license, forfeit property, or do any other act or make any other order authorized by law.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.050 was formerly codified as 4-3-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.050 was formerly codified as 4-3-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.060</num>
@@ -895,7 +965,9 @@
         <num>(c)</num>
         <text>The fines listed above may be imposed in addition to any assessment of costs or other civil penalties and in addition to any amounts ordered by the Court to be paid as restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.060 was formerly codified as 4-3-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.060 was formerly codified as 4-3-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.070</num>
@@ -920,7 +992,9 @@
         <num>(e)</num>
         <text>When justice requires, the Court may revoke or remit a fine or any unpaid portion thereof or any other monies required to be paid, or may modify the terms and conditions of payment.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.070 was formerly codified as 4-3-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.070 was formerly codified as 4-3-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.080</num>
@@ -942,7 +1016,9 @@
         <num>(d)</num>
         <text>Whether there are particular reasons which make a fine appropriate as a deterrent to the offense involved or appropriate as a corrective measure for the defendant.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.080 was formerly codified as 4-3-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.080 was formerly codified as 4-3-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.090</num>
@@ -967,7 +1043,9 @@
         <num>(e)</num>
         <text>Whenever a sentence is imposed or sentences are imposed to run concurrently with the other or with sentences presently being served, the greater sentence shall be the term to be served with all lesser sentences merging therein, or, if equal sentences are imposed, they shall merge into one sentence, but in no event shall the imposition of one sentence cut short the time to be served on another sentence unless the Court specifically directs that such be the result.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.090 was formerly codified as 4-3-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.090 was formerly codified as 4-3-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.100</num>
@@ -984,7 +1062,9 @@
         <num>(c)</num>
         <text>Credit as provided in <cite path="§4.03.100">this section</cite> should be considered and computed by the Court at the time of sentencing.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.100 was formerly codified as 4-3-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.100 was formerly codified as 4-3-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.110</num>
@@ -1005,7 +1085,9 @@
         <num>(d)</num>
         <text>Except as otherwise specifically provided in <cite path="4|4.03">this chapter</cite>, the Court shall not increase a term of imprisonment once it has been imposed.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.110 was formerly codified as 4-3-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.110 was formerly codified as 4-3-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.120</num>
@@ -1043,7 +1125,9 @@
         <num>(h)</num>
         <text>State for the record the reasons for selecting the particular sentence imposed, unless the Court deems it to be in the best interests of the defendant not to do so.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.120 was formerly codified as 4-3-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.120 was formerly codified as 4-3-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.130</num>
@@ -1116,7 +1200,9 @@
         <num>(e)</num>
         <text>The defendant shall be given a copy of the requirements of his/her probation stated with sufficient specificity to enable him/her to guide him/herself accordingly.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.130 was formerly codified as 4-3-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.130 was formerly codified as 4-3-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.140</num>
@@ -1133,7 +1219,9 @@
         <num>(c)</num>
         <text>Upon termination of the period of suspension or probation, or other earlier discharge of the defendant, the defendant shall be relieved of any obligations imposed by Order of the Court and shall have satisfied his/her sentence for the offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.140 was formerly codified as 4-3-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.140 was formerly codified as 4-3-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.150</num>
@@ -1182,7 +1270,9 @@
         <num>(d)</num>
         <text>Whenever a defendant is taken into and held in custody as provided in <cite path="§4.03.150">this section</cite> for violation of probation conditions other than the alleged commission of an offense, he/she shall be entitled to have his/her sentence considered by the Court within 48 hours of his/her confinement, unless he/she requests further time to prepare his/her defense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.150 was formerly codified as 4-3-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.150 was formerly codified as 4-3-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.160</num>
@@ -1195,13 +1285,17 @@
         <num>(b)</num>
         <text>Proof of a conviction as relevant evidence upon the trial or determination of any issue or for the purpose of impeaching the defendant as a witness is not a disqualification or disability within the meaning of <cite path="§4.03.160">this section</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.160 was formerly codified as 4-3-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.160 was formerly codified as 4-3-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.170</num>
       <heading>Final Judgment.</heading>
       <text>A judgment suspending sentence or sentencing a defendant to be placed on probation shall be deemed tentative to the extent such is modifiable as provided herein, but for all other purposes shall constitute a final judgment.</text>
-      <annotation type="Prior Codifications">§4.03.170 was formerly codified as 4-3-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.170 was formerly codified as 4-3-17</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.180</num>
@@ -1222,7 +1316,9 @@
         <num>(d)</num>
         <text>The provisions on parole contained herein shall apply only to confinement in a jail or penitentiary and shall not apply to confinement ordered in a medical or rehabilitative facility.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.180 was formerly codified as 4-3-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.180 was formerly codified as 4-3-18</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.190</num>
@@ -1235,7 +1331,9 @@
         <num>(b)</num>
         <text>Any defendant eligible for parole as set forth above may petition the Court for consideration of parole. Such petition may be made on a form to be provided for such purposes by the Court, at a time no earlier than the expiration of half the period of imprisonment ordered by the Court. If a defendant desires, he/she will be allowed opportunity to contact and meet with counsel on the detention facility premises to aid him/her in the preparation of his/her petition for parole. The completed petition shall be forwarded without unnecessary delay to the Court by the defendant's counsel or by the detention facility.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.190 was formerly codified as 4-3-19</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.190 was formerly codified as 4-3-19</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.200</num>
@@ -1256,13 +1354,17 @@
         <num>(d)</num>
         <text>The Court's decision to grant or refuse parole shall be reviewable only for abuse of discretion.</text>
       </para>
-      <annotation type="Prior Codifications">§4.03.200 was formerly codified as 4-3-20</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.200 was formerly codified as 4-3-20</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.03.210</num>
       <heading>Powers over Parolee.</heading>
       <text>Once parole is granted, the defendant shall be subject to the same procedures and conditions as if he/she were originally placed on probation and the Court shall have the power to modify or revoke the probation under like rules and circumstances as provided in this Code for defendants on probation.</text>
-      <annotation type="Prior Codifications">§4.03.210 was formerly codified as 4-3-21</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.03.210 was formerly codified as 4-3-21</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1280,7 +1382,9 @@
         <num>(b)</num>
         <text>Abandonment of a Dependent is a Class B offense. The parents/guardians may also be ordered to pay child support and/or reimburse the costs related to transport, shelter care, and out of home placement.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.010 was formerly codified as 4-4-101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.010 was formerly codified as 4-4-101</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.020</num>
@@ -1309,7 +1413,9 @@
         <num>(b)</num>
         <text>Abandonment or abuse of a child is a Class B offense. The parents/guardians may also be ordered to pay child support and/or reimburse the costs related to transport, shelter care and out of home placement.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.020 was formerly codified as 4-4-100</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.020 was formerly codified as 4-4-100</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.030</num>
@@ -1330,7 +1436,9 @@
         <num>(b)</num>
         <text>Abduction is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.030 was formerly codified as 4-4-20</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.030 was formerly codified as 4-4-20</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.040</num>
@@ -1355,7 +1463,9 @@
         <num>(b)</num>
         <text>Aggravated Assault is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.040 was formerly codified as 4-4-8</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.040 was formerly codified as 4-4-8</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.043</num>
@@ -1376,7 +1486,9 @@
         <num>(b)</num>
         <text>Aggravated assault against a household member is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.043 was formerly codified as 4-4-10</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.043 was formerly codified as 4-4-10</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.047</num>
@@ -1401,7 +1513,9 @@
         <num>(b)</num>
         <text>Aggravated assault upon a law enforcement officer is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.047 was formerly codified as 4-4-12</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.047 was formerly codified as 4-4-12</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.050</num>
@@ -1422,7 +1536,9 @@
         <num>(b)</num>
         <text>Aggravated battery is a Class A offense. Upon conviction hereof, at the discretion of the Court, such offender may be required to pay any hospital and/or doctor bills for treatment of injuries; and/or to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.050 was formerly codified as 4-4-16</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.050 was formerly codified as 4-4-16</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.053</num>
@@ -1439,7 +1555,9 @@
         <num>(c)</num>
         <text>Whoever commits aggravated battery against a household member by inflicting great bodily harm or doing so with a deadly weapon or doing so in any manner whereby great bodily harm or death can be inflicted is guilty of a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.053 was formerly codified as 4-4-17</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.053 was formerly codified as 4-4-17</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.057</num>
@@ -1460,7 +1578,9 @@
         <num>(b)</num>
         <text>Aggravated battery upon a law enforcement officer is a Class A offense. Upon conviction thereof, at the discretion of the Court, such offender may be required to pay any hospital and/or doctor bills for treatment of injuries; and/or to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.057 was formerly codified as 4-4-18</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.057 was formerly codified as 4-4-18</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.060</num>
@@ -1481,7 +1601,9 @@
         <num>(b)</num>
         <text>Aggravated criminal sexual contact is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.060 was formerly codified as 4-4-94</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.060 was formerly codified as 4-4-94</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.065</num>
@@ -1506,7 +1628,9 @@
         <num>(b)</num>
         <text>Aggravated criminal sexual contact of a minor is a Class A offense. The Court may order such offenders to be mentally evaluated. Upon conviction, the defendant will be required to register as a convicted sex offender with the State of New Mexico and may be subject to exclusion from the Pueblo of Picuris. The Court may order such offender to pay restitution to the victim for all unreimbursed expense relating to medical and psychological treatment without limitations to time. Those expenses covered by insurance may also be ordered under restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.065 was formerly codified as 4-4-96</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.065 was formerly codified as 4-4-96</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.070</num>
@@ -1535,7 +1659,9 @@
         <num>(b)</num>
         <text>Aggravated stalking is a Class A offense. In addition to any punishment provided pursuant to the provisions of <cite path="§4.04.070">this section</cite>, the Court shall order a person convicted of aggravated stalking to participate in and complete a program of professional counseling at his/her own expense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.070 was formerly codified as 4-4-26</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.070 was formerly codified as 4-4-26</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.080</num>
@@ -1560,7 +1686,9 @@
         <num>(b)</num>
         <text>Aggravated weapons offense is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.080 was formerly codified as 4-4-67</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.080 was formerly codified as 4-4-67</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.090</num>
@@ -1573,7 +1701,9 @@
         <num>(b)</num>
         <text>Aiding or soliciting a suicide is a Class A offense, if the defendant's conduct has actually caused or contributed substantially to a suicide or an attempted suicide; otherwise it is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.090 was formerly codified as 4-4-6</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.090 was formerly codified as 4-4-6</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.100</num>
@@ -1594,7 +1724,9 @@
         <num>(b)</num>
         <text>Arson is a Class B offense. The Court may order such offender to pay restitution for damages.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.100 was formerly codified as 4-4-87</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.100 was formerly codified as 4-4-87</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.110</num>
@@ -1619,7 +1751,9 @@
         <num>(b)</num>
         <text>Assault is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.110 was formerly codified as 4-4-7</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.110 was formerly codified as 4-4-7</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.113</num>
@@ -1640,7 +1774,9 @@
         <num>(b)</num>
         <text>Assault against a household member is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.113 was formerly codified as 4-4-9</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.113 was formerly codified as 4-4-9</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.117</num>
@@ -1661,7 +1797,9 @@
         <num>(b)</num>
         <text>Assault upon a law enforcement officer is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.117 was formerly codified as 4-4-11</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.117 was formerly codified as 4-4-11</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.120</num>
@@ -1682,7 +1820,9 @@
         <num>(b)</num>
         <text>Battery is a Class B offense. Upon conviction, at the discretion of the Court, such offender may be required to pay any hospital and/or doctor bills for treatment of injuries; and/or to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.120 was formerly codified as 4-4-13</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.120 was formerly codified as 4-4-13</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.123</num>
@@ -1695,7 +1835,9 @@
         <num>(b)</num>
         <text>Battery against a household member is a Class B offense. Upon conviction, pursuant to <cite path="§4.04.123">this section</cite>, an offender shall be required to participate in and complete a domestic violence offender treatment program.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.123 was formerly codified as 4-4-14</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.123 was formerly codified as 4-4-14</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.127</num>
@@ -1712,7 +1854,9 @@
         <num>(b)</num>
         <text>Battery upon a law enforcement officer is a Class B offense. Upon conviction thereof, at the discretion of the Court, such offender may be required to pay any hospital and/or doctor bills for treatment of injuries; and/or to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.127 was formerly codified as 4-4-15</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.127 was formerly codified as 4-4-15</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.130</num>
@@ -1725,7 +1869,9 @@
         <num>(b)</num>
         <text>Breaking and entering is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.130 was formerly codified as 4-4-58</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.130 was formerly codified as 4-4-58</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.140</num>
@@ -1758,7 +1904,9 @@
         <num>(b)</num>
         <text>Bribery is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.140 was formerly codified as 4-4-84</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.140 was formerly codified as 4-4-84</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.145</num>
@@ -1779,7 +1927,9 @@
         <num>(b)</num>
         <text>Bribery or tampering with a witness is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.145 was formerly codified as 4-4-86</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.145 was formerly codified as 4-4-86</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.150</num>
@@ -1804,7 +1954,9 @@
         <num>(b)</num>
         <text>Bringing contraband into a place of confinement is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.150 was formerly codified as 4-4-79</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.150 was formerly codified as 4-4-79</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.160</num>
@@ -1817,7 +1969,9 @@
         <num>(b)</num>
         <text>Burglary is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.160 was formerly codified as 4-4-57</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.160 was formerly codified as 4-4-57</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.170</num>
@@ -1830,7 +1984,9 @@
         <num>(b)</num>
         <text>Causing a suicide is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.170 was formerly codified as 4-4-5</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.170 was formerly codified as 4-4-5</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.180</num>
@@ -1843,7 +1999,9 @@
         <num>(b)</num>
         <text>Concealing identity is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.180 was formerly codified as 4-4-75</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.180 was formerly codified as 4-4-75</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.190</num>
@@ -1856,7 +2014,9 @@
         <num>(b)</num>
         <text>Contributing to the delinquency of a minor is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.190 was formerly codified as 4-4-102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.190 was formerly codified as 4-4-102</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.200</num>
@@ -1869,7 +2029,9 @@
         <num>(b)</num>
         <text>Criminal homicide is a Class A offense, and if the offense is found to have been committed purposely or knowingly, no suspension of sentence, probation or parole shall be granted, and the maximum fine and incarceration shall be imposed.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.200 was formerly codified as 4-4-3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.200 was formerly codified as 4-4-3</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.210</num>
@@ -1882,7 +2044,9 @@
         <num>(b)</num>
         <text>Criminal sexual contact is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.210 was formerly codified as 4-4-93</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.210 was formerly codified as 4-4-93</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.215</num>
@@ -1895,7 +2059,9 @@
         <num>(b)</num>
         <text>Criminal sexual contact of a minor is a Class A offense. The Court may order such offenders to be mentally evaluated. Upon conviction, the defendant will be required to register as a convicted sex offender with the State of New Mexico, and may be subject to exclusion from the Pueblo of Picuris. The Court may order such offender to pay restitution to the victim for all unreimbursed expense relating to medical and psychological treatment without limitations to time. Those expenses covered by insurance may also be ordered under restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.215 was formerly codified as 4-4-95</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.215 was formerly codified as 4-4-95</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.220</num>
@@ -1924,7 +2090,9 @@
         <num>(b)</num>
         <text>Criminal sexual penetration is a Class A offense. The Court may order such offenders to be mentally evaluated. Upon conviction, the defendant will be required to register as a convicted sex offender with the State of New Mexico and may be subject to exclusion from the Pueblo of Picuris. The Court may order such offender to pay restitution to the victim for all unreimbursed expense relating to medical and psychological treatment without limitations to time. Those expenses covered by insurance may also be ordered under restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.220 was formerly codified as 4-4-97</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.220 was formerly codified as 4-4-97</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.225</num>
@@ -1957,7 +2125,9 @@
         <num>(b)</num>
         <text>Criminal sexual penetration of a minor is a Class A offense. The Court may order such offenders to be mentally evaluated. Upon conviction, the defendant will be required to register as a convicted sex offender with the State of New Mexico and may be subject to exclusion from the Pueblo of Picuris. The Court may order such offender to pay restitution to the victim for all unreimbursed expense relating to medical and psychological treatment without limitations to time. Those expenses covered by insurance may also be ordered under restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.225 was formerly codified as 4-4-98</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.225 was formerly codified as 4-4-98</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.230</num>
@@ -1982,7 +2152,9 @@
         <num>(b)</num>
         <text>Criminal trespass is a Class B offense. At the discretion of the Court, such offenders may be required to pay restitution for damages to the owner.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.230 was formerly codified as 4-4-49</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.230 was formerly codified as 4-4-49</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.240</num>
@@ -2031,7 +2203,9 @@
         <num>(c)</num>
         <text>Cruelty to animals is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.240 was formerly codified as 4-4-41</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.240 was formerly codified as 4-4-41</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.250</num>
@@ -2044,7 +2218,9 @@
         <num>(b)</num>
         <text>Curfew violation is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.250 was formerly codified as 4-4-29</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.250 was formerly codified as 4-4-29</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.260</num>
@@ -2057,7 +2233,9 @@
         <num>(b)</num>
         <text>Custodial interference is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.260 was formerly codified as 4-4-23</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.260 was formerly codified as 4-4-23</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.270</num>
@@ -2070,7 +2248,9 @@
         <num>(b)</num>
         <text>Damaging public property is a Class A offense. At the discretion of the Court, such offenders may be required to pay restitution for damages.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.270 was formerly codified as 4-4-40</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.270 was formerly codified as 4-4-40</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.280</num>
@@ -2083,7 +2263,9 @@
         <num>(b)</num>
         <text>Demanding or receiving a bribe is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.280 was formerly codified as 4-4-85</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.280 was formerly codified as 4-4-85</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.290</num>
@@ -2108,7 +2290,9 @@
         <num>(c)</num>
         <text>This offense is one which subjects the offender to forfeiture of all property, including vehicles at the time of arrest.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.290 was formerly codified as 4-4-48</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.290 was formerly codified as 4-4-48</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.300</num>
@@ -2121,7 +2305,9 @@
         <num>(b)</num>
         <text>Disobedience to a lawful order is a Class B offense. Such offenders shall be required to comply with any lawful order.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.300 was formerly codified as 4-4-80</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.300 was formerly codified as 4-4-80</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.310</num>
@@ -2162,7 +2348,9 @@
         <num>(b)</num>
         <text>Disorderly conduct is a Class C offense, unless committed under Subsection A (3) d above, then it is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.310 was formerly codified as 4-4-27</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.310 was formerly codified as 4-4-27</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.320</num>
@@ -2175,7 +2363,9 @@
         <num>(b)</num>
         <text>Embezzlement is a Class A offense. The Court may order such offender to pay restitution.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.320 was formerly codified as 4-4-60</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.320 was formerly codified as 4-4-60</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.330</num>
@@ -2188,7 +2378,9 @@
         <num>(b)</num>
         <text>Escape from custody is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.330 was formerly codified as 4-4-77</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.330 was formerly codified as 4-4-77</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.340</num>
@@ -2201,7 +2393,9 @@
         <num>(b)</num>
         <text>Extortion is a Class A offense. The Court may order such offender to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.340 was formerly codified as 4-4-61</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.340 was formerly codified as 4-4-61</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.350</num>
@@ -2218,7 +2412,9 @@
         <num>(c)</num>
         <text>If violations of the Compulsory School Attendance Law continue, upon the second and subsequent convictions, the parent, guardian or custodian of the student who knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class A offense and shall be subject to a fine of not more than one thousand dollars ($1000.00) or imprisonment for a definite term not to exceed three hundred sixty-five days (365) or both.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.350 was formerly codified as 4-4-103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.350 was formerly codified as 4-4-103</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.360</num>
@@ -2235,7 +2431,9 @@
         <num>(c)</num>
         <text>Failure to submit to treatment for a contagious disease is a Class B offense. The Court, in its discretion, may suspend such sentence if offender agrees to medical treatment.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.360 was formerly codified as 4-4-99</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.360 was formerly codified as 4-4-99</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.370</num>
@@ -2268,7 +2466,9 @@
         <num>(b)</num>
         <text>False alarms are a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.370 was formerly codified as 4-4-42</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.370 was formerly codified as 4-4-42</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.380</num>
@@ -2281,7 +2481,9 @@
         <num>(b)</num>
         <text>False imprisonment is a Class A offense. At the discretion of the Court, such offenders may be required to pay restitution to the victim and/or the victim's family.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.380 was formerly codified as 4-4-22</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.380 was formerly codified as 4-4-22</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.390</num>
@@ -2294,7 +2496,9 @@
         <num>(b)</num>
         <text>Forgery is a Class A offense. The Court may order such offender to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.390 was formerly codified as 4-4-62</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.390 was formerly codified as 4-4-62</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.400</num>
@@ -2307,7 +2511,9 @@
         <num>(b)</num>
         <text>Fraud is a Class B offense. The Court may order such offender to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.400 was formerly codified as 4-4-63</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.400 was formerly codified as 4-4-63</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.410</num>
@@ -2328,7 +2534,9 @@
         <num>(c)</num>
         <text>Glue, aerosol spray; abuse or possession for abuse is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.410 was formerly codified as 4-4-39</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.410 was formerly codified as 4-4-39</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.420</num>
@@ -2341,7 +2549,9 @@
         <num>(b)</num>
         <text>Harassment is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.420 was formerly codified as 4-4-24</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.420 was formerly codified as 4-4-24</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.430</num>
@@ -2354,7 +2564,9 @@
         <num>(b)</num>
         <text>Harboring or aiding a criminal offender is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.430 was formerly codified as 4-4-76</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.430 was formerly codified as 4-4-76</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.440</num>
@@ -2375,7 +2587,9 @@
         <num>(b)</num>
         <text>Impersonating a law enforcement officer or tribal officer is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.440 was formerly codified as 4-4-78</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.440 was formerly codified as 4-4-78</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.450</num>
@@ -2408,7 +2622,9 @@
         <num>(b)</num>
         <text>Improper control of a fire is a Class A offense. The Court may order the offender to pay restitution for damages and forfeit those personal items that were used to start the fire and any other possessions that may be sold to recover costs.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.450 was formerly codified as 4-4-88</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.450 was formerly codified as 4-4-88</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.460</num>
@@ -2433,7 +2649,9 @@
         <num>(b)</num>
         <text>Incest is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.460 was formerly codified as 4-4-92</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.460 was formerly codified as 4-4-92</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.470</num>
@@ -2446,7 +2664,9 @@
         <num>(b)</num>
         <text>Indecent exposure is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.470 was formerly codified as 4-4-91</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.470 was formerly codified as 4-4-91</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.480</num>
@@ -2475,7 +2695,9 @@
         <num>(b)</num>
         <text>Interference with members of staff, public officials, or the general public; trespass; or damage to property is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.480 was formerly codified as 4-4-32</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.480 was formerly codified as 4-4-32</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.490</num>
@@ -2488,7 +2710,9 @@
         <num>(b)</num>
         <text>Issuing a worthless check is a Class B offense. The Court may order such offender to pay restitution to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.490 was formerly codified as 4-4-64</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.490 was formerly codified as 4-4-64</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.500</num>
@@ -2513,7 +2737,9 @@
         <num>(b)</num>
         <text>Kidnapping is a Class A offense. Upon conviction thereof, at the discretion of the Court, such offenders may be required to pay restitution to the victim and/or the victim's family.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.500 was formerly codified as 4-4-21</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.500 was formerly codified as 4-4-21</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.510</num>
@@ -2538,7 +2764,9 @@
         <num>(b)</num>
         <text>The Court may order such offender to pay restitution to the owner of the stolen property.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.510 was formerly codified as 4-4-55</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.510 was formerly codified as 4-4-55</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.520</num>
@@ -2551,7 +2779,9 @@
         <num>(b)</num>
         <text>Libel is a Class C offense. The Court may require such offenders to make a public retraction of the written falsehood.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.520 was formerly codified as 4-4-72</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.520 was formerly codified as 4-4-72</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.530</num>
@@ -2572,7 +2802,9 @@
         <num>(b)</num>
         <text>Littering is a Class B offense. The Court may to the extent permitted by law, as a condition to suspension of any other penalty provided by law, require the offender to pick up and remove from any public place or any private property any litter deposited thereon. The Court may also require restitution for any and all damages caused by debris, from vehicles transporting substances not securely and appropriately covered which litter the environment.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.530 was formerly codified as 4-4-52</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.530 was formerly codified as 4-4-52</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.540</num>
@@ -2625,7 +2857,9 @@
         <num>(d)</num>
         <text>Livestock offense is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.540 was formerly codified as 4-4-54</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.540 was formerly codified as 4-4-54</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.550</num>
@@ -2646,7 +2880,9 @@
         <num>(b)</num>
         <text>Maintaining a public nuisance is a Class C offense. At the discretion of the Court, such offenders may be required to remove or correct any property posing as a danger to public safety.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.550 was formerly codified as 4-4-50</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.550 was formerly codified as 4-4-50</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.560</num>
@@ -2659,7 +2895,9 @@
         <num>(b)</num>
         <text>Malicious mischief is a Class B offense. At the discretion of the Court, such offenders may be required to pay restitution for damages to the victim.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.560 was formerly codified as 4-4-46</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.560 was formerly codified as 4-4-46</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.570</num>
@@ -2672,7 +2910,9 @@
         <num>(b)</num>
         <text>Malicious prosecution is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.570 was formerly codified as 4-4-83</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.570 was formerly codified as 4-4-83</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.580</num>
@@ -2693,7 +2933,9 @@
         <num>(b)</num>
         <text>Mayhem is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.580 was formerly codified as 4-4-1</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.580 was formerly codified as 4-4-1</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.590</num>
@@ -2722,7 +2964,9 @@
         <num>(b)</num>
         <text>Negligent use of a deadly weapon is a Class B offense. Exempt from <cite path="§4.04.590">this section</cite> are law enforcement officers in the lawful discharge of their duties.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.590 was formerly codified as 4-4-70</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.590 was formerly codified as 4-4-70</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.600</num>
@@ -2735,7 +2979,9 @@
         <num>(b)</num>
         <text>Obstruction of reporting or investigation of child abuse or neglect is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.600 was formerly codified as 4-4-104</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.600 was formerly codified as 4-4-104</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.610</num>
@@ -2748,7 +2994,9 @@
         <num>(b)</num>
         <text>Patronizing prostitution is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.610 was formerly codified as 4-4-90</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.610 was formerly codified as 4-4-90</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.620</num>
@@ -2761,7 +3009,9 @@
         <num>(b)</num>
         <text>Perjury is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.620 was formerly codified as 4-4-81</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.620 was formerly codified as 4-4-81</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.630</num>
@@ -2774,7 +3024,9 @@
         <num>(b)</num>
         <text>Polluting waters is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.630 was formerly codified as 4-4-51</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.630 was formerly codified as 4-4-51</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.640</num>
@@ -2791,7 +3043,9 @@
         <num>(c)</num>
         <text>Possession of a controlled substance is a Class A offense. The Court may order habitual offenders to be committed for inpatient treatment for substance abuse with any available substance abuse treatment program. Nothing in <cite path="§4.04.640">this section</cite> shall be construed as including or applying to peyote or other natural occurring herbs used or possessed for religious purposes by a member of a Native American Church or by any Native American in the practice of his or her religion.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.640 was formerly codified as 4-4-37</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.640 was formerly codified as 4-4-37</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.650</num>
@@ -2816,7 +3070,9 @@
         <num>(b)</num>
         <text>Possession of alcoholic beverage by a person under 21 years of age is a Class B offense. The Court, may order habitual offenders to be committed for in-patient treatment for alcohol abuse.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.650 was formerly codified as 4-4-35</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.650 was formerly codified as 4-4-35</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.660</num>
@@ -2837,7 +3093,9 @@
         <num>(d)</num>
         <text>Possession of Marijuana is a Class B offense. The Court may order habitual offenders to be committed for inpatient treatment for substance abuse with any available substance abuse treatment program.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.660 was formerly codified as 4-4-36</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.660 was formerly codified as 4-4-36</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.670</num>
@@ -2850,7 +3108,9 @@
         <num>(b)</num>
         <text>Prostitution is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.670 was formerly codified as 4-4-89</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.670 was formerly codified as 4-4-89</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.680</num>
@@ -2863,7 +3123,9 @@
         <num>(b)</num>
         <text>Public affray is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.680 was formerly codified as 4-4-28</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.680 was formerly codified as 4-4-28</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.690</num>
@@ -2876,7 +3138,9 @@
         <num>(b)</num>
         <text>Public intoxication is a Class B offense. The Court, in its discretion, shall order habitual offenders to be committed for in-patient treatment for alcohol and/or substance abuse with any available alcoholic or drug abuse treatment program.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.690 was formerly codified as 4-4-34</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.690 was formerly codified as 4-4-34</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.700</num>
@@ -2901,7 +3165,9 @@
         <num>(b)</num>
         <text>Receiving stolen property is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.700 was formerly codified as 4-4-65</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.700 was formerly codified as 4-4-65</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.710</num>
@@ -2914,7 +3180,9 @@
         <num>(b)</num>
         <text>Refusal to take an oath or affirmation is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.710 was formerly codified as 4-4-82</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.710 was formerly codified as 4-4-82</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.720</num>
@@ -2927,7 +3195,9 @@
         <num>(b)</num>
         <text>Refusing to aid an officer is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.720 was formerly codified as 4-4-74</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.720 was formerly codified as 4-4-74</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.730</num>
@@ -2956,7 +3226,9 @@
         <num>(b)</num>
         <text>Resisting, evading or obstructing an officer is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.730 was formerly codified as 4-4-73</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.730 was formerly codified as 4-4-73</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.740</num>
@@ -2969,7 +3241,9 @@
         <num>(b)</num>
         <text>Robbery is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.740 was formerly codified as 4-4-56</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.740 was formerly codified as 4-4-56</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.750</num>
@@ -2994,7 +3268,9 @@
         <num>(b)</num>
         <text>Shooting at a dwelling or occupied building, at or from a motor vehicle is a Class A offense. <cite path="§4.04.750">This section</cite> shall not apply to a law enforcement officer discharging a firearm in the lawful performance of his/her duties.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.750 was formerly codified as 4-4-19</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.750 was formerly codified as 4-4-19</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.760</num>
@@ -3023,7 +3299,9 @@
         <num>(b)</num>
         <text>Shoplifting is a Class C offense. The Court may order such offender to pay restitution to the merchant.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.760 was formerly codified as 4-4-59</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.760 was formerly codified as 4-4-59</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.770</num>
@@ -3072,7 +3350,9 @@
         <num>(d)</num>
         <text>In addition to any punishment provided pursuant to the provisions of <cite path="§4.04.770">this section</cite>, the Court shall order a person convicted of stalking to participate in and complete a program of professional counseling at his/her own expense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.770 was formerly codified as 4-4-25</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.770 was formerly codified as 4-4-25</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.780</num>
@@ -3093,7 +3373,9 @@
         <num>(b)</num>
         <text>Tampering with evidence is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.780 was formerly codified as 4-4-44</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.780 was formerly codified as 4-4-44</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.790</num>
@@ -3118,7 +3400,9 @@
         <num>(b)</num>
         <text>Tampering with public records is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.790 was formerly codified as 4-4-45</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.790 was formerly codified as 4-4-45</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.800</num>
@@ -3159,7 +3443,9 @@
         <num>(b)</num>
         <text>Tampering with witnesses is a Class A offense if the actor employs force, deception, threat or offer of a valuable benefit; otherwise, tampering with witnesses is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.800 was formerly codified as 4-4-43</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.800 was formerly codified as 4-4-43</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.810</num>
@@ -3172,7 +3458,9 @@
         <num>(b)</num>
         <text>Terroristic Threats is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.810 was formerly codified as 4-4-2</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.810 was formerly codified as 4-4-2</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.820</num>
@@ -3189,7 +3477,9 @@
         <num>(c)</num>
         <text>Trafficking in a controlled substance is a Class A offense. Nothing in <cite path="§4.04.820">this section</cite> shall be construed as including or applying to peyote or other natural occurring herbs manufactured, distributed, sold, traded, given away, or possessed with intent to distribute for religious purposes by a member of a Native American Church or by any Native American in the practice of his or her religion.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.820 was formerly codified as 4-4-38</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.820 was formerly codified as 4-4-38</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.830</num>
@@ -3202,7 +3492,9 @@
         <num>(b)</num>
         <text>Unauthorized graffiti on personal or real property is a Class B offense. At the discretion of the Court, such offenders may be required to pay restitution for damages to the victim and/or restore the property to its original state.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.830 was formerly codified as 4-4-47</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.830 was formerly codified as 4-4-47</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.840</num>
@@ -3215,7 +3507,9 @@
         <num>(b)</num>
         <text>Unlawful assembly is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.840 was formerly codified as 4-4-30</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.840 was formerly codified as 4-4-30</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.850</num>
@@ -3228,7 +3522,9 @@
         <num>(b)</num>
         <text>Unlawful bomb scare is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.850 was formerly codified as 4-4-33</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.850 was formerly codified as 4-4-33</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.860</num>
@@ -3241,7 +3537,9 @@
         <num>(b)</num>
         <text>Unlawful carrying of a deadly weapon is a Class B offense. Any person authorized by the Pueblo, State, or Federal Governments to carry a firearm shall be exempt from <cite path="§4.04.860">this section</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.860 was formerly codified as 4-4-68</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.860 was formerly codified as 4-4-68</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.870</num>
@@ -3254,7 +3552,9 @@
         <num>(b)</num>
         <text>Unlawful carrying of a firearm in a licensed liquor establishment is a Class B offense. Exempt from <cite path="§4.04.870">this section</cite> are law enforcement officers in the lawful discharge of their duties; the owner or operator of the license premises or their agents, including privately employed security personnel during the performance of their duties; or by a person on the area of licensed premises, primarily utilized for vehicular traffic or parking.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.870 was formerly codified as 4-4-69</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.870 was formerly codified as 4-4-69</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.880</num>
@@ -3267,7 +3567,9 @@
         <num>(b)</num>
         <text>Unlawful possession of switchblades is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.880 was formerly codified as 4-4-71</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.880 was formerly codified as 4-4-71</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.890</num>
@@ -3308,7 +3610,9 @@
         <num>(b)</num>
         <text>Unlawful use of a telephone is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.890 was formerly codified as 4-4-31</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.890 was formerly codified as 4-4-31</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.900</num>
@@ -3321,7 +3625,9 @@
         <num>(b)</num>
         <text>Unlawfully permitting livestock upon public highways is a Class C offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.900 was formerly codified as 4-4-53</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.900 was formerly codified as 4-4-53</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.910</num>
@@ -3346,7 +3652,9 @@
         <num>(e)</num>
         <text>Vehicular homicide is a Class A offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.910 was formerly codified as 4-4-4</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.910 was formerly codified as 4-4-4</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.920</num>
@@ -3403,7 +3711,9 @@
         <num>(d)</num>
         <text>Weapons offense is a Class B offense.</text>
       </para>
-      <annotation type="Prior Codifications">§4.04.920 was formerly codified as 4-4-66</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§4.04.920 was formerly codified as 4-4-66</annotation>
+      </annotations>
     </section>
   </container>
 </container>
