@@ -17,7 +17,7 @@
         <repository name="picurispueblo/law-xml" commit="4d8b7fe0367242a83fce76f1779c9e4780a1bf47"/>
       </repositories>
       <platform version="2.16.0" reproducible="false"/>
-      <build-date>2025-02-13</build-date>
+      <build-date>2025-02-21</build-date>
       <codified-date>2019-03-01</codified-date>
     </build>
   </meta>
